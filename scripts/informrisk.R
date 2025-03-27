@@ -15,7 +15,7 @@ thisMonth <- format(Sys.Date(), "%m")
 
 # download file
 tmp_file <- tempfile(fileext = ".xlsx")
-dataURL <- paste0("https://drmkc.jrc.ec.europa.eu/inform-index/Portals/0/InfoRM/2025/INFORM_Risk_", thisYear, "_v069.xlsx")
+dataURL <- paste0("https://drmkc.jrc.ec.europa.eu/inform-index/Portals/0/InfoRM/", thisYear, "/INFORM_Risk_", thisYear, "_v069.xlsx")
 download.file(dataURL, destfile=tmp_file, mode='wb')
 
 # check tabs
