@@ -6,7 +6,7 @@
 #' Necessary packages: utils, dplyr, tidyr
 #' 
 #' Data source: https://www.fao.org/faostat/en/#data/GT
-#' Output format: ISO3, Item, Year, tCO2eq_N2O, tCO2eq_total, tCO2eq_CH4, tCO2eq_Fgases, Group, charted
+#' Output format: ISO3, Area, Item, Year, tCO2eq_N2O, tCO2eq_total, tCO2eq_CH4, tCO2eq_Fgases, Group, charted
 #' @source: \url{https://github.com/rajaoberison/publicdata}
 library(dplyr)
 
@@ -45,11 +45,11 @@ tmp_agg <- tmp_long %>% filter(Item %in% c(FAO_agrifood, FAO_agg, IPCC_agg, non_
 tmp_grouped <- tmp_agg %>% mutate(Group = case_when(Item %in% FAO_agrifood ~ "Agrifood systems", Item %in% FAO_agg ~ "FAO aggregates", Item %in% IPCC_agg ~ "FAO aggregates", T ~ "Not agri-food")) %>% mutate(charted = case_when(Item %in% c("IPCC Agriculture", "LULUCF", non_agrifood) ~ "yes", T ~ "no"))
 
 # get iso3 code
-cty_code <- read.csv("../country_codes.csv")
-iso3 <- cty_code %>% mutate(m49cd = paste0("'", sprintf("%03d", M49))) %>% select(m49cd, ISO3)
+cty_code <- read.csv("../country_codes.csv", check.names = F)
+iso3 <- cty_code %>% mutate(m49cd = paste0("'", sprintf("%03d", `M49 Code`))) %>% rename(ISO3 = `ISO-alpha3 Code`, Area = `Country or Area`) %>% select(m49cd, ISO3, Area)
 
 # final data
-out_data <- tmp_grouped %>% left_join(iso3, by = c("Area Code (M49)" = "m49cd")) %>% relocate(ISO3) %>% select(-`Area Code (M49)`) %>% select(ISO3, Item, Group, charted, Year, tCO2eq_total, tCO2eq_N2O, tCO2eq_CH4, tCO2eq_Fgases)
+out_data <- tmp_grouped %>% left_join(iso3, by = c("Area Code (M49)" = "m49cd")) %>% relocate(ISO3) %>% select(-`Area Code (M49)`) %>% select(ISO3, Area, Item, Group, charted, Year, tCO2eq_total, tCO2eq_N2O, tCO2eq_CH4, tCO2eq_Fgases)
 # saving as csv
 readr::write_excel_csv(out_data, paste0("../data/", "faostatghg_", thisYear, thisMonth, ".csv"))
 readr::write_excel_csv(out_data %>% filter(charted == "yes"), paste0("../data/", "faostatghg_chart_", thisYear, thisMonth, ".csv"))
