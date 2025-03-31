@@ -3,7 +3,7 @@
 #' Last updated: March 27, 2025
 #' Contributors: ...
 #' 
-#' Necessary packages: readxl, dplyr
+#' Necessary packages: readxl, dplyr, readr
 #' 
 #' Data source: https://drmkc.jrc.ec.europa.eu/inform-index/INFORM-Risk
 #' Output format: ISO3, INFORM RISK, RISK CLASS, Rank, HAZARD & EXPOSURE, VULNERABILITY, LACK OF COPING CAPACITY

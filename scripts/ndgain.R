@@ -3,7 +3,7 @@
 #' Last updated: March 27, 2025
 #' Contributors: ...
 #' 
-#' Necessary packages: utils, dplyr
+#' Necessary packages: utils, dplyr, readr
 #' 
 #' Data source: https://gain.nd.edu/our-work/country-index/download-data/
 #' Output format: ISO3, index, rank, vulnerability, readiness

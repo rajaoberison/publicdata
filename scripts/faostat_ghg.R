@@ -3,7 +3,7 @@
 #' Last updated: March 31, 2025
 #' Contributors: ...
 #' 
-#' Necessary packages: utils, dplyr, tidyr
+#' Necessary packages: utils, dplyr, tidyr, readr
 #' 
 #' Data source: https://www.fao.org/faostat/en/#data/GT
 #' Output format: ISO3, Area, Item, Year, tCO2eq_N2O, tCO2eq_total, tCO2eq_CH4, tCO2eq_Fgases, Group, charted
