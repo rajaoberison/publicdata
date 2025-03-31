@@ -6,7 +6,7 @@
 #' Necessary packages: utils, dplyr
 #' 
 #' Data source: https://gain.nd.edu/our-work/country-index/download-data/
-#' Output format: ISO3, INFORM RISK, RISK CLASS, Rank, HAZARD & EXPOSURE, VULNERABILITY, LACK OF COPING CAPACITY
+#' Output format: ISO3, index, rank, vulnerability, readiness
 #' @source: \url{https://github.com/rajaoberison/publicdata}
 library(dplyr)
 
