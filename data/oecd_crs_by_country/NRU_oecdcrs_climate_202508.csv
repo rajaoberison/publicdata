@@ -1,323 +1,76 @@
 ﻿"de_recipientcode","donor_name","flow_name","sector_group","year","usd_disbursement","usd_disbursement_defl"
 "NRU","Adaptation Fund","ODA Grants","Agriculture, Forestry, Fishing",2023,0.838,0.838
-"NRU","Asian Development Bank","ODA Grants","Banking & Financial Services",2016,0,0
-"NRU","Asian Development Bank","ODA Grants","Banking & Financial Services",2017,0.031729,0.036164
-"NRU","Asian Development Bank","ODA Grants","Banking & Financial Services",2018,0.01129,0.01235
-"NRU","Asian Development Bank","ODA Grants","Banking & Financial Services",2019,0.004155,0.004621
-"NRU","Asian Development Bank","ODA Grants","Banking & Financial Services",2020,0.041356,0.044636
-"NRU","Asian Development Bank","ODA Grants","Banking & Financial Services",2021,0.017352,0.017652
-"NRU","Asian Development Bank","ODA Grants","Business & Other Services",2020,2.5,2.698293
-"NRU","Asian Development Bank","ODA Grants","Communications",2018,0,0
-"NRU","Asian Development Bank","ODA Grants","Communications",2021,0.05724,0.058233
-"NRU","Asian Development Bank","ODA Grants","Communications",2022,0.01408,0.014757
-"NRU","Asian Development Bank","ODA Grants","Energy",2014,0.259601,0.270222
-"NRU","Asian Development Bank","ODA Grants","Energy",2015,0.37021,0.42646
-"NRU","Asian Development Bank","ODA Grants","Energy",2016,1.077354,1.253786
-"NRU","Asian Development Bank","ODA Grants","Energy",2017,0.58236,0.663754
-"NRU","Asian Development Bank","ODA Grants","Energy",2018,0.4788,0.523759
-"NRU","Asian Development Bank","ODA Grants","Energy",2019,0,0
-"NRU","Asian Development Bank","ODA Grants","Energy",2021,3.299561,3.356787
-"NRU","Asian Development Bank","ODA Grants","Energy",2022,5.630989,5.901664
-"NRU","Asian Development Bank","ODA Grants","Government & Civil Society",2012,2,2.109862
-"NRU","Asian Development Bank","ODA Grants","Government & Civil Society",2014,2,2.081827
-"NRU","Asian Development Bank","ODA Grants","Government & Civil Society",2016,2,2.327528
-"NRU","Asian Development Bank","ODA Grants","Government & Civil Society",2020,2.5,2.698293
-"NRU","Asian Development Bank","ODA Grants","Government & Civil Society",2023,0,0
-"NRU","Asian Development Bank","ODA Grants","Other Multisector",2021,0,0
-"NRU","Asian Development Bank","ODA Grants","Other Multisector",2022,0.108438,0.113651
-"NRU","Asian Development Bank","ODA Grants","Other Social Infrastructure & Services",2023,0,0
-"NRU","Asian Development Bank","ODA Grants","Population Policies/Programmes",2020,0.5449999999999999,0.588228
-"NRU","Asian Development Bank","ODA Grants","Tourism",2015,0,0
-"NRU","Asian Development Bank","ODA Grants","Tourism",2016,0.376621,0.438298
-"NRU","Asian Development Bank","ODA Grants","Tourism",2019,0.186356,0.207269
-"NRU","Asian Development Bank","ODA Grants","Tourism",2020,0.187073,0.201911
-"NRU","Asian Development Bank","ODA Grants","Tourism",2021,0.002422,0.002464
 "NRU","Asian Development Bank","ODA Grants","Trade Policies & Regulations",2017,0.167558,0.190977
 "NRU","Asian Development Bank","ODA Grants","Trade Policies & Regulations",2018,0.295974,0.323766
-"NRU","Asian Development Bank","ODA Grants","Transport & Storage",2015,0,0
-"NRU","Asian Development Bank","ODA Grants","Transport & Storage",2016,0.376621,0.438298
-"NRU","Asian Development Bank","ODA Grants","Transport & Storage",2017,0.952342,1.085447
-"NRU","Asian Development Bank","ODA Grants","Transport & Storage",2018,2.228626,2.437893
-"NRU","Asian Development Bank","ODA Grants","Transport & Storage",2019,4.964474,5.521584000000001
-"NRU","Asian Development Bank","ODA Grants","Transport & Storage",2020,2.6338980000000003,2.842812
-"NRU","Asian Development Bank","ODA Grants","Transport & Storage",2021,2.7811299999999997,2.8293649999999997
-"NRU","Asian Development Bank","ODA Grants","Transport & Storage",2022,4.4067620000000005,4.6185909999999994
-"NRU","Asian Development Bank","ODA Grants","Transport & Storage",2023,0.498386,0.498386
-"NRU","Asian Development Bank","ODA Grants","Water Supply & Sanitation",2013,0.034,0.035391
-"NRU","Asian Development Bank","ODA Grants","Water Supply & Sanitation",2021,0,0
-"NRU","Asian Development Bank","ODA Grants","Water Supply & Sanitation",2022,0.462289,0.484511
-"NRU","Asian Development Bank","Other Official Flows (non Export Credit)","Banking & Financial Services",2010,0,0
-"NRU","Asian Development Bank","Other Official Flows (non Export Credit)","Banking & Financial Services",2011,0,0
-"NRU","Asian Development Bank","Other Official Flows (non Export Credit)","Government & Civil Society",1999,0,0
-"NRU","Asian Development Bank","Other Official Flows (non Export Credit)","Unallocated / Unspecified",2012,0,0
-"NRU","Asian Development Bank","Other Official Flows (non Export Credit)","Unallocated / Unspecified",2013,0,0
-"NRU","Asian Development Bank","Other Official Flows (non Export Credit)","Unallocated / Unspecified",2014,0,0
-"NRU","Australia","ODA Grants","Administrative Costs of Donors",2005,0.235375,0.351988
-"NRU","Australia","ODA Grants","Agriculture, Forestry, Fishing",2004,0,0
-"NRU","Australia","ODA Grants","Agriculture, Forestry, Fishing",2005,0.015997,0.023921
-"NRU","Australia","ODA Grants","Agriculture, Forestry, Fishing",2006,0.010779,0.015532
-"NRU","Australia","ODA Grants","Agriculture, Forestry, Fishing",2009,0.27694900000000006,0.34529400000000005
-"NRU","Australia","ODA Grants","Agriculture, Forestry, Fishing",2010,0.376776,0.37937
+"NRU","Asian Development Bank","ODA Grants","Transport & Storage",2017,0.311179,0.354671
+"NRU","Asian Development Bank","ODA Grants","Transport & Storage",2018,2.131226,2.331347
+"NRU","Australia","ODA Grants","Agriculture, Forestry, Fishing",2009,0.003551,0.004427
+"NRU","Australia","ODA Grants","Agriculture, Forestry, Fishing",2010,4.7e-5,4.7e-5
 "NRU","Australia","ODA Grants","Agriculture, Forestry, Fishing",2011,0.403839,0.345187
-"NRU","Australia","ODA Grants","Agriculture, Forestry, Fishing",2012,0.352064,0.30204600000000004
-"NRU","Australia","ODA Grants","Agriculture, Forestry, Fishing",2013,1.515716,1.377247
-"NRU","Australia","ODA Grants","Agriculture, Forestry, Fishing",2014,0.646958,0.627448
-"NRU","Australia","ODA Grants","Agriculture, Forestry, Fishing",2015,0.266586,0.312406
+"NRU","Australia","ODA Grants","Agriculture, Forestry, Fishing",2012,0.164797,0.141385
+"NRU","Australia","ODA Grants","Agriculture, Forestry, Fishing",2013,1.3334780000000002,1.211657
+"NRU","Australia","ODA Grants","Agriculture, Forestry, Fishing",2014,0.372145,0.36092199999999997
+"NRU","Australia","ODA Grants","Agriculture, Forestry, Fishing",2015,0.190585,0.22334199999999998
 "NRU","Australia","ODA Grants","Agriculture, Forestry, Fishing",2016,0.092983,0.109145
 "NRU","Australia","ODA Grants","Agriculture, Forestry, Fishing",2017,0.13410999999999998,0.147475
 "NRU","Australia","ODA Grants","Agriculture, Forestry, Fishing",2019,0.597982,0.685554
 "NRU","Australia","ODA Grants","Agriculture, Forestry, Fishing",2020,0.32696000000000003,0.373998
-"NRU","Australia","ODA Grants","Agriculture, Forestry, Fishing",2021,0.746043,0.739731
-"NRU","Australia","ODA Grants","Agriculture, Forestry, Fishing",2022,0.295968,0.293635
-"NRU","Australia","ODA Grants","Agriculture, Forestry, Fishing",2023,0.002252,0.002252
-"NRU","Australia","ODA Grants","Banking & Financial Services",2005,0.012949,0.019365
-"NRU","Australia","ODA Grants","Banking & Financial Services",2010,8e-5,8.1e-5
-"NRU","Australia","ODA Grants","Banking & Financial Services",2012,0.369713,0.317187
-"NRU","Australia","ODA Grants","Banking & Financial Services",2016,0.006407,0.007521
-"NRU","Australia","ODA Grants","Banking & Financial Services",2017,0.006606,0.007264
-"NRU","Australia","ODA Grants","Business & Other Services",2013,0.219222,0.199195
-"NRU","Australia","ODA Grants","Business & Other Services",2015,0.001878,0.002201
-"NRU","Australia","ODA Grants","Business & Other Services",2018,0.010044999999999998,0.011075
-"NRU","Australia","ODA Grants","Business & Other Services",2019,0.004965,0.005692
-"NRU","Australia","ODA Grants","Business & Other Services",2020,0.211902,0.24239
-"NRU","Australia","ODA Grants","Business & Other Services",2021,0.015021,0.014894
-"NRU","Australia","ODA Grants","Business & Other Services",2023,0.001653,0.001653
-"NRU","Australia","ODA Grants","Communications",2005,0,0
-"NRU","Australia","ODA Grants","Communications",2009,0.021146,0.026363
-"NRU","Australia","ODA Grants","Communications",2017,0.010821,0.011899
-"NRU","Australia","ODA Grants","Communications",2018,0.007301,0.00805
-"NRU","Australia","ODA Grants","Communications",2022,0.581179,0.576596
+"NRU","Australia","ODA Grants","Agriculture, Forestry, Fishing",2021,0.745671,0.739363
+"NRU","Australia","ODA Grants","Agriculture, Forestry, Fishing",2022,0.295094,0.292767
 "NRU","Australia","ODA Grants","Communications",2023,3.565546,3.565546
-"NRU","Australia","ODA Grants","Education",1993,0,0
-"NRU","Australia","ODA Grants","Education",1996,0,0
-"NRU","Australia","ODA Grants","Education",1997,0,0
-"NRU","Australia","ODA Grants","Education",1998,0.102368,0.23297
-"NRU","Australia","ODA Grants","Education",1999,0.06711,0.146818
-"NRU","Australia","ODA Grants","Education",2000,0.049233,0.115138
-"NRU","Australia","ODA Grants","Education",2001,0.141572,0.3587
-"NRU","Australia","ODA Grants","Education",2004,0,0
-"NRU","Australia","ODA Grants","Education",2005,0.122638,0.183399
-"NRU","Australia","ODA Grants","Education",2006,0.42966299999999996,0.619112
-"NRU","Australia","ODA Grants","Education",2007,0.915508,1.1368390000000002
-"NRU","Australia","ODA Grants","Education",2008,0.5985400000000001,0.708531
-"NRU","Australia","ODA Grants","Education",2009,1.311805,1.635533
-"NRU","Australia","ODA Grants","Education",2010,1.675368,1.6869
-"NRU","Australia","ODA Grants","Education",2011,3.428757,2.930777
-"NRU","Australia","ODA Grants","Education",2012,3.8016590000000003,3.261545
-"NRU","Australia","ODA Grants","Education",2013,3.772878,3.4282019999999997
-"NRU","Australia","ODA Grants","Education",2014,2.921582,2.833469
-"NRU","Australia","ODA Grants","Education",2015,3.7058690000000003,4.342819
-"NRU","Australia","ODA Grants","Education",2016,2.452754,2.879091
-"NRU","Australia","ODA Grants","Education",2017,1.8760729999999999,2.063033
-"NRU","Australia","ODA Grants","Education",2018,2.0024230000000003,2.20789
-"NRU","Australia","ODA Grants","Education",2019,2.290857,2.626344
-"NRU","Australia","ODA Grants","Education",2020,1.009653,1.1549189999999998
-"NRU","Australia","ODA Grants","Education",2021,0.700536,0.694609
-"NRU","Australia","ODA Grants","Education",2022,3.5862810000000005,3.557998
-"NRU","Australia","ODA Grants","Education",2023,1.9627109999999999,1.9627109999999999
-"NRU","Australia","ODA Grants","Emergency Response",2007,0.266337,0.330726
-"NRU","Australia","ODA Grants","Emergency Response",2020,0.050297,0.057534
-"NRU","Australia","ODA Grants","Emergency Response",2021,3e-5,3e-5
-"NRU","Australia","ODA Grants","Emergency Response",2022,1.891267,1.87635
-"NRU","Australia","ODA Grants","Emergency Response",2023,0.036521,0.036521
-"NRU","Australia","ODA Grants","Energy",2005,1.673522,2.502647
-"NRU","Australia","ODA Grants","Energy",2006,6.239412,8.990526
-"NRU","Australia","ODA Grants","Energy",2007,6.774377,8.412123
-"NRU","Australia","ODA Grants","Energy",2008,9.811075,11.614006999999999
-"NRU","Australia","ODA Grants","Energy",2009,4.456768,5.55661
-"NRU","Australia","ODA Grants","Energy",2010,0,0
-"NRU","Australia","ODA Grants","Energy",2012,5.751669,4.934512
-"NRU","Australia","ODA Grants","Energy",2013,1.936485,1.759575
-"NRU","Australia","ODA Grants","Energy",2015,4.808776,5.63529
-"NRU","Australia","ODA Grants","Energy",2017,0.007616,0.008374
+"NRU","Australia","ODA Grants","Education",2020,7e-4,7.999999999999999e-4
+"NRU","Australia","ODA Grants","Education",2022,0.402528,0.399355
+"NRU","Australia","ODA Grants","Education",2023,0.093119,0.093119
 "NRU","Australia","ODA Grants","Energy",2021,0.32409,0.321348
 "NRU","Australia","ODA Grants","Energy",2022,0.001151,0.001142
-"NRU","Australia","ODA Grants","General Budget Support",1994,0,0
-"NRU","Australia","ODA Grants","General Budget Support",2010,0.329184,0.33145
-"NRU","Australia","ODA Grants","General Budget Support",2021,3.18297,3.156037
-"NRU","Australia","ODA Grants","General Budget Support",2022,5.3830409999999995,5.340584000000001
-"NRU","Australia","ODA Grants","General Budget Support",2023,1.6109850000000001,1.6109850000000001
-"NRU","Australia","ODA Grants","General Environment Protection",1999,1.920372,4.201265
-"NRU","Australia","ODA Grants","General Environment Protection",2001,1.947401,4.934092
-"NRU","Australia","ODA Grants","General Environment Protection",2002,1.155705,2.704838
-"NRU","Australia","ODA Grants","General Environment Protection",2003,2.289322,4.359282
-"NRU","Australia","ODA Grants","General Environment Protection",2006,1.579291,2.27564
-"NRU","Australia","ODA Grants","General Environment Protection",2007,4.019688,4.991471
-"NRU","Australia","ODA Grants","General Environment Protection",2008,3.990694,4.724044
-"NRU","Australia","ODA Grants","General Environment Protection",2009,0.008353,0.010415
+"NRU","Australia","ODA Grants","General Budget Support",2021,1.272337,1.261571
+"NRU","Australia","ODA Grants","General Budget Support",2022,0.46412800000000004,0.460467
+"NRU","Australia","ODA Grants","General Environment Protection",2009,0.010045,0.012525
 "NRU","Australia","ODA Grants","General Environment Protection",2011,0.143194,0.122396
 "NRU","Australia","ODA Grants","General Environment Protection",2012,1.4127910000000001,1.2120710000000001
-"NRU","Australia","ODA Grants","General Environment Protection",2013,0.328843,0.298801
+"NRU","Australia","ODA Grants","General Environment Protection",2013,0.32590399999999997,0.29613
 "NRU","Australia","ODA Grants","General Environment Protection",2014,0.005853,0.005677
 "NRU","Australia","ODA Grants","General Environment Protection",2015,0.136058,0.159443
 "NRU","Australia","ODA Grants","General Environment Protection",2017,0.013189,0.014503
-"NRU","Australia","ODA Grants","General Environment Protection",2018,0.234236,0.25827
-"NRU","Australia","ODA Grants","General Environment Protection",2019,0.6126259999999999,0.7023429999999999
-"NRU","Australia","ODA Grants","General Environment Protection",2020,0.485489,0.55534
+"NRU","Australia","ODA Grants","General Environment Protection",2018,0.024011,0.026474
+"NRU","Australia","ODA Grants","General Environment Protection",2019,0.51333,0.588505
+"NRU","Australia","ODA Grants","General Environment Protection",2020,0.38672300000000004,0.442364
 "NRU","Australia","ODA Grants","General Environment Protection",2021,0.818977,0.8120459999999999
 "NRU","Australia","ODA Grants","General Environment Protection",2022,0.12889,0.127873
-"NRU","Australia","ODA Grants","Government & Civil Society",2002,0.004888,0.01144
-"NRU","Australia","ODA Grants","Government & Civil Society",2003,0.0053,0.010092
-"NRU","Australia","ODA Grants","Government & Civil Society",2004,0.014516,0.023515
-"NRU","Australia","ODA Grants","Government & Civil Society",2005,0.118831,0.17770200000000003
-"NRU","Australia","ODA Grants","Government & Civil Society",2006,5.177599,7.460537
-"NRU","Australia","ODA Grants","Government & Civil Society",2007,4.960034,6.159151
-"NRU","Australia","ODA Grants","Government & Civil Society",2008,6.9135230000000005,8.183991
-"NRU","Australia","ODA Grants","Government & Civil Society",2009,5.1659619999999995,6.4408199999999995
-"NRU","Australia","ODA Grants","Government & Civil Society",2010,13.108539,13.198767
-"NRU","Australia","ODA Grants","Government & Civil Society",2011,18.469178,15.786786
-"NRU","Australia","ODA Grants","Government & Civil Society",2012,5.1348080000000005,4.40529
-"NRU","Australia","ODA Grants","Government & Civil Society",2013,4.294031,3.901744
-"NRU","Australia","ODA Grants","Government & Civil Society",2014,5.178490999999999,5.022315
-"NRU","Australia","ODA Grants","Government & Civil Society",2015,3.4378319999999998,4.028713
-"NRU","Australia","ODA Grants","Government & Civil Society",2016,4.465524,5.241719000000001
-"NRU","Australia","ODA Grants","Government & Civil Society",2017,4.421504,4.862131
-"NRU","Australia","ODA Grants","Government & Civil Society",2018,3.764419,4.150685
-"NRU","Australia","ODA Grants","Government & Civil Society",2019,2.870047,3.290358
-"NRU","Australia","ODA Grants","Government & Civil Society",2020,4.2852179999999995,4.901758
-"NRU","Australia","ODA Grants","Government & Civil Society",2021,5.378734,5.333223
-"NRU","Australia","ODA Grants","Government & Civil Society",2022,1.2217859999999998,1.212148
-"NRU","Australia","ODA Grants","Government & Civil Society",2023,1.8476190000000001,1.8476190000000001
-"NRU","Australia","ODA Grants","Health",2005,0.198812,0.29730999999999996
-"NRU","Australia","ODA Grants","Health",2006,1.685674,2.4289319999999996
-"NRU","Australia","ODA Grants","Health",2007,3.8742729999999996,4.8109
-"NRU","Australia","ODA Grants","Health",2008,2.611172,3.091014
-"NRU","Australia","ODA Grants","Health",2009,2.122983,2.646895
-"NRU","Australia","ODA Grants","Health",2010,2.429707,2.446431
-"NRU","Australia","ODA Grants","Health",2011,4.298758,3.6744220000000003
-"NRU","Australia","ODA Grants","Health",2012,3.281883,2.815617
-"NRU","Australia","ODA Grants","Health",2013,1.2468730000000001,1.132964
-"NRU","Australia","ODA Grants","Health",2014,3.748684,3.6356279999999996
-"NRU","Australia","ODA Grants","Health",2015,7.760794000000001,9.094688
-"NRU","Australia","ODA Grants","Health",2016,2.921297,3.4290749999999997
-"NRU","Australia","ODA Grants","Health",2017,1.2104460000000001,1.331072
-"NRU","Australia","ODA Grants","Health",2018,1.082514,1.19359
-"NRU","Australia","ODA Grants","Health",2019,1.611174,1.8471259999999998
-"NRU","Australia","ODA Grants","Health",2020,1.136693,1.300233
-"NRU","Australia","ODA Grants","Health",2021,2.053667,2.036292
-"NRU","Australia","ODA Grants","Health",2022,2.946395,2.923154
-"NRU","Australia","ODA Grants","Health",2023,4.382249,4.382249
-"NRU","Australia","ODA Grants","Industry, Mining, Construction",2009,0.074876,0.093354
-"NRU","Australia","ODA Grants","Industry, Mining, Construction",2010,0,0
-"NRU","Australia","ODA Grants","Industry, Mining, Construction",2017,1.626282,1.788349
-"NRU","Australia","ODA Grants","Industry, Mining, Construction",2018,7.497514,8.266831
+"NRU","Australia","ODA Grants","Government & Civil Society",2015,0.045819,0.053693
+"NRU","Australia","ODA Grants","Government & Civil Society",2016,0.008444,0.009912
+"NRU","Australia","ODA Grants","Government & Civil Society",2017,0.017404,0.019138
+"NRU","Australia","ODA Grants","Government & Civil Society",2018,0.065125,0.071808
+"NRU","Australia","ODA Grants","Government & Civil Society",2019,0.204459,0.234403
+"NRU","Australia","ODA Grants","Government & Civil Society",2020,0.023540000000000002,0.026927
+"NRU","Australia","ODA Grants","Government & Civil Society",2021,0.174778,0.173299
+"NRU","Australia","ODA Grants","Government & Civil Society",2022,0.198494,0.196928
+"NRU","Australia","ODA Grants","Government & Civil Society",2023,0.487862,0.487862
+"NRU","Australia","ODA Grants","Health",2020,3.52e-4,4.02e-4
+"NRU","Australia","ODA Grants","Health",2022,0.436146,0.432706
+"NRU","Australia","ODA Grants","Health",2023,0.37789,0.37789
 "NRU","Australia","ODA Grants","Industry, Mining, Construction",2019,0.162365,0.186143
 "NRU","Australia","ODA Grants","Industry, Mining, Construction",2020,0.010731,0.012274
-"NRU","Australia","ODA Grants","Other Commodity Assistance",2001,3.780097,9.577558
-"NRU","Australia","ODA Grants","Other Commodity Assistance",2002,9.910932,23.195768
-"NRU","Australia","ODA Grants","Other Commodity Assistance",2003,13.214745,25.163257
-"NRU","Australia","ODA Grants","Other Commodity Assistance",2004,12.680025,20.540613
-"NRU","Australia","ODA Grants","Other Commodity Assistance",2006,0.8913530000000001,1.284373
-"NRU","Australia","ODA Grants","Other Commodity Assistance",2007,0.410113,0.50926
-"NRU","Australia","ODA Grants","Other Commodity Assistance",2008,1.616236,1.913243
-"NRU","Australia","ODA Grants","Other Commodity Assistance",2009,0.5888500000000001,0.7341679999999999
-"NRU","Australia","ODA Grants","Other Commodity Assistance",2010,0.033836,0.034069
 "NRU","Australia","ODA Grants","Other Multisector",2000,0.070084,0.163902
 "NRU","Australia","ODA Grants","Other Multisector",2001,0.010334,0.026182
-"NRU","Australia","ODA Grants","Other Multisector",2002,0.174876,0.40928499999999995
-"NRU","Australia","ODA Grants","Other Multisector",2003,0.220629,0.420118
-"NRU","Australia","ODA Grants","Other Multisector",2004,0.217841,0.352885
-"NRU","Australia","ODA Grants","Other Multisector",2005,0.2727,0.407805
-"NRU","Australia","ODA Grants","Other Multisector",2006,0.36092399999999997,0.520063
-"NRU","Australia","ODA Grants","Other Multisector",2007,0.419513,0.5209320000000001
-"NRU","Australia","ODA Grants","Other Multisector",2008,1.08104,1.279694
-"NRU","Australia","ODA Grants","Other Multisector",2009,3.9808130000000004,4.963202000000001
-"NRU","Australia","ODA Grants","Other Multisector",2010,4.194634,4.22351
-"NRU","Australia","ODA Grants","Other Multisector",2011,5.150617,4.402561
-"NRU","Australia","ODA Grants","Other Multisector",2012,0.736033,0.631461
-"NRU","Australia","ODA Grants","Other Multisector",2013,8.613375000000001,7.8264890000000005
-"NRU","Australia","ODA Grants","Other Multisector",2014,0.930578,0.902513
-"NRU","Australia","ODA Grants","Other Multisector",2015,1.121068,1.313755
-"NRU","Australia","ODA Grants","Other Multisector",2016,0.6290129999999999,0.738347
-"NRU","Australia","ODA Grants","Other Multisector",2017,6.814403,7.493492
-"NRU","Australia","ODA Grants","Other Multisector",2018,4.181736,4.610819
-"NRU","Australia","ODA Grants","Other Multisector",2019,4.021124,4.610005
-"NRU","Australia","ODA Grants","Other Multisector",2020,3.6625859999999997,4.189544
-"NRU","Australia","ODA Grants","Other Multisector",2021,3.726402,3.6948689999999997
-"NRU","Australia","ODA Grants","Other Multisector",2022,3.289508,3.2635680000000002
-"NRU","Australia","ODA Grants","Other Multisector",2023,6.651343,6.651343
-"NRU","Australia","ODA Grants","Other Social Infrastructure & Services",2005,3.775898,5.646617
-"NRU","Australia","ODA Grants","Other Social Infrastructure & Services",2006,0.010971,0.015809
-"NRU","Australia","ODA Grants","Other Social Infrastructure & Services",2009,0.001297,0.001617
-"NRU","Australia","ODA Grants","Other Social Infrastructure & Services",2010,1.115982,1.123664
-"NRU","Australia","ODA Grants","Other Social Infrastructure & Services",2011,1.8838519999999999,1.6102480000000001
-"NRU","Australia","ODA Grants","Other Social Infrastructure & Services",2012,2.276553,1.953116
-"NRU","Australia","ODA Grants","Other Social Infrastructure & Services",2013,2.654249,2.411766
-"NRU","Australia","ODA Grants","Other Social Infrastructure & Services",2014,1.9028180000000001,1.84543
-"NRU","Australia","ODA Grants","Other Social Infrastructure & Services",2015,2.072184,2.4283420000000002
-"NRU","Australia","ODA Grants","Other Social Infrastructure & Services",2016,1.990084,2.3359989999999997
-"NRU","Australia","ODA Grants","Other Social Infrastructure & Services",2017,1.7952299999999999,1.974132
-"NRU","Australia","ODA Grants","Other Social Infrastructure & Services",2018,0.434181,0.47873299999999996
-"NRU","Australia","ODA Grants","Other Social Infrastructure & Services",2019,0.965306,1.106673
-"NRU","Australia","ODA Grants","Other Social Infrastructure & Services",2020,1.250967,1.4309509999999999
-"NRU","Australia","ODA Grants","Other Social Infrastructure & Services",2021,1.3491600000000001,1.337745
-"NRU","Australia","ODA Grants","Other Social Infrastructure & Services",2022,0.461927,0.458284
-"NRU","Australia","ODA Grants","Other Social Infrastructure & Services",2023,0.712848,0.712848
-"NRU","Australia","ODA Grants","Population Policies/Programmes",2005,0.178245,0.26655399999999996
-"NRU","Australia","ODA Grants","Population Policies/Programmes",2015,0.093921,0.110064
-"NRU","Australia","ODA Grants","Population Policies/Programmes",2018,0.003339,0.003682
-"NRU","Australia","ODA Grants","Population Policies/Programmes",2021,0.002591,0.002569
-"NRU","Australia","ODA Grants","Population Policies/Programmes",2023,0.664408,0.664408
-"NRU","Australia","ODA Grants","Trade Policies & Regulations",2004,0,0
-"NRU","Australia","ODA Grants","Trade Policies & Regulations",2005,0.025137,0.037591
-"NRU","Australia","ODA Grants","Trade Policies & Regulations",2009,0.234949,0.29293
-"NRU","Australia","ODA Grants","Trade Policies & Regulations",2010,0.06988799999999999,0.070368
-"NRU","Australia","ODA Grants","Trade Policies & Regulations",2011,0.053223999999999994,0.045494
-"NRU","Australia","ODA Grants","Trade Policies & Regulations",2012,0.183335,0.157288
-"NRU","Australia","ODA Grants","Trade Policies & Regulations",2013,0.19667400000000002,0.178706
-"NRU","Australia","ODA Grants","Trade Policies & Regulations",2014,0.061098,0.059256
-"NRU","Australia","ODA Grants","Trade Policies & Regulations",2015,0.026704,0.031293
-"NRU","Australia","ODA Grants","Trade Policies & Regulations",2017,0.906458,0.996791
-"NRU","Australia","ODA Grants","Trade Policies & Regulations",2018,0.59243,0.653218
-"NRU","Australia","ODA Grants","Trade Policies & Regulations",2019,0.548477,0.628799
-"NRU","Australia","ODA Grants","Trade Policies & Regulations",2020,0.743676,0.850673
-"NRU","Australia","ODA Grants","Trade Policies & Regulations",2021,0.065984,0.065427
+"NRU","Australia","ODA Grants","Other Multisector",2002,0.013034,0.030506
+"NRU","Australia","ODA Grants","Other Multisector",2019,0.7525540000000001,0.862763
+"NRU","Australia","ODA Grants","Other Multisector",2020,0.832429,0.952196
+"NRU","Australia","ODA Grants","Other Multisector",2021,0.8385340000000001,0.831437
+"NRU","Australia","ODA Grants","Other Multisector",2022,0.92724,0.919928
+"NRU","Australia","ODA Grants","Other Multisector",2023,1.415673,1.415673
+"NRU","Australia","ODA Grants","Other Social Infrastructure & Services",2020,2.6000000000000003e-4,0.00029699999999999996
+"NRU","Australia","ODA Grants","Trade Policies & Regulations",2020,8.7e-5,1e-4
+"NRU","Australia","ODA Grants","Trade Policies & Regulations",2021,0.035798,0.035495
 "NRU","Australia","ODA Grants","Trade Policies & Regulations",2022,0.040509,0.040189
 "NRU","Australia","ODA Grants","Trade Policies & Regulations",2023,0.089287,0.089287
-"NRU","Australia","ODA Grants","Transport & Storage",2005,0,0
-"NRU","Australia","ODA Grants","Transport & Storage",2017,2.529284,2.78134
-"NRU","Australia","ODA Grants","Transport & Storage",2018,3.482204,3.839511
 "NRU","Australia","ODA Grants","Transport & Storage",2019,4.153847,4.762164
 "NRU","Australia","ODA Grants","Transport & Storage",2020,0.274525,0.314023
-"NRU","Australia","ODA Grants","Transport & Storage",2021,2.093905,2.076188
-"NRU","Australia","ODA Grants","Transport & Storage",2022,0.17871399999999998,0.177305
-"NRU","Australia","ODA Grants","Transport & Storage",2023,0.241089,0.241089
-"NRU","Australia","ODA Grants","Unallocated / Unspecified",2001,1.144466,2.899712
-"NRU","Australia","ODA Grants","Unallocated / Unspecified",2002,0.122739,0.287262
-"NRU","Australia","ODA Grants","Unallocated / Unspecified",2003,0.030067,0.057255999999999994
-"NRU","Australia","ODA Grants","Unallocated / Unspecified",2004,0.385616,0.624667
-"NRU","Australia","ODA Grants","Unallocated / Unspecified",2005,0.627667,0.938633
-"NRU","Australia","ODA Grants","Unallocated / Unspecified",2006,0.188267,0.271279
-"NRU","Australia","ODA Grants","Unallocated / Unspecified",2022,0.294232,0.29191100000000003
-"NRU","Australia","ODA Grants","Unallocated / Unspecified",2023,0.253021,0.253021
-"NRU","Australia","ODA Grants","Water Supply & Sanitation",2005,0,0
-"NRU","Australia","ODA Grants","Water Supply & Sanitation",2008,0.13706,0.162247
-"NRU","Australia","ODA Grants","Water Supply & Sanitation",2009,0.06657700000000001,0.083008
-"NRU","Australia","ODA Grants","Water Supply & Sanitation",2016,1.691035,1.98497
-"NRU","Australia","ODA Grants","Water Supply & Sanitation",2021,0.01235,0.012244999999999999
+"NRU","Australia","ODA Grants","Transport & Storage",2021,0.846958,0.839792
+"NRU","Australia","ODA Grants","Transport & Storage",2022,0.153822,0.152609
+"NRU","Australia","ODA Grants","Transport & Storage",2023,0.079454,0.079454
+"NRU","Australia","ODA Grants","Water Supply & Sanitation",2021,0.011265,0.01117
 "NRU","Australia","ODA Grants","Water Supply & Sanitation",2022,0.06735000000000001,0.066819
-"NRU","Australia","Other Official Flows (non Export Credit)","Administrative Costs of Donors",2006,0.434359,0.625881
-"NRU","Australia","Other Official Flows (non Export Credit)","Government & Civil Society",2007,0.458925,0.569872
-"NRU","Australia","Other Official Flows (non Export Credit)","Other Multisector",2006,0.254493,0.366706
-"NRU","Australia","Other Official Flows (non Export Credit)","Other Multisector",2009,0.367675,0.458409
-"NRU","Australia","Other Official Flows (non Export Credit)","Other Multisector",2010,0.522634,0.526231
-"NRU","Australia","Other Official Flows (non Export Credit)","Other Social Infrastructure & Services",2018,0.373923,0.412292
-"NRU","Australia","Other Official Flows (non Export Credit)","Unallocated / Unspecified",2008,0.206001,0.243857
-"NRU","Australia","Other Official Flows (non Export Credit)","Unallocated / Unspecified",2012,0.553239,0.474638
-"NRU","Canada","ODA Grants","Education",2021,0,0
-"NRU","Canada","ODA Grants","Government & Civil Society",2009,0.031867,0.03777
-"NRU","Canada","ODA Grants","Other Multisector",2009,0.01021,0.012102
-"NRU","Canada","ODA Grants","Other Multisector",2017,0.010121,0.011955
-"NRU","Canada","ODA Grants","Other Multisector",2018,0,0
-"NRU","Canada","ODA Grants","Other Multisector",2019,0.072802,0.085162
-"NRU","Canada","ODA Grants","Other Multisector",2020,0.094184,0.11017500000000001
-"NRU","Canada","ODA Grants","Other Multisector",2021,0.10388700000000001,0.105493
-"NRU","Canada","ODA Grants","Other Multisector",2022,0.077844,0.076251
-"NRU","Canada","ODA Grants","Other Multisector",2023,0.066212,0.066212
-"NRU","Chinese Taipei","ODA Grants","Agriculture, Forestry, Fishing",2023,1.140221,1.140221
-"NRU","Denmark","Private Development Finance","Unallocated / Unspecified",2017,0.011209,0.012099
-"NRU","Denmark","Private Development Finance","Unallocated / Unspecified",2018,0.064622,0.066313
-"NRU","Denmark","Private Development Finance","Unallocated / Unspecified",2019,0.016588,0.017811
 "NRU","EU Institutions","ODA Grants","Disaster Prevention & Preparedness",2007,0,0
 "NRU","EU Institutions","ODA Grants","Disaster Prevention & Preparedness",2008,0.053896,0.053222
 "NRU","EU Institutions","ODA Grants","Disaster Prevention & Preparedness",2009,0.277197,0.280655
@@ -326,16 +79,13 @@
 "NRU","EU Institutions","ODA Grants","Disaster Prevention & Preparedness",2012,1.36079,1.447231
 "NRU","EU Institutions","ODA Grants","Disaster Prevention & Preparedness",2013,0.294636,0.29966299999999996
 "NRU","EU Institutions","ODA Grants","Disaster Prevention & Preparedness",2015,0.034242999999999996,0.040723999999999996
-"NRU","EU Institutions","ODA Grants","Emergency Response",2011,0.060067,0.059803
-"NRU","EU Institutions","ODA Grants","Emergency Response",2013,0.014339,0.014583
 "NRU","EU Institutions","ODA Grants","Energy",2005,0,0
 "NRU","EU Institutions","ODA Grants","Energy",2006,0.02163,0.025646
 "NRU","EU Institutions","ODA Grants","Energy",2007,0.241579,0.256422
 "NRU","EU Institutions","ODA Grants","Energy",2008,1.462763,1.444464
-"NRU","EU Institutions","ODA Grants","Energy",2009,0.6371479999999999,0.6450980000000001
+"NRU","EU Institutions","ODA Grants","Energy",2009,0.5579099999999999,0.564871
 "NRU","EU Institutions","ODA Grants","Energy",2010,0.194222,0.205263
-"NRU","EU Institutions","ODA Grants","Energy",2012,0.004216,0.004484
-"NRU","EU Institutions","ODA Grants","Energy",2013,0.823168,0.837214
+"NRU","EU Institutions","ODA Grants","Energy",2013,0.82026,0.834257
 "NRU","EU Institutions","ODA Grants","Energy",2014,1.129351,1.138491
 "NRU","EU Institutions","ODA Grants","Energy",2015,0.069806000000000007,0.083017
 "NRU","EU Institutions","ODA Grants","Energy",2016,0.009952,0.011767
@@ -344,263 +94,55 @@
 "NRU","EU Institutions","ODA Grants","Energy",2019,0.646054,0.722923
 "NRU","EU Institutions","ODA Grants","Energy",2020,0.068125,0.073494
 "NRU","EU Institutions","ODA Grants","Energy",2022,0.212441,0.231361
-"NRU","EU Institutions","ODA Grants","Government & Civil Society",2008,0,0
-"NRU","EU Institutions","ODA Grants","Government & Civil Society",2011,0.040788,0.040609
-"NRU","EU Institutions","ODA Grants","Government & Civil Society",2012,0.025079,0.026672
-"NRU","EU Institutions","ODA Grants","Government & Civil Society",2013,0,0
-"NRU","Food and Agriculture Organisation","ODA Grants","Agriculture, Forestry, Fishing",2019,0.034653,0.038541
-"NRU","Food and Agriculture Organisation","ODA Grants","Agriculture, Forestry, Fishing",2020,0.002085,0.00225
-"NRU","Food and Agriculture Organisation","ODA Grants","Agriculture, Forestry, Fishing",2021,0,0
 "NRU","Food and Agriculture Organisation","ODA Grants","Agriculture, Forestry, Fishing",2023,0.031893,0.031893
-"NRU","France","ODA Grants","Education",2000,0,0
-"NRU","France","ODA Grants","Education",2003,0.005638,0.007404
-"NRU","France","ODA Grants","Education",2004,0.006325,0.007433
-"NRU","France","ODA Grants","Education",2009,0,0
-"NRU","France","ODA Grants","Education",2018,0,0
-"NRU","France","ODA Grants","Education",2019,0,0
-"NRU","France","ODA Grants","Emergency Response",1995,0.007313,0.009164
-"NRU","France","ODA Grants","Government & Civil Society",2011,0,0
-"NRU","France","ODA Grants","Other Social Infrastructure & Services",1995,0.032345,0.040528
 "NRU","Germany","ODA Grants","General Environment Protection",2023,0.032439,0.032439
-"NRU","Germany","ODA Grants","Other Social Infrastructure & Services",2023,0.022194,0.022194
 "NRU","Global Environment Facility","ODA Grants","Agriculture, Forestry, Fishing",2019,0,0
 "NRU","Global Environment Facility","ODA Grants","Agriculture, Forestry, Fishing",2023,0,0
-"NRU","Global Environment Facility","ODA Grants","Disaster Prevention & Preparedness",2018,0.008844,0.009675
-"NRU","Global Environment Facility","ODA Grants","General Environment Protection",2004,0.0737,0.093635
-"NRU","Global Environment Facility","ODA Grants","General Environment Protection",2005,0.1197,0.147866
-"NRU","Global Environment Facility","ODA Grants","General Environment Protection",2006,0.1197,0.1432
-"NRU","Global Environment Facility","ODA Grants","General Environment Protection",2007,0.046,0.051238
-"NRU","Global Environment Facility","ODA Grants","General Environment Protection",2009,0,0
 "NRU","Global Environment Facility","ODA Grants","General Environment Protection",2013,0,0
-"NRU","Global Environment Facility","ODA Grants","General Environment Protection",2014,0.613872,0.638987
-"NRU","Global Environment Facility","ODA Grants","General Environment Protection",2015,0.528872,0.609228
 "NRU","Global Environment Facility","ODA Grants","General Environment Protection",2016,0.528872,0.615482
-"NRU","Global Environment Facility","ODA Grants","General Environment Protection",2018,0.641852,0.702121
+"NRU","Global Environment Facility","ODA Grants","General Environment Protection",2018,0,0
 "NRU","Global Environment Facility","ODA Grants","General Environment Protection",2019,0,0
-"NRU","Global Environment Facility","ODA Grants","General Environment Protection",2022,0,0
-"NRU","Global Environment Facility","ODA Grants","General Environment Protection",2023,0.05806,0.05806
-"NRU","Greece","ODA Grants","Emergency Response",2007,0.041068,0.038366
-"NRU","Greece","ODA Grants","General Environment Protection",2007,0.040109,0.037471000000000004
-"NRU","Greece","ODA Grants","Unallocated / Unspecified",2005,0.038715,0.042564
-"NRU","Greece","ODA Grants","Unallocated / Unspecified",2006,0.012778,0.013458
-"NRU","Green Climate Fund","ODA Grants","Government & Civil Society",2017,0,0
-"NRU","Green Climate Fund","ODA Grants","Government & Civil Society",2018,0.13,0.142207
-"NRU","Green Climate Fund","ODA Grants","Government & Civil Society",2022,0,0
+"NRU","Global Environment Facility","ODA Grants","General Environment Protection",2023,0,0
+"NRU","Greece","ODA Grants","General Environment Protection",2007,0.03603,0.03366
 "NRU","Green Climate Fund","ODA Grants","Transport & Storage",2017,0,0
-"NRU","Green Climate Fund","ODA Grants","Transport & Storage",2018,5.38,5.88518
-"NRU","Green Climate Fund","ODA Grants","Transport & Storage",2019,18.84,20.954214
-"NRU","Green Climate Fund","ODA Grants","Transport & Storage",2021,2.69,2.736654
-"NRU","Israel","ODA Grants","Government & Civil Society",2022,0.00409,0.003889
-"NRU","Israel","ODA Grants","Unallocated / Unspecified",2017,0.076291,0.086172
-"NRU","Israel","ODA Grants","Unallocated / Unspecified",2018,0.083494,0.093732
-"NRU","Israel","ODA Grants","Unallocated / Unspecified",2020,0.005165,0.005394
-"NRU","Israel","ODA Grants","Unallocated / Unspecified",2021,0.018575,0.017812
 "NRU","Italy","ODA Grants","Agriculture, Forestry, Fishing",2018,0.023009,0.024015
 "NRU","Italy","ODA Grants","Agriculture, Forestry, Fishing",2019,0.083518,0.090949
 "NRU","Italy","ODA Grants","General Environment Protection",2016,0.202496,0.229593
 "NRU","Italy","ODA Grants","General Environment Protection",2019,0.108954,0.118648
-"NRU","Italy","ODA Grants","Health",2007,0.068413,0.07077
 "NRU","Italy","ODA Grants","Water Supply & Sanitation",2011,0.055617,0.053108
 "NRU","Italy","ODA Grants","Water Supply & Sanitation",2013,0.132766,0.129096
 "NRU","Italy","ODA Grants","Water Supply & Sanitation",2018,0.023009,0.024015
 "NRU","Italy","ODA Grants","Water Supply & Sanitation",2019,0.083518,0.090949
-"NRU","Japan","ODA Grants","Agriculture, Forestry, Fishing",1998,0,0
-"NRU","Japan","ODA Grants","Agriculture, Forestry, Fishing",1999,4.012291,3.066852
-"NRU","Japan","ODA Grants","Agriculture, Forestry, Fishing",2000,2.022263,1.482776
-"NRU","Japan","ODA Grants","Agriculture, Forestry, Fishing",2003,0.185591,0.152447
-"NRU","Japan","ODA Grants","Agriculture, Forestry, Fishing",2004,0.248566,0.192601
-"NRU","Japan","ODA Grants","Agriculture, Forestry, Fishing",2005,0.287239,0.229424
-"NRU","Japan","ODA Grants","Agriculture, Forestry, Fishing",2006,0.34201,0.291313
-"NRU","Japan","ODA Grants","Agriculture, Forestry, Fishing",2007,0.36406700000000003,0.31605799999999995
-"NRU","Japan","ODA Grants","Agriculture, Forestry, Fishing",2008,0.328589,0.252937
-"NRU","Japan","ODA Grants","Agriculture, Forestry, Fishing",2009,0.274486,0.191764
-"NRU","Japan","ODA Grants","Agriculture, Forestry, Fishing",2010,0.237145,0.158657
-"NRU","Japan","ODA Grants","Agriculture, Forestry, Fishing",2011,0.304717,0.188208
-"NRU","Japan","ODA Grants","Agriculture, Forestry, Fishing",2012,0.216104,0.134673
-"NRU","Japan","ODA Grants","Agriculture, Forestry, Fishing",2013,0.271185,0.207378
-"NRU","Japan","ODA Grants","Agriculture, Forestry, Fishing",2014,0.210435,0.171641
-"NRU","Japan","ODA Grants","Agriculture, Forestry, Fishing",2015,0.124898,0.114051
-"NRU","Japan","ODA Grants","Agriculture, Forestry, Fishing",2016,0.157937,0.129138
-"NRU","Japan","ODA Grants","Agriculture, Forestry, Fishing",2017,0.265931,0.224362
-"NRU","Japan","ODA Grants","Agriculture, Forestry, Fishing",2018,0.242477,0.20139200000000002
-"NRU","Japan","ODA Grants","Agriculture, Forestry, Fishing",2019,0.247712,0.201865
 "NRU","Japan","ODA Grants","Agriculture, Forestry, Fishing",2020,0.156725,0.123886
 "NRU","Japan","ODA Grants","Agriculture, Forestry, Fishing",2021,0.21093800000000001,0.171773
 "NRU","Japan","ODA Grants","Agriculture, Forestry, Fishing",2022,0.21506,0.208874
 "NRU","Japan","ODA Grants","Agriculture, Forestry, Fishing",2023,0.354786,0.354786
-"NRU","Japan","ODA Grants","Communications",2007,0.065374,0.056753
-"NRU","Japan","ODA Grants","Communications",2008,0.013478,0.010375
-"NRU","Japan","ODA Grants","Communications",2009,0.00833,0.005819
-"NRU","Japan","ODA Grants","Communications",2010,0.023143,0.015483
-"NRU","Japan","ODA Grants","Communications",2011,0.02513,0.015521
-"NRU","Japan","ODA Grants","Communications",2012,0.012917999999999999,0.00805
-"NRU","Japan","ODA Grants","Communications",2023,10.680732,10.680732
-"NRU","Japan","ODA Grants","Disaster Prevention & Preparedness",2016,0.018832,0.015398
-"NRU","Japan","ODA Grants","Education",2003,0.012942,0.010631
-"NRU","Japan","ODA Grants","Education",2004,0.006938,0.005376
-"NRU","Japan","ODA Grants","Education",2005,0.019827,0.015837
-"NRU","Japan","ODA Grants","Education",2006,0.004665,0.003973
-"NRU","Japan","ODA Grants","Education",2007,0.013548999999999999,0.011762
-"NRU","Japan","ODA Grants","Education",2008,0.007198,0.005541
-"NRU","Japan","ODA Grants","Education",2014,0.029892,0.024382
-"NRU","Japan","ODA Grants","Education",2015,0.017041999999999998,0.015562
-"NRU","Japan","ODA Grants","Education",2016,0.030872,0.025243
-"NRU","Japan","ODA Grants","Education",2017,0.016455,0.013883
-"NRU","Japan","ODA Grants","Education",2018,0.022764,0.018907
-"NRU","Japan","ODA Grants","Education",2019,0.023858,0.019442
-"NRU","Japan","ODA Grants","Education",2020,0.08267,0.065348
-"NRU","Japan","ODA Grants","Education",2021,0.00284,0.002312
-"NRU","Japan","ODA Grants","Energy",2004,0.010823,0.008386
-"NRU","Japan","ODA Grants","Energy",2009,0.007163,0.005004
+"NRU","Japan","ODA Grants","Communications",2023,10.675693,10.675693
 "NRU","Japan","ODA Grants","Energy",2014,0.007785,0.00635
 "NRU","Japan","ODA Grants","Energy",2015,0.003223,0.002943
 "NRU","Japan","ODA Grants","Energy",2016,0.006884,0.005629
-"NRU","Japan","ODA Grants","Energy",2017,0.040586,0.034242
-"NRU","Japan","ODA Grants","General Environment Protection",2005,0.003551,0.002837
-"NRU","Japan","ODA Grants","General Environment Protection",2017,0.001988,0.001677
-"NRU","Japan","ODA Grants","Government & Civil Society",2003,0.004832,0.003969
-"NRU","Japan","ODA Grants","Government & Civil Society",2004,0.007771,0.006021
-"NRU","Japan","ODA Grants","Government & Civil Society",2005,0.908265,0.725451
-"NRU","Japan","ODA Grants","Government & Civil Society",2006,0,0
-"NRU","Japan","ODA Grants","Government & Civil Society",2007,0.848896,0.73695600000000006
-"NRU","Japan","ODA Grants","Government & Civil Society",2008,0.966184,0.743735
-"NRU","Japan","ODA Grants","Government & Civil Society",2014,0.015172000000000001,0.012376
-"NRU","Japan","ODA Grants","Government & Civil Society",2015,0.021232,0.019387
-"NRU","Japan","ODA Grants","Government & Civil Society",2016,0.023537999999999996,0.019246
+"NRU","Japan","ODA Grants","Energy",2017,0.019504,0.016455
+"NRU","Japan","ODA Grants","Government & Civil Society",2014,0.004799,0.003915
+"NRU","Japan","ODA Grants","Government & Civil Society",2015,0.004645,0.004241
+"NRU","Japan","ODA Grants","Government & Civil Society",2016,0.003925,0.003209
 "NRU","Japan","ODA Grants","Government & Civil Society",2017,0.005509,0.004648
-"NRU","Japan","ODA Grants","Government & Civil Society",2020,0.011557999999999999,0.009134
-"NRU","Japan","ODA Grants","Government & Civil Society",2021,0.0052320000000000005,0.00426
-"NRU","Japan","ODA Grants","Government & Civil Society",2022,0.002478,0.002408
-"NRU","Japan","ODA Grants","Government & Civil Society",2023,0.005994,0.005994
-"NRU","Japan","ODA Grants","Health",2006,0.020997,0.017884
-"NRU","Japan","ODA Grants","Health",2007,0.010314,0.008954
-"NRU","Japan","ODA Grants","Health",2008,0.00544,0.004187
-"NRU","Japan","ODA Grants","Health",2011,0.001706,0.001054
-"NRU","Japan","ODA Grants","Health",2012,0.012366,0.0077069999999999994
-"NRU","Japan","ODA Grants","Health",2015,0.012992,0.011863
-"NRU","Japan","ODA Grants","Health",2016,0.012986,0.010619
-"NRU","Japan","ODA Grants","Health",2017,0.014387,0.012138000000000001
-"NRU","Japan","ODA Grants","Health",2019,7.34e-4,5.98e-4
 "NRU","Japan","ODA Grants","Health",2020,0.129075,0.10203
 "NRU","Japan","ODA Grants","Health",2021,0.911035,0.741884
-"NRU","Japan","ODA Grants","Other Commodity Assistance",2009,2.141328,1.495991
-"NRU","Japan","ODA Grants","Other Commodity Assistance",2010,1.139463,0.762333
-"NRU","Japan","ODA Grants","Other Commodity Assistance",2011,1.254598,0.774902
-"NRU","Japan","ODA Grants","Other Commodity Assistance",2012,1.252919,0.780806
-"NRU","Japan","ODA Grants","Other Commodity Assistance",2013,0,0
-"NRU","Japan","ODA Grants","Other Commodity Assistance",2014,0.944755,0.770588
-"NRU","Japan","ODA Grants","Other Commodity Assistance",2015,2.479292,2.263966
-"NRU","Japan","ODA Grants","Other Commodity Assistance",2016,1.83819,1.503
-"NRU","Japan","ODA Grants","Other Multisector",2012,0.007969,0.004966
-"NRU","Japan","ODA Grants","Other Multisector",2013,0.011886,0.00909
-"NRU","Japan","ODA Grants","Other Multisector",2014,0.015456,0.012607
-"NRU","Japan","ODA Grants","Other Multisector",2015,0.004611,0.004211
-"NRU","Japan","ODA Grants","Other Multisector",2017,0.016571,0.013980999999999999
-"NRU","Japan","ODA Grants","Other Multisector",2018,0.011563,0.009604
-"NRU","Japan","ODA Grants","Other Multisector",2019,0.30893499999999996,0.251757
-"NRU","Japan","ODA Grants","Other Multisector",2020,1.881028,1.486898
+"NRU","Japan","ODA Grants","Other Multisector",2017,0.016027,0.013522
 "NRU","Japan","ODA Grants","Other Multisector",2023,0.017214,0.017214
-"NRU","Japan","ODA Grants","Other Social Infrastructure & Services",2005,0.007048,0.005629
-"NRU","Japan","ODA Grants","Other Social Infrastructure & Services",2007,0.033879,0.029412
-"NRU","Japan","ODA Grants","Other Social Infrastructure & Services",2008,0.016077,0.012376
-"NRU","Japan","ODA Grants","Other Social Infrastructure & Services",2010,0.007122,0.004765
-"NRU","Japan","ODA Grants","Other Social Infrastructure & Services",2011,0.005194,0.003208
-"NRU","Japan","ODA Grants","Other Social Infrastructure & Services",2012,0.0055,0.003428
-"NRU","Japan","ODA Grants","Other Social Infrastructure & Services",2013,0.005062,0.003871
-"NRU","Japan","ODA Grants","Other Social Infrastructure & Services",2014,0.007086,0.005778999999999999
-"NRU","Japan","ODA Grants","Other Social Infrastructure & Services",2015,0.0023220000000000003,0.002121
-"NRU","Japan","ODA Grants","Other Social Infrastructure & Services",2016,0.012638,0.010333
-"NRU","Japan","ODA Grants","Other Social Infrastructure & Services",2017,0.001979,0.00167
-"NRU","Japan","ODA Grants","Other Social Infrastructure & Services",2018,0.002047,0.001699
-"NRU","Japan","ODA Grants","Other Social Infrastructure & Services",2019,0.003042,0.002478
-"NRU","Japan","ODA Grants","Other Social Infrastructure & Services",2020,0.00196,0.001549
-"NRU","Japan","ODA Grants","Other Social Infrastructure & Services",2021,0.002177,0.001773
-"NRU","Japan","ODA Grants","Other Social Infrastructure & Services",2022,6.83e-4,6.64e-4
-"NRU","Japan","ODA Grants","Other Social Infrastructure & Services",2023,0.00804,0.00804
-"NRU","Japan","ODA Grants","Population Policies/Programmes",2011,0.003739,0.002309
-"NRU","Japan","ODA Grants","Population Policies/Programmes",2014,0.021152999999999998,0.017254
-"NRU","Japan","ODA Grants","Population Policies/Programmes",2019,0.010638,0.008669
-"NRU","Japan","ODA Grants","Tourism",2003,0,0
-"NRU","Japan","ODA Grants","Tourism",2009,0.008319,0.005812
-"NRU","Japan","ODA Grants","Tourism",2010,0.028111,0.018807
-"NRU","Japan","ODA Grants","Trade Policies & Regulations",2003,0.010095,0.008292
-"NRU","Japan","ODA Grants","Trade Policies & Regulations",2006,0.016357,0.013933
-"NRU","Japan","ODA Grants","Trade Policies & Regulations",2009,0.018929,0.013225
-"NRU","Japan","ODA Grants","Transport & Storage",2013,0.019888,0.01521
-"NRU","Japan","ODA Grants","Transport & Storage",2014,0.078424,0.063967
-"NRU","Japan","ODA Grants","Transport & Storage",2015,0.015966,0.01458
-"NRU","Japan","ODA Grants","Transport & Storage",2016,0.018050999999999998,0.014759000000000001
-"NRU","Japan","ODA Grants","Transport & Storage",2018,0,0
-"NRU","Japan","ODA Grants","Transport & Storage",2019,7.796899000000001,6.353833
-"NRU","Japan","ODA Grants","Transport & Storage",2021,0.005051,0.004113
-"NRU","Japan","ODA Grants","Transport & Storage",2022,7.72e-4,7.5e-4
-"NRU","Japan","ODA Grants","Unallocated / Unspecified",2003,0.014496,0.011906
-"NRU","Japan","ODA Grants","Unallocated / Unspecified",2005,0.006857,0.005477
-"NRU","Japan","ODA Grants","Unallocated / Unspecified",2006,0.094914,0.080845
-"NRU","Japan","ODA Grants","Unallocated / Unspecified",2007,0.167625,0.145521
-"NRU","Japan","ODA Grants","Unallocated / Unspecified",2008,0.157221,0.121023
-"NRU","Japan","ODA Grants","Water Supply & Sanitation",2005,0.006649,0.00531
-"NRU","Japan","ODA Grants","Water Supply & Sanitation",2007,0.002589,0.002248
-"NRU","Japan","ODA Grants","Water Supply & Sanitation",2009,0.008009,0.005594999999999999
-"NRU","Japan","ODA Grants","Water Supply & Sanitation",2010,0.207159,0.138595
-"NRU","Japan","ODA Grants","Water Supply & Sanitation",2011,0.22597,0.13957
-"NRU","Japan","ODA Grants","Water Supply & Sanitation",2012,0.236624,0.147462
-"NRU","Japan","ODA Grants","Water Supply & Sanitation",2013,0.083107,0.063553
-"NRU","Japan","ODA Grants","Water Supply & Sanitation",2014,0.08471100000000001,0.069096
-"NRU","Japan","ODA Grants","Water Supply & Sanitation",2015,0.012562,0.011471
-"NRU","Japan","ODA Grants","Water Supply & Sanitation",2016,0.074268,0.060726
-"NRU","Japan","ODA Grants","Water Supply & Sanitation",2017,0.07381399999999999,0.062275000000000004
-"NRU","Japan","ODA Grants","Water Supply & Sanitation",2018,0.018327,0.015222000000000001
+"NRU","Japan","ODA Grants","Water Supply & Sanitation",2009,0.007955,0.005558
+"NRU","Japan","ODA Grants","Water Supply & Sanitation",2010,0.191275,0.127968
+"NRU","Japan","ODA Grants","Water Supply & Sanitation",2011,0.208054,0.128504
+"NRU","Japan","ODA Grants","Water Supply & Sanitation",2018,0.017376,0.014432
 "NRU","Japan","ODA Grants","Water Supply & Sanitation",2021,0,0
 "NRU","Japan","ODA Grants","Water Supply & Sanitation",2022,1.521742,1.477972
-"NRU","Japan","ODA Grants","Water Supply & Sanitation",2023,0.020706,0.020706
-"NRU","Korea","ODA Grants","Agriculture, Forestry, Fishing",2013,0.013597,0.013452
-"NRU","Korea","ODA Grants","Agriculture, Forestry, Fishing",2016,0.019776,0.019484
-"NRU","Korea","ODA Grants","Communications",2011,0.012448,0.012754
-"NRU","Korea","ODA Grants","Communications",2012,0.006873,0.007069
-"NRU","Korea","ODA Grants","Communications",2022,0.201795,0.203331
+"NRU","Japan","ODA Grants","Water Supply & Sanitation",2023,0.014221,0.014221
 "NRU","Korea","ODA Grants","Disaster Prevention & Preparedness",2016,0.020342,0.020042
-"NRU","Korea","ODA Grants","Education",2019,0.021479,0.02084
-"NRU","Korea","ODA Grants","Education",2020,0.10191,0.098572
 "NRU","Korea","ODA Grants","Energy",2016,0.01772,0.017458
 "NRU","Korea","ODA Grants","General Environment Protection",2011,0.009864,0.010107
 "NRU","Korea","ODA Grants","General Environment Protection",2016,0.024745,0.02438
 "NRU","Korea","ODA Grants","General Environment Protection",2017,0.04033,0.037943
-"NRU","Korea","ODA Grants","Government & Civil Society",2007,0.156955,0.149616
-"NRU","Korea","ODA Grants","Government & Civil Society",2009,0.081244,0.099628
-"NRU","Korea","ODA Grants","Government & Civil Society",2012,0.125731,0.129323
-"NRU","Korea","ODA Grants","Government & Civil Society",2016,0.19578,0.192889
-"NRU","Korea","ODA Grants","Government & Civil Society",2017,0.032952,0.031002000000000002
-"NRU","Korea","ODA Grants","Government & Civil Society",2019,0.058588,0.056845
-"NRU","Korea","ODA Grants","Health",2017,0.025902,0.024369
-"NRU","Korea","ODA Grants","Health",2020,0.1,0.096725
-"NRU","Korea","ODA Grants","Health",2022,0.05,0.05038
-"NRU","Korea","ODA Grants","Other Commodity Assistance",2016,0.067007,0.066018
-"NRU","Korea","ODA Grants","Other Social Infrastructure & Services",2008,0.002783,0.003078
-"NRU","Korea","ODA Grants","Transport & Storage",2010,0.007521,0.008144
 "NRU","Korea","ODA Grants","Water Supply & Sanitation",2017,0.036454,0.034296
-"NRU","New Zealand","ODA Grants","Agriculture, Forestry, Fishing",2011,0.480428,0.505477
-"NRU","New Zealand","ODA Grants","Business & Other Services",2002,0.015717,0.036062
-"NRU","New Zealand","ODA Grants","Business & Other Services",2022,0.14736,0.150324
-"NRU","New Zealand","ODA Grants","Business & Other Services",2023,0.129715,0.129715
-"NRU","New Zealand","ODA Grants","Education",2006,0.196077,0.29112
-"NRU","New Zealand","ODA Grants","Education",2007,0.96641,1.213117
-"NRU","New Zealand","ODA Grants","Education",2008,0.441062,0.5659540000000001
-"NRU","New Zealand","ODA Grants","Education",2009,0.9305669999999999,1.3088309999999999
-"NRU","New Zealand","ODA Grants","Education",2010,1.223236,1.451176
-"NRU","New Zealand","ODA Grants","Education",2011,0.558282,0.58739
-"NRU","New Zealand","ODA Grants","Education",2012,1.549291,1.594344
-"NRU","New Zealand","ODA Grants","Education",2013,1.4577149999999999,1.434288
-"NRU","New Zealand","ODA Grants","Education",2014,0.803995,0.764115
-"NRU","New Zealand","ODA Grants","Education",2015,1.066423,1.201258
-"NRU","New Zealand","ODA Grants","Education",2016,0.952121,1.054752
-"NRU","New Zealand","ODA Grants","Education",2017,1.545403,1.625241
-"NRU","New Zealand","ODA Grants","Education",2018,0.31192,0.332125
-"NRU","New Zealand","ODA Grants","Education",2019,0.984225,1.074953
-"NRU","New Zealand","ODA Grants","Education",2020,0.319405,0.346517
-"NRU","New Zealand","ODA Grants","Education",2021,0.170945,0.16514
-"NRU","New Zealand","ODA Grants","Education",2022,0.103179,0.105254
-"NRU","New Zealand","ODA Grants","Education",2023,0.14432799999999998,0.14432799999999998
 "NRU","New Zealand","ODA Grants","Energy",2016,0,0
 "NRU","New Zealand","ODA Grants","Energy",2017,0.068921,0.072482
 "NRU","New Zealand","ODA Grants","Energy",2018,0.97651,1.039766
@@ -609,81 +151,5 @@
 "NRU","New Zealand","ODA Grants","Energy",2021,0.489244,0.472631
 "NRU","New Zealand","ODA Grants","Energy",2022,0.358633,0.365845
 "NRU","New Zealand","ODA Grants","Energy",2023,0.406411,0.406411
-"NRU","New Zealand","ODA Grants","General Budget Support",2019,0,0
-"NRU","New Zealand","ODA Grants","General Budget Support",2020,0.999156,1.083968
-"NRU","New Zealand","ODA Grants","General Budget Support",2021,0.353607,0.341599
-"NRU","New Zealand","ODA Grants","General Budget Support",2022,0.76495899999999994,0.780341
-"NRU","New Zealand","ODA Grants","Government & Civil Society",2005,0.351914,0.493908
-"NRU","New Zealand","ODA Grants","Government & Civil Society",2007,0.360647,0.452714
-"NRU","New Zealand","ODA Grants","Government & Civil Society",2008,0.331232,0.425024
-"NRU","New Zealand","ODA Grants","Government & Civil Society",2009,0.179283,0.25216
-"NRU","New Zealand","ODA Grants","Government & Civil Society",2010,0.476145,0.564871
-"NRU","New Zealand","ODA Grants","Government & Civil Society",2011,0.566663,0.596209
-"NRU","New Zealand","ODA Grants","Government & Civil Society",2012,0.911629,0.938139
-"NRU","New Zealand","ODA Grants","Government & Civil Society",2013,0.638706,0.628441
-"NRU","New Zealand","ODA Grants","Government & Civil Society",2014,0.756934,0.719389
-"NRU","New Zealand","ODA Grants","Government & Civil Society",2015,0.667487,0.751882
-"NRU","New Zealand","ODA Grants","Government & Civil Society",2016,0.030886,0.034216
-"NRU","New Zealand","ODA Grants","Government & Civil Society",2018,0.442644,0.471318
-"NRU","New Zealand","ODA Grants","Government & Civil Society",2019,0.329381,0.359744
-"NRU","New Zealand","ODA Grants","Government & Civil Society",2020,1.29769,1.407842
-"NRU","New Zealand","ODA Grants","Government & Civil Society",2021,2.1216410000000003,2.049592
-"NRU","New Zealand","ODA Grants","Government & Civil Society",2022,0.633794,0.646539
-"NRU","New Zealand","ODA Grants","Government & Civil Society",2023,1.227898,1.227898
-"NRU","New Zealand","ODA Grants","Health",2022,0.041642,0.04248
-"NRU","New Zealand","ODA Grants","Other Multisector",2010,0,0
-"NRU","New Zealand","ODA Grants","Other Multisector",2011,0,0
-"NRU","New Zealand","ODA Grants","Other Multisector",2014,0.038831,0.036905
-"NRU","New Zealand","ODA Grants","Other Multisector",2018,1.383509,1.473129
-"NRU","New Zealand","ODA Grants","Transport & Storage",2020,0.267973,0.290719
-"NRU","Norway","ODA Grants","Refugees in Donor Countries",2003,0,0
-"NRU","Norway","ODA Grants","Unallocated / Unspecified",2003,0.023787000000000003,0.036654
-"NRU","Russia","ODA Grants","Unallocated / Unspecified",2016,0.005578,0.006478
-"NRU","Switzerland","ODA Grants","Agriculture, Forestry, Fishing",2009,0.128439,0.158901
-"NRU","Switzerland","ODA Grants","Government & Civil Society",2009,0.042938,0.053122
-"NRU","Switzerland","ODA Grants","Government & Civil Society",2019,0.107455,0.124304
-"NRU","Switzerland","ODA Grants","Government & Civil Society",2020,0.145102,0.159704
-"NRU","Switzerland","ODA Grants","Government & Civil Society",2021,0.163022,0.172381
-"NRU","Switzerland","ODA Grants","Government & Civil Society",2022,0.215532,0.231041
-"NRU","Switzerland","ODA Grants","Government & Civil Society",2023,0.201622,0.201622
-"NRU","Switzerland","ODA Grants","Other Multisector",2009,0.314321,0.38887
-"NRU","Switzerland","ODA Grants","Water Supply & Sanitation",2009,0.02574,0.031845
-"NRU","Thailand","ODA Grants","Unallocated / Unspecified",2016,0.07481,0.087061
-"NRU","Türkiye","ODA Grants","Unallocated / Unspecified",2015,0,0
-"NRU","UNDP","ODA Grants","Business & Other Services",2011,0.031993,0.03296
-"NRU","UNDP","ODA Grants","Business & Other Services",2012,0.038455,0.040567
-"NRU","UNDP","ODA Grants","General Environment Protection",2014,0.005,0.005205
-"NRU","UNDP","ODA Grants","Government & Civil Society",2009,9.2e-4,0.001015
-"NRU","UNDP","ODA Grants","Government & Civil Society",2011,3.92e-4,4.04e-4
-"NRU","UNDP","ODA Grants","Government & Civil Society",2014,0.023926,0.024905
-"NRU","UNDP","ODA Grants","Government & Civil Society",2015,0.021203,0.024425
-"NRU","UNDP","ODA Grants","Government & Civil Society",2017,0.056,0.063827
-"NRU","UNDP","ODA Grants","Government & Civil Society",2021,0,0
-"NRU","United Arab Emirates","ODA Grants","Emergency Response",2020,0.111429,0.120267
 "NRU","United Arab Emirates","ODA Grants","Energy",2015,2.29,2.637942
 "NRU","United Arab Emirates","ODA Grants","Energy",2016,0.25,0.290941
-"NRU","United Kingdom","ODA Grants","Education",2002,0.034509,0.048296
-"NRU","United Kingdom","ODA Grants","Education",2003,0.02776,0.034865
-"NRU","United Kingdom","ODA Grants","Education",2010,0.012355,0.013806
-"NRU","United Kingdom","ODA Grants","Education",2022,0.034776,0.037624
-"NRU","United Kingdom","ODA Grants","Government & Civil Society",2014,0.024695,0.024112
-"NRU","World Health Organisation","ODA Grants","Disaster Prevention & Preparedness",2013,0.003,0.003123
-"NRU","World Health Organisation","ODA Grants","Disaster Prevention & Preparedness",2015,0.002812,0.003239
-"NRU","World Health Organisation","ODA Grants","Health",2011,0.043779,0.045104
-"NRU","World Health Organisation","ODA Grants","Health",2013,0.07725,0.080413
-"NRU","World Health Organisation","ODA Grants","Health",2014,0.026024000000000002,0.027089000000000002
-"NRU","World Health Organisation","ODA Grants","Health",2015,0.068759,0.079204
-"NRU","World Health Organisation","ODA Grants","Health",2016,0.013598,0.015825
-"NRU","World Health Organisation","ODA Grants","Health",2017,0.072047,0.08211700000000001
-"NRU","World Health Organisation","ODA Grants","Health",2018,0.012265,0.013417
-"NRU","World Health Organisation","ODA Grants","Health",2019,0.062949,0.070012
-"NRU","World Health Organisation","ODA Grants","Health",2020,0.023145,0.024978
-"NRU","World Health Organisation","ODA Grants","Health",2021,0.070185,0.0714
-"NRU","World Health Organisation","ODA Grants","Health",2023,0.08740099999999999,0.08740099999999999
-"NRU","World Health Organisation","ODA Grants","Other Multisector",2020,7.59e-4,8.2e-4
-"NRU","World Health Organisation","ODA Grants","Other Multisector",2021,0.001115,0.001134
-"NRU","World Health Organisation","ODA Grants","Population Policies/Programmes",2011,0.003315,0.003415
-"NRU","World Health Organisation","ODA Grants","Population Policies/Programmes",2013,0.01491,0.01552
-"NRU","World Health Organisation","ODA Grants","Population Policies/Programmes",2015,0.009,0.010367
-"NRU","World Health Organisation","ODA Grants","Population Policies/Programmes",2020,0.005883,0.0063490000000000005
-"NRU","World Health Organisation","ODA Grants","Population Policies/Programmes",2023,0.002852,0.002852

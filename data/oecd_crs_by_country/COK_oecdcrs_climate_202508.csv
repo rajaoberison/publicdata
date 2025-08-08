@@ -5,878 +5,120 @@
 "COK","Adaptation Fund","ODA Grants","Disaster Prevention & Preparedness",2016,1.17302,1.365118
 "COK","Adaptation Fund","ODA Grants","Other Multisector",2018,0.939018,1.027192
 "COK","Adaptation Fund","ODA Grants","Water Supply & Sanitation",2018,0.402437,0.440225
-"COK","Asian Development Bank","ODA Grants","Energy",2016,0,0
-"COK","Asian Development Bank","ODA Grants","Government & Civil Society",2013,0.147,0.153016
-"COK","Asian Development Bank","ODA Grants","Other Multisector",2013,0,0
-"COK","Asian Development Bank","ODA Grants","Other Multisector",2014,0.194324,0.202274
-"COK","Asian Development Bank","ODA Grants","Other Multisector",2015,0.02683,0.030907
-"COK","Asian Development Bank","ODA Grants","Transport & Storage",2011,0,0
-"COK","Asian Development Bank","ODA Grants","Transport & Storage",2012,0.803179,0.847298
-"COK","Asian Development Bank","ODA Grants","Transport & Storage",2013,0,0
-"COK","Asian Development Bank","ODA Loans","Agriculture, Forestry, Fishing",2010,0,0
-"COK","Asian Development Bank","ODA Loans","Agriculture, Forestry, Fishing",2011,0,0
-"COK","Asian Development Bank","ODA Loans","Agriculture, Forestry, Fishing",2015,0,0
-"COK","Asian Development Bank","ODA Loans","Agriculture, Forestry, Fishing",2016,0,0
-"COK","Asian Development Bank","ODA Loans","Agriculture, Forestry, Fishing",2017,0,0
-"COK","Asian Development Bank","ODA Loans","Agriculture, Forestry, Fishing",2018,0,0
-"COK","Asian Development Bank","ODA Loans","Agriculture, Forestry, Fishing",2019,0,0
-"COK","Asian Development Bank","ODA Loans","Banking & Financial Services",1992,0,0
-"COK","Asian Development Bank","ODA Loans","Banking & Financial Services",1995,0,0
-"COK","Asian Development Bank","ODA Loans","Banking & Financial Services",2010,0,0
-"COK","Asian Development Bank","ODA Loans","Banking & Financial Services",2011,0,0
-"COK","Asian Development Bank","ODA Loans","Banking & Financial Services",2015,0,0
-"COK","Asian Development Bank","ODA Loans","Banking & Financial Services",2016,0,0
-"COK","Asian Development Bank","ODA Loans","Banking & Financial Services",2017,0,0
-"COK","Asian Development Bank","ODA Loans","Banking & Financial Services",2018,0,0
-"COK","Asian Development Bank","ODA Loans","Banking & Financial Services",2019,0,0
-"COK","Asian Development Bank","ODA Loans","Communications",1992,0,0
-"COK","Asian Development Bank","ODA Loans","Communications",2010,0,0
-"COK","Asian Development Bank","ODA Loans","Communications",2011,0,0
-"COK","Asian Development Bank","ODA Loans","Communications",2015,0,0
-"COK","Asian Development Bank","ODA Loans","Communications",2016,0,0
-"COK","Asian Development Bank","ODA Loans","Communications",2017,0,0
-"COK","Asian Development Bank","ODA Loans","Communications",2018,0,0
-"COK","Asian Development Bank","ODA Loans","Communications",2019,0,0
-"COK","Asian Development Bank","ODA Loans","Education",1994,0,0
-"COK","Asian Development Bank","ODA Loans","Education",2010,0,0
-"COK","Asian Development Bank","ODA Loans","Education",2011,0,0
-"COK","Asian Development Bank","ODA Loans","Education",2015,0,0
-"COK","Asian Development Bank","ODA Loans","Education",2016,0,0
-"COK","Asian Development Bank","ODA Loans","Education",2017,0,0
-"COK","Asian Development Bank","ODA Loans","Education",2018,0,0
-"COK","Asian Development Bank","ODA Loans","Education",2019,0,0
-"COK","Asian Development Bank","ODA Loans","Emergency Response",1997,0,0
-"COK","Asian Development Bank","ODA Loans","Energy",2016,0,0
-"COK","Asian Development Bank","ODA Loans","Energy",2017,0,0
-"COK","Asian Development Bank","ODA Loans","Energy",2018,0,0
-"COK","Asian Development Bank","ODA Loans","Energy",2019,0,0
-"COK","Asian Development Bank","ODA Loans","Government & Civil Society",1996,0,0
-"COK","Asian Development Bank","ODA Loans","Government & Civil Society",2010,0,0
-"COK","Asian Development Bank","ODA Loans","Government & Civil Society",2011,0,0
-"COK","Asian Development Bank","ODA Loans","Government & Civil Society",2014,0,0
-"COK","Asian Development Bank","ODA Loans","Government & Civil Society",2015,0,0
-"COK","Asian Development Bank","ODA Loans","Government & Civil Society",2016,0,0
-"COK","Asian Development Bank","ODA Loans","Government & Civil Society",2017,0,0
-"COK","Asian Development Bank","ODA Loans","Government & Civil Society",2018,0,0
-"COK","Asian Development Bank","ODA Loans","Government & Civil Society",2019,0,0
-"COK","Asian Development Bank","ODA Loans","Industry, Mining, Construction",1994,0,0
-"COK","Asian Development Bank","ODA Loans","Other Multisector",2010,0,0
-"COK","Asian Development Bank","ODA Loans","Other Multisector",2011,0,0
-"COK","Asian Development Bank","ODA Loans","Other Multisector",2015,0,0
-"COK","Asian Development Bank","ODA Loans","Other Multisector",2016,0,0
-"COK","Asian Development Bank","ODA Loans","Other Multisector",2017,0,0
-"COK","Asian Development Bank","ODA Loans","Other Multisector",2018,0,0
-"COK","Asian Development Bank","ODA Loans","Other Multisector",2019,0,0
-"COK","Asian Development Bank","ODA Loans","Reconstruction Relief & Rehabilitation",2010,0.005136,0.005608
-"COK","Asian Development Bank","ODA Loans","Reconstruction Relief & Rehabilitation",2011,0,0
-"COK","Asian Development Bank","ODA Loans","Reconstruction Relief & Rehabilitation",2015,0,0
-"COK","Asian Development Bank","ODA Loans","Reconstruction Relief & Rehabilitation",2016,0,0
-"COK","Asian Development Bank","ODA Loans","Transport & Storage",2009,0,0
-"COK","Asian Development Bank","ODA Loans","Transport & Storage",2010,0.589629,0.643738
-"COK","Asian Development Bank","ODA Loans","Transport & Storage",2011,3.560247,3.667923
-"COK","Asian Development Bank","ODA Loans","Transport & Storage",2012,2.060098,2.17326
-"COK","Asian Development Bank","ODA Loans","Transport & Storage",2013,0.574,0.59749
-"COK","Asian Development Bank","ODA Loans","Transport & Storage",2014,0.252981,0.263331
-"COK","Asian Development Bank","ODA Loans","Transport & Storage",2015,0,0
-"COK","Asian Development Bank","ODA Loans","Transport & Storage",2016,0,0
-"COK","Asian Development Bank","ODA Loans","Transport & Storage",2017,0,0
-"COK","Asian Development Bank","ODA Loans","Transport & Storage",2018,0,0
-"COK","Asian Development Bank","ODA Loans","Transport & Storage",2019,0,0
-"COK","Asian Development Bank","ODA Loans","Unallocated / Unspecified",2012,0,0
-"COK","Asian Development Bank","ODA Loans","Unallocated / Unspecified",2013,0,0
-"COK","Asian Development Bank","ODA Loans","Unallocated / Unspecified",2014,0,0
-"COK","Asian Development Bank","ODA Loans","Water Supply & Sanitation",2001,0,0
-"COK","Asian Development Bank","ODA Loans","Water Supply & Sanitation",2010,0,0
-"COK","Asian Development Bank","ODA Loans","Water Supply & Sanitation",2011,0,0
-"COK","Asian Development Bank","ODA Loans","Water Supply & Sanitation",2015,0,0
-"COK","Asian Development Bank","ODA Loans","Water Supply & Sanitation",2016,0,0
-"COK","Asian Development Bank","ODA Loans","Water Supply & Sanitation",2017,0,0
-"COK","Asian Development Bank","ODA Loans","Water Supply & Sanitation",2018,0,0
-"COK","Asian Development Bank","ODA Loans","Water Supply & Sanitation",2019,0,0
-"COK","Asian Development Bank","Other Official Flows (non Export Credit)","Banking & Financial Services",2017,0,0
-"COK","Asian Development Bank","Other Official Flows (non Export Credit)","Banking & Financial Services",2018,0,0
-"COK","Asian Development Bank","Other Official Flows (non Export Credit)","Banking & Financial Services",2019,0,0
-"COK","Asian Development Bank","Other Official Flows (non Export Credit)","Communications",2018,0,0
-"COK","Asian Development Bank","Other Official Flows (non Export Credit)","Communications",2019,4.132118,4.595822
-"COK","Asian Development Bank","Other Official Flows (non Export Credit)","Energy",2015,0.32093,0.369692
-"COK","Asian Development Bank","Other Official Flows (non Export Credit)","Energy",2016,0.412164,0.479662
 "COK","Asian Development Bank","Other Official Flows (non Export Credit)","Energy",2017,3.496452,3.985142
 "COK","Asian Development Bank","Other Official Flows (non Export Credit)","Energy",2018,2.55815,2.798359
-"COK","Asian Development Bank","Other Official Flows (non Export Credit)","Energy",2019,0.79201,0.880889
-"COK","Asian Development Bank","Other Official Flows (non Export Credit)","General Budget Support",2009,0,0
-"COK","Asian Development Bank","Other Official Flows (non Export Credit)","Government & Civil Society",2013,5.983,6.227848
-"COK","Asian Development Bank","Other Official Flows (non Export Credit)","Government & Civil Society",2014,0,0
-"COK","Asian Development Bank","Other Official Flows (non Export Credit)","Government & Civil Society",2015,0,0
-"COK","Asian Development Bank","Other Official Flows (non Export Credit)","Government & Civil Society",2016,0,0
-"COK","Asian Development Bank","Other Official Flows (non Export Credit)","Government & Civil Society",2017,0,0
-"COK","Asian Development Bank","Other Official Flows (non Export Credit)","Government & Civil Society",2018,0,0
-"COK","Asian Development Bank","Other Official Flows (non Export Credit)","Government & Civil Society",2019,0,0
-"COK","Asian Development Bank","Other Official Flows (non Export Credit)","Health",2019,0,0
-"COK","Asian Development Bank","Other Official Flows (non Export Credit)","Other Multisector",2010,10,10.917673
-"COK","Asian Development Bank","Other Official Flows (non Export Credit)","Other Multisector",2011,0,0
-"COK","Asian Development Bank","Other Official Flows (non Export Credit)","Other Social Infrastructure & Services",2017,0,0
-"COK","Asian Development Bank","Other Official Flows (non Export Credit)","Other Social Infrastructure & Services",2018,0,0
-"COK","Asian Development Bank","Other Official Flows (non Export Credit)","Transport & Storage",2009,0,0
-"COK","Asian Development Bank","Other Official Flows (non Export Credit)","Transport & Storage",2010,0.012973,0.014164
-"COK","Asian Development Bank","Other Official Flows (non Export Credit)","Transport & Storage",2011,5.586349,5.755302
-"COK","Asian Development Bank","Other Official Flows (non Export Credit)","Transport & Storage",2012,7.199028,7.594475
-"COK","Asian Development Bank","Other Official Flows (non Export Credit)","Transport & Storage",2013,0.045,0.046841
-"COK","Asian Development Bank","Other Official Flows (non Export Credit)","Transport & Storage",2014,0.026634,0.027724
-"COK","Asian Development Bank","Other Official Flows (non Export Credit)","Transport & Storage",2015,0,0
-"COK","Asian Development Bank","Other Official Flows (non Export Credit)","Transport & Storage",2016,0,0
 "COK","Asian Development Bank","Other Official Flows (non Export Credit)","Transport & Storage",2017,0,0
-"COK","Asian Development Bank","Other Official Flows (non Export Credit)","Transport & Storage",2018,0,0
-"COK","Asian Development Bank","Other Official Flows (non Export Credit)","Transport & Storage",2019,0,0
-"COK","Asian Development Bank","Other Official Flows (non Export Credit)","Unallocated / Unspecified",2012,0,0
-"COK","Asian Development Bank","Other Official Flows (non Export Credit)","Unallocated / Unspecified",2013,0,0
-"COK","Australia","ODA Grants","Administrative Costs of Donors",2000,0.026643,0.06231
-"COK","Australia","ODA Grants","Administrative Costs of Donors",2006,0.021812,0.031429
-"COK","Australia","ODA Grants","Agriculture, Forestry, Fishing",1998,0,0
-"COK","Australia","ODA Grants","Agriculture, Forestry, Fishing",2000,0.067188,0.15713
-"COK","Australia","ODA Grants","Agriculture, Forestry, Fishing",2001,0,0
-"COK","Australia","ODA Grants","Agriculture, Forestry, Fishing",2004,0,0
-"COK","Australia","ODA Grants","Agriculture, Forestry, Fishing",2005,0.015997,0.023921
-"COK","Australia","ODA Grants","Agriculture, Forestry, Fishing",2006,0.010779,0.015532
-"COK","Australia","ODA Grants","Agriculture, Forestry, Fishing",2008,0.412235,0.48799
 "COK","Australia","ODA Grants","Agriculture, Forestry, Fishing",2009,0.003551,0.004427
-"COK","Australia","ODA Grants","Agriculture, Forestry, Fishing",2010,0.703696,0.708539
-"COK","Australia","ODA Grants","Agriculture, Forestry, Fishing",2012,0.29817899999999997,0.255816
-"COK","Australia","ODA Grants","Agriculture, Forestry, Fishing",2013,0.690287,0.6272260000000001
-"COK","Australia","ODA Grants","Agriculture, Forestry, Fishing",2014,0.22284500000000002,0.21612499999999998
-"COK","Australia","ODA Grants","Agriculture, Forestry, Fishing",2015,0.136802,0.16031499999999999
+"COK","Australia","ODA Grants","Agriculture, Forestry, Fishing",2010,4.7e-5,4.7e-5
+"COK","Australia","ODA Grants","Agriculture, Forestry, Fishing",2012,0.110912,0.095155
+"COK","Australia","ODA Grants","Agriculture, Forestry, Fishing",2013,0.508049,0.46163600000000005
+"COK","Australia","ODA Grants","Agriculture, Forestry, Fishing",2014,0.218448,0.21186
+"COK","Australia","ODA Grants","Agriculture, Forestry, Fishing",2015,0.060801,0.071251
 "COK","Australia","ODA Grants","Agriculture, Forestry, Fishing",2017,0.13410999999999998,0.147475
-"COK","Australia","ODA Grants","Agriculture, Forestry, Fishing",2018,0.004368,0.004816
 "COK","Australia","ODA Grants","Agriculture, Forestry, Fishing",2019,0.597982,0.685554
-"COK","Australia","ODA Grants","Banking & Financial Services",2005,0.012949,0.019365
-"COK","Australia","ODA Grants","Banking & Financial Services",2012,0.369713,0.317187
-"COK","Australia","ODA Grants","Banking & Financial Services",2016,0.006407,0.007521
-"COK","Australia","ODA Grants","Banking & Financial Services",2017,0.006606,0.007264
-"COK","Australia","ODA Grants","Business & Other Services",2006,0.025861,0.037264
-"COK","Australia","ODA Grants","Business & Other Services",2007,0.012868000000000001,0.015979
-"COK","Australia","ODA Grants","Business & Other Services",2009,0.002021,0.00252
-"COK","Australia","ODA Grants","Business & Other Services",2013,0.027566,0.025048
-"COK","Australia","ODA Grants","Business & Other Services",2015,9.39e-4,0.001101
-"COK","Australia","ODA Grants","Business & Other Services",2018,0.005336,0.005883
-"COK","Australia","ODA Grants","Business & Other Services",2019,0.004965,0.005692
-"COK","Australia","ODA Grants","Communications",2003,0.001135,0.002162
-"COK","Australia","ODA Grants","Communications",2009,0.04229,0.052726
-"COK","Australia","ODA Grants","Communications",2017,0.010821,0.011899
-"COK","Australia","ODA Grants","Communications",2018,0.007301,0.00805
 "COK","Australia","ODA Grants","Disaster Prevention & Preparedness",2017,0.205755,0.22626
 "COK","Australia","ODA Grants","Disaster Prevention & Preparedness",2018,0.299198,0.329899
-"COK","Australia","ODA Grants","Education",1992,0,0
-"COK","Australia","ODA Grants","Education",1993,0,0
-"COK","Australia","ODA Grants","Education",1994,0,0
-"COK","Australia","ODA Grants","Education",1996,0,0
-"COK","Australia","ODA Grants","Education",1997,0,0
-"COK","Australia","ODA Grants","Education",1998,0.422659,0.96189500000000006
-"COK","Australia","ODA Grants","Education",1999,0.130993,0.286578
-"COK","Australia","ODA Grants","Education",2000,0.16797,0.392824
-"COK","Australia","ODA Grants","Education",2001,0.054769,0.138767
-"COK","Australia","ODA Grants","Education",2002,0.008146,0.019066
-"COK","Australia","ODA Grants","Education",2003,7.2e-4,0.001371
-"COK","Australia","ODA Grants","Education",2004,0,0
-"COK","Australia","ODA Grants","Education",2005,0.166819,0.24946800000000002
-"COK","Australia","ODA Grants","Education",2006,0.284178,0.409479
-"COK","Australia","ODA Grants","Education",2007,0.568846,0.706368
-"COK","Australia","ODA Grants","Education",2008,1.56e-4,1.85e-4
-"COK","Australia","ODA Grants","Education",2009,0.7663880000000001,0.955516
-"COK","Australia","ODA Grants","Education",2010,0.336191,0.338505
-"COK","Australia","ODA Grants","Education",2011,0.46964700000000004,0.401437
-"COK","Australia","ODA Grants","Education",2012,0.5843750000000001,0.501351
-"COK","Australia","ODA Grants","Education",2013,0.353464,0.321173
-"COK","Australia","ODA Grants","Education",2014,0.045069,0.04371
-"COK","Australia","ODA Grants","Education",2015,0.12057300000000001,0.141296
-"COK","Australia","ODA Grants","Education",2016,1.19357,1.401036
-"COK","Australia","ODA Grants","Education",2017,0.617461,0.678995
-"COK","Australia","ODA Grants","Education",2018,0.599263,0.660753
-"COK","Australia","ODA Grants","Education",2019,0.80824,0.926604
-"COK","Australia","ODA Grants","Emergency Response",2005,0.110451,0.165172
-"COK","Australia","ODA Grants","Energy",1993,0,0
-"COK","Australia","ODA Grants","Energy",1997,0,0
-"COK","Australia","ODA Grants","Energy",1998,0.280726,0.638881
-"COK","Australia","ODA Grants","Energy",1999,0.144544,0.316224
-"COK","Australia","ODA Grants","Energy",2000,0.049812,0.116493
-"COK","Australia","ODA Grants","Energy",2001,0.767283,1.944051
-"COK","Australia","ODA Grants","Energy",2002,0.051594,0.120752
-"COK","Australia","ODA Grants","Energy",2006,0.001804,0.0026
-"COK","Australia","ODA Grants","Energy",2007,-0.002005,-0.002489
-"COK","Australia","ODA Grants","General Environment Protection",2002,5.43e-4,0.001271
-"COK","Australia","ODA Grants","General Environment Protection",2003,0.16218,0.308819
-"COK","Australia","ODA Grants","General Environment Protection",2004,0.018702,0.030296
-"COK","Australia","ODA Grants","General Environment Protection",2005,0.021328,0.031895
-"COK","Australia","ODA Grants","General Environment Protection",2006,0.030123,0.043405
-"COK","Australia","ODA Grants","General Environment Protection",2008,4.83e-4,5.72e-4
-"COK","Australia","ODA Grants","General Environment Protection",2009,0.11792799999999999,0.147029
+"COK","Australia","ODA Grants","General Environment Protection",2009,0.11962,0.149139
 "COK","Australia","ODA Grants","General Environment Protection",2011,1.2163929999999998,1.039728
 "COK","Australia","ODA Grants","General Environment Protection",2012,1.4125320000000001,1.2118490000000002
-"COK","Australia","ODA Grants","General Environment Protection",2013,0.706893,0.6423129999999999
+"COK","Australia","ODA Grants","General Environment Protection",2013,0.70602,0.64152
 "COK","Australia","ODA Grants","General Environment Protection",2014,0.033464,0.032455
 "COK","Australia","ODA Grants","General Environment Protection",2015,0.335517,0.393185
 "COK","Australia","ODA Grants","General Environment Protection",2017,0.032531,0.035773
-"COK","Australia","ODA Grants","General Environment Protection",2018,0.234236,0.25827
-"COK","Australia","ODA Grants","General Environment Protection",2019,0.6126259999999999,0.7023429999999999
-"COK","Australia","ODA Grants","Government & Civil Society",1998,0.006908,0.015722
-"COK","Australia","ODA Grants","Government & Civil Society",2000,0.034752,0.081274
-"COK","Australia","ODA Grants","Government & Civil Society",2001,0.16637400000000002,0.42153799999999997
-"COK","Australia","ODA Grants","Government & Civil Society",2002,0.16673,0.390218
-"COK","Australia","ODA Grants","Government & Civil Society",2003,0.30783699999999997,0.586176
-"COK","Australia","ODA Grants","Government & Civil Society",2004,0.085124,0.137893
-"COK","Australia","ODA Grants","Government & Civil Society",2005,0.354966,0.530829
-"COK","Australia","ODA Grants","Government & Civil Society",2006,0.999494,1.440197
-"COK","Australia","ODA Grants","Government & Civil Society",2007,2.1155559999999998,2.6270029999999998
-"COK","Australia","ODA Grants","Government & Civil Society",2008,0.21556999999999998,0.25518399999999997
-"COK","Australia","ODA Grants","Government & Civil Society",2009,1.598198,1.992602
-"COK","Australia","ODA Grants","Government & Civil Society",2010,0.648646,0.65311
-"COK","Australia","ODA Grants","Government & Civil Society",2011,0.26809499999999997,0.229158
-"COK","Australia","ODA Grants","Government & Civil Society",2012,0.781342,0.670335
-"COK","Australia","ODA Grants","Government & Civil Society",2013,2.930928,2.663169
-"COK","Australia","ODA Grants","Government & Civil Society",2014,2.34741,2.276615
-"COK","Australia","ODA Grants","Government & Civil Society",2015,1.6619959999999998,1.947655
-"COK","Australia","ODA Grants","Government & Civil Society",2016,1.523868,1.7887460000000002
-"COK","Australia","ODA Grants","Government & Civil Society",2017,0.48629599999999995,0.534758
-"COK","Australia","ODA Grants","Government & Civil Society",2018,0.178233,0.196523
-"COK","Australia","ODA Grants","Government & Civil Society",2019,0.171998,0.197187
-"COK","Australia","ODA Grants","Health",1998,0,0
-"COK","Australia","ODA Grants","Health",1999,0,0
-"COK","Australia","ODA Grants","Health",2000,0.11642,0.272267
-"COK","Australia","ODA Grants","Health",2001,0.117288,0.297172
-"COK","Australia","ODA Grants","Health",2002,0.041818,0.097872
-"COK","Australia","ODA Grants","Health",2003,0.0617,0.117487
-"COK","Australia","ODA Grants","Health",2005,0.11273599999999999,0.16858900000000002
-"COK","Australia","ODA Grants","Health",2006,0.025796,0.03717
-"COK","Australia","ODA Grants","Health",2007,0.012868000000000001,0.015979
-"COK","Australia","ODA Grants","Health",2008,0.00441,0.00522
-"COK","Australia","ODA Grants","Health",2009,0.34438399999999997,0.429373
-"COK","Australia","ODA Grants","Health",2010,0.18678899999999998,0.188076
-"COK","Australia","ODA Grants","Health",2013,0.048688,0.044241
-"COK","Australia","ODA Grants","Health",2014,0.020222999999999998,0.019614
-"COK","Australia","ODA Grants","Health",2015,0.272747,0.319626
-"COK","Australia","ODA Grants","Health",2016,0.298171,0.349999
-"COK","Australia","ODA Grants","Health",2017,0.24031000000000002,0.264258
-"COK","Australia","ODA Grants","Health",2018,0.012459,0.013737000000000001
-"COK","Australia","ODA Grants","Health",2019,0.022824999999999998,0.02617
-"COK","Australia","ODA Grants","Other Commodity Assistance",1993,0,0
-"COK","Australia","ODA Grants","Other Commodity Assistance",1997,0,0
-"COK","Australia","ODA Grants","Other Commodity Assistance",1998,0.018213,0.041449
-"COK","Australia","ODA Grants","Other Multisector",1992,0,0
-"COK","Australia","ODA Grants","Other Multisector",1993,0,0
+"COK","Australia","ODA Grants","General Environment Protection",2018,0.024011,0.026474
+"COK","Australia","ODA Grants","General Environment Protection",2019,0.51333,0.588505
+"COK","Australia","ODA Grants","Government & Civil Society",2013,2.302016,2.091712
+"COK","Australia","ODA Grants","Government & Civil Society",2014,1.712637,1.660986
+"COK","Australia","ODA Grants","Government & Civil Society",2015,1.490826,1.747064
+"COK","Australia","ODA Grants","Government & Civil Society",2016,1.357229,1.593142
+"COK","Australia","ODA Grants","Government & Civil Society",2017,0.039658,0.04361
+"COK","Australia","ODA Grants","Government & Civil Society",2018,0.112081,0.123582
+"COK","Australia","ODA Grants","Government & Civil Society",2019,0.02398,0.027492
 "COK","Australia","ODA Grants","Other Multisector",1998,0,0
 "COK","Australia","ODA Grants","Other Multisector",1999,0,0
-"COK","Australia","ODA Grants","Other Multisector",2000,0.07066299999999999,0.165257
-"COK","Australia","ODA Grants","Other Multisector",2001,0.190659,0.48306599999999994
-"COK","Australia","ODA Grants","Other Multisector",2002,0.23353000000000002,0.546561
-"COK","Australia","ODA Grants","Other Multisector",2003,0.284009,0.540805
-"COK","Australia","ODA Grants","Other Multisector",2004,0.997093,1.615212
-"COK","Australia","ODA Grants","Other Multisector",2005,0.952163,1.4239
-"COK","Australia","ODA Grants","Other Multisector",2006,0.012308,0.017735
-"COK","Australia","ODA Grants","Other Multisector",2007,0.017834000000000003,0.022146
-"COK","Australia","ODA Grants","Other Multisector",2008,0.00441,0.00522
-"COK","Australia","ODA Grants","Other Multisector",2009,0.08601299999999999,0.107241
-"COK","Australia","ODA Grants","Other Multisector",2010,1.609434,1.620516
-"COK","Australia","ODA Grants","Other Multisector",2011,3.3916440000000003,2.899057
-"COK","Australia","ODA Grants","Other Multisector",2012,0.520408,0.446472
-"COK","Australia","ODA Grants","Other Multisector",2013,0.070422,0.063989
-"COK","Australia","ODA Grants","Other Multisector",2014,0.03031,0.029396
-"COK","Australia","ODA Grants","Other Multisector",2015,0.15249100000000002,0.1787
-"COK","Australia","ODA Grants","Other Multisector",2017,4.76e-4,5.24e-4
-"COK","Australia","ODA Grants","Other Multisector",2018,0.02988,0.032946
-"COK","Australia","ODA Grants","Other Social Infrastructure & Services",2000,0,0
-"COK","Australia","ODA Grants","Other Social Infrastructure & Services",2001,0.011366,0.028801
-"COK","Australia","ODA Grants","Other Social Infrastructure & Services",2002,0.007061,0.016523
-"COK","Australia","ODA Grants","Other Social Infrastructure & Services",2003,0.005916,0.011266
-"COK","Australia","ODA Grants","Other Social Infrastructure & Services",2004,0.095777,0.155151
-"COK","Australia","ODA Grants","Other Social Infrastructure & Services",2005,0.00457,0.006835
-"COK","Australia","ODA Grants","Other Social Infrastructure & Services",2006,0.036295,0.052298
-"COK","Australia","ODA Grants","Other Social Infrastructure & Services",2007,0.001255,0.001558
-"COK","Australia","ODA Grants","Other Social Infrastructure & Services",2008,0.00441,0.00522
-"COK","Australia","ODA Grants","Other Social Infrastructure & Services",2009,0.016851,0.021009
-"COK","Australia","ODA Grants","Other Social Infrastructure & Services",2010,-5e-6,-5e-6
-"COK","Australia","ODA Grants","Other Social Infrastructure & Services",2011,0.201954,0.172622
-"COK","Australia","ODA Grants","Other Social Infrastructure & Services",2012,0.260067,0.22311799999999998
-"COK","Australia","ODA Grants","Other Social Infrastructure & Services",2013,0.25398299999999996,0.23077999999999999
-"COK","Australia","ODA Grants","Other Social Infrastructure & Services",2014,0.037198999999999996,0.036076
-"COK","Australia","ODA Grants","Other Social Infrastructure & Services",2015,0.183304,0.214809
-"COK","Australia","ODA Grants","Other Social Infrastructure & Services",2016,0.080562,0.094565
-"COK","Australia","ODA Grants","Other Social Infrastructure & Services",2017,0.006261,0.006885
-"COK","Australia","ODA Grants","Population Policies/Programmes",2005,0.178245,0.26655399999999996
-"COK","Australia","ODA Grants","Population Policies/Programmes",2009,2.39e-4,2.98e-4
-"COK","Australia","ODA Grants","Population Policies/Programmes",2015,0.234804,0.275161
-"COK","Australia","ODA Grants","Trade Policies & Regulations",2004,0,0
-"COK","Australia","ODA Grants","Trade Policies & Regulations",2005,0.025137,0.037591
-"COK","Australia","ODA Grants","Trade Policies & Regulations",2010,0.06988799999999999,0.070368
-"COK","Australia","ODA Grants","Trade Policies & Regulations",2012,0.183335,0.157288
-"COK","Australia","ODA Grants","Trade Policies & Regulations",2013,0.172578,0.156812
-"COK","Australia","ODA Grants","Trade Policies & Regulations",2015,0.051011,0.059778
-"COK","Australia","ODA Grants","Trade Policies & Regulations",2018,0.135984,0.149937
-"COK","Australia","ODA Grants","Trade Policies & Regulations",2019,0.18368099999999998,0.21058
-"COK","Australia","ODA Grants","Unallocated / Unspecified",1992,0,0
-"COK","Australia","ODA Grants","Unallocated / Unspecified",2002,0.200945,0.470296
-"COK","Australia","ODA Grants","Unallocated / Unspecified",2003,0.02999,0.057107
-"COK","Australia","ODA Grants","Unallocated / Unspecified",2004,0.690413,1.118413
-"COK","Australia","ODA Grants","Unallocated / Unspecified",2005,0.038087,0.056956
-"COK","Australia","ODA Grants","Water Supply & Sanitation",1993,0,0
-"COK","Australia","ODA Grants","Water Supply & Sanitation",1996,0,0
-"COK","Australia","ODA Grants","Water Supply & Sanitation",1997,0,0
-"COK","Australia","ODA Grants","Water Supply & Sanitation",1998,0.256233,0.58314
-"COK","Australia","ODA Grants","Water Supply & Sanitation",1999,0.014196,0.031058
-"COK","Australia","ODA Grants","Water Supply & Sanitation",2000,0.32898900000000003,0.769393
-"COK","Australia","ODA Grants","Water Supply & Sanitation",2001,0.048052,0.121749
-"COK","Australia","ODA Grants","Water Supply & Sanitation",2003,0.111554,0.212418
-"COK","Australia","ODA Grants","Water Supply & Sanitation",2004,0.105768,0.171336
-"COK","Australia","ODA Grants","Water Supply & Sanitation",2005,0.070841,0.105938
-"COK","Australia","ODA Grants","Water Supply & Sanitation",2006,0.222109,0.320043
-"COK","Australia","ODA Grants","Water Supply & Sanitation",2007,-1.38e-4,-1.71e-4
-"COK","Australia","ODA Grants","Water Supply & Sanitation",2009,-0.005364,-0.006686999999999999
-"COK","Australia","ODA Grants","Water Supply & Sanitation",2010,0.010392,0.010464000000000001
-"COK","Australia","ODA Grants","Water Supply & Sanitation",2013,0.003193,0.002902
-"COK","Australia","ODA Grants","Water Supply & Sanitation",2016,0.001539,0.001806
-"COK","Australia","ODA Grants","Water Supply & Sanitation",2017,0.620029,0.681818
-"COK","Australia","ODA Grants","Water Supply & Sanitation",2018,0.599263,0.660753
-"COK","Australia","ODA Grants","Water Supply & Sanitation",2019,0.7796879999999999,0.89387
-"COK","Australia","Other Official Flows (non Export Credit)","Unallocated / Unspecified",2016,0.194589,0.228413
-"COK","Canada","ODA Grants","General Environment Protection",2009,9.6e-5,1.14e-4
-"COK","Canada","ODA Grants","Government & Civil Society",2009,1.22e-4,1.46e-4
-"COK","Canada","ODA Grants","Other Multisector",2009,0.008781,0.010408
-"COK","Canada","ODA Grants","Other Social Infrastructure & Services",2009,9.6e-5,1.15e-4
-"COK","Canada","ODA Grants","Unallocated / Unspecified",2002,0,0
+"COK","Australia","ODA Grants","Other Multisector",2000,0.070084,0.163902
+"COK","Australia","ODA Grants","Other Multisector",2001,0.010334,0.026182
+"COK","Australia","ODA Grants","Other Multisector",2002,0.013034,0.030506
 "COK","EU Institutions","ODA Grants","Disaster Prevention & Preparedness",2007,0,0
 "COK","EU Institutions","ODA Grants","Disaster Prevention & Preparedness",2008,0.040387,0.039881
-"COK","EU Institutions","ODA Grants","Disaster Prevention & Preparedness",2009,0.097406,0.098621
 "COK","EU Institutions","ODA Grants","Disaster Prevention & Preparedness",2010,0.073611,0.077796
 "COK","EU Institutions","ODA Grants","Disaster Prevention & Preparedness",2011,1.335667,1.3298
-"COK","EU Institutions","ODA Grants","Disaster Prevention & Preparedness",2012,0.622313,0.661843
-"COK","EU Institutions","ODA Grants","Disaster Prevention & Preparedness",2013,0.303904,0.309088
+"COK","EU Institutions","ODA Grants","Disaster Prevention & Preparedness",2012,0.022494,0.023922
+"COK","EU Institutions","ODA Grants","Disaster Prevention & Preparedness",2013,0.131533,0.133776
 "COK","EU Institutions","ODA Grants","Disaster Prevention & Preparedness",2014,0.003098,0.003123
-"COK","EU Institutions","ODA Grants","Disaster Prevention & Preparedness",2015,0.077693,0.092396
-"COK","EU Institutions","ODA Grants","Emergency Response",2011,0.070078,0.06977
-"COK","EU Institutions","ODA Grants","Emergency Response",2013,0.016729,0.017014
 "COK","EU Institutions","ODA Grants","Energy",2015,2.939545,3.495864
 "COK","EU Institutions","ODA Grants","Energy",2017,1.792357,2.055913
 "COK","EU Institutions","ODA Grants","Energy",2018,1.038593,1.120803
-"COK","EU Institutions","ODA Grants","Government & Civil Society",2008,0,0
-"COK","EU Institutions","ODA Grants","Government & Civil Society",2009,0.199137,0.201621
 "COK","EU Institutions","ODA Grants","Government & Civil Society",2011,0.222469,0.221492
-"COK","EU Institutions","ODA Grants","Health",2003,0.584646,0.815999
-"COK","EU Institutions","ODA Grants","Health",2004,1.191738,1.483685
-"COK","EU Institutions","ODA Grants","Health",2005,0.004971,0.006072
-"COK","EU Institutions","ODA Grants","Health",2006,1.0819420000000002,1.28284
-"COK","EU Institutions","ODA Grants","Health",2007,0.36618799999999996,0.388687
-"COK","EU Institutions","ODA Grants","Health",2008,0.016794,0.016584
-"COK","EU Institutions","ODA Grants","Other Social Infrastructure & Services",2010,0.033331,0.035226
-"COK","EU Institutions","ODA Grants","Unallocated / Unspecified",2012,0.102828,0.10936
-"COK","EU Institutions","ODA Grants","Unallocated / Unspecified",2013,0.081187,0.082572
 "COK","EU Institutions","ODA Grants","Water Supply & Sanitation",2013,0,0
 "COK","EU Institutions","ODA Grants","Water Supply & Sanitation",2014,1.326788,1.337526
 "COK","EU Institutions","ODA Grants","Water Supply & Sanitation",2016,1.105828,1.307477
 "COK","EU Institutions","ODA Grants","Water Supply & Sanitation",2017,0.256341,0.294035
 "COK","EU Institutions","ODA Grants","Water Supply & Sanitation",2018,0.085129,0.091868
-"COK","Food and Agriculture Organisation","ODA Grants","Agriculture, Forestry, Fishing",2013,0.094354,0.098216
-"COK","Food and Agriculture Organisation","ODA Grants","Agriculture, Forestry, Fishing",2018,0.023,0.02516
-"COK","France","ODA Grants","Education",2009,0,0
-"COK","France","ODA Grants","Education",2013,0.001567,0.001521
-"COK","France","ODA Grants","Education",2014,0.002654,0.002564
-"COK","France","ODA Grants","Education",2015,0.001575,0.0018
-"COK","France","ODA Grants","Emergency Response",1995,0.050092,0.062764
-"COK","France","ODA Grants","Government & Civil Society",2011,0,0
-"COK","France","ODA Grants","Other Multisector",1994,0.001071,0.001511
-"COK","France","ODA Grants","Other Multisector",1995,0.096177,0.120507
-"COK","France","ODA Grants","Other Multisector",1996,0.030572,0.038756
-"COK","France","ODA Grants","Other Multisector",1997,0.036645,0.052542
-"COK","France","ODA Grants","Other Multisector",2013,0.015831,0.015375
-"COK","France","ODA Grants","Other Multisector",2014,0.03668,0.035446
-"COK","France","ODA Grants","Other Social Infrastructure & Services",1995,0.009099,0.0114
-"COK","France","ODA Loans","Energy",2012,0,0
-"COK","France","ODA Loans","Energy",2013,0,0
-"COK","France","ODA Loans","Energy",2014,0,0
-"COK","France","ODA Loans","Energy",2015,0,0
-"COK","France","ODA Loans","Energy",2017,0,0
-"COK","France","ODA Loans","General Budget Support",2016,0,0
-"COK","France","ODA Loans","Transport & Storage",2018,0,0
-"COK","France","ODA Loans","Unallocated / Unspecified",1992,1.155147,1.592111
-"COK","France","ODA Loans","Unallocated / Unspecified",1993,0.441693,0.640996
-"COK","France","ODA Loans","Unallocated / Unspecified",1994,0,0
-"COK","France","ODA Loans","Unallocated / Unspecified",1995,0,0
-"COK","France","ODA Loans","Unallocated / Unspecified",1996,0,0
-"COK","France","ODA Loans","Unallocated / Unspecified",1997,0,0
-"COK","France","ODA Loans","Unallocated / Unspecified",1998,0,0
-"COK","France","ODA Loans","Unallocated / Unspecified",1999,0,0
-"COK","France","ODA Loans","Unallocated / Unspecified",2001,0,0
-"COK","France","ODA Loans","Unallocated / Unspecified",2002,0,0
-"COK","France","ODA Loans","Unallocated / Unspecified",2003,0,0
-"COK","France","ODA Loans","Unallocated / Unspecified",2004,0,0
-"COK","France","ODA Loans","Unallocated / Unspecified",2005,0,0
-"COK","France","ODA Loans","Unallocated / Unspecified",2009,0,0
-"COK","France","ODA Loans","Unallocated / Unspecified",2010,0,0
-"COK","France","ODA Loans","Unallocated / Unspecified",2011,0,0
-"COK","France","ODA Loans","Water Supply & Sanitation",1992,0,0
-"COK","France","ODA Loans","Water Supply & Sanitation",1995,0,0
-"COK","France","ODA Loans","Water Supply & Sanitation",1996,0,0
-"COK","France","ODA Loans","Water Supply & Sanitation",1997,0,0
-"COK","France","ODA Loans","Water Supply & Sanitation",1998,0,0
-"COK","France","ODA Loans","Water Supply & Sanitation",1999,0,0
-"COK","France","ODA Loans","Water Supply & Sanitation",2000,0,0
-"COK","France","ODA Loans","Water Supply & Sanitation",2001,0,0
-"COK","France","ODA Loans","Water Supply & Sanitation",2002,0,0
-"COK","France","ODA Loans","Water Supply & Sanitation",2003,0,0
-"COK","France","ODA Loans","Water Supply & Sanitation",2004,0,0
-"COK","France","ODA Loans","Water Supply & Sanitation",2005,0,0
-"COK","France","ODA Loans","Water Supply & Sanitation",2006,0,0
-"COK","France","ODA Loans","Water Supply & Sanitation",2007,0,0
-"COK","France","ODA Loans","Water Supply & Sanitation",2008,0,0
-"COK","France","ODA Loans","Water Supply & Sanitation",2009,0,0
-"COK","France","ODA Loans","Water Supply & Sanitation",2010,0,0
-"COK","France","ODA Loans","Water Supply & Sanitation",2011,0,0
-"COK","France","ODA Loans","Water Supply & Sanitation",2012,0,0
-"COK","France","ODA Loans","Water Supply & Sanitation",2013,0,0
-"COK","France","ODA Loans","Water Supply & Sanitation",2014,0,0
-"COK","France","ODA Loans","Water Supply & Sanitation",2015,0,0
-"COK","France","ODA Loans","Water Supply & Sanitation",2016,0,0
-"COK","France","ODA Loans","Water Supply & Sanitation",2017,0,0
-"COK","France","ODA Loans","Water Supply & Sanitation",2018,0,0
-"COK","France","Other Official Flows (non Export Credit)","Energy",2018,0,0
-"COK","France","Other Official Flows (non Export Credit)",NA,2018,0,0
-"COK","Germany","ODA Grants","Education",1999,0,0
-"COK","Germany","ODA Grants","Education",2013,0.016259,0.017258
-"COK","Germany","ODA Grants","Education",2014,0.011808,0.012309
-"COK","Germany","ODA Grants","Education",2017,0.001706,0.002003
-"COK","Germany","ODA Grants","Education",2018,0.012458,0.013716
-"COK","Germany","ODA Grants","Education",2019,0.001724,0.001962
-"COK","Germany","ODA Grants","Other Multisector",1999,0,0
-"COK","Germany","ODA Grants","Other Multisector",2000,0,0
-"COK","Germany","ODA Grants","Other Multisector",2001,0.025972,0.047469
-"COK","Germany","ODA Grants","Other Multisector",2016,0.035465000000000003,0.043078
-"COK","Germany","ODA Grants","Other Multisector",2017,0.053913,0.063307
-"COK","Germany","ODA Grants","Other Social Infrastructure & Services",1999,0,0
-"COK","Germany","ODA Grants","Unallocated / Unspecified",1999,0,0
-"COK","Germany","ODA Grants","Unallocated / Unspecified",2000,0,0
-"COK","Germany","ODA Grants","Unallocated / Unspecified",2001,0.013434,0.024553
-"COK","Germany","ODA Grants","Unallocated / Unspecified",2002,0.013194000000000001,0.022578
-"COK","Germany","ODA Grants","Unallocated / Unspecified",2003,0.016947,0.023874
 "COK","Global Environment Facility","ODA Grants","Energy",2015,0,0
 "COK","Global Environment Facility","ODA Grants","Energy",2017,2.387983,2.721746
 "COK","Global Environment Facility","ODA Grants","Energy",2018,0.445418,0.487243
-"COK","Global Environment Facility","ODA Grants","General Environment Protection",2001,0.068073,0.108464
-"COK","Global Environment Facility","ODA Grants","General Environment Protection",2003,0.067,0.091947
-"COK","Global Environment Facility","ODA Grants","General Environment Protection",2004,0.158667,0.20158500000000001
-"COK","Global Environment Facility","ODA Grants","General Environment Protection",2005,0.133667,0.16512
-"COK","Global Environment Facility","ODA Grants","General Environment Protection",2006,0.066667,0.079755
-"COK","Global Environment Facility","ODA Grants","General Environment Protection",2008,0.096917,0.103137
-"COK","Global Environment Facility","ODA Grants","General Environment Protection",2009,0.096917,0.106912
-"COK","Global Environment Facility","ODA Grants","General Environment Protection",2010,0.096917,0.10581
 "COK","Global Environment Facility","ODA Grants","General Environment Protection",2013,0,0
-"COK","Global Environment Facility","ODA Grants","General Environment Protection",2014,1.386865,1.443607
-"COK","Global Environment Facility","ODA Grants","General Environment Protection",2015,1.2368649999999999,1.424795
-"COK","Global Environment Facility","ODA Grants","General Environment Protection",2016,1.2368649999999999,1.439419
-"COK","Global Environment Facility","ODA Grants","General Environment Protection",2017,1.920889,2.1893659999999997
-"COK","Global Environment Facility","ODA Grants","General Environment Protection",2018,0.883285,0.966225
-"COK","Global Environment Facility","ODA Grants","Unallocated / Unspecified",2019,0.7972,0.886662
-"COK","Green Climate Fund","ODA Grants","Government & Civil Society",2015,0,0
-"COK","Green Climate Fund","ODA Grants","Government & Civil Society",2016,0.135,0.157108
-"COK","Green Climate Fund","ODA Grants","Government & Civil Society",2017,0.29054599999999997,0.33115500000000003
-"COK","Green Climate Fund","ODA Grants","Government & Civil Society",2018,0.027084,0.029627
-"COK","Green Climate Fund","ODA Grants","Government & Civil Society",2019,0.7429479999999999,0.826322
-"COK","International Labour Organisation","ODA Grants","Government & Civil Society",2018,0.0017,0.0018600000000000001
-"COK","International Labour Organisation","ODA Grants","Other Social Infrastructure & Services",2018,0.049789,0.054463
-"COK","International Labour Organisation","ODA Grants","Other Social Infrastructure & Services",2019,0.24692999999999998,0.27464099999999997
-"COK","Italy","ODA Grants","Action Relating to Debt",2006,24.47,28.288023
-"COK","Italy","ODA Grants","Health",2008,0.057695,0.055313
-"COK","Japan","ODA Grants","Agriculture, Forestry, Fishing",2003,0.018723,0.015379
-"COK","Japan","ODA Grants","Agriculture, Forestry, Fishing",2004,0.011101,0.008601
-"COK","Japan","ODA Grants","Agriculture, Forestry, Fishing",2010,0.019872,0.013295
+"COK","Global Environment Facility","ODA Grants","General Environment Protection",2016,0.853486,0.993256
 "COK","Japan","ODA Grants","Agriculture, Forestry, Fishing",2012,0.123413,0.076909
-"COK","Japan","ODA Grants","Agriculture, Forestry, Fishing",2013,0.102334,0.078256
-"COK","Japan","ODA Grants","Agriculture, Forestry, Fishing",2014,0.092791,0.075685
-"COK","Japan","ODA Grants","Agriculture, Forestry, Fishing",2015,0.13599699999999998,0.12418599999999999
-"COK","Japan","ODA Grants","Agriculture, Forestry, Fishing",2016,0.015404000000000001,0.012595
-"COK","Japan","ODA Grants","Agriculture, Forestry, Fishing",2017,0.085901,0.072473
-"COK","Japan","ODA Grants","Agriculture, Forestry, Fishing",2019,0.075796,0.061768000000000003
-"COK","Japan","ODA Grants","Banking & Financial Services",2005,0.011926,0.009525
-"COK","Japan","ODA Grants","Communications",1994,0,0
-"COK","Japan","ODA Grants","Communications",2007,0.03466,0.03009
-"COK","Japan","ODA Grants","Communications",2008,0.006783,0.005221
-"COK","Japan","ODA Grants","Communications",2014,0.011951,0.009748
-"COK","Japan","ODA Grants","Communications",2015,0.004495,0.004105
-"COK","Japan","ODA Grants","Disaster Prevention & Preparedness",2010,0.004626,0.003095
-"COK","Japan","ODA Grants","Disaster Prevention & Preparedness",2012,0.016263,0.010135
-"COK","Japan","ODA Grants","Disaster Prevention & Preparedness",2014,0.009825,0.008014
-"COK","Japan","ODA Grants","Disaster Prevention & Preparedness",2016,0.075747,0.061935
-"COK","Japan","ODA Grants","Disaster Prevention & Preparedness",2017,0.121086,0.102158
-"COK","Japan","ODA Grants","Education",2003,0.012942,0.010631
-"COK","Japan","ODA Grants","Education",2004,0.006938,0.005376
-"COK","Japan","ODA Grants","Education",2005,0.019827,0.015837
-"COK","Japan","ODA Grants","Education",2010,0.019941,0.013341
-"COK","Japan","ODA Grants","Education",2011,0.015808,0.009764
-"COK","Japan","ODA Grants","Education",2012,0.02571,0.016023
-"COK","Japan","ODA Grants","Education",2013,0.022286999999999998,0.017044
-"COK","Japan","ODA Grants","Education",2014,0.094377,0.076978
-"COK","Japan","ODA Grants","Education",2015,0.09918,0.090566
-"COK","Japan","ODA Grants","Education",2017,0.057883,0.048835
-"COK","Japan","ODA Grants","Education",2018,0.251806,0.20914
-"COK","Japan","ODA Grants","Education",2019,0.028716,0.023400999999999998
-"COK","Japan","ODA Grants","Energy",2009,0.008854,0.006186
-"COK","Japan","ODA Grants","Energy",2010,0.011338,0.007585
-"COK","Japan","ODA Grants","Energy",2012,0.027639,0.017224
-"COK","Japan","ODA Grants","Energy",2013,0.01243,0.009505000000000001
+"COK","Japan","ODA Grants","Disaster Prevention & Preparedness",2010,0.002233,0.001494
 "COK","Japan","ODA Grants","Energy",2014,0.002598,0.002119
-"COK","Japan","ODA Grants","Energy",2019,0.014555,0.011861
-"COK","Japan","ODA Grants","General Environment Protection",2003,0.014668,0.012048
-"COK","Japan","ODA Grants","General Environment Protection",2004,0.022017,0.01706
-"COK","Japan","ODA Grants","General Environment Protection",2005,0.007103,0.005673
-"COK","Japan","ODA Grants","General Environment Protection",2006,0.041151,0.035051
-"COK","Japan","ODA Grants","General Environment Protection",2007,0.011876000000000001,0.01031
-"COK","Japan","ODA Grants","General Environment Protection",2009,0.009786000000000001,0.006836
-"COK","Japan","ODA Grants","General Environment Protection",2012,0.001291,8.04e-4
-"COK","Japan","ODA Grants","General Environment Protection",2013,0.004027,0.0030800000000000003
-"COK","Japan","ODA Grants","General Environment Protection",2014,0.006633,0.00541
-"COK","Japan","ODA Grants","Government & Civil Society",2003,0.016566,0.013608
-"COK","Japan","ODA Grants","Government & Civil Society",2004,0.02803,0.021719
+"COK","Japan","ODA Grants","General Environment Protection",2003,0,0
+"COK","Japan","ODA Grants","General Environment Protection",2006,0.007973,0.006791
+"COK","Japan","ODA Grants","General Environment Protection",2009,0.009775,0.006829
 "COK","Japan","ODA Grants","Government & Civil Society",2014,0.004799,0.003915
-"COK","Japan","ODA Grants","Government & Civil Society",2015,0.055931999999999996,0.051075
 "COK","Japan","ODA Grants","Government & Civil Society",2016,0.002353,0.001924
-"COK","Japan","ODA Grants","Government & Civil Society",2017,0.024852,0.020967
-"COK","Japan","ODA Grants","Government & Civil Society",2018,0.00881,0.007318
-"COK","Japan","ODA Grants","Health",2003,0.012425,0.010206
-"COK","Japan","ODA Grants","Health",2004,0.024977,0.019353
-"COK","Japan","ODA Grants","Health",2005,0.007866,0.006282
-"COK","Japan","ODA Grants","Health",2012,0.154949,0.096563
-"COK","Japan","ODA Grants","Health",2013,0.101833,0.077872
-"COK","Japan","ODA Grants","Health",2014,0.013094999999999999,0.010679999999999999
-"COK","Japan","ODA Grants","Health",2016,0.10562200000000001,0.08636200000000001
-"COK","Japan","ODA Grants","Health",2017,0.09478400000000001,0.079969
-"COK","Japan","ODA Grants","Health",2018,0.037026,0.030752
-"COK","Japan","ODA Grants","Health",2019,0.013032,0.01062
-"COK","Japan","ODA Grants","Industry, Mining, Construction",2003,0.005695,0.004678
-"COK","Japan","ODA Grants","Industry, Mining, Construction",2004,0.02803,0.021719
-"COK","Japan","ODA Grants","Industry, Mining, Construction",2005,0.062616,0.050013
-"COK","Japan","ODA Grants","Industry, Mining, Construction",2006,0.013926,0.011862
-"COK","Japan","ODA Grants","Other Commodity Assistance",2015,0.826431,0.754655
-"COK","Japan","ODA Grants","Other Multisector",2013,0.0024490000000000002,0.0018729999999999999
+"COK","Japan","ODA Grants","Government & Civil Society",2017,0.002879,0.002429
 "COK","Japan","ODA Grants","Other Multisector",2018,1.810974,1.504121
-"COK","Japan","ODA Grants","Other Multisector",2019,0.09935799999999999,0.080969
-"COK","Japan","ODA Grants","Other Social Infrastructure & Services",2003,0.020966,0.017222
-"COK","Japan","ODA Grants","Other Social Infrastructure & Services",2004,0.02581,0.019998
-"COK","Japan","ODA Grants","Other Social Infrastructure & Services",2005,0.052897,0.04225
-"COK","Japan","ODA Grants","Other Social Infrastructure & Services",2006,0.070936,0.060421
-"COK","Japan","ODA Grants","Other Social Infrastructure & Services",2007,0.04876,0.042331
-"COK","Japan","ODA Grants","Other Social Infrastructure & Services",2008,0.011188,0.008612
-"COK","Japan","ODA Grants","Other Social Infrastructure & Services",2010,0.018209,0.012182
-"COK","Japan","ODA Grants","Other Social Infrastructure & Services",2011,0.031678,0.019567
-"COK","Japan","ODA Grants","Other Social Infrastructure & Services",2012,0.026937000000000003,0.016788
-"COK","Japan","ODA Grants","Other Social Infrastructure & Services",2013,0.027575000000000002,0.021086
-"COK","Japan","ODA Grants","Other Social Infrastructure & Services",2014,0.04345,0.03544
-"COK","Japan","ODA Grants","Other Social Infrastructure & Services",2015,0.007678,0.007011
-"COK","Japan","ODA Grants","Other Social Infrastructure & Services",2016,0.002077,0.001698
-"COK","Japan","ODA Grants","Other Social Infrastructure & Services",2017,0.004144999999999999,0.0034980000000000002
-"COK","Japan","ODA Grants","Other Social Infrastructure & Services",2018,0.001974,0.001639
-"COK","Japan","ODA Grants","Other Social Infrastructure & Services",2019,0.007529,0.006136
-"COK","Japan","ODA Grants","Population Policies/Programmes",2013,0.017676,0.013517
-"COK","Japan","ODA Grants","Tourism",2015,0.030148,0.027528999999999998
-"COK","Japan","ODA Grants","Tourism",2016,0.027996,0.022890999999999998
-"COK","Japan","ODA Grants","Trade Policies & Regulations",2003,0.033995,0.027924
-"COK","Japan","ODA Grants","Trade Policies & Regulations",2006,0.016357,0.013933
-"COK","Japan","ODA Grants","Trade Policies & Regulations",2009,0.018929,0.013225
-"COK","Japan","ODA Grants","Trade Policies & Regulations",2012,0.030296,0.01888
-"COK","Japan","ODA Grants","Transport & Storage",2003,0.016393,0.013466
-"COK","Japan","ODA Grants","Transport & Storage",2004,0.010176,0.007885
-"COK","Japan","ODA Grants","Transport & Storage",2019,0.002016,0.001643
-"COK","Japan","ODA Grants","Unallocated / Unspecified",2003,0.014496,0.011906
-"COK","Japan","ODA Grants","Unallocated / Unspecified",2004,0.008141,0.006308
-"COK","Japan","ODA Grants","Unallocated / Unspecified",2005,0.006857,0.005477
-"COK","Japan","ODA Grants","Unallocated / Unspecified",2009,6.4e-5,4.5e-5
-"COK","Japan","ODA Grants","Water Supply & Sanitation",2003,0.028387,0.023317
-"COK","Japan","ODA Grants","Water Supply & Sanitation",2005,0.007657,0.006116
-"COK","Japan","ODA Grants","Water Supply & Sanitation",2006,0.02939,0.025033
-"COK","Japan","ODA Grants","Water Supply & Sanitation",2007,3.65e-4,3.17e-4
-"COK","Japan","ODA Grants","Water Supply & Sanitation",2009,0.010171000000000001,0.007106
-"COK","Japan","ODA Grants","Water Supply & Sanitation",2010,0.018231,0.012197
-"COK","Japan","ODA Grants","Water Supply & Sanitation",2011,0.017916,0.011066
-"COK","Japan","ODA Grants","Water Supply & Sanitation",2012,0.029268,0.018239
-"COK","Japan","ODA Grants","Water Supply & Sanitation",2013,0.021529,0.016463
-"COK","Japan","ODA Grants","Water Supply & Sanitation",2014,0.020974,0.017107
-"COK","Japan","ODA Grants","Water Supply & Sanitation",2015,0.074863,0.068361
-"COK","Japan","ODA Grants","Water Supply & Sanitation",2017,0.120496,0.10166
-"COK","Japan","ODA Grants","Water Supply & Sanitation",2019,0.215609,0.175704
-"COK","Korea","ODA Grants","Agriculture, Forestry, Fishing",2013,0.013597,0.013452
-"COK","Korea","ODA Grants","Communications",2011,0.015848,0.016238000000000002
-"COK","Korea","ODA Grants","Communications",2012,0.016468,0.016938
-"COK","Korea","ODA Grants","Communications",2015,0.197085,0.19318
-"COK","Korea","ODA Grants","Disaster Prevention & Preparedness",2014,0.020616,0.019417
+"COK","Japan","ODA Grants","Water Supply & Sanitation",2009,0.010096,0.007054
 "COK","Korea","ODA Grants","Disaster Prevention & Preparedness",2015,0.008094,0.007934
-"COK","Korea","ODA Grants","Education",2019,0.021479,0.02084
 "COK","Korea","ODA Grants","Energy",2016,0.008648,0.00852
 "COK","Korea","ODA Grants","General Environment Protection",2012,0.008443,0.008684
 "COK","Korea","ODA Grants","General Environment Protection",2013,0.012165,0.012035
 "COK","Korea","ODA Grants","General Environment Protection",2015,0.008952,0.008775
-"COK","Korea","ODA Grants","Government & Civil Society",2011,0.098312,0.100732
-"COK","Korea","ODA Grants","Government & Civil Society",2012,0.00777,0.007992
-"COK","Korea","ODA Grants","Government & Civil Society",2013,0.087125,0.086195
-"COK","Korea","ODA Grants","Government & Civil Society",2016,0.006463,0.006368
-"COK","Korea","ODA Grants","Government & Civil Society",2017,0.00406,0.00382
-"COK","Korea","ODA Grants","Health",2018,0.159334,0.145045
-"COK","Korea","ODA Grants","Transport & Storage",2017,0.006721,0.006323
-"COK","New Zealand","ODA Grants","Agriculture, Forestry, Fishing",1995,0,0
-"COK","New Zealand","ODA Grants","Agriculture, Forestry, Fishing",2002,0.013868,0.03182
-"COK","New Zealand","ODA Grants","Agriculture, Forestry, Fishing",2003,0.01993,0.035996
-"COK","New Zealand","ODA Grants","Agriculture, Forestry, Fishing",2004,0.21429399999999998,0.327747
+"COK","New Zealand","ODA Grants","Agriculture, Forestry, Fishing",2002,0,0
+"COK","New Zealand","ODA Grants","Agriculture, Forestry, Fishing",2004,0.207667,0.317612
 "COK","New Zealand","ODA Grants","Agriculture, Forestry, Fishing",2005,0.070383,0.098782
 "COK","New Zealand","ODA Grants","Agriculture, Forestry, Fishing",2006,0.660096,0.980058
-"COK","New Zealand","ODA Grants","Agriculture, Forestry, Fishing",2007,1.249348,1.568285
 "COK","New Zealand","ODA Grants","Agriculture, Forestry, Fishing",2008,0.694561,0.891233
 "COK","New Zealand","ODA Grants","Agriculture, Forestry, Fishing",2009,0.846411,1.190467
-"COK","New Zealand","ODA Grants","Agriculture, Forestry, Fishing",2010,0.483463,0.573553
-"COK","New Zealand","ODA Grants","Agriculture, Forestry, Fishing",2011,1.196884,1.259286
-"COK","New Zealand","ODA Grants","Agriculture, Forestry, Fishing",2012,1.398616,1.4392859999999998
-"COK","New Zealand","ODA Grants","Agriculture, Forestry, Fishing",2013,0.130351,0.128256
-"COK","New Zealand","ODA Grants","Agriculture, Forestry, Fishing",2014,0.004044,0.003843
-"COK","New Zealand","ODA Grants","Agriculture, Forestry, Fishing",2015,0.003486,0.003927
-"COK","New Zealand","ODA Grants","Banking & Financial Services",1995,0,0
-"COK","New Zealand","ODA Grants","Banking & Financial Services",2002,0.016641,0.038184
-"COK","New Zealand","ODA Grants","Banking & Financial Services",2003,0.027175,0.04908
-"COK","New Zealand","ODA Grants","Banking & Financial Services",2011,0.236549,0.248882
-"COK","New Zealand","ODA Grants","Banking & Financial Services",2012,0.214221,0.220451
-"COK","New Zealand","ODA Grants","Business & Other Services",2002,0.016179,0.037123
-"COK","New Zealand","ODA Grants","Business & Other Services",2004,0.057932,0.088603
-"COK","New Zealand","ODA Grants","Business & Other Services",2007,0.00245,0.003075
-"COK","New Zealand","ODA Grants","Communications",1995,0,0
-"COK","New Zealand","ODA Grants","Communications",2017,0,0
-"COK","New Zealand","ODA Grants","Communications",2018,5.637797,6.003002
-"COK","New Zealand","ODA Grants","Communications",2019,4.324551,4.723201
-"COK","New Zealand","ODA Grants","Disaster Prevention & Preparedness",2006,0,0
-"COK","New Zealand","ODA Grants","Disaster Prevention & Preparedness",2007,0.010693,0.013423
-"COK","New Zealand","ODA Grants","Disaster Prevention & Preparedness",2009,0.004026,0.005663
-"COK","New Zealand","ODA Grants","Disaster Prevention & Preparedness",2010,0.711004,0.843495
-"COK","New Zealand","ODA Grants","Disaster Prevention & Preparedness",2011,0.053578,0.056372
+"COK","New Zealand","ODA Grants","Banking & Financial Services",2002,0,0
+"COK","New Zealand","ODA Grants","Disaster Prevention & Preparedness",2010,0.691349,0.820177
+"COK","New Zealand","ODA Grants","Disaster Prevention & Preparedness",2011,0.045625,0.048004
 "COK","New Zealand","ODA Grants","Disaster Prevention & Preparedness",2012,0.005112,0.005261
-"COK","New Zealand","ODA Grants","Education",1995,0,0
-"COK","New Zealand","ODA Grants","Education",2002,1.972913,4.526883
-"COK","New Zealand","ODA Grants","Education",2003,1.408614,2.544029
-"COK","New Zealand","ODA Grants","Education",2004,2.002948,3.063363
-"COK","New Zealand","ODA Grants","Education",2005,3.0517990000000004,4.283164
-"COK","New Zealand","ODA Grants","Education",2006,3.525944,5.235047
-"COK","New Zealand","ODA Grants","Education",2007,2.068739,2.596853
-"COK","New Zealand","ODA Grants","Education",2008,2.627851,3.371956
-"COK","New Zealand","ODA Grants","Education",2009,1.315388,1.8500780000000001
-"COK","New Zealand","ODA Grants","Education",2010,3.844166,4.560499
-"COK","New Zealand","ODA Grants","Education",2011,3.0589120000000003,3.2183980000000005
-"COK","New Zealand","ODA Grants","Education",2012,4.070656,4.189029
-"COK","New Zealand","ODA Grants","Education",2013,3.508683,3.4522939999999998
-"COK","New Zealand","ODA Grants","Education",2014,3.5943329999999998,3.416048
-"COK","New Zealand","ODA Grants","Education",2015,1.491714,1.6803179999999998
-"COK","New Zealand","ODA Grants","Education",2016,3.8349550000000003,4.248332
-"COK","New Zealand","ODA Grants","Education",2017,5.08029,5.342746999999999
-"COK","New Zealand","ODA Grants","Education",2018,0.353325,0.376213
-"COK","New Zealand","ODA Grants","Education",2019,0.196505,0.214618
-"COK","New Zealand","ODA Grants","Emergency Response",1995,0,0
-"COK","New Zealand","ODA Grants","Emergency Response",2002,0.002311,0.0053040000000000006
-"COK","New Zealand","ODA Grants","Emergency Response",2003,0.058005,0.104759
-"COK","New Zealand","ODA Grants","Emergency Response",2005,1.097973,1.5409920000000001
-"COK","New Zealand","ODA Grants","Emergency Response",2006,0.072327,0.10738600000000001
-"COK","New Zealand","ODA Grants","Emergency Response",2007,0.098955,0.124216
-"COK","New Zealand","ODA Grants","Emergency Response",2008,0.083899,0.107657
-"COK","New Zealand","ODA Grants","Emergency Response",2009,0.140241,0.197247
-"COK","New Zealand","ODA Grants","Emergency Response",2010,0.280494,0.332762
+"COK","New Zealand","ODA Grants","Emergency Response",2010,0.076184,0.090381
 "COK","New Zealand","ODA Grants","Emergency Response",2011,1.0872,1.1438840000000001
 "COK","New Zealand","ODA Grants","Emergency Response",2012,0.127912,0.131632
-"COK","New Zealand","ODA Grants","Emergency Response",2013,0.044765,0.044045
-"COK","New Zealand","ODA Grants","Energy",2002,0.01849,0.042426
-"COK","New Zealand","ODA Grants","Energy",2011,0.050504,0.053137
-"COK","New Zealand","ODA Grants","Energy",2012,0.535053,0.550612
-"COK","New Zealand","ODA Grants","Energy",2013,0.509173,0.50099
-"COK","New Zealand","ODA Grants","Energy",2014,13.198584,12.543911
-"COK","New Zealand","ODA Grants","Energy",2015,5.372466999999999,6.051744
+"COK","New Zealand","ODA Grants","Energy",2014,10.092729,9.592112
+"COK","New Zealand","ODA Grants","Energy",2015,5.224835,5.885446
 "COK","New Zealand","ODA Grants","Energy",2016,0.067399,0.074664
-"COK","New Zealand","ODA Grants","General Budget Support",1995,0,0
-"COK","New Zealand","ODA Grants","General Budget Support",2015,3.486264,3.927056
-"COK","New Zealand","ODA Grants","General Budget Support",2016,2.420223,2.681104
-"COK","New Zealand","ODA Grants","General Environment Protection",1995,0,0
-"COK","New Zealand","ODA Grants","General Environment Protection",2002,0,0
-"COK","New Zealand","ODA Grants","General Environment Protection",2003,0.18310300000000002,0.330694
-"COK","New Zealand","ODA Grants","General Environment Protection",2005,0.08305099999999999,0.116562
-"COK","New Zealand","ODA Grants","General Environment Protection",2006,0.084096,0.12486
-"COK","New Zealand","ODA Grants","General Environment Protection",2012,0.032193,0.033129
-"COK","New Zealand","ODA Grants","General Environment Protection",2014,0.200025,0.190103
-"COK","New Zealand","ODA Grants","General Environment Protection",2015,0.193571,0.218045
-"COK","New Zealand","ODA Grants","General Environment Protection",2016,0.072126,0.079901
-"COK","New Zealand","ODA Grants","General Environment Protection",2017,0.159869,0.168128
-"COK","New Zealand","ODA Grants","General Environment Protection",2018,0.105849,0.112706
-"COK","New Zealand","ODA Grants","General Environment Protection",2019,0.071838,0.07846
-"COK","New Zealand","ODA Grants","Government & Civil Society",1995,0,0
-"COK","New Zealand","ODA Grants","Government & Civil Society",2002,0.323117,0.741399
-"COK","New Zealand","ODA Grants","Government & Civil Society",2003,0.20268,0.36605
-"COK","New Zealand","ODA Grants","Government & Civil Society",2004,0.197574,0.302176
-"COK","New Zealand","ODA Grants","Government & Civil Society",2005,0.163993,0.230162
-"COK","New Zealand","ODA Grants","Government & Civil Society",2006,0.349291,0.518601
-"COK","New Zealand","ODA Grants","Government & Civil Society",2007,0.30237600000000003,0.379567
-"COK","New Zealand","ODA Grants","Government & Civil Society",2008,0.407281,0.522607
-"COK","New Zealand","ODA Grants","Government & Civil Society",2009,0.564798,0.794381
-"COK","New Zealand","ODA Grants","Government & Civil Society",2010,0.632535,0.750403
-"COK","New Zealand","ODA Grants","Government & Civil Society",2011,0.547337,0.575874
-"COK","New Zealand","ODA Grants","Government & Civil Society",2012,0.9158270000000001,0.94246
-"COK","New Zealand","ODA Grants","Government & Civil Society",2013,0.8987890000000001,0.884345
-"COK","New Zealand","ODA Grants","Government & Civil Society",2014,1.262676,1.200045
-"COK","New Zealand","ODA Grants","Government & Civil Society",2015,0.119762,0.134904
-"COK","New Zealand","ODA Grants","Health",1995,0,0
-"COK","New Zealand","ODA Grants","Health",2002,0.212176,0.486841
-"COK","New Zealand","ODA Grants","Health",2003,0.6339790000000001,1.1449999999999998
-"COK","New Zealand","ODA Grants","Health",2004,0.469417,0.7179380000000001
-"COK","New Zealand","ODA Grants","Health",2005,0.170327,0.239051
-"COK","New Zealand","ODA Grants","Health",2006,0.254181,0.37738900000000003
-"COK","New Zealand","ODA Grants","Health",2007,0.347501,0.436212
-"COK","New Zealand","ODA Grants","Health",2008,0.29643,0.380366
-"COK","New Zealand","ODA Grants","Health",2009,0.211818,0.297919
-"COK","New Zealand","ODA Grants","Health",2010,0.349806,0.41498999999999997
-"COK","New Zealand","ODA Grants","Health",2011,0.234275,0.24649
-"COK","New Zealand","ODA Grants","Health",2012,0.6369589999999999,0.655481
-"COK","New Zealand","ODA Grants","Health",2013,0.439829,0.43276
-"COK","New Zealand","ODA Grants","Health",2014,0.445214,0.423131
-"COK","New Zealand","ODA Grants","Health",2015,0.22323099999999998,0.251455
-"COK","New Zealand","ODA Grants","Health",2016,0.051927,0.057524
-"COK","New Zealand","ODA Grants","Health",2018,0.032614,0.034727
-"COK","New Zealand","ODA Grants","Health",2019,0.073729,0.080525
-"COK","New Zealand","ODA Grants","Industry, Mining, Construction",1995,0,0
-"COK","New Zealand","ODA Grants","Industry, Mining, Construction",2002,0,0
-"COK","New Zealand","ODA Grants","Industry, Mining, Construction",2005,0.035191,0.049391
-"COK","New Zealand","ODA Grants","Industry, Mining, Construction",2006,0.103092,0.153064
-"COK","New Zealand","ODA Grants","Industry, Mining, Construction",2009,0,0
-"COK","New Zealand","ODA Grants","Other Multisector",1995,0,0
-"COK","New Zealand","ODA Grants","Other Multisector",2002,0.01433,0.032881
-"COK","New Zealand","ODA Grants","Other Multisector",2003,0.212042,0.382958
-"COK","New Zealand","ODA Grants","Other Multisector",2004,0.6901780000000001,1.055578
-"COK","New Zealand","ODA Grants","Other Multisector",2005,1.144425,1.606188
-"COK","New Zealand","ODA Grants","Other Multisector",2006,1.855892,2.755482
-"COK","New Zealand","ODA Grants","Other Multisector",2007,0.066588,0.083587
-"COK","New Zealand","ODA Grants","Other Multisector",2008,0.919104,1.1793589999999998
-"COK","New Zealand","ODA Grants","Other Multisector",2009,0.026358,0.037072
-"COK","New Zealand","ODA Grants","Other Multisector",2010,-0.16590399999999983,-0.19681900000000008
-"COK","New Zealand","ODA Grants","Other Multisector",2011,1.009658,1.062299
-"COK","New Zealand","ODA Grants","Other Multisector",2012,0.082474,0.084872
-"COK","New Zealand","ODA Grants","Other Multisector",2013,0.086181,0.084796
-"COK","New Zealand","ODA Grants","Other Multisector",2014,0.051776,0.049207
-"COK","New Zealand","ODA Grants","Other Multisector",2015,0.333336,0.37548200000000004
-"COK","New Zealand","ODA Grants","Other Multisector",2016,3.529592,3.9100539999999997
-"COK","New Zealand","ODA Grants","Other Multisector",2017,6.20577,6.526370999999999
-"COK","New Zealand","ODA Grants","Other Multisector",2018,14.763226,15.719557
-"COK","New Zealand","ODA Grants","Other Multisector",2019,19.413249,21.202818
-"COK","New Zealand","ODA Grants","Other Social Infrastructure & Services",2002,0,0
-"COK","New Zealand","ODA Grants","Other Social Infrastructure & Services",2003,0.02681,0.04842
-"COK","New Zealand","ODA Grants","Other Social Infrastructure & Services",2004,0.092843,0.141996
-"COK","New Zealand","ODA Grants","Other Social Infrastructure & Services",2005,0.333615,0.46822400000000003
-"COK","New Zealand","ODA Grants","Other Social Infrastructure & Services",2006,0.164668,0.244485
-"COK","New Zealand","ODA Grants","Other Social Infrastructure & Services",2007,0.20560799999999999,0.258094
-"COK","New Zealand","ODA Grants","Other Social Infrastructure & Services",2008,0.158166,0.202952
-"COK","New Zealand","ODA Grants","Other Social Infrastructure & Services",2009,0.143217,0.201434
-"COK","New Zealand","ODA Grants","Other Social Infrastructure & Services",2010,0.21254,0.252146
-"COK","New Zealand","ODA Grants","Other Social Infrastructure & Services",2011,0.215308,0.226534
-"COK","New Zealand","ODA Grants","Other Social Infrastructure & Services",2012,0.184213,0.18956900000000002
-"COK","New Zealand","ODA Grants","Other Social Infrastructure & Services",2013,0.687946,0.67689
-"COK","New Zealand","ODA Grants","Other Social Infrastructure & Services",2014,0.471985,0.448574
-"COK","New Zealand","ODA Grants","Other Social Infrastructure & Services",2015,0.738474,0.831845
-"COK","New Zealand","ODA Grants","Other Social Infrastructure & Services",2016,0.201715,0.223459
-"COK","New Zealand","ODA Grants","Population Policies/Programmes",2008,0.009905,0.012709
-"COK","New Zealand","ODA Grants","Reconstruction Relief & Rehabilitation",2004,3.91e-4,5.98e-4
-"COK","New Zealand","ODA Grants","Reconstruction Relief & Rehabilitation",2005,0.038007,0.053342
-"COK","New Zealand","ODA Grants","Reconstruction Relief & Rehabilitation",2006,0.023964,0.035581
-"COK","New Zealand","ODA Grants","Reconstruction Relief & Rehabilitation",2009,0.043387999999999996,0.061023999999999995
-"COK","New Zealand","ODA Grants","Reconstruction Relief & Rehabilitation",2010,2.12737,2.52379
+"COK","New Zealand","ODA Grants","General Environment Protection",2003,0,0
+"COK","New Zealand","ODA Grants","General Environment Protection",2005,0,0
+"COK","New Zealand","ODA Grants","General Environment Protection",2006,0.005399,0.008016
+"COK","New Zealand","ODA Grants","Government & Civil Society",2002,0.031433,0.072125
+"COK","New Zealand","ODA Grants","Health",2002,0.050848,0.116672
+"COK","New Zealand","ODA Grants","Industry, Mining, Construction",2006,0,0
+"COK","New Zealand","ODA Grants","Other Multisector",2002,0.004623,0.010607
+"COK","New Zealand","ODA Grants","Other Multisector",2006,0,0
+"COK","New Zealand","ODA Grants","Other Multisector",2018,8.992806,9.575341
+"COK","New Zealand","ODA Grants","Other Multisector",2019,7.575856,8.27422
+"COK","New Zealand","ODA Grants","Reconstruction Relief & Rehabilitation",2006,0,0
+"COK","New Zealand","ODA Grants","Reconstruction Relief & Rehabilitation",2010,2.126263,2.522477
 "COK","New Zealand","ODA Grants","Reconstruction Relief & Rehabilitation",2011,2.337437,2.459306
 "COK","New Zealand","ODA Grants","Reconstruction Relief & Rehabilitation",2012,0.208243,0.21429800000000002
-"COK","New Zealand","ODA Grants","Tourism",2002,0,0
-"COK","New Zealand","ODA Grants","Tourism",2003,0.087007,0.157139
-"COK","New Zealand","ODA Grants","Tourism",2011,1.981034,2.084322
-"COK","New Zealand","ODA Grants","Tourism",2012,2.834238,2.916656
-"COK","New Zealand","ODA Grants","Tourism",2013,2.409244,2.370524
-"COK","New Zealand","ODA Grants","Tourism",2014,2.487975,2.364567
-"COK","New Zealand","ODA Grants","Tourism",2015,0.376913,0.424568
-"COK","New Zealand","ODA Grants","Trade Policies & Regulations",2002,0,0
-"COK","New Zealand","ODA Grants","Trade Policies & Regulations",2003,0.073991,0.133631
-"COK","New Zealand","ODA Grants","Trade Policies & Regulations",2008,0.098957,0.126977
-"COK","New Zealand","ODA Grants","Trade Policies & Regulations",2009,0.001946,0.002737
-"COK","New Zealand","ODA Grants","Trade Policies & Regulations",2010,0,0
-"COK","New Zealand","ODA Grants","Trade Policies & Regulations",2011,0.037118,0.039053
-"COK","New Zealand","ODA Grants","Trade Policies & Regulations",2012,0.818048,0.841836
-"COK","New Zealand","ODA Grants","Trade Policies & Regulations",2013,0.372127,0.366146
-"COK","New Zealand","ODA Grants","Trade Policies & Regulations",2014,0.345606,0.328463
-"COK","New Zealand","ODA Grants","Trade Policies & Regulations",2015,0.094129,0.106031
-"COK","New Zealand","ODA Grants","Trade Policies & Regulations",2016,0.058727,0.065057
-"COK","New Zealand","ODA Grants","Trade Policies & Regulations",2018,0,0
-"COK","New Zealand","ODA Grants","Trade Policies & Regulations",2019,0.105303,0.11501
-"COK","New Zealand","ODA Grants","Transport & Storage",1995,0,0
-"COK","New Zealand","ODA Grants","Transport & Storage",2002,0,0
-"COK","New Zealand","ODA Grants","Transport & Storage",2003,0.40280699999999997,0.727491
-"COK","New Zealand","ODA Grants","Transport & Storage",2005,0.01478,0.020744
-"COK","New Zealand","ODA Grants","Transport & Storage",2009,0.625469,0.879715
-"COK","New Zealand","ODA Grants","Transport & Storage",2010,0.874601,1.037578
-"COK","New Zealand","ODA Grants","Transport & Storage",2011,1.741438,1.8322349999999998
-"COK","New Zealand","ODA Grants","Transport & Storage",2012,4.344746,4.471089
-"COK","New Zealand","ODA Grants","Transport & Storage",2013,0.12581799999999999,0.123796
-"COK","New Zealand","ODA Grants","Transport & Storage",2014,0.003119,0.002964
-"COK","New Zealand","ODA Grants","Transport & Storage",2015,0.9473849999999999,1.067169
-"COK","New Zealand","ODA Grants","Transport & Storage",2016,0.009762,0.010814
-"COK","New Zealand","ODA Grants","Transport & Storage",2018,0.056077,0.05971
-"COK","New Zealand","ODA Grants","Unallocated / Unspecified",2002,0,0
-"COK","New Zealand","ODA Grants","Unallocated / Unspecified",2003,0.070331,0.127021
-"COK","New Zealand","ODA Grants","Unallocated / Unspecified",2004,0.039934,0.061076
-"COK","New Zealand","ODA Grants","Unallocated / Unspecified",2005,0.045045,0.06322
-"COK","New Zealand","ODA Grants","Unallocated / Unspecified",2006,0.045376,0.067371
-"COK","New Zealand","ODA Grants","Unallocated / Unspecified",2007,1.0936109999999999,1.37279
-"COK","New Zealand","ODA Grants","Unallocated / Unspecified",2008,-1.674618,-2.1488050000000003
-"COK","New Zealand","ODA Grants","Unallocated / Unspecified",2009,-2.430861,-3.4189760000000002
-"COK","New Zealand","ODA Grants","Water Supply & Sanitation",2002,0.092452,0.212132
-"COK","New Zealand","ODA Grants","Water Supply & Sanitation",2003,0.007738,0.013975
-"COK","New Zealand","ODA Grants","Water Supply & Sanitation",2004,0.038681,0.059160000000000004
-"COK","New Zealand","ODA Grants","Water Supply & Sanitation",2005,0.002815,0.003951
-"COK","New Zealand","ODA Grants","Water Supply & Sanitation",2006,0.083037,0.123287
-"COK","New Zealand","ODA Grants","Water Supply & Sanitation",2007,0.290837,0.365082
-"COK","New Zealand","ODA Grants","Water Supply & Sanitation",2008,0.154708,0.198515
-"COK","New Zealand","ODA Grants","Water Supply & Sanitation",2009,1.3861340000000002,1.94958
-"COK","New Zealand","ODA Grants","Water Supply & Sanitation",2010,0.45537299999999997,0.5402279999999999
-"COK","New Zealand","ODA Grants","Water Supply & Sanitation",2011,1.3603589999999999,1.431286
-"COK","New Zealand","ODA Grants","Water Supply & Sanitation",2012,2.218501,2.283015
-"COK","New Zealand","ODA Grants","Water Supply & Sanitation",2013,2.7918979999999998,2.747029
-"COK","New Zealand","ODA Grants","Water Supply & Sanitation",2014,1.050615,0.9985029999999999
-"COK","New Zealand","ODA Grants","Water Supply & Sanitation",2015,3.933192,4.430491
-"COK","New Zealand","ODA Grants","Water Supply & Sanitation",2016,2.2263290000000002,2.46631
-"COK","New Zealand","ODA Grants","Water Supply & Sanitation",2017,2.454882,2.581705
-"COK","New Zealand","ODA Grants","Water Supply & Sanitation",2018,5.719894,6.090415999999999
+"COK","New Zealand","ODA Grants","Transport & Storage",2010,0.147937,0.175505
+"COK","New Zealand","ODA Grants","Transport & Storage",2011,1.719894,1.809567
+"COK","New Zealand","ODA Grants","Transport & Storage",2012,2.739645,2.819313
+"COK","New Zealand","ODA Grants","Transport & Storage",2013,0.074538,0.07334
+"COK","New Zealand","ODA Grants","Water Supply & Sanitation",2002,0.046226,0.106066
+"COK","New Zealand","ODA Grants","Water Supply & Sanitation",2004,0.005586,0.008544
+"COK","New Zealand","ODA Grants","Water Supply & Sanitation",2005,0,0
+"COK","New Zealand","ODA Grants","Water Supply & Sanitation",2010,0.307793,0.365147
+"COK","New Zealand","ODA Grants","Water Supply & Sanitation",2011,0.805624,0.847627
+"COK","New Zealand","ODA Grants","Water Supply & Sanitation",2012,0.602986,0.620521
+"COK","New Zealand","ODA Grants","Water Supply & Sanitation",2014,0.414662,0.394094
+"COK","New Zealand","ODA Grants","Water Supply & Sanitation",2015,1.830289,2.061704
+"COK","New Zealand","ODA Grants","Water Supply & Sanitation",2016,0.126116,0.139711
+"COK","New Zealand","ODA Grants","Water Supply & Sanitation",2017,0.889584,0.935541
+"COK","New Zealand","ODA Grants","Water Supply & Sanitation",2018,2.402932,2.558588
 "COK","New Zealand","ODA Grants","Water Supply & Sanitation",2019,0.70055,0.765129
-"COK","Switzerland","ODA Grants","Emergency Response",1997,0,0
-"COK","Thailand","ODA Grants","Unallocated / Unspecified",2015,0.006241,0.007189
-"COK","Thailand","ODA Grants","Unallocated / Unspecified",2016,0.03291,0.038299
-"COK","Thailand","ODA Grants","Unallocated / Unspecified",2017,0.00541,0.006166
-"COK","Thailand","ODA Grants","Unallocated / Unspecified",2018,0.006363,0.00696
-"COK","Türkiye","ODA Grants","Unallocated / Unspecified",2015,0,0
-"COK","UNDP","ODA Grants","General Environment Protection",2009,0.00152,0.001677
-"COK","UNDP","ODA Grants","General Environment Protection",2010,0.047348,0.051693
-"COK","UNDP","ODA Grants","General Environment Protection",2011,0.059704,0.06151
-"COK","UNDP","ODA Grants","General Environment Protection",2012,0.043079,0.045445
-"COK","UNDP","ODA Grants","General Environment Protection",2016,0.009926,0.011552
-"COK","UNDP","ODA Grants","General Environment Protection",2019,0.02113,0.023501
-"COK","UNDP","ODA Grants","Government & Civil Society",1999,0,0
-"COK","UNDP","ODA Grants","Government & Civil Society",2009,0.06597,0.072773
-"COK","UNDP","ODA Grants","Government & Civil Society",2010,0.017606,0.019222
-"COK","UNDP","ODA Grants","Government & Civil Society",2016,0.040073,0.046636
-"COK","UNDP","ODA Grants","Government & Civil Society",2017,0.069377,0.079074
-"COK","UNDP","ODA Grants","Government & Civil Society",2018,0.049907,0.054593
-"COK","UNDP","ODA Grants","Other Multisector",2011,0.02112,0.021759
-"COK","UNDP","ODA Grants","Other Multisector",2012,0,0
-"COK","UNDP","ODA Grants","Unallocated / Unspecified",1999,0,0
-"COK","UNDP","ODA Grants","Unallocated / Unspecified",2019,0.00386,0.004293
-"COK","UNFPA","ODA Grants","Population Policies/Programmes",2001,0.049776,0.07931099999999999
-"COK","UNFPA","ODA Grants","Population Policies/Programmes",2002,0.069025,0.10645
-"COK","United States","ODA Grants","General Environment Protection",2010,0.06068,0.082778
-"COK","United States","ODA Grants","General Environment Protection",2012,0.012,0.015746
-"COK","World Health Organisation","ODA Grants","Emergency Response",2016,0.006,0.006983
-"COK","World Health Organisation","ODA Grants","Health",2011,0.161765,0.166658
-"COK","World Health Organisation","ODA Grants","Health",2012,0.06138,0.064752
-"COK","World Health Organisation","ODA Grants","Health",2013,0.251279,0.261562
-"COK","World Health Organisation","ODA Grants","Health",2014,0.131554,0.136936
-"COK","World Health Organisation","ODA Grants","Health",2015,0.310359,0.357516
-"COK","World Health Organisation","ODA Grants","Health",2016,0.224325,0.26106
-"COK","World Health Organisation","ODA Grants","Health",2017,0.174799,0.19922800000000002
-"COK","World Health Organisation","ODA Grants","Health",2018,0.156189,0.170856
-"COK","World Health Organisation","ODA Grants","Health",2019,0.238501,0.265266
-"COK","World Health Organisation","ODA Grants","Population Policies/Programmes",2011,0.029275,0.03016
-"COK","World Health Organisation","ODA Grants","Population Policies/Programmes",2015,0.025269,0.029108000000000002
-"COK","World Health Organisation","ODA Grants","Population Policies/Programmes",2016,0.018014000000000002,0.020965
-"COK","World Health Organisation","ODA Grants","Population Policies/Programmes",2019,0.00896,0.009965

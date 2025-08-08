@@ -1,352 +1,46 @@
 ﻿"de_recipientcode","donor_name","flow_name","sector_group","year","usd_disbursement","usd_disbursement_defl"
-"TKL","Australia","ODA Grants","Administrative Costs of Donors",2006,0.004177,0.006019
-"TKL","Australia","ODA Grants","Agriculture, Forestry, Fishing",2004,0,0
-"TKL","Australia","ODA Grants","Agriculture, Forestry, Fishing",2005,0.015997,0.023921
-"TKL","Australia","ODA Grants","Agriculture, Forestry, Fishing",2006,0.010779,0.015532
 "TKL","Australia","ODA Grants","Agriculture, Forestry, Fishing",2009,0.003551,0.004427
-"TKL","Australia","ODA Grants","Agriculture, Forestry, Fishing",2010,0.245065,0.246751
-"TKL","Australia","ODA Grants","Agriculture, Forestry, Fishing",2012,0.29817899999999997,0.255816
-"TKL","Australia","ODA Grants","Agriculture, Forestry, Fishing",2013,0.42663,0.387655
-"TKL","Australia","ODA Grants","Agriculture, Forestry, Fishing",2014,0.22284500000000002,0.21612399999999998
-"TKL","Australia","ODA Grants","Agriculture, Forestry, Fishing",2015,0.035802,0.041957
+"TKL","Australia","ODA Grants","Agriculture, Forestry, Fishing",2010,4.7e-5,4.7e-5
+"TKL","Australia","ODA Grants","Agriculture, Forestry, Fishing",2012,0.110912,0.095155
+"TKL","Australia","ODA Grants","Agriculture, Forestry, Fishing",2013,0.244392,0.222065
+"TKL","Australia","ODA Grants","Agriculture, Forestry, Fishing",2014,0.218448,0.211859
+"TKL","Australia","ODA Grants","Agriculture, Forestry, Fishing",2015,0.015914,0.018649
 "TKL","Australia","ODA Grants","Agriculture, Forestry, Fishing",2017,0.13410999999999998,0.147475
-"TKL","Australia","ODA Grants","Agriculture, Forestry, Fishing",2021,0.384314,0.381061
-"TKL","Australia","ODA Grants","Agriculture, Forestry, Fishing",2022,0.24824700000000002,0.246291
-"TKL","Australia","ODA Grants","Agriculture, Forestry, Fishing",2023,0.002252,0.002252
-"TKL","Australia","ODA Grants","Banking & Financial Services",2016,0.003204,0.003761
-"TKL","Australia","ODA Grants","Banking & Financial Services",2017,0.003303,0.003632
-"TKL","Australia","ODA Grants","Communications",2017,0.010821,0.011899
-"TKL","Australia","ODA Grants","Communications",2018,0.007301,0.00805
-"TKL","Australia","ODA Grants","Education",1992,0,0
-"TKL","Australia","ODA Grants","Education",1993,0,0
-"TKL","Australia","ODA Grants","Education",1997,0,0
-"TKL","Australia","ODA Grants","Education",1998,0.031401,0.071463
-"TKL","Australia","ODA Grants","Education",1999,0.054204,0.118584
-"TKL","Australia","ODA Grants","Education",2000,0.01448,0.033864
-"TKL","Australia","ODA Grants","Education",2001,0.020668,0.052365
-"TKL","Australia","ODA Grants","Education",2004,0,0
-"TKL","Australia","ODA Grants","Education",2005,0.115783,0.173147
-"TKL","Australia","ODA Grants","Education",2009,0.030382,0.03788
-"TKL","Australia","ODA Grants","Education",2010,0.336003,0.338315
-"TKL","Australia","ODA Grants","Education",2011,0.46964700000000004,0.401437
-"TKL","Australia","ODA Grants","Education",2016,0.297331,0.349013
-"TKL","Australia","ODA Grants","Education",2017,0.613074,0.67417
-"TKL","Australia","ODA Grants","Education",2019,0.278029,0.318745
-"TKL","Australia","ODA Grants","Education",2020,0.275198,0.314792
-"TKL","Australia","ODA Grants","Education",2021,0.300413,0.297871
-"TKL","Australia","ODA Grants","Emergency Response",2005,0.038087,0.056956
-"TKL","Australia","ODA Grants","General Budget Support",2005,0,0
+"TKL","Australia","ODA Grants","Agriculture, Forestry, Fishing",2021,0.383942,0.380693
+"TKL","Australia","ODA Grants","Agriculture, Forestry, Fishing",2022,0.247373,0.245423
 "TKL","Australia","ODA Grants","General Environment Protection",2011,1.031779,0.881927
-"TKL","Australia","ODA Grants","General Environment Protection",2013,0.067533,0.061363
-"TKL","Australia","ODA Grants","General Environment Protection",2018,0.210225,0.231796
-"TKL","Australia","ODA Grants","Government & Civil Society",2005,0.040372,0.060373
-"TKL","Australia","ODA Grants","Government & Civil Society",2006,3.765344,5.425579
-"TKL","Australia","ODA Grants","Government & Civil Society",2007,0.103656,0.128716
-"TKL","Australia","ODA Grants","Government & Civil Society",2008,0.338992,0.401288
-"TKL","Australia","ODA Grants","Government & Civil Society",2009,0.525497,0.65518
-"TKL","Australia","ODA Grants","Government & Civil Society",2010,0.775074,0.780409
+"TKL","Australia","ODA Grants","General Environment Protection",2013,0.067103,0.060972
 "TKL","Australia","ODA Grants","Government & Civil Society",2011,0.619067,0.529156
-"TKL","Australia","ODA Grants","Government & Civil Society",2012,0.621118,0.532874
-"TKL","Australia","ODA Grants","Government & Civil Society",2013,0.34008,0.309011
-"TKL","Australia","ODA Grants","Government & Civil Society",2014,0.347034,0.336568
 "TKL","Australia","ODA Grants","Government & Civil Society",2015,9.77e-4,0.001145
-"TKL","Australia","ODA Grants","Government & Civil Society",2016,0.018501,0.021717
-"TKL","Australia","ODA Grants","Government & Civil Society",2017,0.03575,0.039313
-"TKL","Australia","ODA Grants","Government & Civil Society",2018,0.019336,0.02132
-"TKL","Australia","ODA Grants","Government & Civil Society",2019,0.02961,0.033947
-"TKL","Australia","ODA Grants","Government & Civil Society",2020,0.015548000000000001,0.017786
-"TKL","Australia","ODA Grants","Government & Civil Society",2021,0.017273,0.017127
-"TKL","Australia","ODA Grants","Health",2009,0.186223,0.23218
-"TKL","Australia","ODA Grants","Health",2013,0.001682,0.001529
-"TKL","Australia","ODA Grants","Health",2014,0.003265,0.003166
-"TKL","Australia","ODA Grants","Health",2015,0.106506,0.12481300000000001
-"TKL","Australia","ODA Grants","Health",2016,0.229146,0.268976
-"TKL","Australia","ODA Grants","Health",2017,0.157774,0.173497
-"TKL","Australia","ODA Grants","Other Multisector",2001,0.026868,0.068074
-"TKL","Australia","ODA Grants","Other Multisector",2002,0.033129,0.077535
-"TKL","Australia","ODA Grants","Other Multisector",2003,0.074226,0.14134
-"TKL","Australia","ODA Grants","Other Multisector",2004,0.077465,0.125487
-"TKL","Australia","ODA Grants","Other Multisector",2005,0,0
-"TKL","Australia","ODA Grants","Other Multisector",2006,0.178869,0.257737
+"TKL","Australia","ODA Grants","Government & Civil Society",2016,0.001449,0.001701
+"TKL","Australia","ODA Grants","Government & Civil Society",2017,0.021380999999999997,0.023511999999999998
+"TKL","Australia","ODA Grants","Government & Civil Society",2018,0.016116000000000002,0.017769999999999998
+"TKL","Australia","ODA Grants","Government & Civil Society",2019,0.001807,0.002072
+"TKL","Australia","ODA Grants","Government & Civil Society",2020,0.001789,0.002046
+"TKL","Australia","ODA Grants","Other Multisector",2006,0.1772,0.255332
 "TKL","Australia","ODA Grants","Other Multisector",2007,0.141402,0.175587
 "TKL","Australia","ODA Grants","Other Multisector",2008,0.102632,0.121492
-"TKL","Australia","ODA Grants","Other Multisector",2009,0.074985,0.093491
-"TKL","Australia","ODA Grants","Other Multisector",2010,0.020970000000000003,0.021113
-"TKL","Australia","ODA Grants","Other Multisector",2011,0.017332,0.014814
-"TKL","Australia","ODA Grants","Other Multisector",2012,0.321397,0.275735
-"TKL","Australia","ODA Grants","Other Multisector",2013,0.002927,0.00266
-"TKL","Australia","ODA Grants","Other Multisector",2014,0.030944000000000003,0.030012
-"TKL","Australia","ODA Grants","Other Multisector",2022,0.138715,0.137621
+"TKL","Australia","ODA Grants","Other Multisector",2012,0.296853,0.254678
 "TKL","Australia","ODA Grants","Other Multisector",2023,0.132882,0.132882
-"TKL","Australia","ODA Grants","Other Social Infrastructure & Services",2017,0.004552,0.005006
-"TKL","Australia","ODA Grants","Population Policies/Programmes",2005,0.173675,0.259719
-"TKL","Australia","ODA Grants","Population Policies/Programmes",2015,0.093921,0.110064
-"TKL","Australia","ODA Grants","Trade Policies & Regulations",2004,0,0
-"TKL","Australia","ODA Grants","Unallocated / Unspecified",2003,0.008465,0.016121
-"TKL","Australia","ODA Grants","Unallocated / Unspecified",2004,0.383533,0.621294
-"TKL","Australia","ODA Grants","Unallocated / Unspecified",2005,0.038087,0.056956
-"TKL","COVID-19 Response and Recovery Multi-Partner Trust Fund","ODA Grants","Health",2021,0.02134,0.02171
-"TKL","COVID-19 Response and Recovery Multi-Partner Trust Fund","ODA Grants","Health",2022,0,0
-"TKL","Canada","ODA Grants","Other Multisector",2017,0.014779,0.017456
-"TKL","EU Institutions","ODA Grants","Emergency Response",2011,0.070078,0.06977
-"TKL","EU Institutions","ODA Grants","Emergency Response",2013,0.014339,0.014583
-"TKL","Food and Agriculture Organisation","ODA Grants","Agriculture, Forestry, Fishing",2018,0.055154,0.060334000000000006
-"TKL","Food and Agriculture Organisation","ODA Grants","Agriculture, Forestry, Fishing",2019,0.165284,0.183833
-"TKL","Food and Agriculture Organisation","ODA Grants","Agriculture, Forestry, Fishing",2020,0,0
-"TKL","France","ODA Grants","Government & Civil Society",2011,0,0
-"TKL","Germany","ODA Grants","Education",2017,0.009568,0.011235
-"TKL","Germany","ODA Grants","Education",2018,0.010057,0.011073
-"TKL","Germany","ODA Grants","Education",2019,0.009761,0.011108
-"TKL","Germany","ODA Grants","Education",2020,0.00988,0.010853
-"TKL","Japan","ODA Grants","Other Social Infrastructure & Services",2012,0.0055,0.003428
-"TKL","Japan","ODA Grants","Other Social Infrastructure & Services",2013,0.005052,0.003863
-"TKL","Japan","ODA Grants","Other Social Infrastructure & Services",2014,0.005045,0.004115
-"TKL","Japan","ODA Grants","Other Social Infrastructure & Services",2015,0.001719,0.00157
-"TKL","Japan","ODA Grants","Other Social Infrastructure & Services",2016,0.002077,0.001698
-"TKL","Japan","ODA Grants","Other Social Infrastructure & Services",2017,0.001979,0.00167
-"TKL","Japan","ODA Grants","Other Social Infrastructure & Services",2018,0.001413,0.001173
-"TKL","Japan","ODA Grants","Other Social Infrastructure & Services",2019,0.001596,0.0013
-"TKL","Japan","ODA Grants","Other Social Infrastructure & Services",2020,0.001133,8.96e-4
-"TKL","Japan","ODA Grants","Other Social Infrastructure & Services",2021,0.002177,0.001773
-"TKL","Japan","ODA Grants","Other Social Infrastructure & Services",2022,6.83e-4,6.64e-4
-"TKL","Japan","ODA Grants","Other Social Infrastructure & Services",2023,0.001452,0.001452
-"TKL","Joint Sustainable Development Goals Fund","ODA Grants","Other Multisector",2022,0.18219999999999997,0.190957
-"TKL","Joint Sustainable Development Goals Fund","ODA Grants","Other Multisector",2023,0.182198,0.182198
-"TKL","New Zealand","ODA Grants","Agriculture, Forestry, Fishing",2012,0,0
-"TKL","New Zealand","ODA Grants","Agriculture, Forestry, Fishing",2013,0.044186,0.043476
-"TKL","New Zealand","ODA Grants","Agriculture, Forestry, Fishing",2014,0.030528,0.029013
-"TKL","New Zealand","ODA Grants","Agriculture, Forestry, Fishing",2015,0.038988,0.043917
-"TKL","New Zealand","ODA Grants","Agriculture, Forestry, Fishing",2017,0.005684,0.005978
-"TKL","New Zealand","ODA Grants","Agriculture, Forestry, Fishing",2018,0.043165,0.045962
-"TKL","New Zealand","ODA Grants","Agriculture, Forestry, Fishing",2019,0.008093,0.00884
-"TKL","New Zealand","ODA Grants","Agriculture, Forestry, Fishing",2022,0.004405,0.004493
-"TKL","New Zealand","ODA Grants","Agriculture, Forestry, Fishing",2023,0.065637,0.065637
-"TKL","New Zealand","ODA Grants","Banking & Financial Services",2002,0.017103,0.039244
-"TKL","New Zealand","ODA Grants","Banking & Financial Services",2003,1.044084,1.88567
-"TKL","New Zealand","ODA Grants","Banking & Financial Services",2004,0.664182,1.015817
-"TKL","New Zealand","ODA Grants","Banking & Financial Services",2007,3.708324,4.654995
-"TKL","New Zealand","ODA Grants","Banking & Financial Services",2010,0.018017,0.021374
-"TKL","New Zealand","ODA Grants","Business & Other Services",1995,0,0
-"TKL","New Zealand","ODA Grants","Business & Other Services",2002,0.032358,0.074246
-"TKL","New Zealand","ODA Grants","Communications",1995,0,0
-"TKL","New Zealand","ODA Grants","Communications",2017,0.0135,0.014198
-"TKL","New Zealand","ODA Grants","Communications",2018,2.083741,2.218722
-"TKL","New Zealand","ODA Grants","Communications",2019,10.06074,10.988168
-"TKL","New Zealand","ODA Grants","Communications",2020,1.332056,1.445126
-"TKL","New Zealand","ODA Grants","Communications",2021,2.915251,2.8162510000000003
-"TKL","New Zealand","ODA Grants","Communications",2022,0.079754,0.08135700000000001
-"TKL","New Zealand","ODA Grants","Communications",2023,0.106273,0.106273
-"TKL","New Zealand","ODA Grants","Disaster Prevention & Preparedness",2011,0.061513,0.06472
+"TKL","Food and Agriculture Organisation","ODA Grants","Agriculture, Forestry, Fishing",2018,-6e-6,-6e-6
 "TKL","New Zealand","ODA Grants","Disaster Prevention & Preparedness",2018,0.096846,0.103119
 "TKL","New Zealand","ODA Grants","Disaster Prevention & Preparedness",2019,0.29592,0.323198
 "TKL","New Zealand","ODA Grants","Disaster Prevention & Preparedness",2020,0.091513,0.099281
 "TKL","New Zealand","ODA Grants","Disaster Prevention & Preparedness",2021,0.136009,0.13139
-"TKL","New Zealand","ODA Grants","Education",1995,0,0
-"TKL","New Zealand","ODA Grants","Education",2002,4.178339,9.587276
-"TKL","New Zealand","ODA Grants","Education",2003,0.21504600000000001,0.388385
-"TKL","New Zealand","ODA Grants","Education",2004,0.094307,0.144236
-"TKL","New Zealand","ODA Grants","Education",2005,0.106982,0.150148
-"TKL","New Zealand","ODA Grants","Education",2006,0.183813,0.272911
-"TKL","New Zealand","ODA Grants","Education",2007,0.189,0.237248
-"TKL","New Zealand","ODA Grants","Education",2008,0.078288,0.100457
-"TKL","New Zealand","ODA Grants","Education",2009,0.223111,0.313803
-"TKL","New Zealand","ODA Grants","Education",2010,0.18684,0.22165600000000002
-"TKL","New Zealand","ODA Grants","Education",2014,0.03709,0.03525
-"TKL","New Zealand","ODA Grants","Education",2015,1.688674,1.9021850000000002
-"TKL","New Zealand","ODA Grants","Education",2016,0.574022,0.635898
-"TKL","New Zealand","ODA Grants","Education",2017,0.584056,0.614229
-"TKL","New Zealand","ODA Grants","Education",2018,0.666346,0.709511
-"TKL","New Zealand","ODA Grants","Education",2019,0.56868,0.621103
-"TKL","New Zealand","ODA Grants","Education",2020,0.675707,0.7330639999999999
-"TKL","New Zealand","ODA Grants","Education",2021,0.5093989999999999,0.4921
-"TKL","New Zealand","ODA Grants","Education",2022,0.371629,0.379101
-"TKL","New Zealand","ODA Grants","Education",2023,0.52406,0.52406
-"TKL","New Zealand","ODA Grants","Emergency Response",2002,0.001849,0.004243
-"TKL","New Zealand","ODA Grants","Emergency Response",2004,0.099404,0.15203
-"TKL","New Zealand","ODA Grants","Emergency Response",2005,0.362472,0.508725
-"TKL","New Zealand","ODA Grants","Emergency Response",2011,0,0
-"TKL","New Zealand","ODA Grants","Emergency Response",2012,0.014606,0.015031
-"TKL","New Zealand","ODA Grants","Energy",1995,0,0
-"TKL","New Zealand","ODA Grants","Energy",2002,0,0
-"TKL","New Zealand","ODA Grants","Energy",2003,0.133404,0.24093599999999998
-"TKL","New Zealand","ODA Grants","Energy",2004,0.101252,0.154858
-"TKL","New Zealand","ODA Grants","Energy",2005,0.08094100000000001,0.113599
-"TKL","New Zealand","ODA Grants","Energy",2006,0.427946,0.635381
-"TKL","New Zealand","ODA Grants","Energy",2007,0.168558,0.211587
-"TKL","New Zealand","ODA Grants","Energy",2008,0.31904,0.40938
-"TKL","New Zealand","ODA Grants","Energy",2009,0.152614,0.21465
-"TKL","New Zealand","ODA Grants","Energy",2010,0.143436,0.170164
-"TKL","New Zealand","ODA Grants","Energy",2011,3.15856,3.323242
-"TKL","New Zealand","ODA Grants","Energy",2012,2.26739,2.333325
-"TKL","New Zealand","ODA Grants","Energy",2013,0.163894,0.16126
+"TKL","New Zealand","ODA Grants","Education",2022,0.06602,0.067348
 "TKL","New Zealand","ODA Grants","Energy",2019,1.646904,1.79872
 "TKL","New Zealand","ODA Grants","Energy",2020,1.622113,1.759803
-"TKL","New Zealand","ODA Grants","General Budget Support",1995,0,0
-"TKL","New Zealand","ODA Grants","General Budget Support",2002,0,0
-"TKL","New Zealand","ODA Grants","General Budget Support",2003,3.828306,6.914123
-"TKL","New Zealand","ODA Grants","General Budget Support",2004,6.638635,10.1533
-"TKL","New Zealand","ODA Grants","General Budget Support",2005,13.921031,19.537995000000002
-"TKL","New Zealand","ODA Grants","General Budget Support",2006,5.50136,8.167987
-"TKL","New Zealand","ODA Grants","General Budget Support",2007,7.168051,8.997928
-"TKL","New Zealand","ODA Grants","General Budget Support",2008,17.948926999999998,23.031362
-"TKL","New Zealand","ODA Grants","General Budget Support",2009,7.239805,10.182698
-"TKL","New Zealand","ODA Grants","General Budget Support",2010,7.90934,9.383189
-"TKL","New Zealand","ODA Grants","General Budget Support",2011,10.541693,11.091319
-"TKL","New Zealand","ODA Grants","General Budget Support",2012,10.494777,10.79996
-"TKL","New Zealand","ODA Grants","General Budget Support",2013,9.587806,9.433719
-"TKL","New Zealand","ODA Grants","General Budget Support",2014,9.723835,9.241515
-"TKL","New Zealand","ODA Grants","General Budget Support",2015,4.183517,4.712467
-"TKL","New Zealand","ODA Grants","General Budget Support",2016,12.530456,13.88114
-"TKL","New Zealand","ODA Grants","General Budget Support",2017,3.907915,4.109805
-"TKL","New Zealand","ODA Grants","General Budget Support",2018,13.143331,13.994729
-"TKL","New Zealand","ODA Grants","General Budget Support",2019,4.11726,4.4968
-"TKL","New Zealand","ODA Grants","General Budget Support",2020,10.868155000000002,11.790681
-"TKL","New Zealand","ODA Grants","General Budget Support",2021,8.84017,8.539967
-"TKL","New Zealand","ODA Grants","General Budget Support",2022,7.130181,7.2735590000000006
-"TKL","New Zealand","ODA Grants","General Budget Support",2023,12.125491,12.125491
+"TKL","New Zealand","ODA Grants","General Budget Support",2022,3.168969,3.232693
 "TKL","New Zealand","ODA Grants","General Environment Protection",2017,0.142106,0.149447
 "TKL","New Zealand","ODA Grants","General Environment Protection",2020,0.006488,0.007039
 "TKL","New Zealand","ODA Grants","General Environment Protection",2021,0.007072,0.006832
 "TKL","New Zealand","ODA Grants","General Environment Protection",2022,0.099030000000000007,0.101022
-"TKL","New Zealand","ODA Grants","Government & Civil Society",1995,0,0
-"TKL","New Zealand","ODA Grants","Government & Civil Society",2002,0.21911,0.502751
-"TKL","New Zealand","ODA Grants","Government & Civil Society",2003,0.304443,0.549841
-"TKL","New Zealand","ODA Grants","Government & Civil Society",2005,0.053491,0.075074
-"TKL","New Zealand","ODA Grants","Government & Civil Society",2006,0.049299,0.073196
-"TKL","New Zealand","ODA Grants","Government & Civil Society",2007,0.202072,0.253658
-"TKL","New Zealand","ODA Grants","Government & Civil Society",2008,0.935717,1.200676
-"TKL","New Zealand","ODA Grants","Government & Civil Society",2009,0.547285,0.769751
-"TKL","New Zealand","ODA Grants","Government & Civil Society",2010,0.509545,0.604495
-"TKL","New Zealand","ODA Grants","Government & Civil Society",2011,1.228851,1.292921
-"TKL","New Zealand","ODA Grants","Government & Civil Society",2012,0.093919,0.09665
-"TKL","New Zealand","ODA Grants","Government & Civil Society",2013,0.194074,0.190955
-"TKL","New Zealand","ODA Grants","Government & Civil Society",2014,0.563941,0.535968
-"TKL","New Zealand","ODA Grants","Government & Civil Society",2015,0,0
-"TKL","New Zealand","ODA Grants","Government & Civil Society",2016,0.434117,0.480911
-"TKL","New Zealand","ODA Grants","Government & Civil Society",2017,0.078158,0.082196
-"TKL","New Zealand","ODA Grants","Government & Civil Society",2018,0.273385,0.291094
-"TKL","New Zealand","ODA Grants","Government & Civil Society",2019,0.635151,0.693701
-"TKL","New Zealand","ODA Grants","Government & Civil Society",2020,0.465783,0.50532
-"TKL","New Zealand","ODA Grants","Government & Civil Society",2021,0.9107820000000001,0.8798539999999999
-"TKL","New Zealand","ODA Grants","Government & Civil Society",2022,0.149708,0.152717
-"TKL","New Zealand","ODA Grants","Government & Civil Society",2023,0.667056,0.667056
-"TKL","New Zealand","ODA Grants","Health",2002,0.058707,0.134703
-"TKL","New Zealand","ODA Grants","Health",2003,0.21964,0.396682
-"TKL","New Zealand","ODA Grants","Health",2004,0.05218,0.079806
-"TKL","New Zealand","ODA Grants","Health",2016,0.013138,0.014554
-"TKL","New Zealand","ODA Grants","Health",2020,0.779263,0.845409
-"TKL","New Zealand","ODA Grants","Health",2021,0.571036,0.551644
-"TKL","New Zealand","ODA Grants","Health",2022,0.125547,0.128071
-"TKL","New Zealand","ODA Grants","Health",2023,0.656293,0.656293
-"TKL","New Zealand","ODA Grants","Industry, Mining, Construction",1995,0,0
-"TKL","New Zealand","ODA Grants","Industry, Mining, Construction",2002,0.012481,0.028638
-"TKL","New Zealand","ODA Grants","Other Multisector",2002,0.003698,0.008485
-"TKL","New Zealand","ODA Grants","Other Multisector",2010,0.185781,0.2204
-"TKL","New Zealand","ODA Grants","Other Multisector",2011,0.083469,0.087821
-"TKL","New Zealand","ODA Grants","Other Multisector",2012,0.038414,0.039531
-"TKL","New Zealand","ODA Grants","Other Multisector",2013,0.032549,0.032026
-"TKL","New Zealand","ODA Grants","Other Multisector",2017,0.031974,0.033626
-"TKL","New Zealand","ODA Grants","Other Multisector",2018,0.001872,0.001993
-"TKL","New Zealand","ODA Grants","Other Multisector",2019,0.025849,0.028232
-"TKL","New Zealand","ODA Grants","Other Multisector",2020,0.012162,0.013195
-"TKL","New Zealand","ODA Grants","Other Multisector",2021,0.020647,0.019946
-"TKL","New Zealand","ODA Grants","Other Multisector",2022,0.15827100000000002,0.16145400000000001
+"TKL","New Zealand","ODA Grants","Government & Civil Society",2003,0,0
+"TKL","New Zealand","ODA Grants","Other Multisector",2022,0.133892,0.136585
 "TKL","New Zealand","ODA Grants","Other Multisector",2023,0.285464,0.285464
-"TKL","New Zealand","ODA Grants","Other Social Infrastructure & Services",2007,0,0
-"TKL","New Zealand","ODA Grants","Other Social Infrastructure & Services",2008,0.809915,1.039251
-"TKL","New Zealand","ODA Grants","Other Social Infrastructure & Services",2009,0.003021,0.004249
-"TKL","New Zealand","ODA Grants","Other Social Infrastructure & Services",2010,3.65979,4.341766
-"TKL","New Zealand","ODA Grants","Other Social Infrastructure & Services",2012,0.330244,0.339847
-"TKL","New Zealand","ODA Grants","Other Social Infrastructure & Services",2013,0.002335,0.002297
-"TKL","New Zealand","ODA Grants","Other Social Infrastructure & Services",2021,0.212164,0.204959
-"TKL","New Zealand","ODA Grants","Other Social Infrastructure & Services",2023,0.001025,0.001025
-"TKL","New Zealand","ODA Grants","Population Policies/Programmes",2022,0.006608,0.006741
-"TKL","New Zealand","ODA Grants","Population Policies/Programmes",2023,0.028729,0.028729
-"TKL","New Zealand","ODA Grants","Reconstruction Relief & Rehabilitation",2005,0.281532,0.395126
-"TKL","New Zealand","ODA Grants","Tourism",2002,0.009707,0.022274
-"TKL","New Zealand","ODA Grants","Trade Policies & Regulations",2002,0.011094,0.025456
-"TKL","New Zealand","ODA Grants","Transport & Storage",1995,0,0
-"TKL","New Zealand","ODA Grants","Transport & Storage",2003,0.24594,0.44418
-"TKL","New Zealand","ODA Grants","Transport & Storage",2005,0.448339,0.629239
-"TKL","New Zealand","ODA Grants","Transport & Storage",2006,0.338249,0.5022059999999999
-"TKL","New Zealand","ODA Grants","Transport & Storage",2007,0.590136,0.740788
-"TKL","New Zealand","ODA Grants","Transport & Storage",2008,0.698329,0.896069
-"TKL","New Zealand","ODA Grants","Transport & Storage",2009,0.574412,0.807904
-"TKL","New Zealand","ODA Grants","Transport & Storage",2010,0.5108779999999999,0.606077
-"TKL","New Zealand","ODA Grants","Transport & Storage",2011,2.699021,2.839743
-"TKL","New Zealand","ODA Grants","Transport & Storage",2012,4.212871,4.335379
-"TKL","New Zealand","ODA Grants","Transport & Storage",2013,13.100496000000001,12.889954999999999
-"TKL","New Zealand","ODA Grants","Transport & Storage",2014,7.648227,7.268860999999999
-"TKL","New Zealand","ODA Grants","Transport & Storage",2015,2.501305,2.817561
-"TKL","New Zealand","ODA Grants","Transport & Storage",2016,0.099294,0.109996
-"TKL","New Zealand","ODA Grants","Transport & Storage",2017,1.484297,1.560978
-"TKL","New Zealand","ODA Grants","Transport & Storage",2018,10.564936,11.24931
-"TKL","New Zealand","ODA Grants","Transport & Storage",2019,1.110544,1.212917
-"TKL","New Zealand","ODA Grants","Transport & Storage",2020,0.13025599999999998,0.141312
-"TKL","New Zealand","ODA Grants","Transport & Storage",2021,0.091399,0.088295
-"TKL","New Zealand","ODA Grants","Transport & Storage",2022,0.134089,0.136785
-"TKL","New Zealand","ODA Grants","Transport & Storage",2023,0.358394,0.358394
-"TKL","New Zealand","ODA Grants","Unallocated / Unspecified",2002,0,0
-"TKL","New Zealand","ODA Grants","Unallocated / Unspecified",2003,0.15127,0.273202
-"TKL","New Zealand","ODA Grants","Unallocated / Unspecified",2004,0.202883,0.310294
-"TKL","New Zealand","ODA Grants","Unallocated / Unspecified",2005,0.211149,0.296345
-"TKL","New Zealand","ODA Grants","Unallocated / Unspecified",2006,0.258643,0.384013
-"TKL","New Zealand","ODA Grants","Unallocated / Unspecified",2007,0.269065,0.337753
-"TKL","New Zealand","ODA Grants","Unallocated / Unspecified",2008,0.197322,0.253196
-"TKL","New Zealand","ODA Grants","Unallocated / Unspecified",2009,0.101632,0.142944
-"TKL","New Zealand","ODA Grants","Water Supply & Sanitation",2003,0.018794,0.033942
-"TKL","New Zealand","ODA Grants","Water Supply & Sanitation",2004,0.068787,0.105205
-"TKL","New Zealand","ODA Grants","Water Supply & Sanitation",2005,0.020411,0.028647
-"TKL","Türkiye","ODA Grants","Unallocated / Unspecified",2015,0,0
-"TKL","UNDP","ODA Grants","Disaster Prevention & Preparedness",2010,0,0
-"TKL","UNDP","ODA Grants","Disaster Prevention & Preparedness",2016,0.062029,0.072187
-"TKL","UNDP","ODA Grants","Disaster Prevention & Preparedness",2018,0.01387,0.015172
-"TKL","UNDP","ODA Grants","Disaster Prevention & Preparedness",2020,0.013105,0.014144
-"TKL","UNDP","ODA Grants","Disaster Prevention & Preparedness",2022,0.055282,0.057939
-"TKL","UNDP","ODA Grants","Energy",2014,0.008072,0.008403
-"TKL","UNDP","ODA Grants","General Environment Protection",2009,0.14396,0.158806
-"TKL","UNDP","ODA Grants","General Environment Protection",2010,0.066553,0.072661
-"TKL","UNDP","ODA Grants","General Environment Protection",2011,0.014031,0.014456
-"TKL","UNDP","ODA Grants","General Environment Protection",2012,0.001498,0.00158
-"TKL","UNDP","ODA Grants","General Environment Protection",2013,9.57e-4,9.96e-4
-"TKL","UNDP","ODA Grants","General Environment Protection",2020,0.008698,0.009388
-"TKL","UNDP","ODA Grants","General Environment Protection",2021,0.02462,0.025047
-"TKL","UNDP","ODA Grants","Government & Civil Society",2009,0.01366,0.015068
-"TKL","UNDP","ODA Grants","Government & Civil Society",2010,0.034876,0.038076
-"TKL","UNDP","ODA Grants","Government & Civil Society",2012,0.007504,0.007916
-"TKL","UNDP","ODA Grants","Government & Civil Society",2014,0.038408,0.039979
-"TKL","UNDP","ODA Grants","Government & Civil Society",2016,0.010382,0.012082
-"TKL","UNDP","ODA Grants","Government & Civil Society",2017,0.059647,0.067983
-"TKL","UNDP","ODA Grants","Government & Civil Society",2019,0.02646,0.029429
-"TKL","UNDP","ODA Grants","Health",2020,0.011541,0.012457
-"TKL","UNDP","ODA Grants","Health",2021,0.028951,0.029454
-"TKL","UNDP","ODA Grants","Other Social Infrastructure & Services",1999,0,0
-"TKL","UNDP","ODA Grants","Other Social Infrastructure & Services",2022,0.008879,0.009306
-"TKL","UNDP","ODA Grants","Unallocated / Unspecified",2019,0.00334,0.003715
-"TKL","UNDP","ODA Grants","Unallocated / Unspecified",2020,0.015094,0.016291
-"TKL","UNDP","ODA Grants","Unallocated / Unspecified",2021,0.007625,0.007757
-"TKL","UNDP","ODA Grants","Unallocated / Unspecified",2022,0.018776,0.019679
-"TKL","UNFPA","ODA Grants","Population Policies/Programmes",2003,0.1279,0.17552299999999998
-"TKL","World Health Organisation","ODA Grants","Disaster Prevention & Preparedness",2015,0.005,0.00576
-"TKL","World Health Organisation","ODA Grants","Disaster Prevention & Preparedness",2016,0.002999,0.00349
-"TKL","World Health Organisation","ODA Grants","Disaster Prevention & Preparedness",2023,0.005341,0.005341
-"TKL","World Health Organisation","ODA Grants","Health",2011,0.046377,0.047781000000000004
-"TKL","World Health Organisation","ODA Grants","Health",2012,0.027899,0.029431
-"TKL","World Health Organisation","ODA Grants","Health",2013,0.060599,0.06308
-"TKL","World Health Organisation","ODA Grants","Health",2014,0.037441,0.038973
-"TKL","World Health Organisation","ODA Grants","Health",2015,0.066425,0.076519
-"TKL","World Health Organisation","ODA Grants","Health",2016,0.058035,0.067539
-"TKL","World Health Organisation","ODA Grants","Health",2017,0.030952,0.035277
-"TKL","World Health Organisation","ODA Grants","Health",2018,0.022371,0.024472
-"TKL","World Health Organisation","ODA Grants","Health",2019,0.064141,0.071339
-"TKL","World Health Organisation","ODA Grants","Health",2020,0.021473,0.023176
-"TKL","World Health Organisation","ODA Grants","Health",2021,0.06496500000000001,0.066091
-"TKL","World Health Organisation","ODA Grants","Health",2022,0.015502,0.01625
-"TKL","World Health Organisation","ODA Grants","Health",2023,0.022243000000000002,0.022243000000000002
-"TKL","World Health Organisation","ODA Grants","Other Multisector",2021,0.002735,0.002782
-"TKL","World Health Organisation","ODA Grants","Other Multisector",2023,7.74e-4,7.74e-4
-"TKL","World Health Organisation","ODA Grants","Population Policies/Programmes",2015,0.008376,0.009649000000000001
-"TKL","World Health Organisation","ODA Grants","Population Policies/Programmes",2016,0.006,0.006982
-"TKL","World Health Organisation","ODA Grants","Population Policies/Programmes",2019,0.008999,0.010008
-"TKL","World Health Organisation","ODA Grants","Population Policies/Programmes",2020,0.002945,0.0031780000000000003
-"TKL","World Health Organisation","ODA Grants","Population Policies/Programmes",2023,3.87e-4,3.87e-4
+"TKL","New Zealand","ODA Grants","Transport & Storage",2015,0.004801,0.005408
+"TKL","New Zealand","ODA Grants","Transport & Storage",2016,0,0
+"TKL","New Zealand","ODA Grants","Transport & Storage",2017,1.36706,1.437684
+"TKL","New Zealand","ODA Grants","Transport & Storage",2018,9.942357,10.586402
+"TKL","New Zealand","ODA Grants","Transport & Storage",2019,0.827606,0.903897
+"TKL","New Zealand","ODA Grants","Transport & Storage",2020,0.020692,0.022448

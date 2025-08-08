@@ -79,9 +79,9 @@ tmp_cty <- tmp_recent %>% filter(de_recipientcode %in% cty_codes)
 tmp_agg <- tmp_cty %>% select(de_recipientcode, recipient_name, de_donorcode, donor_name, flow_name, sector_group, sector_name, purpose_name, climate_adaptation, climate_mitigation, biodiversity, desertification, year, usd_disbursement, usd_disbursement_defl) %>% group_by(de_recipientcode, recipient_name, de_donorcode, donor_name, flow_name, sector_group, climate_adaptation, climate_mitigation, biodiversity, desertification, year) %>% summarise(across(usd_disbursement:usd_disbursement_defl, \(x) sum(x, na.rm=T))) %>% ungroup()
 
 # final data
-out_data <- tmp_agg %>% mutate(across(climate_adaptation:desertification, \(x) case_when(x == 0 ~ "not targeted", x == 0 ~ "significant objective", x == 2 ~ "principal objective", T ~ "not screened")))
+out_data <- tmp_agg %>% mutate(across(climate_adaptation:desertification, \(x) case_when(x == 0 ~ "not targeted", x == 1 ~ "significant objective", x == 2 ~ "principal objective", T ~ "not screened")))
 ## climate finance
-out_data_climate <- out_data %>% group_by(de_recipientcode, donor_name, flow_name, sector_group, year) %>% summarise(across(usd_disbursement:usd_disbursement_defl, \(x) sum(x, na.rm=T))) %>% ungroup()
+out_data_climate <- out_data %>% filter(climate_adaptation %in% c("significant objective", "principal objective") | climate_mitigation %in% c("significant objective", "principal objective")) %>% group_by(de_recipientcode, donor_name, flow_name, sector_group, year) %>% summarise(across(usd_disbursement:usd_disbursement_defl, \(x) sum(x, na.rm=T))) %>% ungroup()
 ## only by donor
 out_data_donor <- out_data %>% group_by(de_recipientcode, recipient_name, de_donorcode, donor_name, year) %>% summarise(across(usd_disbursement:usd_disbursement_defl, \(x) sum(x, na.rm=T))) %>% ungroup()
 ## only by flow type
