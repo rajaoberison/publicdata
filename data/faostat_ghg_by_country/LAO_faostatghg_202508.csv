@@ -1,0 +1,958 @@
+﻿"ISO3","Area","Item","Group","sector","agrifood","Year","tCO2eq_total","tCO2eq_N2O","tCO2eq_CH4","tCO2eq_Fgases"
+"LAO","Lao People's Democratic Republic","Energy","Not agri-food","yes","no",1992,856664.3,30310.300000000003,239499.8,NA
+"LAO","Lao People's Democratic Republic","Energy","Not agri-food","yes","no",1993,877989,30679.2,238558.4,NA
+"LAO","Lao People's Democratic Republic","Energy","Not agri-food","yes","no",1994,903246,31008.7,241460.90000000002,NA
+"LAO","Lao People's Democratic Republic","Energy","Not agri-food","yes","no",1995,1117425.9,50598.6,399326.8,NA
+"LAO","Lao People's Democratic Republic","Energy","Not agri-food","yes","no",1996,1256901.8,59143.700000000004,475052.3,NA
+"LAO","Lao People's Democratic Republic","Energy","Not agri-food","yes","no",1997,1305823.5999999999,60116.2,486170.5,NA
+"LAO","Lao People's Democratic Republic","Energy","Not agri-food","yes","no",1998,1342620,60503.5,493180,NA
+"LAO","Lao People's Democratic Republic","Energy","Not agri-food","yes","no",1999,1402306.1,61172.3,522372.10000000003,NA
+"LAO","Lao People's Democratic Republic","Energy","Not agri-food","yes","no",2000,1649980.8,62866,662901.2000000001,NA
+"LAO","Lao People's Democratic Republic","Energy","Not agri-food","yes","no",2001,1770999.5,65555.59999999999,682176.7,NA
+"LAO","Lao People's Democratic Republic","Energy","Not agri-food","yes","no",2002,1839895.6,67205.6,701645.6,NA
+"LAO","Lao People's Democratic Republic","Energy","Not agri-food","yes","no",2003,1918673.1,69962.3,722591.8,NA
+"LAO","Lao People's Democratic Republic","Energy","Not agri-food","yes","no",2004,2001584.8,73732.29999999999,742974.7999999999,NA
+"LAO","Lao People's Democratic Republic","Energy","Not agri-food","yes","no",2005,2079887.0000000002,75899.8,764054.5,NA
+"LAO","Lao People's Democratic Republic","Energy","Not agri-food","yes","no",2006,2467929.2,79534.9,785344,NA
+"LAO","Lao People's Democratic Republic","Energy","Not agri-food","yes","no",2007,2628133.1,86453.5,861489.9,NA
+"LAO","Lao People's Democratic Republic","Energy","Not agri-food","yes","no",2008,3049759.1,95376.8,973223.3,NA
+"LAO","Lao People's Democratic Republic","Energy","Not agri-food","yes","no",2009,3421608,98060.4,1037968.3,NA
+"LAO","Lao People's Democratic Republic","Energy","Not agri-food","yes","no",2010,3727880.6,99765.4,1077531.2,NA
+"LAO","Lao People's Democratic Republic","Energy","Not agri-food","yes","no",2011,3860133.9,97479.4,1079914.6,NA
+"LAO","Lao People's Democratic Republic","Energy","Not agri-food","yes","no",2012,4013132.8,99374.9,1076914.2,NA
+"LAO","Lao People's Democratic Republic","Energy","Not agri-food","yes","no",2013,4629861.7,106138.59999999999,1081728.5,NA
+"LAO","Lao People's Democratic Republic","Energy","Not agri-food","yes","no",2014,4840725.1,112873,1109710.7000000002,NA
+"LAO","Lao People's Democratic Republic","Energy","Not agri-food","yes","no",2015,9349187.6,118402.1,1172454.4000000001,NA
+"LAO","Lao People's Democratic Republic","Energy","Not agri-food","yes","no",2016,16706880.799999999,148918.4,1383935.4000000001,NA
+"LAO","Lao People's Democratic Republic","Energy","Not agri-food","yes","no",2017,19756675.7,161683.4,1392234.3,NA
+"LAO","Lao People's Democratic Republic","Energy","Not agri-food","yes","no",2018,20366059.099999998,163091.4,1460447.7,NA
+"LAO","Lao People's Democratic Republic","Energy","Not agri-food","yes","no",2019,19170971.2,153432,1452019.2,NA
+"LAO","Lao People's Democratic Republic","Energy","Not agri-food","yes","no",2020,18984206.7,151589.5,1493111.2,NA
+"LAO","Lao People's Democratic Republic","Energy","Not agri-food","yes","no",2021,18449363.4,153391.5,1615315.9000000001,NA
+"LAO","Lao People's Democratic Republic","Energy","Not agri-food","yes","no",2022,19049225.8,153505,1665400.7999999998,NA
+"LAO","Lao People's Democratic Republic","Energy","Not agri-food","yes","no",2030,NA,NA,NA,NA
+"LAO","Lao People's Democratic Republic","Energy","Not agri-food","yes","no",2050,NA,NA,NA,NA
+"LAO","Lao People's Democratic Republic","IPPU","Not agri-food","yes","no",1992,13041.3,9.5,NA,NA
+"LAO","Lao People's Democratic Republic","IPPU","Not agri-food","yes","no",1993,13321.8,9.799999999999999,NA,NA
+"LAO","Lao People's Democratic Republic","IPPU","Not agri-food","yes","no",1994,14805.5,10,NA,NA
+"LAO","Lao People's Democratic Republic","IPPU","Not agri-food","yes","no",1995,15192.3,10.3,NA,NA
+"LAO","Lao People's Democratic Republic","IPPU","Not agri-food","yes","no",1996,42995,10.5,NA,NA
+"LAO","Lao People's Democratic Republic","IPPU","Not agri-food","yes","no",1997,45738.2,10.7,NA,NA
+"LAO","Lao People's Democratic Republic","IPPU","Not agri-food","yes","no",1998,44261.899999999994,10.9,NA,NA
+"LAO","Lao People's Democratic Republic","IPPU","Not agri-food","yes","no",1999,44475.700000000004,11.1,NA,NA
+"LAO","Lao People's Democratic Republic","IPPU","Not agri-food","yes","no",2000,48723.700000000004,11.299999999999999,NA,NA
+"LAO","Lao People's Democratic Republic","IPPU","Not agri-food","yes","no",2001,48759.5,11.5,NA,NA
+"LAO","Lao People's Democratic Republic","IPPU","Not agri-food","yes","no",2002,107959.40000000001,11.700000000000001,NA,NA
+"LAO","Lao People's Democratic Republic","IPPU","Not agri-food","yes","no",2003,111747.4,11.799999999999999,NA,NA
+"LAO","Lao People's Democratic Republic","IPPU","Not agri-food","yes","no",2004,111533.7,12,NA,NA
+"LAO","Lao People's Democratic Republic","IPPU","Not agri-food","yes","no",2005,111355.3,12.200000000000001,NA,NA
+"LAO","Lao People's Democratic Republic","IPPU","Not agri-food","yes","no",2006,169830.09999999998,12.4,NA,NA
+"LAO","Lao People's Democratic Republic","IPPU","Not agri-food","yes","no",2007,167769.7,12.6,NA,NA
+"LAO","Lao People's Democratic Republic","IPPU","Not agri-food","yes","no",2008,166913.80000000002,12.8,NA,NA
+"LAO","Lao People's Democratic Republic","IPPU","Not agri-food","yes","no",2009,396103.4,13,NA,NA
+"LAO","Lao People's Democratic Republic","IPPU","Not agri-food","yes","no",2010,472563.7,13.2,NA,NA
+"LAO","Lao People's Democratic Republic","IPPU","Not agri-food","yes","no",2011,507115.5,13.4,NA,NA
+"LAO","Lao People's Democratic Republic","IPPU","Not agri-food","yes","no",2012,581302.7,13.6,NA,NA
+"LAO","Lao People's Democratic Republic","IPPU","Not agri-food","yes","no",2013,840100.7,13.799999999999999,NA,NA
+"LAO","Lao People's Democratic Republic","IPPU","Not agri-food","yes","no",2014,855898.2,13.899999999999999,NA,NA
+"LAO","Lao People's Democratic Republic","IPPU","Not agri-food","yes","no",2015,1199831,14.1,NA,NA
+"LAO","Lao People's Democratic Republic","IPPU","Not agri-food","yes","no",2016,1317059.6,14.3,NA,NA
+"LAO","Lao People's Democratic Republic","IPPU","Not agri-food","yes","no",2017,1520330.5,14.5,NA,NA
+"LAO","Lao People's Democratic Republic","IPPU","Not agri-food","yes","no",2018,1849184.5,14.8,NA,NA
+"LAO","Lao People's Democratic Republic","IPPU","Not agri-food","yes","no",2019,2004070.5,15,NA,NA
+"LAO","Lao People's Democratic Republic","IPPU","Not agri-food","yes","no",2020,2367806.7,15.2,NA,NA
+"LAO","Lao People's Democratic Republic","IPPU","Not agri-food","yes","no",2021,5516797.6,15.4,NA,NA
+"LAO","Lao People's Democratic Republic","IPPU","Not agri-food","yes","no",2022,5516866.5,15.6,NA,NA
+"LAO","Lao People's Democratic Republic","IPPU","Not agri-food","yes","no",2030,NA,NA,NA,NA
+"LAO","Lao People's Democratic Republic","IPPU","Not agri-food","yes","no",2050,NA,NA,NA,NA
+"LAO","Lao People's Democratic Republic","Waste","Not agri-food","yes","no",1992,662652.5,37656.4,621166.7999999999,NA
+"LAO","Lao People's Democratic Republic","Waste","Not agri-food","yes","no",1993,683070.2999999999,38613.6,640430.3999999999,NA
+"LAO","Lao People's Democratic Republic","Waste","Not agri-food","yes","no",1994,704032.6,40434.8,659372.8999999999,NA
+"LAO","Lao People's Democratic Republic","Waste","Not agri-food","yes","no",1995,725056.7,41433.5,679200.1,NA
+"LAO","Lao People's Democratic Republic","Waste","Not agri-food","yes","no",1996,745494.6,43349.1,697387.2,NA
+"LAO","Lao People's Democratic Republic","Waste","Not agri-food","yes","no",1997,764771.3,44168.2,715505.5,NA
+"LAO","Lao People's Democratic Republic","Waste","Not agri-food","yes","no",1998,785281.2000000001,46781.2,733058.9,NA
+"LAO","Lao People's Democratic Republic","Waste","Not agri-food","yes","no",1999,806383.1,49411.1,751182.4,NA
+"LAO","Lao People's Democratic Republic","Waste","Not agri-food","yes","no",2000,827168.6,51996.8,768668,NA
+"LAO","Lao People's Democratic Republic","Waste","Not agri-food","yes","no",2001,846157,52886,786350,NA
+"LAO","Lao People's Democratic Republic","Waste","Not agri-food","yes","no",2002,865955.7,54671.3,803939.6000000001,NA
+"LAO","Lao People's Democratic Republic","Waste","Not agri-food","yes","no",2003,886921.2,56483,822660.7000000001,NA
+"LAO","Lao People's Democratic Republic","Waste","Not agri-food","yes","no",2004,908007.5,58065.9,841717.9,NA
+"LAO","Lao People's Democratic Republic","Waste","Not agri-food","yes","no",2005,928419.3,59332.2,860400.7000000001,NA
+"LAO","Lao People's Democratic Republic","Waste","Not agri-food","yes","no",2006,951172.2,61034.2,881120.7000000001,NA
+"LAO","Lao People's Democratic Republic","Waste","Not agri-food","yes","no",2007,973810.3999999999,61718.9,902729.2999999999,NA
+"LAO","Lao People's Democratic Republic","Waste","Not agri-food","yes","no",2008,998915.8,63828.7,925370.2,NA
+"LAO","Lao People's Democratic Republic","Waste","Not agri-food","yes","no",2009,1023805.1000000001,65638,948093.3,NA
+"LAO","Lao People's Democratic Republic","Waste","Not agri-food","yes","no",2010,1050229.5999999999,68769.40000000001,971032.5,NA
+"LAO","Lao People's Democratic Republic","Waste","Not agri-food","yes","no",2011,1073687.5,70510.3,992389.8,NA
+"LAO","Lao People's Democratic Republic","Waste","Not agri-food","yes","no",2012,1098044.5999999999,73176.1,1013725,NA
+"LAO","Lao People's Democratic Republic","Waste","Not agri-food","yes","no",2013,1124243.3,77489.2,1035253.0999999999,NA
+"LAO","Lao People's Democratic Republic","Waste","Not agri-food","yes","no",2014,1159753.0999999999,82466.09999999999,1065418.7,NA
+"LAO","Lao People's Democratic Republic","Waste","Not agri-food","yes","no",2015,1185238.9000000001,86169,1086818.2999999998,NA
+"LAO","Lao People's Democratic Republic","Waste","Not agri-food","yes","no",2016,1207663.1,87433,1107566.2,NA
+"LAO","Lao People's Democratic Republic","Waste","Not agri-food","yes","no",2017,1229277,88768.6,1127415.0999999999,NA
+"LAO","Lao People's Democratic Republic","Waste","Not agri-food","yes","no",2018,1481788.7,90147.40000000001,1378105.3,NA
+"LAO","Lao People's Democratic Republic","Waste","Not agri-food","yes","no",2019,1553544.3,90818.4,1448739.9000000001,NA
+"LAO","Lao People's Democratic Republic","Waste","Not agri-food","yes","no",2020,1576541.5,92157.70000000001,1469945.5,NA
+"LAO","Lao People's Democratic Republic","Waste","Not agri-food","yes","no",2021,1598855,93355.5,1490623.9000000001,NA
+"LAO","Lao People's Democratic Republic","Waste","Not agri-food","yes","no",2022,1621110.3,94569.59999999999,1511214.5,NA
+"LAO","Lao People's Democratic Republic","Waste","Not agri-food","yes","no",2030,NA,NA,NA,NA
+"LAO","Lao People's Democratic Republic","Waste","Not agri-food","yes","no",2050,NA,NA,NA,NA
+"LAO","Lao People's Democratic Republic","Agrifood systems","FAO aggregates","no","no",1992,19232293,1977459.1,6374739.7,271022.10000000003
+"LAO","Lao People's Democratic Republic","Agrifood systems","FAO aggregates","no","no",1993,19146434.6,1981605.1,6400410.1,146785.2
+"LAO","Lao People's Democratic Republic","Agrifood systems","FAO aggregates","no","no",1994,19547832.1,2045568.9,6720955.5,158927.8
+"LAO","Lao People's Democratic Republic","Agrifood systems","FAO aggregates","no","no",1995,19611218.3,2088041.0000000002,6718848.8,173218.8
+"LAO","Lao People's Democratic Republic","Agrifood systems","FAO aggregates","no","no",1996,19559134.6,1755401.9000000001,6974720.3,191121.80000000002
+"LAO","Lao People's Democratic Republic","Agrifood systems","FAO aggregates","no","no",1997,19473568.4,1724833.3,6896860.899999999,209364.2
+"LAO","Lao People's Democratic Republic","Agrifood systems","FAO aggregates","no","no",1998,19998095,1847790.7,7428171.5,78738.4
+"LAO","Lao People's Democratic Republic","Agrifood systems","FAO aggregates","no","no",1999,19481557.799999997,1685269.4,7031397.2,110020.4
+"LAO","Lao People's Democratic Republic","Agrifood systems","FAO aggregates","no","no",2000,19316295.5,1636687.2000000002,6816483.9,200446.59999999998
+"LAO","Lao People's Democratic Republic","Agrifood systems","FAO aggregates","no","no",2001,20888104.9,1572225.1,6294014.9,280207.9
+"LAO","Lao People's Democratic Republic","Agrifood systems","FAO aggregates","no","no",2002,21792989.8,1942404.4,6745702.3,356978.1
+"LAO","Lao People's Democratic Republic","Agrifood systems","FAO aggregates","no","no",2003,22094312.6,1983870,6907644.9,440383.89999999997
+"LAO","Lao People's Democratic Republic","Agrifood systems","FAO aggregates","no","no",2004,25119317,3291067.1,8493154.200000001,533281.6
+"LAO","Lao People's Democratic Republic","Agrifood systems","FAO aggregates","no","no",2005,23501016.9,2547498.3000000003,7499360.7,644242.3
+"LAO","Lao People's Democratic Republic","Agrifood systems","FAO aggregates","no","no",2006,22854363,2098139.9,7049636.1,666915.1000000001
+"LAO","Lao People's Democratic Republic","Agrifood systems","FAO aggregates","no","no",2007,25682232.1,3411341.8000000003,8589326.7,666746.9
+"LAO","Lao People's Democratic Republic","Agrifood systems","FAO aggregates","no","no",2008,23379591.1,2201454.6,7405343.399999999,675407.5
+"LAO","Lao People's Democratic Republic","Agrifood systems","FAO aggregates","no","no",2009,23977706.099999998,2374395,7733034.7,688249.6
+"LAO","Lao People's Democratic Republic","Agrifood systems","FAO aggregates","no","no",2010,26303211.599999998,3376856.6,9069033.9,675871.5
+"LAO","Lao People's Democratic Republic","Agrifood systems","FAO aggregates","no","no",2011,24508153.2,2320980,7788404.3,677422.1
+"LAO","Lao People's Democratic Republic","Agrifood systems","FAO aggregates","no","no",2012,25620394.799999997,2698904.7,8524938.200000001,690547.9
+"LAO","Lao People's Democratic Republic","Agrifood systems","FAO aggregates","no","no",2013,26284114.2,2968778.8,8807471.799999999,712704.7
+"LAO","Lao People's Democratic Republic","Agrifood systems","FAO aggregates","no","no",2014,26130768.5,2878202.4,8842700.9,778456.3
+"LAO","Lao People's Democratic Republic","Agrifood systems","FAO aggregates","no","no",2015,26655928.2,2994024.6,9063432.8,861943.8
+"LAO","Lao People's Democratic Republic","Agrifood systems","FAO aggregates","no","no",2016,28033467.400000002,3391165,9702029.5,995197.8
+"LAO","Lao People's Democratic Republic","Agrifood systems","FAO aggregates","no","no",2017,26899992.2,2752040.4,9020144.399999999,1135684.5
+"LAO","Lao People's Democratic Republic","Agrifood systems","FAO aggregates","no","no",2018,26849039.6,2769541,8776623.799999999,1305620.2
+"LAO","Lao People's Democratic Republic","Agrifood systems","FAO aggregates","no","no",2019,27912850,3125588.3,9270002.3,1454435.2
+"LAO","Lao People's Democratic Republic","Agrifood systems","FAO aggregates","no","no",2020,30312155.4,3987997.5,10579516.799999999,1619588.8
+"LAO","Lao People's Democratic Republic","Agrifood systems","FAO aggregates","no","no",2021,28414827.9,3034228.8,9406355,1840838.2999999998
+"LAO","Lao People's Democratic Republic","Agrifood systems","FAO aggregates","no","no",2022,28159376.1,2941319.8000000003,9243812.200000001,1840838.2999999998
+"LAO","Lao People's Democratic Republic","Agrifood systems","FAO aggregates","no","no",2030,NA,NA,NA,NA
+"LAO","Lao People's Democratic Republic","Agrifood systems","FAO aggregates","no","no",2050,NA,NA,NA,NA
+"LAO","Lao People's Democratic Republic","Farm gate","Agrifood systems","no","yes",1992,6571898.8,1362603.5,5174702.4,NA
+"LAO","Lao People's Democratic Republic","Farm gate","Agrifood systems","no","yes",1993,6596158.4,1366154.5,5192580.399999999,NA
+"LAO","Lao People's Democratic Republic","Farm gate","Agrifood systems","no","yes",1994,6972205.399999999,1429118.5,5506284,NA
+"LAO","Lao People's Democratic Republic","Farm gate","Agrifood systems","no","yes",1995,7006170.600000001,1470988.5,5497038.4,NA
+"LAO","Lao People's Democratic Republic","Farm gate","Agrifood systems","no","yes",1996,6958111.5,1430072.5,5489929.199999999,NA
+"LAO","Lao People's Democratic Republic","Farm gate","Agrifood systems","no","yes",1997,7216720.5,1479866,5697941.2,NA
+"LAO","Lao People's Democratic Republic","Farm gate","Agrifood systems","no","yes",1998,6742382.3,1356455.5,5340944,NA
+"LAO","Lao People's Democratic Republic","Farm gate","Agrifood systems","no","yes",1999,6626573.4,1290311.5,5290306,NA
+"LAO","Lao People's Democratic Republic","Farm gate","Agrifood systems","no","yes",2000,6981582.3,1375350,5560388.399999999,NA
+"LAO","Lao People's Democratic Republic","Farm gate","Agrifood systems","no","yes",2001,7248510.4,1442633.5,5755176,NA
+"LAO","Lao People's Democratic Republic","Farm gate","Agrifood systems","no","yes",2002,7415992.8,1510844.5,5855802.399999999,NA
+"LAO","Lao People's Democratic Republic","Farm gate","Agrifood systems","no","yes",2003,7582030.5,1537106,5996272.8,NA
+"LAO","Lao People's Democratic Republic","Farm gate","Agrifood systems","no","yes",2004,7952483.199999999,1674349.5,6224548.399999999,NA
+"LAO","Lao People's Democratic Republic","Farm gate","Agrifood systems","no","yes",2005,7816769.5,1673899,6090218.399999999,NA
+"LAO","Lao People's Democratic Republic","Farm gate","Agrifood systems","no","yes",2006,8061927.899999999,1658820.5,6137894,NA
+"LAO","Lao People's Democratic Republic","Farm gate","Agrifood systems","no","yes",2007,8391534.299999999,1826115,6347639.199999999,NA
+"LAO","Lao People's Democratic Republic","Farm gate","Agrifood systems","no","yes",2008,8567800.3,1787981.5,6513855.6,NA
+"LAO","Lao People's Democratic Republic","Farm gate","Agrifood systems","no","yes",2009,8992099.200000001,1906357,6775428.8,NA
+"LAO","Lao People's Democratic Republic","Farm gate","Agrifood systems","no","yes",2010,9550758.799999999,2093632.5000000002,7162590.4,NA
+"LAO","Lao People's Democratic Republic","Farm gate","Agrifood systems","no","yes",2011,9205346,1951990,6935042.8,NA
+"LAO","Lao People's Democratic Republic","Farm gate","Agrifood systems","no","yes",2012,10040052,2228040.5,7549399.2,NA
+"LAO","Lao People's Democratic Republic","Farm gate","Agrifood systems","no","yes",2013,10086548.8,2241873.5,7532364,NA
+"LAO","Lao People's Democratic Republic","Farm gate","Agrifood systems","no","yes",2014,10068847.4,2261192,7701727.600000001,NA
+"LAO","Lao People's Democratic Republic","Farm gate","Agrifood systems","no","yes",2015,10411386.8,2371379,7913738,NA
+"LAO","Lao People's Democratic Republic","Farm gate","Agrifood systems","no","yes",2016,10874956.700000001,2495823,8235945.2,NA
+"LAO","Lao People's Democratic Republic","Farm gate","Agrifood systems","no","yes",2017,10707576.4,2394460.5,8172116.399999999,NA
+"LAO","Lao People's Democratic Republic","Farm gate","Agrifood systems","no","yes",2018,10517348.799999999,2427638.5,7942852.399999999,NA
+"LAO","Lao People's Democratic Republic","Farm gate","Agrifood systems","no","yes",2019,10919379,2589924.5,8208726.399999999,NA
+"LAO","Lao People's Democratic Republic","Farm gate","Agrifood systems","no","yes",2020,11561887.2,2729261.5,8678143.6,NA
+"LAO","Lao People's Democratic Republic","Farm gate","Agrifood systems","no","yes",2021,11296456.3,2629648,8491879.2,NA
+"LAO","Lao People's Democratic Republic","Farm gate","Agrifood systems","no","yes",2022,11337846.600000001,2674353.5,8488564,NA
+"LAO","Lao People's Democratic Republic","Farm gate","Agrifood systems","no","yes",2030,NA,NA,NA,NA
+"LAO","Lao People's Democratic Republic","Farm gate","Agrifood systems","no","yes",2050,NA,NA,NA,NA
+"LAO","Lao People's Democratic Republic","Land Use change","Agrifood systems","no","yes",1992,11923874.700000001,594342,826168,NA
+"LAO","Lao People's Democratic Republic","Land Use change","Agrifood systems","no","yes",1993,11923874.700000001,594342,826168,NA
+"LAO","Lao People's Democratic Republic","Land Use change","Agrifood systems","no","yes",1994,11923874.700000001,594342,826168,NA
+"LAO","Lao People's Democratic Republic","Land Use change","Agrifood systems","no","yes",1995,11923874.700000001,594342,826168,NA
+"LAO","Lao People's Democratic Republic","Land Use change","Agrifood systems","no","yes",1996,11888772.3,301676,1083731.6,NA
+"LAO","Lao People's Democratic Republic","Land Use change","Agrifood systems","no","yes",1997,11516738.2,220665.5,792708,NA
+"LAO","Lao People's Democratic Republic","Land Use change","Agrifood systems","no","yes",1998,12645989.7,466559,1676066,NA
+"LAO","Lao People's Democratic Republic","Land Use change","Agrifood systems","no","yes",1999,12197904.3,368986,1325553.5999999999,NA
+"LAO","Lao People's Democratic Republic","Land Use change","Agrifood systems","no","yes",2000,11574526.1,233253,837908.4,NA
+"LAO","Lao People's Democratic Republic","Land Use change","Agrifood systems","no","yes",2001,12787291.2,100673.5,116502.4,NA
+"LAO","Lao People's Democratic Republic","Land Use change","Agrifood systems","no","yes",2002,13434707.3,400786,463806,NA
+"LAO","Lao People's Democratic Republic","Land Use change","Agrifood systems","no","yes",2003,13465871.4,415228.5,480527.60000000003,NA
+"LAO","Lao People's Democratic Republic","Land Use change","Agrifood systems","no","yes",2004,15987360.2,1584090.5,1833154.4,NA
+"LAO","Lao People's Democratic Republic","Land Use change","Agrifood systems","no","yes",2005,14381277.1,839573,971588.8,NA
+"LAO","Lao People's Democratic Republic","Land Use change","Agrifood systems","no","yes",2006,13443623.7,404920,468588.39999999997,NA
+"LAO","Lao People's Democratic Republic","Land Use change","Agrifood systems","no","yes",2007,15913390.4,1549799.5,1793475.6,NA
+"LAO","Lao People's Democratic Republic","Land Use change","Agrifood systems","no","yes",2008,13384796.399999999,377651.5,437029.60000000003,NA
+"LAO","Lao People's Democratic Republic","Land Use change","Agrifood systems","no","yes",2009,13497070.4,429697.5,497257.60000000003,NA
+"LAO","Lao People's Democratic Republic","Land Use change","Agrifood systems","no","yes",2010,15252823.3,1243592,1439116,NA
+"LAO","Lao People's Democratic Republic","Land Use change","Agrifood systems","no","yes",2011,13784945.100000001,327275,378719.60000000003,NA
+"LAO","Lao People's Democratic Republic","Land Use change","Agrifood systems","no","yes",2012,14003610.8,428637.5,496022.80000000005,NA
+"LAO","Lao People's Democratic Republic","Land Use change","Agrifood systems","no","yes",2013,14549628.7,681739,788939.2000000001,NA
+"LAO","Lao People's Democratic Republic","Land Use change","Agrifood systems","no","yes",2014,14299286,565695.5,654640,NA
+"LAO","Lao People's Democratic Republic","Land Use change","Agrifood systems","no","yes",2015,14304429,568080.5,657398,NA
+"LAO","Lao People's Democratic Republic","Land Use change","Agrifood systems","no","yes",2016,14885083.9,837241,968892.3999999999,NA
+"LAO","Lao People's Democratic Republic","Land Use change","Agrifood systems","no","yes",2017,13723455.5,298761,345744,NA
+"LAO","Lao People's Democratic Republic","Land Use change","Agrifood systems","no","yes",2018,13687879.3,282278,326650.8,NA
+"LAO","Lao People's Democratic Republic","Land Use change","Agrifood systems","no","yes",2019,14103042.7,474721,549371.2000000001,NA
+"LAO","Lao People's Democratic Republic","Land Use change","Agrifood systems","no","yes",2020,15661228.8,1197031.5,1385246.7999999998,NA
+"LAO","Lao People's Democratic Republic","Land Use change","Agrifood systems","no","yes",2021,13817527.700000001,342380,396197.2,NA
+"LAO","Lao People's Democratic Republic","Land Use change","Agrifood systems","no","yes",2022,13520685.600000001,204765.5,236969.6,NA
+"LAO","Lao People's Democratic Republic","Land Use change","Agrifood systems","no","yes",2030,NA,NA,NA,NA
+"LAO","Lao People's Democratic Republic","Land Use change","Agrifood systems","no","yes",2050,NA,NA,NA,NA
+"LAO","Lao People's Democratic Republic","Pre- and Post- Production","Agrifood systems","no","yes",1992,736519.5,20513.6,373869.3,271022.10000000003
+"LAO","Lao People's Democratic Republic","Pre- and Post- Production","Agrifood systems","no","yes",1993,626401.5,21108.6,381661.7,146785.2
+"LAO","Lao People's Democratic Republic","Pre- and Post- Production","Agrifood systems","no","yes",1994,651752,22108.399999999998,388503.5,158927.8
+"LAO","Lao People's Democratic Republic","Pre- and Post- Production","Agrifood systems","no","yes",1995,681173,22710.5,395642.4,173218.8
+"LAO","Lao People's Democratic Republic","Pre- and Post- Production","Agrifood systems","no","yes",1996,712250.8,23653.4,401059.5,191121.80000000002
+"LAO","Lao People's Democratic Republic","Pre- and Post- Production","Agrifood systems","no","yes",1997,740109.7,24301.8,406211.7,209364.2
+"LAO","Lao People's Democratic Republic","Pre- and Post- Production","Agrifood systems","no","yes",1998,609723,24776.2,411161.5,78738.4
+"LAO","Lao People's Democratic Republic","Pre- and Post- Production","Agrifood systems","no","yes",1999,657080.1,25971.9,415537.6,110020.4
+"LAO","Lao People's Democratic Republic","Pre- and Post- Production","Agrifood systems","no","yes",2000,760187.1,28084.2,418187.1,200446.59999999998
+"LAO","Lao People's Democratic Republic","Pre- and Post- Production","Agrifood systems","no","yes",2001,852303.3,28918.1,422336.5,280207.9
+"LAO","Lao People's Democratic Republic","Pre- and Post- Production","Agrifood systems","no","yes",2002,942289.7000000001,30773.9,426093.9,356978.1
+"LAO","Lao People's Democratic Republic","Pre- and Post- Production","Agrifood systems","no","yes",2003,1046410.7,31535.5,430844.5,440383.89999999997
+"LAO","Lao People's Democratic Republic","Pre- and Post- Production","Agrifood systems","no","yes",2004,1179473.6,32627.1,435451.39999999997,533281.6
+"LAO","Lao People's Democratic Republic","Pre- and Post- Production","Agrifood systems","no","yes",2005,1302970.3,34026.299999999996,437553.5,644242.3
+"LAO","Lao People's Democratic Republic","Pre- and Post- Production","Agrifood systems","no","yes",2006,1348811.4000000001,34399.4,443153.7,666915.1000000001
+"LAO","Lao People's Democratic Republic","Pre- and Post- Production","Agrifood systems","no","yes",2007,1377307.4,35427.3,448211.9,666746.9
+"LAO","Lao People's Democratic Republic","Pre- and Post- Production","Agrifood systems","no","yes",2008,1426994.4000000001,35821.6,454458.19999999995,675407.5
+"LAO","Lao People's Democratic Republic","Pre- and Post- Production","Agrifood systems","no","yes",2009,1488536.5,38340.5,460348.3,688249.6
+"LAO","Lao People's Democratic Republic","Pre- and Post- Production","Agrifood systems","no","yes",2010,1499629.5,39632.1,467327.5,675871.5
+"LAO","Lao People's Democratic Republic","Pre- and Post- Production","Agrifood systems","no","yes",2011,1517862.1,41715,474641.9,677422.1
+"LAO","Lao People's Democratic Republic","Pre- and Post- Production","Agrifood systems","no","yes",2012,1576732,42226.700000000004,479516.2,690547.9
+"LAO","Lao People's Democratic Republic","Pre- and Post- Production","Agrifood systems","no","yes",2013,1647936.7,45166.3,486168.60000000003,712704.7
+"LAO","Lao People's Democratic Republic","Pre- and Post- Production","Agrifood systems","no","yes",2014,1762635.0999999999,51314.9,486333.3,778456.3
+"LAO","Lao People's Democratic Republic","Pre- and Post- Production","Agrifood systems","no","yes",2015,1940112.4,54565.1,492296.80000000005,861943.8
+"LAO","Lao People's Democratic Republic","Pre- and Post- Production","Agrifood systems","no","yes",2016,2273426.8000000003,58101,497191.89999999997,995197.8
+"LAO","Lao People's Democratic Republic","Pre- and Post- Production","Agrifood systems","no","yes",2017,2468960.3000000003,58818.9,502284,1135684.5
+"LAO","Lao People's Democratic Republic","Pre- and Post- Production","Agrifood systems","no","yes",2018,2643811.5,59624.5,507120.60000000003,1305620.2
+"LAO","Lao People's Democratic Republic","Pre- and Post- Production","Agrifood systems","no","yes",2019,2890428.3,60942.799999999996,511904.7,1454435.2
+"LAO","Lao People's Democratic Republic","Pre- and Post- Production","Agrifood systems","no","yes",2020,3089039.4,61704.5,516126.39999999997,1619588.8
+"LAO","Lao People's Democratic Republic","Pre- and Post- Production","Agrifood systems","no","yes",2021,3300843.9,62200.8,518278.6,1840838.2999999998
+"LAO","Lao People's Democratic Republic","Pre- and Post- Production","Agrifood systems","no","yes",2022,3300843.9,62200.8,518278.6,1840838.2999999998
+"LAO","Lao People's Democratic Republic","Pre- and Post- Production","Agrifood systems","no","yes",2030,NA,NA,NA,NA
+"LAO","Lao People's Democratic Republic","Pre- and Post- Production","Agrifood systems","no","yes",2050,NA,NA,NA,NA
+"LAO","Lao People's Democratic Republic","Emissions on agricultural land","FAO aggregates","no","no",1992,18495773.5,1956945.5,6000870.399999999,NA
+"LAO","Lao People's Democratic Republic","Emissions on agricultural land","FAO aggregates","no","no",1993,18520033.1,1960496.5,6018748.4,NA
+"LAO","Lao People's Democratic Republic","Emissions on agricultural land","FAO aggregates","no","no",1994,18896080.099999998,2023460.5,6332452,NA
+"LAO","Lao People's Democratic Republic","Emissions on agricultural land","FAO aggregates","no","no",1995,18930045.3,2065330.5,6323206.4,NA
+"LAO","Lao People's Democratic Republic","Emissions on agricultural land","FAO aggregates","no","no",1996,18846883.8,1731748.5,6573660.8,NA
+"LAO","Lao People's Democratic Republic","Emissions on agricultural land","FAO aggregates","no","no",1997,18733458.7,1700531.5,6490649.2,NA
+"LAO","Lao People's Democratic Republic","Emissions on agricultural land","FAO aggregates","no","no",1998,19388372,1823014.5,7017010,NA
+"LAO","Lao People's Democratic Republic","Emissions on agricultural land","FAO aggregates","no","no",1999,18824477.7,1659297.5,6615859.6,NA
+"LAO","Lao People's Democratic Republic","Emissions on agricultural land","FAO aggregates","no","no",2000,18556108.400000002,1608603,6398296.8,NA
+"LAO","Lao People's Democratic Republic","Emissions on agricultural land","FAO aggregates","no","no",2001,20035801.599999998,1543307,5871678.399999999,NA
+"LAO","Lao People's Democratic Republic","Emissions on agricultural land","FAO aggregates","no","no",2002,20850700.099999998,1911630.5,6319608.4,NA
+"LAO","Lao People's Democratic Republic","Emissions on agricultural land","FAO aggregates","no","no",2003,21047901.900000002,1952334.5,6476800.4,NA
+"LAO","Lao People's Democratic Republic","Emissions on agricultural land","FAO aggregates","no","no",2004,23939843.400000002,3258440,8057702.8,NA
+"LAO","Lao People's Democratic Republic","Emissions on agricultural land","FAO aggregates","no","no",2005,22198046.6,2513472,7061807.2,NA
+"LAO","Lao People's Democratic Republic","Emissions on agricultural land","FAO aggregates","no","no",2006,21505551.599999998,2063740.5,6606482.399999999,NA
+"LAO","Lao People's Democratic Republic","Emissions on agricultural land","FAO aggregates","no","no",2007,24304924.7,3375914.5,8141114.800000001,NA
+"LAO","Lao People's Democratic Republic","Emissions on agricultural land","FAO aggregates","no","no",2008,21952596.7,2165633,6950885.199999999,NA
+"LAO","Lao People's Democratic Republic","Emissions on agricultural land","FAO aggregates","no","no",2009,22489169.6,2336054.5,7272686.399999999,NA
+"LAO","Lao People's Democratic Republic","Emissions on agricultural land","FAO aggregates","no","no",2010,24803582.1,3337224.5,8601706.399999999,NA
+"LAO","Lao People's Democratic Republic","Emissions on agricultural land","FAO aggregates","no","no",2011,22990291.099999998,2279265,7313762.399999999,NA
+"LAO","Lao People's Democratic Republic","Emissions on agricultural land","FAO aggregates","no","no",2012,24043662.799999997,2656678,8045422,NA
+"LAO","Lao People's Democratic Republic","Emissions on agricultural land","FAO aggregates","no","no",2013,24636177.5,2923612.5,8321303.2,NA
+"LAO","Lao People's Democratic Republic","Emissions on agricultural land","FAO aggregates","no","no",2014,24368133.4,2826887.5,8356367.6,NA
+"LAO","Lao People's Democratic Republic","Emissions on agricultural land","FAO aggregates","no","no",2015,24715815.8,2939459.5,8571136,NA
+"LAO","Lao People's Democratic Republic","Emissions on agricultural land","FAO aggregates","no","no",2016,25760040.6,3333064,9204837.600000001,NA
+"LAO","Lao People's Democratic Republic","Emissions on agricultural land","FAO aggregates","no","no",2017,24431031.900000002,2693221.5,8517860.4,NA
+"LAO","Lao People's Democratic Republic","Emissions on agricultural land","FAO aggregates","no","no",2018,24205228.1,2709916.5,8269503.199999999,NA
+"LAO","Lao People's Democratic Republic","Emissions on agricultural land","FAO aggregates","no","no",2019,25022421.7,3064645.5,8758097.6,NA
+"LAO","Lao People's Democratic Republic","Emissions on agricultural land","FAO aggregates","no","no",2020,27223116,3926293,10063390.4,NA
+"LAO","Lao People's Democratic Republic","Emissions on agricultural land","FAO aggregates","no","no",2021,25113984,2972028,8888076.4,NA
+"LAO","Lao People's Democratic Republic","Emissions on agricultural land","FAO aggregates","no","no",2022,24858532.200000003,2879119,8725533.600000001,NA
+"LAO","Lao People's Democratic Republic","Emissions on agricultural land","FAO aggregates","no","no",2030,NA,NA,NA,NA
+"LAO","Lao People's Democratic Republic","Emissions on agricultural land","FAO aggregates","no","no",2050,NA,NA,NA,NA
+"LAO","Lao People's Democratic Republic","Emissions from crops","FAO aggregates","no","no",1992,1725071.2000000002,142570,1582501.2,NA
+"LAO","Lao People's Democratic Republic","Emissions from crops","FAO aggregates","no","no",1993,1666566.6,123649,1542917.6,NA
+"LAO","Lao People's Democratic Republic","Emissions from crops","FAO aggregates","no","no",1994,1845056.8,136634,1708422.8,NA
+"LAO","Lao People's Democratic Republic","Emissions from crops","FAO aggregates","no","no",1995,1698275.9000000001,132367.5,1565908.4000000001,NA
+"LAO","Lao People's Democratic Republic","Emissions from crops","FAO aggregates","no","no",1996,1681524.3,132155.5,1549368.8,NA
+"LAO","Lao People's Democratic Republic","Emissions from crops","FAO aggregates","no","no",1997,1845707.3,163478.5,1682228.8,NA
+"LAO","Lao People's Democratic Republic","Emissions from crops","FAO aggregates","no","no",1998,1884099.0999999999,155793.5,1728305.5999999999,NA
+"LAO","Lao People's Democratic Republic","Emissions from crops","FAO aggregates","no","no",1999,2199261.9,192045.5,2007216.4,NA
+"LAO","Lao People's Democratic Republic","Emissions from crops","FAO aggregates","no","no",2000,2203216.9,190190.5,2013026.4,NA
+"LAO","Lao People's Democratic Republic","Emissions from crops","FAO aggregates","no","no",2001,2303123.3000000003,214040.5,2089082.8,NA
+"LAO","Lao People's Democratic Republic","Emissions from crops","FAO aggregates","no","no",2002,2282199.4,217247,2064952.4000000001,NA
+"LAO","Lao People's Democratic Republic","Emissions from crops","FAO aggregates","no","no",2003,2315822,199386,2116436,NA
+"LAO","Lao People's Democratic Republic","Emissions from crops","FAO aggregates","no","no",2004,2376034.7,219393.5,2156641.2,NA
+"LAO","Lao People's Democratic Republic","Emissions from crops","FAO aggregates","no","no",2005,2291826.6,229649,2062177.6,NA
+"LAO","Lao People's Democratic Republic","Emissions from crops","FAO aggregates","no","no",2006,2319468.3,235929.5,2083538.7999999998,NA
+"LAO","Lao People's Democratic Republic","Emissions from crops","FAO aggregates","no","no",2007,2294861,249895,2044966,NA
+"LAO","Lao People's Democratic Republic","Emissions from crops","FAO aggregates","no","no",2008,2500282.9000000004,286650.5,2213632.4,NA
+"LAO","Lao People's Democratic Republic","Emissions from crops","FAO aggregates","no","no",2009,2614005.5,311719.5,2302286,NA
+"LAO","Lao People's Democratic Republic","Emissions from crops","FAO aggregates","no","no",2010,2714851.0999999996,310023.5,2404827.6,NA
+"LAO","Lao People's Democratic Republic","Emissions from crops","FAO aggregates","no","no",2011,2614004.8000000003,314502,2299502.8000000003,NA
+"LAO","Lao People's Democratic Republic","Emissions from crops","FAO aggregates","no","no",2012,3076565.6,453044,2623521.6,NA
+"LAO","Lao People's Democratic Republic","Emissions from crops","FAO aggregates","no","no",2013,2908212.1999999997,402747,2505465.2,NA
+"LAO","Lao People's Democratic Republic","Emissions from crops","FAO aggregates","no","no",2014,3175952.4,481028,2694924.4,NA
+"LAO","Lao People's Democratic Republic","Emissions from crops","FAO aggregates","no","no",2015,3206907.9000000004,490647.5,2716260.4,NA
+"LAO","Lao People's Democratic Republic","Emissions from crops","FAO aggregates","no","no",2016,3218369.2,478908,2739461.2,NA
+"LAO","Lao People's Democratic Republic","Emissions from crops","FAO aggregates","no","no",2017,3142829,455641,2687188,NA
+"LAO","Lao People's Democratic Republic","Emissions from crops","FAO aggregates","no","no",2018,2847174.1999999997,464545,2382629.1999999997,NA
+"LAO","Lao People's Democratic Republic","Emissions from crops","FAO aggregates","no","no",2019,2881937.5,493509.5,2388428,NA
+"LAO","Lao People's Democratic Republic","Emissions from crops","FAO aggregates","no","no",2020,3057734.1999999997,472707,2585027.2,NA
+"LAO","Lao People's Democratic Republic","Emissions from crops","FAO aggregates","no","no",2021,2864581.9,458211.5,2406370.4,NA
+"LAO","Lao People's Democratic Republic","Emissions from crops","FAO aggregates","no","no",2022,2769350,475940,2293410,NA
+"LAO","Lao People's Democratic Republic","Emissions from crops","FAO aggregates","no","no",2030,2666738.4000000004,426226,2240512.4,NA
+"LAO","Lao People's Democratic Republic","Emissions from crops","FAO aggregates","no","no",2050,2805822.6,581357,2224465.6,NA
+"LAO","Lao People's Democratic Republic","Emissions from livestock","FAO aggregates","no","no",1992,4581861.2,1111516,3470345.2,NA
+"LAO","Lao People's Democratic Republic","Emissions from livestock","FAO aggregates","no","no",1993,4661421,1133617,3527804,NA
+"LAO","Lao People's Democratic Republic","Emissions from livestock","FAO aggregates","no","no",1994,4859624.899999999,1183622.5,3676002.4,NA
+"LAO","Lao People's Democratic Republic","Emissions from livestock","FAO aggregates","no","no",1995,5039003.7,1229732.5,3809271.2,NA
+"LAO","Lao People's Democratic Republic","Emissions from livestock","FAO aggregates","no","no",1996,5166961.9,1262857.5,3904104.4000000004,NA
+"LAO","Lao People's Democratic Republic","Emissions from livestock","FAO aggregates","no","no",1997,5281953,1291239,3990714,NA
+"LAO","Lao People's Democratic Republic","Emissions from livestock","FAO aggregates","no","no",1998,4737504.8,1163456,3574048.8,NA
+"LAO","Lao People's Democratic Republic","Emissions from livestock","FAO aggregates","no","no",1999,4309899.5,1063047.5,3246852,NA
+"LAO","Lao People's Democratic Republic","Emissions from livestock","FAO aggregates","no","no",2000,4672262.6,1155135,3517127.5999999996,NA
+"LAO","Lao People's Democratic Republic","Emissions from livestock","FAO aggregates","no","no",2001,4828967.6,1195892,3633075.6,NA
+"LAO","Lao People's Democratic Republic","Emissions from livestock","FAO aggregates","no","no",2002,4971758.600000001,1239087,3732671.6,NA
+"LAO","Lao People's Democratic Republic","Emissions from livestock","FAO aggregates","no","no",2003,5083527.100000001,1273351.5,3810175.6,NA
+"LAO","Lao People's Democratic Republic","Emissions from livestock","FAO aggregates","no","no",2004,5206614,1305920,3900694,NA
+"LAO","Lao People's Democratic Republic","Emissions from livestock","FAO aggregates","no","no",2005,5158356,1296274,3862082,NA
+"LAO","Lao People's Democratic Republic","Emissions from livestock","FAO aggregates","no","no",2006,5324980.3,1338435.5,3986544.8000000003,NA
+"LAO","Lao People's Democratic Republic","Emissions from livestock","FAO aggregates","no","no",2007,5458960.3,1370341.5,4088618.8000000003,NA
+"LAO","Lao People's Democratic Republic","Emissions from livestock","FAO aggregates","no","no",2008,5647359.7,1415974.5,4231385.199999999,NA
+"LAO","Lao People's Democratic Republic","Emissions from livestock","FAO aggregates","no","no",2009,5818237.199999999,1462588,4355649.2,NA
+"LAO","Lao People's Democratic Republic","Emissions from livestock","FAO aggregates","no","no",2010,5975846.3,1506021.5,4469824.800000001,NA
+"LAO","Lao People's Democratic Republic","Emissions from livestock","FAO aggregates","no","no",2011,6114557.8,1547335,4567222.8,NA
+"LAO","Lao People's Democratic Republic","Emissions from livestock","FAO aggregates","no","no",2012,6409534.2,1626199,4783335.2,NA
+"LAO","Lao People's Democratic Republic","Emissions from livestock","FAO aggregates","no","no",2013,6500222.8,1653070,4847152.8,NA
+"LAO","Lao People's Democratic Republic","Emissions from livestock","FAO aggregates","no","no",2014,6567427.1,1673077.5,4894349.6,NA
+"LAO","Lao People's Democratic Republic","Emissions from livestock","FAO aggregates","no","no",2015,6753065.6,1723560,5029505.600000001,NA
+"LAO","Lao People's Democratic Republic","Emissions from livestock","FAO aggregates","no","no",2016,7053304.100000001,1796620.5,5256683.600000001,NA
+"LAO","Lao People's Democratic Republic","Emissions from livestock","FAO aggregates","no","no",2017,7237773.7,1845592.5,5392181.2,NA
+"LAO","Lao People's Democratic Republic","Emissions from livestock","FAO aggregates","no","no",2018,7369955.600000001,1884680,5485275.6,NA
+"LAO","Lao People's Democratic Republic","Emissions from livestock","FAO aggregates","no","no",2019,7625947.8,1956071,5669876.8,NA
+"LAO","Lao People's Democratic Republic","Emissions from livestock","FAO aggregates","no","no",2020,7850824.3,2018001.5,5832822.8,NA
+"LAO","Lao People's Democratic Republic","Emissions from livestock","FAO aggregates","no","no",2021,8078145.9,2080117.4999999998,5998028.4,NA
+"LAO","Lao People's Democratic Republic","Emissions from livestock","FAO aggregates","no","no",2022,8277873.299999999,2136350.5,6141522.8,NA
+"LAO","Lao People's Democratic Republic","Emissions from livestock","FAO aggregates","no","no",2030,8235587.600000001,2112262,6123325.600000001,NA
+"LAO","Lao People's Democratic Republic","Emissions from livestock","FAO aggregates","no","no",2050,11464230,2979978,8484252,NA
+"LAO","Lao People's Democratic Republic","Agriculture","IPCC aggregates","yes","no",1992,6533996,1359344,5174652,NA
+"LAO","Lao People's Democratic Republic","Agriculture","IPCC aggregates","yes","no",1993,6555074.899999999,1362550.5,5192524.4,NA
+"LAO","Lao People's Democratic Republic","Agriculture","IPCC aggregates","yes","no",1994,6931742.5,1425514.5,5506228,NA
+"LAO","Lao People's Democratic Republic","Agriculture","IPCC aggregates","yes","no",1995,6964366.9,1467384.5,5496982.399999999,NA
+"LAO","Lao People's Democratic Republic","Agriculture","IPCC aggregates","yes","no",1996,6916341.7,1426468.5,5489873.2,NA
+"LAO","Lao People's Democratic Republic","Agriculture","IPCC aggregates","yes","no",1997,7174147.2,1476262,5697885.199999999,NA
+"LAO","Lao People's Democratic Republic","Agriculture","IPCC aggregates","yes","no",1998,6693389.4,1352507,5340882.4,NA
+"LAO","Lao People's Democratic Republic","Agriculture","IPCC aggregates","yes","no",1999,6576604.6,1286363,5290241.600000001,NA
+"LAO","Lao People's Democratic Republic","Agriculture","IPCC aggregates","yes","no",2000,6931725.5,1371401.5,5560324,NA
+"LAO","Lao People's Democratic Republic","Agriculture","IPCC aggregates","yes","no",2001,7193473,1438367,5755106,NA
+"LAO","Lao People's Democratic Republic","Agriculture","IPCC aggregates","yes","no",2002,7362313.199999999,1506578,5855735.2,NA
+"LAO","Lao People's Democratic Republic","Agriculture","IPCC aggregates","yes","no",2003,7529045.100000001,1532839.5,5996205.600000001,NA
+"LAO","Lao People's Democratic Republic","Agriculture","IPCC aggregates","yes","no",2004,7894214.100000001,1669738.5,6224475.6,NA
+"LAO","Lao People's Democratic Republic","Agriculture","IPCC aggregates","yes","no",2005,7759433.600000001,1669288,6090145.6,NA
+"LAO","Lao People's Democratic Republic","Agriculture","IPCC aggregates","yes","no",2006,7770073.5,1632585.5,6137488,NA
+"LAO","Lao People's Democratic Republic","Agriculture","IPCC aggregates","yes","no",2007,8152197.3,1804888.5,6347308.8,NA
+"LAO","Lao People's Democratic Republic","Agriculture","IPCC aggregates","yes","no",2008,8275222.599999999,1761773,6513449.6,NA
+"LAO","Lao People's Democratic Republic","Agriculture","IPCC aggregates","yes","no",2009,8650437.299999999,1875484.5,6774952.8,NA
+"LAO","Lao People's Democratic Republic","Agriculture","IPCC aggregates","yes","no",2010,9226595.600000001,2064456.0000000002,7162139.600000001,NA
+"LAO","Lao People's Democratic Republic","Agriculture","IPCC aggregates","yes","no",2011,8855010.6,1920455,6934555.6,NA
+"LAO","Lao People's Democratic Republic","Agriculture","IPCC aggregates","yes","no",2012,9751069.299999999,2202070.5,7548998.800000001,NA
+"LAO","Lao People's Democratic Republic","Agriculture","IPCC aggregates","yes","no",2013,9742591.899999999,2210709.5,7531882.4,NA
+"LAO","Lao People's Democratic Republic","Agriculture","IPCC aggregates","yes","no",2014,9952719.3,2251148.5,7701570.800000001,NA
+"LAO","Lao People's Democratic Republic","Agriculture","IPCC aggregates","yes","no",2015,10272736.6,2359189,7913547.6,NA
+"LAO","Lao People's Democratic Republic","Agriculture","IPCC aggregates","yes","no",2016,10718340.3,2482599.5,8235740.8,NA
+"LAO","Lao People's Democratic Republic","Agriculture","IPCC aggregates","yes","no",2017,10553149,2381237,8171912,NA
+"LAO","Lao People's Democratic Republic","Agriculture","IPCC aggregates","yes","no",2018,10356415.8,2413779,7942636.8,NA
+"LAO","Lao People's Democratic Republic","Agriculture","IPCC aggregates","yes","no",2019,10787965.200000001,2579404,8208561.2,NA
+"LAO","Lao People's Democratic Republic","Agriculture","IPCC aggregates","yes","no",2020,11393409.5,2715481.5,8677928,NA
+"LAO","Lao People's Democratic Republic","Agriculture","IPCC aggregates","yes","no",2021,11105354.3,2613721.5,8491632.799999999,NA
+"LAO","Lao People's Democratic Republic","Agriculture","IPCC aggregates","yes","no",2022,11146744.6,2658427,8488317.6,NA
+"LAO","Lao People's Democratic Republic","Agriculture","IPCC aggregates","yes","no",2030,NA,NA,NA,NA
+"LAO","Lao People's Democratic Republic","Agriculture","IPCC aggregates","yes","no",2050,NA,NA,NA,NA
+"LAO","Lao People's Democratic Republic","Agricultural Soils","IPCC aggregates","no","no",1992,836154.5,836154.5,NA,NA
+"LAO","Lao People's Democratic Republic","Agricultural Soils","IPCC aggregates","no","no",1993,832206,832206,NA,NA
+"LAO","Lao People's Democratic Republic","Agricultural Soils","IPCC aggregates","no","no",1994,876434.5,876434.5,NA,NA
+"LAO","Lao People's Democratic Republic","Agricultural Soils","IPCC aggregates","no","no",1995,901768.5,901768.5,NA,NA
+"LAO","Lao People's Democratic Republic","Agricultural Soils","IPCC aggregates","no","no",1996,922438.5,922438.5,NA,NA
+"LAO","Lao People's Democratic Republic","Agricultural Soils","IPCC aggregates","no","no",1997,971278,971278,NA,NA
+"LAO","Lao People's Democratic Republic","Agricultural Soils","IPCC aggregates","no","no",1998,885100,885100,NA,NA
+"LAO","Lao People's Democratic Republic","Agricultural Soils","IPCC aggregates","no","no",1999,859183,859183,NA,NA
+"LAO","Lao People's Democratic Republic","Agricultural Soils","IPCC aggregates","no","no",2000,914700.5,914700.5,NA,NA
+"LAO","Lao People's Democratic Republic","Agricultural Soils","IPCC aggregates","no","no",2001,964759,964759,NA,NA
+"LAO","Lao People's Democratic Republic","Agricultural Soils","IPCC aggregates","no","no",2002,997460,997460,NA,NA
+"LAO","Lao People's Democratic Republic","Agricultural Soils","IPCC aggregates","no","no",2003,1003263.5,1003263.5,NA,NA
+"LAO","Lao People's Democratic Republic","Agricultural Soils","IPCC aggregates","no","no",2004,1044391.5,1044391.5,NA,NA
+"LAO","Lao People's Democratic Republic","Agricultural Soils","IPCC aggregates","no","no",2005,1048896.5,1048896.5,NA,NA
+"LAO","Lao People's Democratic Republic","Agricultural Soils","IPCC aggregates","no","no",2006,1080511,1080511,NA,NA
+"LAO","Lao People's Democratic Republic","Agricultural Soils","IPCC aggregates","no","no",2007,1113901,1113901,NA,NA
+"LAO","Lao People's Democratic Republic","Agricultural Soils","IPCC aggregates","no","no",2008,1176838.5,1176838.5,NA,NA
+"LAO","Lao People's Democratic Republic","Agricultural Soils","IPCC aggregates","no","no",2009,1232912.5,1232912.5,NA,NA
+"LAO","Lao People's Democratic Republic","Agricultural Soils","IPCC aggregates","no","no",2010,1258538,1258538,NA,NA
+"LAO","Lao People's Democratic Republic","Agricultural Soils","IPCC aggregates","no","no",2011,1293889,1293889,NA,NA
+"LAO","Lao People's Democratic Republic","Agricultural Soils","IPCC aggregates","no","no",2012,1480449,1480449,NA,NA
+"LAO","Lao People's Democratic Republic","Agricultural Soils","IPCC aggregates","no","no",2013,1448304.5,1448304.5,NA,NA
+"LAO","Lao People's Democratic Republic","Agricultural Soils","IPCC aggregates","no","no",2014,1537636,1537636,NA,NA
+"LAO","Lao People's Democratic Republic","Agricultural Soils","IPCC aggregates","no","no",2015,1580354,1580354,NA,NA
+"LAO","Lao People's Democratic Republic","Agricultural Soils","IPCC aggregates","no","no",2016,1611597.5,1611597.5,NA,NA
+"LAO","Lao People's Democratic Republic","Agricultural Soils","IPCC aggregates","no","no",2017,1620846,1620846,NA,NA
+"LAO","Lao People's Democratic Republic","Agricultural Soils","IPCC aggregates","no","no",2018,1658953,1658953,NA,NA
+"LAO","Lao People's Democratic Republic","Agricultural Soils","IPCC aggregates","no","no",2019,1734663.5,1734663.5,NA,NA
+"LAO","Lao People's Democratic Republic","Agricultural Soils","IPCC aggregates","no","no",2020,1754008.5,1754008.5,NA,NA
+"LAO","Lao People's Democratic Republic","Agricultural Soils","IPCC aggregates","no","no",2021,1780667.5,1780667.5,NA,NA
+"LAO","Lao People's Democratic Republic","Agricultural Soils","IPCC aggregates","no","no",2022,1835204.5,1835204.5,NA,NA
+"LAO","Lao People's Democratic Republic","Agricultural Soils","IPCC aggregates","no","no",2030,NA,NA,NA,NA
+"LAO","Lao People's Democratic Republic","Agricultural Soils","IPCC aggregates","no","no",2050,NA,NA,NA,NA
+"LAO","Lao People's Democratic Republic","LULUCF","IPCC aggregates","yes","no",1992,12975908.100000001,1028252.9999999999,1444290.4000000001,NA
+"LAO","Lao People's Democratic Republic","LULUCF","IPCC aggregates","yes","no",1993,12975908.100000001,1028252.9999999999,1444290.4000000001,NA
+"LAO","Lao People's Democratic Republic","LULUCF","IPCC aggregates","yes","no",1994,12975908.100000001,1028252.9999999999,1444290.4000000001,NA
+"LAO","Lao People's Democratic Republic","LULUCF","IPCC aggregates","yes","no",1995,12975908.100000001,1028252.9999999999,1444290.4000000001,NA
+"LAO","Lao People's Democratic Republic","LULUCF","IPCC aggregates","yes","no",1996,13020015.799999999,547993.5,1968657.6,NA
+"LAO","Lao People's Democratic Republic","LULUCF","IPCC aggregates","yes","no",1997,12389366.4,410670.5,1475331.2000000002,NA
+"LAO","Lao People's Democratic Republic","LULUCF","IPCC aggregates","yes","no",1998,14681037.5,909692,3267980.8,NA
+"LAO","Lao People's Democratic Republic","LULUCF","IPCC aggregates","yes","no",1999,13403082.6,631415.5,2268302.4,NA
+"LAO","Lao People's Democratic Republic","LULUCF","IPCC aggregates","yes","no",2000,12454122,424768.5,1525988.8,NA
+"LAO","Lao People's Democratic Republic","LULUCF","IPCC aggregates","yes","no",2001,12505079,153302.5,177422,NA
+"LAO","Lao People's Democratic Republic","LULUCF","IPCC aggregates","yes","no",2002,13476891.4,603802.5,698734.4,NA
+"LAO","Lao People's Democratic Republic","LULUCF","IPCC aggregates","yes","no",2003,13836757.7,770620,891783.2,NA
+"LAO","Lao People's Democratic Republic","LULUCF","IPCC aggregates","yes","no",2004,18238882.2,2811252.5,3253275.2,NA
+"LAO","Lao People's Democratic Republic","LULUCF","IPCC aggregates","yes","no",2005,15334597.4,1464946.5,1695296.4,NA
+"LAO","Lao People's Democratic Republic","LULUCF","IPCC aggregates","yes","no",2006,13694302.100000001,704582,815365.6,NA
+"LAO","Lao People's Democratic Republic","LULUCF","IPCC aggregates","yes","no",2007,18928184.4,3130789.5,3623040.4,NA
+"LAO","Lao People's Democratic Republic","LULUCF","IPCC aggregates","yes","no",2008,13261838.4,504109.5,583374.4,NA
+"LAO","Lao People's Democratic Republic","LULUCF","IPCC aggregates","yes","no",2009,13811882.600000001,759092.5,878435.6,NA
+"LAO","Lao People's Democratic Republic","LULUCF","IPCC aggregates","yes","no",2010,17091244.7,2279265,2637625.1999999997,NA
+"LAO","Lao People's Democratic Republic","LULUCF","IPCC aggregates","yes","no",2011,9614927.2,438469,507413.2,NA
+"LAO","Lao People's Democratic Republic","LULUCF","IPCC aggregates","yes","no",2012,10661304.8,923525,1068734.8,NA
+"LAO","Lao People's Democratic Republic","LULUCF","IPCC aggregates","yes","no",2013,10876306.1,1023191.5,1184069.6,NA
+"LAO","Lao People's Democratic Republic","LULUCF","IPCC aggregates","yes","no",2014,10723725.200000001,952463,1102217.2,NA
+"LAO","Lao People's Democratic Republic","LULUCF","IPCC aggregates","yes","no",2015,10540177.299999999,867371.5,1003760.8,NA
+"LAO","Lao People's Democratic Republic","LULUCF","IPCC aggregates","yes","no",2016,11739116.200000001,1423156,1646915.2,NA
+"LAO","Lao People's Democratic Republic","LULUCF","IPCC aggregates","yes","no",2017,9686215.1,471514.5,545655.6000000001,NA
+"LAO","Lao People's Democratic Republic","LULUCF","IPCC aggregates","yes","no",2018,9537307,402482,465780,NA
+"LAO","Lao People's Democratic Republic","LULUCF","IPCC aggregates","yes","no",2019,10494378,846145,979188,NA
+"LAO","Lao People's Democratic Republic","LULUCF","IPCC aggregates","yes","no",2020,12888562.1,1955991.5,2263525.6,NA
+"LAO","Lao People's Democratic Republic","LULUCF","IPCC aggregates","yes","no",2021,9699715.5,477768.5,552902,NA
+"LAO","Lao People's Democratic Republic","LULUCF","IPCC aggregates","yes","no",2022,9272025.799999999,279522,323458.8,NA
+"LAO","Lao People's Democratic Republic","LULUCF","IPCC aggregates","yes","no",2030,NA,NA,NA,NA
+"LAO","Lao People's Democratic Republic","LULUCF","IPCC aggregates","yes","no",2050,NA,NA,NA,NA
+"LAO","Lao People's Democratic Republic","AFOLU","IPCC aggregates","no","no",1992,19509904.1,2387597,6618942.4,NA
+"LAO","Lao People's Democratic Republic","AFOLU","IPCC aggregates","no","no",1993,19530983,2390803.5,6636814.8,NA
+"LAO","Lao People's Democratic Republic","AFOLU","IPCC aggregates","no","no",1994,19907650.6,2453767.5,6950518.4,NA
+"LAO","Lao People's Democratic Republic","AFOLU","IPCC aggregates","no","no",1995,19940275,2495637.5,6941272.8,NA
+"LAO","Lao People's Democratic Republic","AFOLU","IPCC aggregates","no","no",1996,19936357.5,1974462,7458530.800000001,NA
+"LAO","Lao People's Democratic Republic","AFOLU","IPCC aggregates","no","no",1997,19563513.599999998,1886932.5,7173216.4,NA
+"LAO","Lao People's Democratic Republic","AFOLU","IPCC aggregates","no","no",1998,21374426.9,2262199,8608863.2,NA
+"LAO","Lao People's Democratic Republic","AFOLU","IPCC aggregates","no","no",1999,19979687.2,1917778.5,7558544,NA
+"LAO","Lao People's Democratic Republic","AFOLU","IPCC aggregates","no","no",2000,19385847.5,1796170,7086312.8,NA
+"LAO","Lao People's Democratic Republic","AFOLU","IPCC aggregates","no","no",2001,19698552,1591669.5,5932528,NA
+"LAO","Lao People's Democratic Republic","AFOLU","IPCC aggregates","no","no",2002,20839204.6,2110380.5,6554469.600000001,NA
+"LAO","Lao People's Democratic Republic","AFOLU","IPCC aggregates","no","no",2003,21365802.8,2303459.5,6887988.8,NA
+"LAO","Lao People's Democratic Republic","AFOLU","IPCC aggregates","no","no",2004,26133096.3,4480991,9477750.799999999,NA
+"LAO","Lao People's Democratic Republic","AFOLU","IPCC aggregates","no","no",2005,23094031,3134234.5,7785442,NA
+"LAO","Lao People's Democratic Republic","AFOLU","IPCC aggregates","no","no",2006,21464375.599999998,2337167.5,6952853.600000001,NA
+"LAO","Lao People's Democratic Republic","AFOLU","IPCC aggregates","no","no",2007,27080381.700000003,4935678,9970349.200000001,NA
+"LAO","Lao People's Democratic Republic","AFOLU","IPCC aggregates","no","no",2008,21537061,2265882.5,7096824,NA
+"LAO","Lao People's Democratic Republic","AFOLU","IPCC aggregates","no","no",2009,22462319.9,2634577,7653388.399999999,NA
+"LAO","Lao People's Democratic Republic","AFOLU","IPCC aggregates","no","no",2010,26317840.3,4343721,9799764.8,NA
+"LAO","Lao People's Democratic Republic","AFOLU","IPCC aggregates","no","no",2011,18469937.8,2358924,7441968.8,NA
+"LAO","Lao People's Democratic Republic","AFOLU","IPCC aggregates","no","no",2012,20412374.1,3125595.5,8617733.6,NA
+"LAO","Lao People's Democratic Republic","AFOLU","IPCC aggregates","no","no",2013,20618898,3233901,8715952,NA
+"LAO","Lao People's Democratic Republic","AFOLU","IPCC aggregates","no","no",2014,20676444.5,3203611.5,8803788,NA
+"LAO","Lao People's Democratic Republic","AFOLU","IPCC aggregates","no","no",2015,20812913.9,3226560.5,8917308.4,NA
+"LAO","Lao People's Democratic Republic","AFOLU","IPCC aggregates","no","no",2016,22457456.5,3905755.5,9882656,NA
+"LAO","Lao People's Democratic Republic","AFOLU","IPCC aggregates","no","no",2017,20239364.099999998,2852751.5,8717567.6,NA
+"LAO","Lao People's Democratic Republic","AFOLU","IPCC aggregates","no","no",2018,19893722.8,2816261,8408416.8,NA
+"LAO","Lao People's Democratic Republic","AFOLU","IPCC aggregates","no","no",2019,21282343.2,3425549,9187749.200000001,NA
+"LAO","Lao People's Democratic Republic","AFOLU","IPCC aggregates","no","no",2020,24281971.6,4671473,10941453.600000001,NA
+"LAO","Lao People's Democratic Republic","AFOLU","IPCC aggregates","no","no",2021,20805069.8,3091490,9044534.799999999,NA
+"LAO","Lao People's Democratic Republic","AFOLU","IPCC aggregates","no","no",2022,20418770.400000002,2937949,8811776.4,NA
+"LAO","Lao People's Democratic Republic","AFOLU","IPCC aggregates","no","no",2030,NA,NA,NA,NA
+"LAO","Lao People's Democratic Republic","AFOLU","IPCC aggregates","no","no",2050,NA,NA,NA,NA
+NA,"World","Energy","Not agri-food","yes","no",1992,24036911691.100002,167556499.5,2595199950.8,NA
+NA,"World","Energy","Not agri-food","yes","no",1993,24215296715,168737297,2609434779,NA
+NA,"World","Energy","Not agri-food","yes","no",1994,24267147226.7,173768216,2628674613.4,NA
+NA,"World","Energy","Not agri-food","yes","no",1995,24739991875.300003,181760427.9,2704568661.5,NA
+NA,"World","Energy","Not agri-food","yes","no",1996,25377012962.5,186357528.3,2772385271.3,NA
+NA,"World","Energy","Not agri-food","yes","no",1997,25539444230,195852708.9,2799497361.3999996,NA
+NA,"World","Energy","Not agri-food","yes","no",1998,25338218644.1,202748814.7,2705773270.5,NA
+NA,"World","Energy","Not agri-food","yes","no",1999,25826482359.1,211092556.4,2696806913.1,NA
+NA,"World","Energy","Not agri-food","yes","no",2000,26586965049.199997,194088003.9,2809242210.7000003,NA
+NA,"World","Energy","Not agri-food","yes","no",2001,26668316605,197484018.9,2813478644,NA
+NA,"World","Energy","Not agri-food","yes","no",2002,27116971788.600002,202050002.4,2767530447.5,NA
+NA,"World","Energy","Not agri-food","yes","no",2003,28592183540.899998,210751998.9,2954444779.1,NA
+NA,"World","Energy","Not agri-food","yes","no",2004,29607653429,222684316.2,3044729403.8999996,NA
+NA,"World","Energy","Not agri-food","yes","no",2005,30534854940.2,228134585.9,3142534149.9,NA
+NA,"World","Energy","Not agri-food","yes","no",2006,31506582884,236711114.8,3228720861.3,NA
+NA,"World","Energy","Not agri-food","yes","no",2007,32238807485.100002,245858489.70000002,3243260691.1,NA
+NA,"World","Energy","Not agri-food","yes","no",2008,33106800430.3,249576125.3,3311323206.7,NA
+NA,"World","Energy","Not agri-food","yes","no",2009,32597692681.8,243118815.89999998,3263177429.7000003,NA
+NA,"World","Energy","Not agri-food","yes","no",2010,34251535996.699997,254654213.6,3396936397.4,NA
+NA,"World","Energy","Not agri-food","yes","no",2011,35419025039.399994,260161096.7,3563175241.8,NA
+NA,"World","Energy","Not agri-food","yes","no",2012,35931085566.1,262948315.1,3612323284.8999996,NA
+NA,"World","Energy","Not agri-food","yes","no",2013,35991280075.6,266137837.50000003,3585858773.3,NA
+NA,"World","Energy","Not agri-food","yes","no",2014,36278332690.9,268637955.1,3605660305.3,NA
+NA,"World","Energy","Not agri-food","yes","no",2015,36338295926.700005,266106650.8,3569269688.4,NA
+NA,"World","Energy","Not agri-food","yes","no",2016,36292436850.100006,266776664.89999998,3538186803.4,NA
+NA,"World","Energy","Not agri-food","yes","no",2017,36936474034.4,272778446,3608838388.9,NA
+NA,"World","Energy","Not agri-food","yes","no",2018,37777462661.5,278242575.59999996,3708945971.2999997,NA
+NA,"World","Energy","Not agri-food","yes","no",2019,38159836055.1,280138278,3752069487,NA
+NA,"World","Energy","Not agri-food","yes","no",2020,36315495237.2,266484819.20000002,3568636763.4,NA
+NA,"World","Energy","Not agri-food","yes","no",2021,38092048019.7,281338003.6,3654215102.2999997,NA
+NA,"World","Energy","Not agri-food","yes","no",2022,38843791437,285503548.59999996,3784014775.7999997,NA
+NA,"World","Energy","Not agri-food","yes","no",2030,NA,NA,NA,NA
+NA,"World","Energy","Not agri-food","yes","no",2050,NA,NA,NA,NA
+NA,"World","IPPU","Not agri-food","yes","no",1992,1633330095.5,217594228.70000002,3904494,325033096.29999995
+NA,"World","IPPU","Not agri-food","yes","no",1993,1647208740.1000001,210738753,4218424.8,326508493
+NA,"World","IPPU","Not agri-food","yes","no",1994,1728449635.5,224723505.20000002,4493774.6,342053667.7
+NA,"World","IPPU","Not agri-food","yes","no",1995,1835731962.5,242172280.5,4788575.8,371638990
+NA,"World","IPPU","Not agri-food","yes","no",1996,1888171011.9,250080052.39999998,4771049.699999999,394475450.9
+NA,"World","IPPU","Not agri-food","yes","no",1997,1951144671.8999999,240947672.9,4956336.100000001,421832311.8
+NA,"World","IPPU","Not agri-food","yes","no",1998,1965365712.6,217466702.9,5187512.800000001,440242717.8
+NA,"World","IPPU","Not agri-food","yes","no",1999,1998129868.3,198323455.3,5127439.8,452594516.59999996
+NA,"World","IPPU","Not agri-food","yes","no",2000,2091932834,203912941.3,5414291.5,478935456.9
+NA,"World","IPPU","Not agri-food","yes","no",2001,2118828274.4,199270491.79999998,5519567.9,479493094
+NA,"World","IPPU","Not agri-food","yes","no",2002,2245637764,193896562.89999998,5815082.1,555106044.8000001
+NA,"World","IPPU","Not agri-food","yes","no",2003,2400602795.5,197416169.3,6191687.7,584914488.2
+NA,"World","IPPU","Not agri-food","yes","no",2004,2571642571.2000003,210135945,6648133.7,653331162.4
+NA,"World","IPPU","Not agri-food","yes","no",2005,2732112257.3,220367870.4,6946106.899999999,702088711
+NA,"World","IPPU","Not agri-food","yes","no",2006,2898529360,217947769.3,7682605.5,731331962.1999999
+NA,"World","IPPU","Not agri-food","yes","no",2007,3065998056.7000003,233394134.1,8224149.7,746966096.6
+NA,"World","IPPU","Not agri-food","yes","no",2008,3031445772.9,208235395.4,8271861.000000001,734087529
+NA,"World","IPPU","Not agri-food","yes","no",2009,3041781870.5,178987774.29999998,8250483.700000001,755292252.5
+NA,"World","IPPU","Not agri-food","yes","no",2010,3247534138.7999997,183724316.8,9394244.5,810062697.8
+NA,"World","IPPU","Not agri-food","yes","no",2011,3463430211.2,199495637,13672919.6,857074279.5
+NA,"World","IPPU","Not agri-food","yes","no",2012,3583565608.1,214511725.5,14597569.5,909718220.9
+NA,"World","IPPU","Not agri-food","yes","no",2013,3734485320.2999997,215699226.1,15292181.7,954152777.8000001
+NA,"World","IPPU","Not agri-food","yes","no",2014,3918090622.1,216781684.10000002,16803659.400000002,1022421141.1
+NA,"World","IPPU","Not agri-food","yes","no",2015,3801854285,217081191.9,16765213.4,990497525.5
+NA,"World","IPPU","Not agri-food","yes","no",2016,3897441838.8999996,218979551.9,17092722.2,1037498238.4
+NA,"World","IPPU","Not agri-food","yes","no",2017,3999966751.4,220484873.3,17951564,1097517888.8000002
+NA,"World","IPPU","Not agri-food","yes","no",2018,4135166248,222725292.7,18630479,1155441222.4
+NA,"World","IPPU","Not agri-food","yes","no",2019,4292096596.9,223537489.5,19609965.7,1204793037.1000001
+NA,"World","IPPU","Not agri-food","yes","no",2020,4391048283.7,233228647,19844051.5,1262062105.1000001
+NA,"World","IPPU","Not agri-food","yes","no",2021,4563549519.4,244414547.7,20560173.5,1328032278.3999999
+NA,"World","IPPU","Not agri-food","yes","no",2022,4500829092,238006749.5,20560850.900000002,1375643608.7
+NA,"World","IPPU","Not agri-food","yes","no",2030,NA,NA,NA,NA
+NA,"World","IPPU","Not agri-food","yes","no",2050,NA,NA,NA,NA
+NA,"World","Waste","Not agri-food","yes","no",1992,1681652211.8,71022073.5,1599416449.4,NA
+NA,"World","Waste","Not agri-food","yes","no",1993,1701720120.1,72850018,1617892744.2,NA
+NA,"World","Waste","Not agri-food","yes","no",1994,1728377941.9,75084410,1641479633.6999998,NA
+NA,"World","Waste","Not agri-food","yes","no",1995,1748716903.8,76868203.4,1659919483.6,NA
+NA,"World","Waste","Not agri-food","yes","no",1996,1768805854.2,78888709.3,1676699737.2,NA
+NA,"World","Waste","Not agri-food","yes","no",1997,1790371427.3000002,80412705.3,1696004256.4,NA
+NA,"World","Waste","Not agri-food","yes","no",1998,1801830206.5,82347938.1,1706055358.6,NA
+NA,"World","Waste","Not agri-food","yes","no",1999,1822813429.8,83899412.4,1725541141.1,NA
+NA,"World","Waste","Not agri-food","yes","no",2000,1851130952.5,85173924.4,1751302585,NA
+NA,"World","Waste","Not agri-food","yes","no",2001,1850444094.4,86319703.89999999,1749050209.5,NA
+NA,"World","Waste","Not agri-food","yes","no",2002,1866637485.8999999,87481101.8,1764842938,NA
+NA,"World","Waste","Not agri-food","yes","no",2003,1900241184.3999999,89314939.10000001,1795282446.9,NA
+NA,"World","Waste","Not agri-food","yes","no",2004,1929595784.7,90730706.5,1824105829.3000002,NA
+NA,"World","Waste","Not agri-food","yes","no",2005,1949918735.3999999,92046059.39999999,1843582989.8999999,NA
+NA,"World","Waste","Not agri-food","yes","no",2006,1997515998.1,94179213.2,1888274941.9,NA
+NA,"World","Waste","Not agri-food","yes","no",2007,2030827431.2,96472362.6,1918999550.2,NA
+NA,"World","Waste","Not agri-food","yes","no",2008,2051623020.1999998,98372929.9,1937301090.1,NA
+NA,"World","Waste","Not agri-food","yes","no",2009,2063065623.3999999,100317072.8,1947354832.3999999,NA
+NA,"World","Waste","Not agri-food","yes","no",2010,2095361211.7,102245194.2,1976928387.8999999,NA
+NA,"World","Waste","Not agri-food","yes","no",2011,2136570911.2,104434198.5,2015608809.2,NA
+NA,"World","Waste","Not agri-food","yes","no",2012,2162268005.9,106256064.3,2039872256.7,NA
+NA,"World","Waste","Not agri-food","yes","no",2013,2203665962.5,108445557.7,2077110970.3,NA
+NA,"World","Waste","Not agri-food","yes","no",2014,2239601991.7000003,110278949.5,2112781070.9,NA
+NA,"World","Waste","Not agri-food","yes","no",2015,2284385935.8,112492353.4,2154376821.2000003,NA
+NA,"World","Waste","Not agri-food","yes","no",2016,2324249647.2999997,114780317.5,2191728148.9,NA
+NA,"World","Waste","Not agri-food","yes","no",2017,2370435378.3999996,116959244.7,2235882739.3,NA
+NA,"World","Waste","Not agri-food","yes","no",2018,2421855262.6,118369918,2285470827.6,NA
+NA,"World","Waste","Not agri-food","yes","no",2019,2460601366.6,119625750.3,2323158651.2000003,NA
+NA,"World","Waste","Not agri-food","yes","no",2020,2493482160.8,120939021,2354784085.5,NA
+NA,"World","Waste","Not agri-food","yes","no",2021,2537814983.3999996,122631771,2397417080.7,NA
+NA,"World","Waste","Not agri-food","yes","no",2022,2577948164.7999997,124368320,2435745650.6,NA
+NA,"World","Waste","Not agri-food","yes","no",2030,NA,NA,NA,NA
+NA,"World","Waste","Not agri-food","yes","no",2050,NA,NA,NA,NA
+NA,"World","International bunkers","Not agri-food","yes","no",1992,702353566.1,18719019.9,10145042.799999999,NA
+NA,"World","International bunkers","Not agri-food","yes","no",1993,694417618,18293519.400000002,10401002.1,NA
+NA,"World","International bunkers","Not agri-food","yes","no",1994,720837613,18904499.5,10529299.5,NA
+NA,"World","International bunkers","Not agri-food","yes","no",1995,747593213.3,19585018.1,10827616.799999999,NA
+NA,"World","International bunkers","Not agri-food","yes","no",1996,768680640.5,20056787.7,11185745.9,NA
+NA,"World","International bunkers","Not agri-food","yes","no",1997,795182893.5,20645940.6,11711789.4,NA
+NA,"World","International bunkers","Not agri-food","yes","no",1998,820245833.6,21285579.5,12179980,NA
+NA,"World","International bunkers","Not agri-food","yes","no",1999,862182342.5,22465202.6,11860805.5,NA
+NA,"World","International bunkers","Not agri-food","yes","no",2000,888807641.9000001,23095665.700000003,12630424.7,NA
+NA,"World","International bunkers","Not agri-food","yes","no",2001,856088439.6,22075329.4,12569337.299999999,NA
+NA,"World","International bunkers","Not agri-food","yes","no",2002,895486229.7,23011671.5,12300391.299999999,NA
+NA,"World","International bunkers","Not agri-food","yes","no",2003,902203411.8,23258565.4,13105463.299999999,NA
+NA,"World","International bunkers","Not agri-food","yes","no",2004,984150036.5,25468029.8,14072929.700000001,NA
+NA,"World","International bunkers","Not agri-food","yes","no",2005,1029668106.5,26493050.3,14290346.100000001,NA
+NA,"World","International bunkers","Not agri-food","yes","no",2006,1084034358.5,28061450.2,14420807.1,NA
+NA,"World","International bunkers","Not agri-food","yes","no",2007,1135468333.1,29561185.6,14489504.5,NA
+NA,"World","International bunkers","Not agri-food","yes","no",2008,1144453695.8999999,29691362.5,14454789.9,NA
+NA,"World","International bunkers","Not agri-food","yes","no",2009,1089605471.5,28275223.900000002,13689324.9,NA
+NA,"World","International bunkers","Not agri-food","yes","no",2010,1164513733.7,30342001.599999998,13977752.5,NA
+NA,"World","International bunkers","Not agri-food","yes","no",2011,1181008242.8,30582358.599999998,14064556.6,NA
+NA,"World","International bunkers","Not agri-food","yes","no",2012,1134479490.8,28909241.2,14096945.299999999,NA
+NA,"World","International bunkers","Not agri-food","yes","no",2013,1139920649.5,28933391.2,13887920.8,NA
+NA,"World","International bunkers","Not agri-food","yes","no",2014,1177191253.4,29960799.8,13690781.1,NA
+NA,"World","International bunkers","Not agri-food","yes","no",2015,1234289944.2,31366202.2,14279236.3,NA
+NA,"World","International bunkers","Not agri-food","yes","no",2016,1275074038.6000001,32253135.3,15005348.4,NA
+NA,"World","International bunkers","Not agri-food","yes","no",2017,1337993917.1,33696200.7,15002222.9,NA
+NA,"World","International bunkers","Not agri-food","yes","no",2018,1367234190.3999999,34122817.9,15280640.600000001,NA
+NA,"World","International bunkers","Not agri-food","yes","no",2019,1361078427.5,33713409.4,15105310.7,NA
+NA,"World","International bunkers","Not agri-food","yes","no",2020,970417676.6999999,27304302.3,13875440.7,NA
+NA,"World","International bunkers","Not agri-food","yes","no",2021,1054970571.1999999,29271616.6,13921977.5,NA
+NA,"World","International bunkers","Not agri-food","yes","no",2022,1175800119.8,31747905.599999998,13979750.700000001,NA
+NA,"World","International bunkers","Not agri-food","yes","no",2030,NA,NA,NA,NA
+NA,"World","International bunkers","Not agri-food","yes","no",2050,NA,NA,NA,NA
+NA,"World","Agrifood systems","FAO aggregates","no","no",1992,14282899194.199999,1782507576.8,4629746690.1,84683345.5
+NA,"World","Agrifood systems","FAO aggregates","no","no",1993,14280046545,1768206858.1000001,4628880772.5,57829209.4
+NA,"World","Agrifood systems","FAO aggregates","no","no",1994,14393527457.599998,1787418338.2,4665827031.5,67303695.7
+NA,"World","Agrifood systems","FAO aggregates","no","no",1995,14649810371.6,1825800175.8000002,4708049873.1,52627726.7
+NA,"World","Agrifood systems","FAO aggregates","no","no",1996,14556886781,1821883282,4679099171.1,49940830.4
+NA,"World","Agrifood systems","FAO aggregates","no","no",1997,15524098171.9,1815599244.6000001,4924928398.900001,63488162.900000006
+NA,"World","Agrifood systems","FAO aggregates","no","no",1998,14902367656.5,1851912786.6,4810199323.400001,56904136.3
+NA,"World","Agrifood systems","FAO aggregates","no","no",1999,14796929247.400002,1865640272,4771804487.4,74419550.8
+NA,"World","Agrifood systems","FAO aggregates","no","no",2000,14741011050.4,1847162561.7,4731353130.8,73853525.2
+NA,"World","Agrifood systems","FAO aggregates","no","no",2001,14269401409.800001,1883317543.8000002,4713077975.1,88864781.4
+NA,"World","Agrifood systems","FAO aggregates","no","no",2002,14846484925.300001,1932112229.4,4865072662.8,107546018.4
+NA,"World","Agrifood systems","FAO aggregates","no","no",2003,14677466215.4,1951731727,4807205037,121404608.39999999
+NA,"World","Agrifood systems","FAO aggregates","no","no",2004,15351789719.8,2011847408.2,4975664081.3,138881912.5
+NA,"World","Agrifood systems","FAO aggregates","no","no",2005,15230994680.9,2020153376.8,4948230967.5,142973310.3
+NA,"World","Agrifood systems","FAO aggregates","no","no",2006,15809947452.3,2040128484.3,5078768331.2,165896005.70000002
+NA,"World","Agrifood systems","FAO aggregates","no","no",2007,15450884247.300001,2094272506.8000002,4995813926.7,188286885.5
+NA,"World","Agrifood systems","FAO aggregates","no","no",2008,15490399511.5,2073307689.5,5001820479.1,209512089.6
+NA,"World","Agrifood systems","FAO aggregates","no","no",2009,15895568700.5,2078362942.4,5099908715.900001,224863245.5
+NA,"World","Agrifood systems","FAO aggregates","no","no",2010,15800558873.7,2148983626.9,5060990791.1,250028015
+NA,"World","Agrifood systems","FAO aggregates","no","no",2011,15827455283.3,2205057876.3,5159117783.3,274555694.8
+NA,"World","Agrifood systems","FAO aggregates","no","no",2012,15951416706.1,2213764510.4,5187082971.7,303081355.3
+NA,"World","Agrifood systems","FAO aggregates","no","no",2013,16059044963.199999,2186562183.8,5142986294.200001,326290405.5
+NA,"World","Agrifood systems","FAO aggregates","no","no",2014,16519153502.5,2217259749.1,5253080990.1,355786913.7
+NA,"World","Agrifood systems","FAO aggregates","no","no",2015,16566725249,2225979630.7999997,5283770338,369395535.6
+NA,"World","Agrifood systems","FAO aggregates","no","no",2016,15843316493.1,2238805668.1,5170879833.3,389882788.2
+NA,"World","Agrifood systems","FAO aggregates","no","no",2017,15924120686.2,2284822089.5,5202751052.400001,406333813.2
+NA,"World","Agrifood systems","FAO aggregates","no","no",2018,16136601313.4,2254149683.3,5233221075.6,422089257.7
+NA,"World","Agrifood systems","FAO aggregates","no","no",2019,16396435262.800001,2268677409.2000003,5306478006.7,439170244.2
+NA,"World","Agrifood systems","FAO aggregates","no","no",2020,16068038530.4,2326485746.2,5260076115.299999,455775638.3
+NA,"World","Agrifood systems","FAO aggregates","no","no",2021,16269113536.599998,2332445023.8,5276503970.8,484820999.20000005
+NA,"World","Agrifood systems","FAO aggregates","no","no",2022,16240231621.300001,2304140850.8,5284390764.4,484820999.20000005
+NA,"World","Agrifood systems","FAO aggregates","no","no",2030,NA,NA,NA,NA
+NA,"World","Agrifood systems","FAO aggregates","no","no",2050,NA,NA,NA,NA
+NA,"World","Farm gate","Agrifood systems","no","yes",1992,6688008429.1,1632928701.5,3531310773.2000003,NA
+NA,"World","Farm gate","Agrifood systems","no","yes",1993,6635560752.9,1618355848,3513006490,NA
+NA,"World","Farm gate","Agrifood systems","no","yes",1994,6706765680.4,1634859465,3541751939.6000004,NA
+NA,"World","Farm gate","Agrifood systems","no","yes",1995,6791415129.8,1669693953.5,3561181218,NA
+NA,"World","Farm gate","Agrifood systems","no","yes",1996,6825211220.5,1699233768.5,3559437529.2000003,NA
+NA,"World","Farm gate","Agrifood systems","no","yes",1997,6746619828.700001,1675278033.5,3509713253.2000003,NA
+NA,"World","Farm gate","Agrifood systems","no","yes",1998,6791818843.3,1703895171.5,3534674399.2,NA
+NA,"World","Farm gate","Agrifood systems","no","yes",1999,6835616393.8,1726646004.5,3568999758.8,NA
+NA,"World","Farm gate","Agrifood systems","no","yes",2000,6834518809.1,1720408699.5,3572606688,NA
+NA,"World","Farm gate","Agrifood systems","no","yes",2001,6840976935.3,1731498393,3566048362.7999997,NA
+NA,"World","Farm gate","Agrifood systems","no","yes",2002,6841081283.200001,1762928373.5,3589021293.2000003,NA
+NA,"World","Farm gate","Agrifood systems","no","yes",2003,6872925290.7,1761177094.5,3588551038.8,NA
+NA,"World","Farm gate","Agrifood systems","no","yes",2004,7027632748,1812159517,3648931689.2,NA
+NA,"World","Farm gate","Agrifood systems","no","yes",2005,7094253581.7,1820605014,3682254657.2,NA
+NA,"World","Farm gate","Agrifood systems","no","yes",2006,7180010200.2,1849056659.5,3714979410.8,NA
+NA,"World","Farm gate","Agrifood systems","no","yes",2007,7230533764.6,1887627568.5,3750934499.2,NA
+NA,"World","Farm gate","Agrifood systems","no","yes",2008,7257334597.400001,1881253152.5,3767794676.8,NA
+NA,"World","Farm gate","Agrifood systems","no","yes",2009,7248093901,1887084557,3757901532,NA
+NA,"World","Farm gate","Agrifood systems","no","yes",2010,7332008563.5,1923787746,3779966422.4,NA
+NA,"World","Farm gate","Agrifood systems","no","yes",2011,7493170774.2,1994406085.5,3840099211.2,NA
+NA,"World","Farm gate","Agrifood systems","no","yes",2012,7531078770,1999621312,3856981604,NA
+NA,"World","Farm gate","Agrifood systems","no","yes",2013,7516173712.3,1981417958.5,3820430068,NA
+NA,"World","Farm gate","Agrifood systems","no","yes",2014,7573065260.599999,2008678932.5,3846190012,NA
+NA,"World","Farm gate","Agrifood systems","no","yes",2015,7562499489,2012113942,3861282997.6,NA
+NA,"World","Farm gate","Agrifood systems","no","yes",2016,7619543537,2024454833,3888333836.8,NA
+NA,"World","Farm gate","Agrifood systems","no","yes",2017,7732443617.6,2070552563.5,3925937836.8,NA
+NA,"World","Farm gate","Agrifood systems","no","yes",2018,7712985451.2,2055924033.5,3918768736.3999996,NA
+NA,"World","Farm gate","Agrifood systems","no","yes",2019,7717673705,2053773426,3910593374.7999997,NA
+NA,"World","Farm gate","Agrifood systems","no","yes",2020,7787487099.3,2105418216,3964562277.2,NA
+NA,"World","Farm gate","Agrifood systems","no","yes",2021,7833801093.7,2117189807.5,3998197725.2000003,NA
+NA,"World","Farm gate","Agrifood systems","no","yes",2022,7836567809.1,2098403454,4019952288.8,NA
+NA,"World","Farm gate","Agrifood systems","no","yes",2030,NA,NA,NA,NA
+NA,"World","Farm gate","Agrifood systems","no","yes",2050,NA,NA,NA,NA
+NA,"World","Land Use change","Agrifood systems","no","yes",1992,4673137708.2,61493276.5,150676624,NA
+NA,"World","Land Use change","Agrifood systems","no","yes",1993,4673137708.2,61493276.5,150676624,NA
+NA,"World","Land Use change","Agrifood systems","no","yes",1994,4673137708.2,61493276.5,150676624,NA
+NA,"World","Land Use change","Agrifood systems","no","yes",1995,4673137708.2,61493276.5,150676624,NA
+NA,"World","Land Use change","Agrifood systems","no","yes",1996,4461456549.4,24608456.5,108097505.60000001,NA
+NA,"World","Land Use change","Agrifood systems","no","yes",1997,5461125955.900001,41103275.5,402801226.8,NA
+NA,"World","Land Use change","Agrifood systems","no","yes",1998,4731566694.400001,45756357.5,228153875.6,NA
+NA,"World","Land Use change","Agrifood systems","no","yes",1999,4539435173.2,33636397,149836033.20000002,NA
+NA,"World","Land Use change","Agrifood systems","no","yes",2000,4406541225,20819725,84926352,NA
+NA,"World","Land Use change","Agrifood systems","no","yes",2001,3828991740,44038018,61391766.8,NA
+NA,"World","Land Use change","Agrifood systems","no","yes",2002,4356142402.099999,55189059,203434669.20000002,NA
+NA,"World","Land Use change","Agrifood systems","no","yes",2003,4024029388.7999997,72361191.5,128557086,NA
+NA,"World","Land Use change","Agrifood systems","no","yes",2004,4402881489.6,81076670.5,231075745.6,NA
+NA,"World","Land Use change","Agrifood systems","no","yes",2005,4117071301.4,80422438.5,157269935.20000002,NA
+NA,"World","Land Use change","Agrifood systems","no","yes",2006,4480901865.8,67950319.5,243220821.20000002,NA
+NA,"World","Land Use change","Agrifood systems","no","yes",2007,3928081306.6,81246217.5,109282728.8,NA
+NA,"World","Land Use change","Agrifood systems","no","yes",2008,3872284531.8999996,65417529,85406308.39999999,NA
+NA,"World","Land Use change","Agrifood systems","no","yes",2009,4270317802.5,62281492.5,185729132.4,NA
+NA,"World","Land Use change","Agrifood systems","no","yes",2010,3932940763.2,90771801.5,116271864.8,NA
+NA,"World","Land Use change","Agrifood systems","no","yes",2011,3673606145.6,71061419.5,138257014,NA
+NA,"World","Land Use change","Agrifood systems","no","yes",2012,3687055625.6,73683011.5,143291436.4,NA
+NA,"World","Land Use change","Agrifood systems","no","yes",2013,3645110211.2,63886385.5,126602700,NA
+NA,"World","Land Use change","Agrifood systems","no","yes",2014,3995901776.9,64134425.5,216757923.2,NA
+NA,"World","Land Use change","Agrifood systems","no","yes",2015,4034918066.1,72052652,231574229.6,NA
+NA,"World","Land Use change","Agrifood systems","no","yes",2016,3170499943.2999997,70058553.5,100148109.6,NA
+NA,"World","Land Use change","Agrifood systems","no","yes",2017,3125766749.7999997,71878679.5,89765096.39999999,NA
+NA,"World","Land Use change","Agrifood systems","no","yes",2018,3287562857,56942378.5,122299419.2,NA
+NA,"World","Land Use change","Agrifood systems","no","yes",2019,3552834469.9,72466847,199763967.20000002,NA
+NA,"World","Land Use change","Agrifood systems","no","yes",2020,3151153050.7,73451666.5,97225116.8,NA
+NA,"World","Land Use change","Agrifood systems","no","yes",2021,3101243474.8,62906097.5,78057288.4,NA
+NA,"World","Land Use change","Agrifood systems","no","yes",2022,3069594844.1,53388278,64189518.4,NA
+NA,"World","Land Use change","Agrifood systems","no","yes",2030,NA,NA,NA,NA
+NA,"World","Land Use change","Agrifood systems","no","yes",2050,NA,NA,NA,NA
+NA,"World","Pre- and Post- Production","Agrifood systems","no","yes",1992,2921753056.9,88085598.80000001,947759292.9,84683345.5
+NA,"World","Pre- and Post- Production","Agrifood systems","no","yes",1993,2971348083.9,88357733.60000001,965197658.5,57829209.4
+NA,"World","Pre- and Post- Production","Agrifood systems","no","yes",1994,3013624069,91065596.69999999,973398467.9000001,67303695.7
+NA,"World","Pre- and Post- Production","Agrifood systems","no","yes",1995,3185257533.6000004,94612945.8,996192031.1,52627726.7
+NA,"World","Pre- and Post- Production","Agrifood systems","no","yes",1996,3270219011.1,98041057,1011564136.3000001,49940830.4
+NA,"World","Pre- and Post- Production","Agrifood systems","no","yes",1997,3316352387.3,99217935.6,1012413918.9000001,63488162.900000006
+NA,"World","Pre- and Post- Production","Agrifood systems","no","yes",1998,3378982118.7999997,102261257.6,1047371048.6,56904136.3
+NA,"World","Pre- and Post- Production","Agrifood systems","no","yes",1999,3421877680.4,105357870.6,1052968695.4000001,74419550.8
+NA,"World","Pre- and Post- Production","Agrifood systems","no","yes",2000,3499951016.2999997,105934137.2,1073820090.8,73853525.2
+NA,"World","Pre- and Post- Production","Agrifood systems","no","yes",2001,3599432734.5,107781132.80000001,1085637845.5,88864781.4
+NA,"World","Pre- and Post- Production","Agrifood systems","no","yes",2002,3649261240,113994796.9,1072616700.4,107546018.4
+NA,"World","Pre- and Post- Production","Agrifood systems","no","yes",2003,3780511535.9,118193441,1090096912.1999998,121404608.39999999
+NA,"World","Pre- and Post- Production","Agrifood systems","no","yes",2004,3921275482.2,118611220.7,1095656646.5,138881912.5
+NA,"World","Pre- and Post- Production","Agrifood systems","no","yes",2005,4019669797.7999997,119125924.4,1108706375.1000001,142973310.3
+NA,"World","Pre- and Post- Production","Agrifood systems","no","yes",2006,4149035386.2999997,123121505.3,1120568099.2,165896005.70000002
+NA,"World","Pre- and Post- Production","Agrifood systems","no","yes",2007,4292269176.1,125398720.8,1135596698.7,188286885.5
+NA,"World","Pre- and Post- Production","Agrifood systems","no","yes",2008,4360780382.2,126637008,1148619493.8999999,209512089.6
+NA,"World","Pre- and Post- Production","Agrifood systems","no","yes",2009,4377156997,128996892.9,1156278051.5,224863245.5
+NA,"World","Pre- and Post- Production","Agrifood systems","no","yes",2010,4535609547,134424079.39999998,1164752503.8999999,250028015
+NA,"World","Pre- and Post- Production","Agrifood systems","no","yes",2011,4660678363.5,139590371.3,1180761558.1,274555694.8
+NA,"World","Pre- and Post- Production","Agrifood systems","no","yes",2012,4733282310.5,140460186.9,1186809931.3,303081355.3
+NA,"World","Pre- and Post- Production","Agrifood systems","no","yes",2013,4897761039.7,141257839.79999998,1195953526.2,326290405.5
+NA,"World","Pre- and Post- Production","Agrifood systems","no","yes",2014,4950186465,144446391.1,1190133054.9,355786913.7
+NA,"World","Pre- and Post- Production","Agrifood systems","no","yes",2015,4969307693.900001,141813036.8,1190913110.8,369395535.6
+NA,"World","Pre- and Post- Production","Agrifood systems","no","yes",2016,5053273012.799999,144292281.6,1182397886.9,389882788.2
+NA,"World","Pre- and Post- Production","Agrifood systems","no","yes",2017,5065910318.799999,142390846.5,1187048119.2,406333813.2
+NA,"World","Pre- and Post- Production","Agrifood systems","no","yes",2018,5136053005.2,141283271.29999998,1192152920,422089257.7
+NA,"World","Pre- and Post- Production","Agrifood systems","no","yes",2019,5125927087.9,142437136.20000002,1196120664.7,439170244.2
+NA,"World","Pre- and Post- Production","Agrifood systems","no","yes",2020,5129398380.400001,147615863.7,1198288721.3000002,455775638.3
+NA,"World","Pre- and Post- Production","Agrifood systems","no","yes",2021,5334068968.1,152349118.79999998,1200248957.2,484820999.20000005
+NA,"World","Pre- and Post- Production","Agrifood systems","no","yes",2022,5334068968.1,152349118.79999998,1200248957.2,484820999.20000005
+NA,"World","Pre- and Post- Production","Agrifood systems","no","yes",2030,NA,NA,NA,NA
+NA,"World","Pre- and Post- Production","Agrifood systems","no","yes",2050,NA,NA,NA,NA
+NA,"World","Emissions on agricultural land","FAO aggregates","no","no",1992,11361146137.3,1694421978,3681987397.2,NA
+NA,"World","Emissions on agricultural land","FAO aggregates","no","no",1993,11308698461.1,1679849124.5,3663683114,NA
+NA,"World","Emissions on agricultural land","FAO aggregates","no","no",1994,11379903388.599998,1696352741.5,3692428563.6,NA
+NA,"World","Emissions on agricultural land","FAO aggregates","no","no",1995,11464552838,1731187230,3711857842,NA
+NA,"World","Emissions on agricultural land","FAO aggregates","no","no",1996,11286667769.9,1723842225,3667535034.8,NA
+NA,"World","Emissions on agricultural land","FAO aggregates","no","no",1997,12207745784.6,1716381309,3912514480,NA
+NA,"World","Emissions on agricultural land","FAO aggregates","no","no",1998,11523385537.699999,1749651529,3762828274.7999997,NA
+NA,"World","Emissions on agricultural land","FAO aggregates","no","no",1999,11375051567,1760282401.5,3718835792,NA
+NA,"World","Emissions on agricultural land","FAO aggregates","no","no",2000,11241060034.1,1741228424.5,3657533040,NA
+NA,"World","Emissions on agricultural land","FAO aggregates","no","no",2001,10669968675.300001,1775536411,3627440129.6,NA
+NA,"World","Emissions on agricultural land","FAO aggregates","no","no",2002,11197223685.3,1818117432.5,3792455962.4,NA
+NA,"World","Emissions on agricultural land","FAO aggregates","no","no",2003,10896954679.5,1833538286,3717108124.7999997,NA
+NA,"World","Emissions on agricultural land","FAO aggregates","no","no",2004,11430514237.6,1893236187.5,3880007434.7999997,NA
+NA,"World","Emissions on agricultural land","FAO aggregates","no","no",2005,11211324883.099998,1901027452.5,3839524592.4,NA
+NA,"World","Emissions on agricultural land","FAO aggregates","no","no",2006,11660912066,1917006979,3958200232,NA
+NA,"World","Emissions on agricultural land","FAO aggregates","no","no",2007,11158615071.2,1968873786,3860217228,NA
+NA,"World","Emissions on agricultural land","FAO aggregates","no","no",2008,11129619129.3,1946670681.5,3853200985.2,NA
+NA,"World","Emissions on agricultural land","FAO aggregates","no","no",2009,11518411703.5,1949366049.5,3943630664.4,NA
+NA,"World","Emissions on agricultural land","FAO aggregates","no","no",2010,11264949326.7,2014559547.5,3896238287.2000003,NA
+NA,"World","Emissions on agricultural land","FAO aggregates","no","no",2011,11166776919.800001,2065467505,3978356225.2000003,NA
+NA,"World","Emissions on agricultural land","FAO aggregates","no","no",2012,11218134395.6,2073304323.5,4000273040.3999996,NA
+NA,"World","Emissions on agricultural land","FAO aggregates","no","no",2013,11161283923.5,2045304344,3947032768,NA
+NA,"World","Emissions on agricultural land","FAO aggregates","no","no",2014,11568967037.5,2072813358,4062947935.2000003,NA
+NA,"World","Emissions on agricultural land","FAO aggregates","no","no",2015,11597417555.1,2084166594,4092857227.2000003,NA
+NA,"World","Emissions on agricultural land","FAO aggregates","no","no",2016,10790043480.3,2094513386.5,3988481946.3999996,NA
+NA,"World","Emissions on agricultural land","FAO aggregates","no","no",2017,10858210367.4,2142431242.9999998,4015702933.2,NA
+NA,"World","Emissions on agricultural land","FAO aggregates","no","no",2018,11000548308.2,2112866412,4041068155.6000004,NA
+NA,"World","Emissions on agricultural land","FAO aggregates","no","no",2019,11270508174.900002,2126240273,4110357342,NA
+NA,"World","Emissions on agricultural land","FAO aggregates","no","no",2020,10938640150,2178869882.5,4061787394,NA
+NA,"World","Emissions on agricultural land","FAO aggregates","no","no",2021,10935044568.5,2180095905,4076255013.6000004,NA
+NA,"World","Emissions on agricultural land","FAO aggregates","no","no",2022,10906162653.2,2151791732,4084141807.2000003,NA
+NA,"World","Emissions on agricultural land","FAO aggregates","no","no",2030,NA,NA,NA,NA
+NA,"World","Emissions on agricultural land","FAO aggregates","no","no",2050,NA,NA,NA,NA
+NA,"World","Emissions from crops","FAO aggregates","no","no",1992,1194219038.3999999,547460638,646758400.4000001,NA
+NA,"World","Emissions from crops","FAO aggregates","no","no",1993,1176082227.8,535303975,640778252.8000001,NA
+NA,"World","Emissions from crops","FAO aggregates","no","no",1994,1188195331.1999998,540880582,647314749.1999999,NA
+NA,"World","Emissions from crops","FAO aggregates","no","no",1995,1226262774.4,567653108,658609666.4,NA
+NA,"World","Emissions from crops","FAO aggregates","no","no",1996,1266866312.1,600655810.5,666210501.5999999,NA
+NA,"World","Emissions from crops","FAO aggregates","no","no",1997,1264527130.5,594336196.5,670190934,NA
+NA,"World","Emissions from crops","FAO aggregates","no","no",1998,1267670801.5,601135407.5,666535394,NA
+NA,"World","Emissions from crops","FAO aggregates","no","no",1999,1304467526.4,612889456,691578070.4,NA
+NA,"World","Emissions from crops","FAO aggregates","no","no",2000,1267869089.9,590642573.5,677226516.4,NA
+NA,"World","Emissions from crops","FAO aggregates","no","no",2001,1267380918.2,598620213,668760705.1999999,NA
+NA,"World","Emissions from crops","FAO aggregates","no","no",2002,1264194699.5,609695119.5,654499580,NA
+NA,"World","Emissions from crops","FAO aggregates","no","no",2003,1279693240.4,625969644,653723596.4000001,NA
+NA,"World","Emissions from crops","FAO aggregates","no","no",2004,1317848282.3999999,650146442,667701840.4,NA
+NA,"World","Emissions from crops","FAO aggregates","no","no",2005,1336482078.5,653824032.5,682658046,NA
+NA,"World","Emissions from crops","FAO aggregates","no","no",2006,1353835323.5,669508799.5,684326524,NA
+NA,"World","Emissions from crops","FAO aggregates","no","no",2007,1375957634.7,691105875.5,684851759.1999999,NA
+NA,"World","Emissions from crops","FAO aggregates","no","no",2008,1394812066.6,692246939,702565127.6,NA
+NA,"World","Emissions from crops","FAO aggregates","no","no",2009,1400868034.2,703864751,697003283.1999999,NA
+NA,"World","Emissions from crops","FAO aggregates","no","no",2010,1437794402.1999998,727208389,710586013.2,NA
+NA,"World","Emissions from crops","FAO aggregates","no","no",2011,1467915156,754082834,713832322,NA
+NA,"World","Emissions from crops","FAO aggregates","no","no",2012,1464032373.3000002,752260190.5,711772182.8,NA
+NA,"World","Emissions from crops","FAO aggregates","no","no",2013,1492520406.9,773575094.5,718945312.4000001,NA
+NA,"World","Emissions from crops","FAO aggregates","no","no",2014,1498416966.4,783740044,714676922.4000001,NA
+NA,"World","Emissions from crops","FAO aggregates","no","no",2015,1483208158.1,778343292.5,704864865.6,NA
+NA,"World","Emissions from crops","FAO aggregates","no","no",2016,1499173457.3,788370256.5,710803200.8,NA
+NA,"World","Emissions from crops","FAO aggregates","no","no",2017,1518374017.9,804733529.5,713640488.4,NA
+NA,"World","Emissions from crops","FAO aggregates","no","no",2018,1509507401,794612199,714895202,NA
+NA,"World","Emissions from crops","FAO aggregates","no","no",2019,1493883180,793684646,700198534,NA
+NA,"World","Emissions from crops","FAO aggregates","no","no",2020,1549787899.2,831882700,717905199.2,NA
+NA,"World","Emissions from crops","FAO aggregates","no","no",2021,1548969118.6,827633743,721335375.6,NA
+NA,"World","Emissions from crops","FAO aggregates","no","no",2022,1512035966.7,799175737.5,712860229.1999999,NA
+NA,"World","Emissions from crops","FAO aggregates","no","no",2030,1558205431.2,861372430,696833001.2,NA
+NA,"World","Emissions from crops","FAO aggregates","no","no",2050,1642520356.9,957523042.5,684997314.4,NA
+NA,"World","Emissions from livestock","FAO aggregates","no","no",1992,3576369583.3,842567208.5,2733802374.7999997,NA
+NA,"World","Emissions from livestock","FAO aggregates","no","no",1993,3562977763.2,841036754,2721941009.2000003,NA
+NA,"World","Emissions from livestock","FAO aggregates","no","no",1994,3595477689.1,851991721.5,2743485967.6,NA
+NA,"World","Emissions from livestock","FAO aggregates","no","no",1995,3609132203.9,858408219.5,2750723984.4,NA
+NA,"World","Emissions from livestock","FAO aggregates","no","no",1996,3614738692.9,863732440.5,2751006252.4,NA
+NA,"World","Emissions from livestock","FAO aggregates","no","no",1997,3551697948.7999997,849592862,2702105086.8,NA
+NA,"World","Emissions from livestock","FAO aggregates","no","no",1998,3558288634.9,851228998.5,2707059636.4,NA
+NA,"World","Emissions from livestock","FAO aggregates","no","no",1999,3573315481.6,858930614,2714384867.6,NA
+NA,"World","Emissions from livestock","FAO aggregates","no","no",2000,3592873562.7000003,867228797.5,2725644765.2,NA
+NA,"World","Emissions from livestock","FAO aggregates","no","no",2001,3596324393.4,869353859,2726970534.3999996,NA
+NA,"World","Emissions from livestock","FAO aggregates","no","no",2002,3633130254.2,880794545,2752335709.2,NA
+NA,"World","Emissions from livestock","FAO aggregates","no","no",2003,3674345376.9,890178486.5,2784166890.4,NA
+NA,"World","Emissions from livestock","FAO aggregates","no","no",2004,3717652263.1,902297519.5,2815354743.6000004,NA
+NA,"World","Emissions from livestock","FAO aggregates","no","no",2005,3759762215.2,915226048,2844536167.2,NA
+NA,"World","Emissions from livestock","FAO aggregates","no","no",2006,3795043428.2,924117275,2870926153.2000003,NA
+NA,"World","Emissions from livestock","FAO aggregates","no","no",2007,3830591833.5,935022793.5,2895569040,NA
+NA,"World","Emissions from livestock","FAO aggregates","no","no",2008,3862468114.8,945532720,2916935394.7999997,NA
+NA,"World","Emissions from livestock","FAO aggregates","no","no",2009,3876016317.6000004,951738172,2924278145.6,NA
+NA,"World","Emissions from livestock","FAO aggregates","no","no",2010,3877075449.3999996,954765267,2922310182.3999996,NA
+NA,"World","Emissions from livestock","FAO aggregates","no","no",2011,3892402966.7000003,958798911.5,2933604055.2,NA
+NA,"World","Emissions from livestock","FAO aggregates","no","no",2012,3928142076.4,970741216,2957400860.4,NA
+NA,"World","Emissions from livestock","FAO aggregates","no","no",2013,3947002652.7,977653979.5,2969348673.2000003,NA
+NA,"World","Emissions from livestock","FAO aggregates","no","no",2014,3974854986.5,985545838.5,2989309148,NA
+NA,"World","Emissions from livestock","FAO aggregates","no","no",2015,4011148612.4,997562714,3013585898.3999996,NA
+NA,"World","Emissions from livestock","FAO aggregates","no","no",2016,4057527578.1,1011002692.5,3046524885.6000004,NA
+NA,"World","Emissions from livestock","FAO aggregates","no","no",2017,4084334832.7000003,1022913647.5,3061421185.2000003,NA
+NA,"World","Emissions from livestock","FAO aggregates","no","no",2018,4092797116.8,1027512696,3065284420.8,NA
+NA,"World","Emissions from livestock","FAO aggregates","no","no",2019,4122279203.4,1036937103,3085342100.4,NA
+NA,"World","Emissions from livestock","FAO aggregates","no","no",2020,4175703143,1052803713,3122899430,NA
+NA,"World","Emissions from livestock","FAO aggregates","no","no",2021,4212360700.2999997,1062942957.5,3149417742.8,NA
+NA,"World","Emissions from livestock","FAO aggregates","no","no",2022,4259877757.7,1076125594.5,3183752163.2,NA
+NA,"World","Emissions from livestock","FAO aggregates","no","no",2030,4425555106.8,1114556504,3310998602.8,NA
+NA,"World","Emissions from livestock","FAO aggregates","no","no",2050,4943284786.5,1272654046.5,3670630740,NA
+NA,"World","Agriculture","IPCC aggregates","yes","no",1992,5123315612.200001,1600799863,3522515749.2,NA
+NA,"World","Agriculture","IPCC aggregates","yes","no",1993,5091786133.5,1587111897.5,3504674236,NA
+NA,"World","Agriculture","IPCC aggregates","yes","no",1994,5136362991.8,1603607273,3532755718.7999997,NA
+NA,"World","Agriculture","IPCC aggregates","yes","no",1995,5188540038.4,1637251408,3551288630.4,NA
+NA,"World","Agriculture","IPCC aggregates","yes","no",1996,5216276061.700001,1666963234.5,3549312827.2000003,NA
+NA,"World","Agriculture","IPCC aggregates","yes","no",1997,5142017639.1,1642381675.5,3499635963.6,NA
+NA,"World","Agriculture","IPCC aggregates","yes","no",1998,5196216661.7,1671578792.5,3524637869.2000003,NA
+NA,"World","Agriculture","IPCC aggregates","yes","no",1999,5253997746.7,1694074907.5,3559922839.2,NA
+NA,"World","Agriculture","IPCC aggregates","yes","no",2000,5251075009.700001,1686849046.5,3564225963.2000003,NA
+NA,"World","Agriculture","IPCC aggregates","yes","no",2001,5255673249.200001,1697710522,3557962727.2000003,NA
+NA,"World","Agriculture","IPCC aggregates","yes","no",2002,5314201780.7,1731784301.5,3582417479.2,NA
+NA,"World","Agriculture","IPCC aggregates","yes","no",2003,5310520937,1729446657,3581074280,NA
+NA,"World","Agriculture","IPCC aggregates","yes","no",2004,5419120131.099999,1778372679.5,3640747451.6,NA
+NA,"World","Agriculture","IPCC aggregates","yes","no",2005,5458908338.5,1785368944.5,3673539394,NA
+NA,"World","Agriculture","IPCC aggregates","yes","no",2006,5519707244.099999,1813828460.5,3705878783.6000004,NA
+NA,"World","Agriculture","IPCC aggregates","yes","no",2007,5597137452.2,1855601391,3741536061.2,NA
+NA,"World","Agriculture","IPCC aggregates","yes","no",2008,5606615531.3,1848187512.5,3758428018.8,NA
+NA,"World","Agriculture","IPCC aggregates","yes","no",2009,5604125187.8,1855823355,3748301832.8,NA
+NA,"World","Agriculture","IPCC aggregates","yes","no",2010,5661779311.9,1891506797.5,3770272514.4,NA
+NA,"World","Agriculture","IPCC aggregates","yes","no",2011,5791473871.6,1961619782,3829854089.6,NA
+NA,"World","Agriculture","IPCC aggregates","yes","no",2012,5813948103.299999,1967499522.5,3846448580.8,NA
+NA,"World","Agriculture","IPCC aggregates","yes","no",2013,5755782239.799999,1946844601,3808937638.7999997,NA
+NA,"World","Agriculture","IPCC aggregates","yes","no",2014,5808449360.3,1973720291.5,3834729068.8,NA
+NA,"World","Agriculture","IPCC aggregates","yes","no",2015,5829836030.1,1980490034.5,3849345995.6,NA
+NA,"World","Agriculture","IPCC aggregates","yes","no",2016,5869461107.8,1993453543,3876007564.7999997,NA
+NA,"World","Agriculture","IPCC aggregates","yes","no",2017,5952042210.2,2038717875,3913324335.2000003,NA
+NA,"World","Agriculture","IPCC aggregates","yes","no",2018,5931475905.3,2024079248.5,3907396656.8,NA
+NA,"World","Agriculture","IPCC aggregates","yes","no",2019,5921635029.5,2021677023.5,3899958006,NA
+NA,"World","Agriculture","IPCC aggregates","yes","no",2020,6029355739.900001,2075094133.5,3954261606.4,NA
+NA,"World","Agriculture","IPCC aggregates","yes","no",2021,6075035290.6,2085545389,3989489901.6,NA
+NA,"World","Agriculture","IPCC aggregates","yes","no",2022,6078003500.7,2066759035.5,4011244465.2,NA
+NA,"World","Agriculture","IPCC aggregates","yes","no",2030,NA,NA,NA,NA
+NA,"World","Agriculture","IPCC aggregates","yes","no",2050,NA,NA,NA,NA
+NA,"World","Agricultural Soils","IPCC aggregates","no","no",1992,1353535968.5,1353535968.5,NA,NA
+NA,"World","Agricultural Soils","IPCC aggregates","no","no",1993,1340307433.5,1340307433.5,NA,NA
+NA,"World","Agricultural Soils","IPCC aggregates","no","no",1994,1355637339,1355637339,NA,NA
+NA,"World","Agricultural Soils","IPCC aggregates","no","no",1995,1388523123.5,1388523123.5,NA,NA
+NA,"World","Agricultural Soils","IPCC aggregates","no","no",1996,1425912106,1425912106,NA,NA
+NA,"World","Agricultural Soils","IPCC aggregates","no","no",1997,1412586952,1412586952,NA,NA
+NA,"World","Agricultural Soils","IPCC aggregates","no","no",1998,1420949848.5,1420949848.5,NA,NA
+NA,"World","Agricultural Soils","IPCC aggregates","no","no",1999,1440954460,1440954460,NA,NA
+NA,"World","Agricultural Soils","IPCC aggregates","no","no",2000,1426553141,1426553141,NA,NA
+NA,"World","Agricultural Soils","IPCC aggregates","no","no",2001,1438177578,1438177578,NA,NA
+NA,"World","Agricultural Soils","IPCC aggregates","no","no",2002,1460879677.5,1460879677.5,NA,NA
+NA,"World","Agricultural Soils","IPCC aggregates","no","no",2003,1487207984,1487207984,NA,NA
+NA,"World","Agricultural Soils","IPCC aggregates","no","no",2004,1523735928.5,1523735928.5,NA,NA
+NA,"World","Agricultural Soils","IPCC aggregates","no","no",2005,1540206844.5,1540206844.5,NA,NA
+NA,"World","Agricultural Soils","IPCC aggregates","no","no",2006,1564085252.5,1564085252.5,NA,NA
+NA,"World","Agricultural Soils","IPCC aggregates","no","no",2007,1596628286,1596628286,NA,NA
+NA,"World","Agricultural Soils","IPCC aggregates","no","no",2008,1606721420.5,1606721420.5,NA,NA
+NA,"World","Agricultural Soils","IPCC aggregates","no","no",2009,1624579611.5,1624579611.5,NA,NA
+NA,"World","Agricultural Soils","IPCC aggregates","no","no",2010,1650963488.5,1650963488.5,NA,NA
+NA,"World","Agricultural Soils","IPCC aggregates","no","no",2011,1683079209.5,1683079209.5,NA,NA
+NA,"World","Agricultural Soils","IPCC aggregates","no","no",2012,1692906920,1692906920,NA,NA
+NA,"World","Agricultural Soils","IPCC aggregates","no","no",2013,1721554745,1721554745,NA,NA
+NA,"World","Agricultural Soils","IPCC aggregates","no","no",2014,1738783349,1738783349,NA,NA
+NA,"World","Agricultural Soils","IPCC aggregates","no","no",2015,1744112128,1744112128,NA,NA
+NA,"World","Agricultural Soils","IPCC aggregates","no","no",2016,1766556700.5,1766556700.5,NA,NA
+NA,"World","Agricultural Soils","IPCC aggregates","no","no",2017,1793779912,1793779912,NA,NA
+NA,"World","Agricultural Soils","IPCC aggregates","no","no",2018,1789939293.5,1789939293.5,NA,NA
+NA,"World","Agricultural Soils","IPCC aggregates","no","no",2019,1800709768,1800709768,NA,NA
+NA,"World","Agricultural Soils","IPCC aggregates","no","no",2020,1852451998.5,1852451998.5,NA,NA
+NA,"World","Agricultural Soils","IPCC aggregates","no","no",2021,1856753001.5,1856753001.5,NA,NA
+NA,"World","Agricultural Soils","IPCC aggregates","no","no",2022,1841095211.5,1841095211.5,NA,NA
+NA,"World","Agricultural Soils","IPCC aggregates","no","no",2030,NA,NA,NA,NA
+NA,"World","Agricultural Soils","IPCC aggregates","no","no",2050,NA,NA,NA,NA
+NA,"World","LULUCF","IPCC aggregates","yes","no",1992,2033915902,85291124.5,185081184.4,NA
+NA,"World","LULUCF","IPCC aggregates","yes","no",1993,2034349504.5,85291098,185081184.4,NA
+NA,"World","LULUCF","IPCC aggregates","yes","no",1994,2034016466.8,85291098,185081184.4,NA
+NA,"World","LULUCF","IPCC aggregates","yes","no",1995,2039624050,85291098,185081184.4,NA
+NA,"World","LULUCF","IPCC aggregates","yes","no",1996,1838414288.2,44379179,157877888,NA
+NA,"World","LULUCF","IPCC aggregates","yes","no",1997,2837769912.3,58685283.5,453084917.59999996,NA
+NA,"World","LULUCF","IPCC aggregates","yes","no",1998,2149914046.3,73830192.5,306071799.6,NA
+NA,"World","LULUCF","IPCC aggregates","yes","no",1999,1951647577.7,57628410.5,220340307.6,NA
+NA,"World","LULUCF","IPCC aggregates","yes","no",2000,1796244861.1999998,39135014.5,135573090.8,NA
+NA,"World","LULUCF","IPCC aggregates","yes","no",2001,1487781753.8,61613798.5,81730997.60000001,NA
+NA,"World","LULUCF","IPCC aggregates","yes","no",2002,2017549803.7,73167586.5,224240038.39999998,NA
+NA,"World","LULUCF","IPCC aggregates","yes","no",2003,1704629994.9,98368503.5,158653672.8,NA
+NA,"World","LULUCF","IPCC aggregates","yes","no",2004,2082948646.5,105635731,259496241.2,NA
+NA,"World","LULUCF","IPCC aggregates","yes","no",2005,1796078906.7,102285283,182570186.4,NA
+NA,"World","LULUCF","IPCC aggregates","yes","no",2006,2166971209.6000004,90626873,269462964.4,NA
+NA,"World","LULUCF","IPCC aggregates","yes","no",2007,1627803765.2,107411337,139561679.6,NA
+NA,"World","LULUCF","IPCC aggregates","yes","no",2008,1571482006.8000002,89465669.5,113235620.4,NA
+NA,"World","LULUCF","IPCC aggregates","yes","no",2009,1974110744.3,87066783.5,214411170.4,NA
+NA,"World","LULUCF","IPCC aggregates","yes","no",2010,1650541207.9,119354860.5,149348875.20000002,NA
+NA,"World","LULUCF","IPCC aggregates","yes","no",2011,564808877.6,93706862,164463177.20000002,NA
+NA,"World","LULUCF","IPCC aggregates","yes","no",2012,597318144.6,103423405,177707989.20000002,NA
+NA,"World","LULUCF","IPCC aggregates","yes","no",2013,544281229,87899360.5,154391241.2,NA
+NA,"World","LULUCF","IPCC aggregates","yes","no",2014,901085876.9,89527997.5,246144211.60000002,NA
+NA,"World","LULUCF","IPCC aggregates","yes","no",2015,936250537.6,95719828.5,258962482.8,NA
+NA,"World","LULUCF","IPCC aggregates","yes","no",2016,1406173697.1,94659060,128616460,NA
+NA,"World","LULUCF","IPCC aggregates","yes","no",2017,1360261854,95358686.5,116936853.60000001,NA
+NA,"World","LULUCF","IPCC aggregates","yes","no",2018,1528027411,81468976.5,150682392,NA
+NA,"World","LULUCF","IPCC aggregates","yes","no",2019,1809331217.2,103268353.5,235408527.20000002,NA
+NA,"World","LULUCF","IPCC aggregates","yes","no",2020,1398103068,98601067.5,126328930,NA
+NA,"World","LULUCF","IPCC aggregates","yes","no",2021,1345086472.4,86341743.5,105177744,NA
+NA,"World","LULUCF","IPCC aggregates","yes","no",2022,1298976093.9,70213472.5,83660172.39999999,NA
+NA,"World","LULUCF","IPCC aggregates","yes","no",2030,NA,NA,NA,NA
+NA,"World","LULUCF","IPCC aggregates","yes","no",2050,NA,NA,NA,NA
+NA,"World","AFOLU","IPCC aggregates","no","no",1992,7157231514.2,1686090987.5,3707596933.6,NA
+NA,"World","AFOLU","IPCC aggregates","no","no",1993,7126135638,1672402995.5,3689755420.4,NA
+NA,"World","AFOLU","IPCC aggregates","no","no",1994,7170379458.599999,1688898371,3717836903.2000003,NA
+NA,"World","AFOLU","IPCC aggregates","no","no",1995,7228164088.4,1722542506,3736369814.7999997,NA
+NA,"World","AFOLU","IPCC aggregates","no","no",1996,7054690349.9,1711342413.5,3707190715.2,NA
+NA,"World","AFOLU","IPCC aggregates","no","no",1997,7979787551.400001,1701066959,3952720881.2000003,NA
+NA,"World","AFOLU","IPCC aggregates","no","no",1998,7346130708,1745408985,3830709668.8,NA
+NA,"World","AFOLU","IPCC aggregates","no","no",1999,7205645324.400001,1751703318,3780263146.8,NA
+NA,"World","AFOLU","IPCC aggregates","no","no",2000,7047319870.900001,1725984061,3699799054,NA
+NA,"World","AFOLU","IPCC aggregates","no","no",2001,6743455003,1759324320.5,3639693724.8,NA
+NA,"World","AFOLU","IPCC aggregates","no","no",2002,7331751584.4,1804951888,3806657517.6,NA
+NA,"World","AFOLU","IPCC aggregates","no","no",2003,7015150931.900001,1827815160.5,3739727952.8,NA
+NA,"World","AFOLU","IPCC aggregates","no","no",2004,7502068777.599999,1884008410.5,3900243692.7999997,NA
+NA,"World","AFOLU","IPCC aggregates","no","no",2005,7254987245.2,1887654227.5,3856109580.4,NA
+NA,"World","AFOLU","IPCC aggregates","no","no",2006,7686678453.700001,1904455333.5,3975341748,NA
+NA,"World","AFOLU","IPCC aggregates","no","no",2007,7224941217.400001,1963012728,3881097740.7999997,NA
+NA,"World","AFOLU","IPCC aggregates","no","no",2008,7178097538.099999,1937653182,3871663639.2000003,NA
+NA,"World","AFOLU","IPCC aggregates","no","no",2009,7578235932.099999,1942890138.5,3962713003.2000003,NA
+NA,"World","AFOLU","IPCC aggregates","no","no",2010,7312320519.8,2010861658,3919621389.6,NA
+NA,"World","AFOLU","IPCC aggregates","no","no",2011,6356282749.200001,2055326644,3994317266.7999997,NA
+NA,"World","AFOLU","IPCC aggregates","no","no",2012,6411266247.9,2070922927.5,4024156570,NA
+NA,"World","AFOLU","IPCC aggregates","no","no",2013,6300063468.8,2034743961.5,3963328880,NA
+NA,"World","AFOLU","IPCC aggregates","no","no",2014,6709535237.200001,2063248289,4080873280.4,NA
+NA,"World","AFOLU","IPCC aggregates","no","no",2015,6766086567.7,2076209863,4108308478.4,NA
+NA,"World","AFOLU","IPCC aggregates","no","no",2016,7275634804.9,2088112603,4004624024.7999997,NA
+NA,"World","AFOLU","IPCC aggregates","no","no",2017,7312304064.2,2134076561.4999998,4030261188.8,NA
+NA,"World","AFOLU","IPCC aggregates","no","no",2018,7459503316.3,2105548225,4058079048.8,NA
+NA,"World","AFOLU","IPCC aggregates","no","no",2019,7730966246.7,2124945376.9999998,4135366533.2,NA
+NA,"World","AFOLU","IPCC aggregates","no","no",2020,7427458807.900001,2173695201,4080590536.4,NA
+NA,"World","AFOLU","IPCC aggregates","no","no",2021,7420121763,2171887132.5,4094667645.6,NA
+NA,"World","AFOLU","IPCC aggregates","no","no",2022,7376979594.6,2136972508,4094904637.6,NA
+NA,"World","AFOLU","IPCC aggregates","no","no",2030,NA,NA,NA,NA
+NA,"World","AFOLU","IPCC aggregates","no","no",2050,NA,NA,NA,NA

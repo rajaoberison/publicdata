@@ -1,0 +1,958 @@
+﻿"ISO3","Area","Item","Group","sector","agrifood","Year","tCO2eq_total","tCO2eq_N2O","tCO2eq_CH4","tCO2eq_Fgases"
+"VEN","Venezuela (Bolivarian Republic of)","Energy","Not agri-food","yes","no",1992,122100525.3,377934.3,20412171.099999998,NA
+"VEN","Venezuela (Bolivarian Republic of)","Energy","Not agri-food","yes","no",1993,138972596.7,400315.1,21825181.6,NA
+"VEN","Venezuela (Bolivarian Republic of)","Energy","Not agri-food","yes","no",1994,143784254.3,407978.5,22895385.8,NA
+"VEN","Venezuela (Bolivarian Republic of)","Energy","Not agri-food","yes","no",1995,152545841.7,506227.19999999995,27727994.6,NA
+"VEN","Venezuela (Bolivarian Republic of)","Energy","Not agri-food","yes","no",1996,148531835.5,612950.7,29356504.799999997,NA
+"VEN","Venezuela (Bolivarian Republic of)","Energy","Not agri-food","yes","no",1997,167163701.6,693511.2000000001,32229660.400000002,NA
+"VEN","Venezuela (Bolivarian Republic of)","Energy","Not agri-food","yes","no",1998,206255845.20000002,855546,35294109.199999996,NA
+"VEN","Venezuela (Bolivarian Republic of)","Energy","Not agri-food","yes","no",1999,175566930.4,1000462.8,33062027.6,NA
+"VEN","Venezuela (Bolivarian Republic of)","Energy","Not agri-food","yes","no",2000,174880719.79999998,526197.4,35673352.400000006,NA
+"VEN","Venezuela (Bolivarian Republic of)","Energy","Not agri-food","yes","no",2001,163135434,571698.4,34150065.6,NA
+"VEN","Venezuela (Bolivarian Republic of)","Energy","Not agri-food","yes","no",2002,198478780,592923.6,31869846.4,NA
+"VEN","Venezuela (Bolivarian Republic of)","Energy","Not agri-food","yes","no",2003,187486040,540966,30926434,NA
+"VEN","Venezuela (Bolivarian Republic of)","Energy","Not agri-food","yes","no",2004,180000467.6,607040.8,32032996.8,NA
+"VEN","Venezuela (Bolivarian Republic of)","Energy","Not agri-food","yes","no",2005,188008282.79999998,783994.8,31361708,NA
+"VEN","Venezuela (Bolivarian Republic of)","Energy","Not agri-food","yes","no",2006,189140228.1,749827.7000000001,30937460.4,NA
+"VEN","Venezuela (Bolivarian Republic of)","Energy","Not agri-food","yes","no",2007,193377152.29999998,808327.1,31796475.2,NA
+"VEN","Venezuela (Bolivarian Republic of)","Energy","Not agri-food","yes","no",2008,199284157.10000002,775500.7000000001,33096526.400000002,NA
+"VEN","Venezuela (Bolivarian Republic of)","Energy","Not agri-food","yes","no",2009,191936185,700943.4,30303551.599999998,NA
+"VEN","Venezuela (Bolivarian Republic of)","Energy","Not agri-food","yes","no",2010,225828727.4,684575,30612562.4,NA
+"VEN","Venezuela (Bolivarian Republic of)","Energy","Not agri-food","yes","no",2011,204827878,695799.2000000001,30638918.8,NA
+"VEN","Venezuela (Bolivarian Republic of)","Energy","Not agri-food","yes","no",2012,210777346.4,795666.3999999999,30499910,NA
+"VEN","Venezuela (Bolivarian Republic of)","Energy","Not agri-food","yes","no",2013,228289145.6,780382.3999999999,30091793.2,NA
+"VEN","Venezuela (Bolivarian Republic of)","Energy","Not agri-food","yes","no",2014,205670709.1,784085.1,29515864,NA
+"VEN","Venezuela (Bolivarian Republic of)","Energy","Not agri-food","yes","no",2015,194254642.1,670390.9,28414971.2,NA
+"VEN","Venezuela (Bolivarian Republic of)","Energy","Not agri-food","yes","no",2016,181078767.7,637350.2999999999,27129567.4,NA
+"VEN","Venezuela (Bolivarian Republic of)","Energy","Not agri-food","yes","no",2017,164158965.39999998,564959.8999999999,24480645.6,NA
+"VEN","Venezuela (Bolivarian Republic of)","Energy","Not agri-food","yes","no",2018,123078480.89999999,477440.1,19480750.8,NA
+"VEN","Venezuela (Bolivarian Republic of)","Energy","Not agri-food","yes","no",2019,105646894.5,428598,14786657.5,NA
+"VEN","Venezuela (Bolivarian Republic of)","Energy","Not agri-food","yes","no",2020,74594310.80000001,325985.8,10099651,NA
+"VEN","Venezuela (Bolivarian Republic of)","Energy","Not agri-food","yes","no",2021,84115850.30000001,354867.9,10734190.3,NA
+"VEN","Venezuela (Bolivarian Republic of)","Energy","Not agri-food","yes","no",2022,92337243.60000001,404967.8,11238787.8,NA
+"VEN","Venezuela (Bolivarian Republic of)","Energy","Not agri-food","yes","no",2030,NA,NA,NA,NA
+"VEN","Venezuela (Bolivarian Republic of)","Energy","Not agri-food","yes","no",2050,NA,NA,NA,NA
+"VEN","Venezuela (Bolivarian Republic of)","IPPU","Not agri-food","yes","no",1992,9126311.100000001,40390.799999999996,16184.5,2590318
+"VEN","Venezuela (Bolivarian Republic of)","IPPU","Not agri-food","yes","no",1993,9237386.6,40760,16262.5,2318658.8000000003
+"VEN","Venezuela (Bolivarian Republic of)","IPPU","Not agri-food","yes","no",1994,9500084.9,41128.2,51860.2,2146905.1
+"VEN","Venezuela (Bolivarian Republic of)","IPPU","Not agri-food","yes","no",1995,10355010.6,41495.9,94463.6,1825527.9000000001
+"VEN","Venezuela (Bolivarian Republic of)","IPPU","Not agri-food","yes","no",1996,10381625.799999999,41862.8,94740.79999999999,1894459.1
+"VEN","Venezuela (Bolivarian Republic of)","IPPU","Not agri-food","yes","no",1997,10855291.7,42228.700000000004,100127.3,1969615
+"VEN","Venezuela (Bolivarian Republic of)","IPPU","Not agri-food","yes","no",1998,10232664,42594,103907.9,1537454.0999999999
+"VEN","Venezuela (Bolivarian Republic of)","IPPU","Not agri-food","yes","no",1999,10676698.8,42959.200000000004,104267.1,1812711.5
+"VEN","Venezuela (Bolivarian Republic of)","IPPU","Not agri-food","yes","no",2000,10947211.4,43324.7,105909.8,2081507
+"VEN","Venezuela (Bolivarian Republic of)","IPPU","Not agri-food","yes","no",2001,11866037.6,43690.7,104442.2,2065294.3
+"VEN","Venezuela (Bolivarian Republic of)","IPPU","Not agri-food","yes","no",2002,11523801.4,44056.7,102003.3,2490393.4
+"VEN","Venezuela (Bolivarian Republic of)","IPPU","Not agri-food","yes","no",2003,12504221,45614.8,101822.59999999999,2908962.5999999996
+"VEN","Venezuela (Bolivarian Republic of)","IPPU","Not agri-food","yes","no",2004,12383483.899999999,46695.1,103040,3184923.8
+"VEN","Venezuela (Bolivarian Republic of)","IPPU","Not agri-food","yes","no",2005,12953412.899999999,47058.5,103994.8,3566404
+"VEN","Venezuela (Bolivarian Republic of)","IPPU","Not agri-food","yes","no",2006,15903574.7,40503.9,104949.6,3757736.1999999997
+"VEN","Venezuela (Bolivarian Republic of)","IPPU","Not agri-food","yes","no",2007,15067223,48734.5,105688.8,4077494.7
+"VEN","Venezuela (Bolivarian Republic of)","IPPU","Not agri-food","yes","no",2008,15077920.4,44083.6,106797.6,4192060.1999999997
+"VEN","Venezuela (Bolivarian Republic of)","IPPU","Not agri-food","yes","no",2009,14800212.600000001,45392,106058.40000000001,4120554.1999999997
+"VEN","Venezuela (Bolivarian Republic of)","IPPU","Not agri-food","yes","no",2010,14064562.200000001,45027,106489.59999999999,3978823.9
+"VEN","Venezuela (Bolivarian Republic of)","IPPU","Not agri-food","yes","no",2011,14565835.2,45373.1,107629.2,4065514.9
+"VEN","Venezuela (Bolivarian Republic of)","IPPU","Not agri-food","yes","no",2012,14959338.799999999,45714.9,108799.59999999999,4249595.3
+"VEN","Venezuela (Bolivarian Republic of)","IPPU","Not agri-food","yes","no",2013,14972168.600000001,46052.700000000004,108768.8,4065114.0999999996
+"VEN","Venezuela (Bolivarian Republic of)","IPPU","Not agri-food","yes","no",2014,14314404.3,46387.2,108645.6,4095224.5
+"VEN","Venezuela (Bolivarian Republic of)","IPPU","Not agri-food","yes","no",2015,14167169.4,46718.6,108152.8,4104298.2
+"VEN","Venezuela (Bolivarian Republic of)","IPPU","Not agri-food","yes","no",2016,13056764,47047.1,106705.20000000001,4606230.8
+"VEN","Venezuela (Bolivarian Republic of)","IPPU","Not agri-food","yes","no",2017,13204304.700000001,47372.3,104847,5101367.199999999
+"VEN","Venezuela (Bolivarian Republic of)","IPPU","Not agri-food","yes","no",2018,11393524.5,47693.7,104488.7,5696554.699999999
+"VEN","Venezuela (Bolivarian Republic of)","IPPU","Not agri-food","yes","no",2019,11073606.5,48010.7,104272,6231577.199999999
+"VEN","Venezuela (Bolivarian Republic of)","IPPU","Not agri-food","yes","no",2020,10612170.200000001,42239.2,75361.40000000001,6773359.4
+"VEN","Venezuela (Bolivarian Republic of)","IPPU","Not agri-food","yes","no",2021,12429895.6,47222.8,97583.29999999999,7370723.3
+"VEN","Venezuela (Bolivarian Republic of)","IPPU","Not agri-food","yes","no",2022,13073475.399999999,48337.4,101448,7921048.399999999
+"VEN","Venezuela (Bolivarian Republic of)","IPPU","Not agri-food","yes","no",2030,NA,NA,NA,NA
+"VEN","Venezuela (Bolivarian Republic of)","IPPU","Not agri-food","yes","no",2050,NA,NA,NA,NA
+"VEN","Venezuela (Bolivarian Republic of)","Waste","Not agri-food","yes","no",1992,8550275.299999999,224970,8315293,NA
+"VEN","Venezuela (Bolivarian Republic of)","Waste","Not agri-food","yes","no",1993,8781516.5,229377.80000000002,8541861.2,NA
+"VEN","Venezuela (Bolivarian Republic of)","Waste","Not agri-food","yes","no",1994,9030091.6,230743.59999999998,8788804.1,NA
+"VEN","Venezuela (Bolivarian Republic of)","Waste","Not agri-food","yes","no",1995,9679889.7,235656.2,9433421.8,NA
+"VEN","Venezuela (Bolivarian Republic of)","Waste","Not agri-food","yes","no",1996,9929210.2,245006.69999999998,9673127.200000001,NA
+"VEN","Venezuela (Bolivarian Republic of)","Waste","Not agri-food","yes","no",1997,10081737.2,253164,9817231.5,NA
+"VEN","Venezuela (Bolivarian Republic of)","Waste","Not agri-food","yes","no",1998,10305695.700000001,262127.40000000002,10031959.8,NA
+"VEN","Venezuela (Bolivarian Republic of)","Waste","Not agri-food","yes","no",1999,10423525.600000001,275261.1,10136387.8,NA
+"VEN","Venezuela (Bolivarian Republic of)","Waste","Not agri-food","yes","no",2000,10641920.8,261431.6,10367838.6,NA
+"VEN","Venezuela (Bolivarian Republic of)","Waste","Not agri-food","yes","no",2001,11001083.7,266346.1,10721837.600000001,NA
+"VEN","Venezuela (Bolivarian Republic of)","Waste","Not agri-food","yes","no",2002,10914686.9,272536.1,10629001,NA
+"VEN","Venezuela (Bolivarian Republic of)","Waste","Not agri-food","yes","no",2003,10966372.4,273576,10679396.6,NA
+"VEN","Venezuela (Bolivarian Republic of)","Waste","Not agri-food","yes","no",2004,11485991,281071.19999999995,11191270.200000001,NA
+"VEN","Venezuela (Bolivarian Republic of)","Waste","Not agri-food","yes","no",2005,11818329.2,287744.3,11516685.9,NA
+"VEN","Venezuela (Bolivarian Republic of)","Waste","Not agri-food","yes","no",2006,12212242.5,301745,11896358.3,NA
+"VEN","Venezuela (Bolivarian Republic of)","Waste","Not agri-food","yes","no",2007,12582030.3,329920,12237731.799999999,NA
+"VEN","Venezuela (Bolivarian Republic of)","Waste","Not agri-food","yes","no",2008,12781284.5,357400.8,12409267.4,NA
+"VEN","Venezuela (Bolivarian Republic of)","Waste","Not agri-food","yes","no",2009,12885263,374058,12496353,NA
+"VEN","Venezuela (Bolivarian Republic of)","Waste","Not agri-food","yes","no",2010,13031845.4,377883.10000000003,12638876.899999999,NA
+"VEN","Venezuela (Bolivarian Republic of)","Waste","Not agri-food","yes","no",2011,13313238.1,378622.3,12919301.600000001,NA
+"VEN","Venezuela (Bolivarian Republic of)","Waste","Not agri-food","yes","no",2012,13505794.5,379146.1,13111108.399999999,NA
+"VEN","Venezuela (Bolivarian Republic of)","Waste","Not agri-food","yes","no",2013,13692979.9,386561.5,13290655,NA
+"VEN","Venezuela (Bolivarian Republic of)","Waste","Not agri-food","yes","no",2014,13750349.200000001,372902.30000000005,13361462.2,NA
+"VEN","Venezuela (Bolivarian Republic of)","Waste","Not agri-food","yes","no",2015,13732036.6,343566,13372266.600000001,NA
+"VEN","Venezuela (Bolivarian Republic of)","Waste","Not agri-food","yes","no",2016,13457485,311162.3,13129899.2,NA
+"VEN","Venezuela (Bolivarian Republic of)","Waste","Not agri-food","yes","no",2017,13224702.799999999,290056.10000000003,12918005.8,NA
+"VEN","Venezuela (Bolivarian Republic of)","Waste","Not agri-food","yes","no",2018,13003934,288306.6,12698771.4,NA
+"VEN","Venezuela (Bolivarian Republic of)","Waste","Not agri-food","yes","no",2019,12909201.1,289115.5,12603017.299999999,NA
+"VEN","Venezuela (Bolivarian Republic of)","Waste","Not agri-food","yes","no",2020,12556974.1,295352.5,12244344,NA
+"VEN","Venezuela (Bolivarian Republic of)","Waste","Not agri-food","yes","no",2021,12598496.6,285709.7,12295294.5,NA
+"VEN","Venezuela (Bolivarian Republic of)","Waste","Not agri-food","yes","no",2022,12464976.7,276388,12170879,NA
+"VEN","Venezuela (Bolivarian Republic of)","Waste","Not agri-food","yes","no",2030,NA,NA,NA,NA
+"VEN","Venezuela (Bolivarian Republic of)","Waste","Not agri-food","yes","no",2050,NA,NA,NA,NA
+"VEN","Venezuela (Bolivarian Republic of)","Agrifood systems","FAO aggregates","no","no",1992,187365174.39999998,8997203.7,26765892,691816.7999999999
+"VEN","Venezuela (Bolivarian Republic of)","Agrifood systems","FAO aggregates","no","no",1993,187285976.7,8790574.4,26336878.9,437770.2
+"VEN","Venezuela (Bolivarian Republic of)","Agrifood systems","FAO aggregates","no","no",1994,188300555.7,9000059.6,27195959.4,390135
+"VEN","Venezuela (Bolivarian Republic of)","Agrifood systems","FAO aggregates","no","no",1995,188961977.9,9118599.1,27458906.7,97809.6
+"VEN","Venezuela (Bolivarian Republic of)","Agrifood systems","FAO aggregates","no","no",1996,189471090.20000002,8813124.9,27373762.2,199464.9
+"VEN","Venezuela (Bolivarian Republic of)","Agrifood systems","FAO aggregates","no","no",1997,190365685.3,8900110.3,27933307.3,268466.9
+"VEN","Venezuela (Bolivarian Republic of)","Agrifood systems","FAO aggregates","no","no",1998,194209734.3,9423964.200000001,29939309.099999998,296953.39999999997
+"VEN","Venezuela (Bolivarian Republic of)","Agrifood systems","FAO aggregates","no","no",1999,192793932.20000002,8910984.9,28847437.6,378003.2
+"VEN","Venezuela (Bolivarian Republic of)","Agrifood systems","FAO aggregates","no","no",2000,194851920.5,9659966.6,29760096.7,687315
+"VEN","Venezuela (Bolivarian Republic of)","Agrifood systems","FAO aggregates","no","no",2001,138521824.1,10060330.700000001,29808667.099999998,886197.3
+"VEN","Venezuela (Bolivarian Republic of)","Agrifood systems","FAO aggregates","no","no",2002,139374534.3,9870038.200000001,29760708.900000002,1153813.7
+"VEN","Venezuela (Bolivarian Republic of)","Agrifood systems","FAO aggregates","no","no",2003,141216234.5,10909866.9,31222274.6,1259683.2999999998
+"VEN","Venezuela (Bolivarian Republic of)","Agrifood systems","FAO aggregates","no","no",2004,141154403.7,10351766,31170631.2,1699082.1
+"VEN","Venezuela (Bolivarian Republic of)","Agrifood systems","FAO aggregates","no","no",2005,144721806.4,10964189.5,32261706.2,1662115.4
+"VEN","Venezuela (Bolivarian Republic of)","Agrifood systems","FAO aggregates","no","no",2006,145449595.1,10529927.4,32248615.2,1969774.9
+"VEN","Venezuela (Bolivarian Republic of)","Agrifood systems","FAO aggregates","no","no",2007,147768518.4,11107244.5,32934211.300000004,2187955.9
+"VEN","Venezuela (Bolivarian Republic of)","Agrifood systems","FAO aggregates","no","no",2008,148874273.2,11525082.399999999,33159274.400000002,2247226.0999999996
+"VEN","Venezuela (Bolivarian Republic of)","Agrifood systems","FAO aggregates","no","no",2009,147613955.7,11333138.4,33238034.200000003,2295923.3
+"VEN","Venezuela (Bolivarian Republic of)","Agrifood systems","FAO aggregates","no","no",2010,147987761.20000002,10684679.4,28706725.5,2255144.9
+"VEN","Venezuela (Bolivarian Republic of)","Agrifood systems","FAO aggregates","no","no",2011,168938989.8,9988500.799999999,28364833.7,2245472.8
+"VEN","Venezuela (Bolivarian Republic of)","Agrifood systems","FAO aggregates","no","no",2012,176197054,11013111.2,32930801.9,2291123.6
+"VEN","Venezuela (Bolivarian Republic of)","Agrifood systems","FAO aggregates","no","no",2013,175644353.8,11289074.5,33268102.400000002,2355886.8000000003
+"VEN","Venezuela (Bolivarian Republic of)","Agrifood systems","FAO aggregates","no","no",2014,174982968.7,11219996.6,33086619,2497886.4
+"VEN","Venezuela (Bolivarian Republic of)","Agrifood systems","FAO aggregates","no","no",2015,169523696.20000002,10964376.6,32536476.900000002,2587766.4
+"VEN","Venezuela (Bolivarian Republic of)","Agrifood systems","FAO aggregates","no","no",2016,105074436.3,10940956.899999999,31918775.900000002,2678235
+"VEN","Venezuela (Bolivarian Republic of)","Agrifood systems","FAO aggregates","no","no",2017,102572971.9,10360146.1,31126333.1,2770870.3
+"VEN","Venezuela (Bolivarian Republic of)","Agrifood systems","FAO aggregates","no","no",2018,101741444.2,10143100.8,31230122.1,2864588
+"VEN","Venezuela (Bolivarian Republic of)","Agrifood systems","FAO aggregates","no","no",2019,100394013.30000001,10324421.700000001,31626551.200000003,2946496.7
+"VEN","Venezuela (Bolivarian Republic of)","Agrifood systems","FAO aggregates","no","no",2020,100508074.8,10762719.8,32733591,3039187.8000000003
+"VEN","Venezuela (Bolivarian Republic of)","Agrifood systems","FAO aggregates","no","no",2021,102049130.39999999,9738208.6,31230996.1,3131758.4000000004
+"VEN","Venezuela (Bolivarian Republic of)","Agrifood systems","FAO aggregates","no","no",2022,103893710.8,10303082.6,32510702.5,3131758.4000000004
+"VEN","Venezuela (Bolivarian Republic of)","Agrifood systems","FAO aggregates","no","no",2030,NA,NA,NA,NA
+"VEN","Venezuela (Bolivarian Republic of)","Agrifood systems","FAO aggregates","no","no",2050,NA,NA,NA,NA
+"VEN","Venezuela (Bolivarian Republic of)","Farm gate","Agrifood systems","no","yes",1992,35175176.6,8617508.5,25462430,NA
+"VEN","Venezuela (Bolivarian Republic of)","Farm gate","Agrifood systems","no","yes",1993,34511458.7,8405800,25009572,NA
+"VEN","Venezuela (Bolivarian Republic of)","Farm gate","Agrifood systems","no","yes",1994,35711443.4,8613692.5,25856910.8,NA
+"VEN","Venezuela (Bolivarian Republic of)","Farm gate","Agrifood systems","no","yes",1995,36176522.8,8722448.5,26079468.799999997,NA
+"VEN","Venezuela (Bolivarian Republic of)","Farm gate","Agrifood systems","no","yes",1996,35729450.5,8434870.5,25771121.599999998,NA
+"VEN","Venezuela (Bolivarian Republic of)","Farm gate","Agrifood systems","no","yes",1997,36278122.4,8479867.5,26117372.4,NA
+"VEN","Venezuela (Bolivarian Republic of)","Farm gate","Agrifood systems","no","yes",1998,37051554,8588093.5,26651301.599999998,NA
+"VEN","Venezuela (Bolivarian Republic of)","Farm gate","Agrifood systems","no","yes",1999,37343206.599999994,8448624,26881590.400000002,NA
+"VEN","Venezuela (Bolivarian Republic of)","Farm gate","Agrifood systems","no","yes",2000,38483333.2,9099252,27446538,NA
+"VEN","Venezuela (Bolivarian Republic of)","Farm gate","Agrifood systems","no","yes",2001,39877251.7,9567533.5,28318648.4,NA
+"VEN","Venezuela (Bolivarian Republic of)","Farm gate","Agrifood systems","no","yes",2002,40092817.199999996,9579458.5,28500894.799999997,NA
+"VEN","Venezuela (Bolivarian Republic of)","Farm gate","Agrifood systems","no","yes",2003,41214582.199999996,10075989,29347152.8,NA
+"VEN","Venezuela (Bolivarian Republic of)","Farm gate","Agrifood systems","no","yes",2004,41828213.1,10035391,29876288.400000002,NA
+"VEN","Venezuela (Bolivarian Republic of)","Farm gate","Agrifood systems","no","yes",2005,44282914.599999994,10556434,30847521.6,NA
+"VEN","Venezuela (Bolivarian Republic of)","Farm gate","Agrifood systems","no","yes",2006,42632533.9,10164260.5,30864237.6,NA
+"VEN","Venezuela (Bolivarian Republic of)","Farm gate","Agrifood systems","no","yes",2007,43569871.099999994,10592368,31381016.8,NA
+"VEN","Venezuela (Bolivarian Republic of)","Farm gate","Agrifood systems","no","yes",2008,44607790.800000004,11111211.5,31752884.8,NA
+"VEN","Venezuela (Bolivarian Republic of)","Farm gate","Agrifood systems","no","yes",2009,44603865.5,10938776,31841362,NA
+"VEN","Venezuela (Bolivarian Republic of)","Farm gate","Agrifood systems","no","yes",2010,44188913.5,9905514.5,26840629.2,NA
+"VEN","Venezuela (Bolivarian Republic of)","Farm gate","Agrifood systems","no","yes",2011,45122754.3,9607363,26943302.400000002,NA
+"VEN","Venezuela (Bolivarian Republic of)","Farm gate","Agrifood systems","no","yes",2012,50660974.4,10628090,31488800,NA
+"VEN","Venezuela (Bolivarian Republic of)","Farm gate","Agrifood systems","no","yes",2013,50726842.900000006,10810171.5,31694026,NA
+"VEN","Venezuela (Bolivarian Republic of)","Farm gate","Agrifood systems","no","yes",2014,49058802.900000006,10805534,31655383.2,NA
+"VEN","Venezuela (Bolivarian Republic of)","Farm gate","Agrifood systems","no","yes",2015,45291218.800000004,10568200,31116484,NA
+"VEN","Venezuela (Bolivarian Republic of)","Farm gate","Agrifood systems","no","yes",2016,44248747.300000004,10422900.5,30343255.6,NA
+"VEN","Venezuela (Bolivarian Republic of)","Farm gate","Agrifood systems","no","yes",2017,43346226.9,10062235.5,29816631.6,NA
+"VEN","Venezuela (Bolivarian Republic of)","Farm gate","Agrifood systems","no","yes",2018,43231353,9819416,29891960,NA
+"VEN","Venezuela (Bolivarian Republic of)","Farm gate","Agrifood systems","no","yes",2019,42637214,9790637,30051602,NA
+"VEN","Venezuela (Bolivarian Republic of)","Farm gate","Agrifood systems","no","yes",2020,44075579,10282556.5,31206826,NA
+"VEN","Venezuela (Bolivarian Republic of)","Farm gate","Agrifood systems","no","yes",2021,42044587.5,9495215,29993462.8,NA
+"VEN","Venezuela (Bolivarian Republic of)","Farm gate","Agrifood systems","no","yes",2022,43820447.3,10028236,31236301.599999998,NA
+"VEN","Venezuela (Bolivarian Republic of)","Farm gate","Agrifood systems","no","yes",2030,NA,NA,NA,NA
+"VEN","Venezuela (Bolivarian Republic of)","Farm gate","Agrifood systems","no","yes",2050,NA,NA,NA,NA
+"VEN","Venezuela (Bolivarian Republic of)","Land Use change","Agrifood systems","no","yes",1992,142739548.79999998,162948.5,315361.2,NA
+"VEN","Venezuela (Bolivarian Republic of)","Land Use change","Agrifood systems","no","yes",1993,142739548.79999998,162948.5,315361.2,NA
+"VEN","Venezuela (Bolivarian Republic of)","Land Use change","Agrifood systems","no","yes",1994,142739548.79999998,162948.5,315361.2,NA
+"VEN","Venezuela (Bolivarian Republic of)","Land Use change","Agrifood systems","no","yes",1995,142739548.79999998,162948.5,315361.2,NA
+"VEN","Venezuela (Bolivarian Republic of)","Land Use change","Agrifood systems","no","yes",1996,142914366.6,142225.5,510902,NA
+"VEN","Venezuela (Bolivarian Republic of)","Land Use change","Agrifood systems","no","yes",1997,143142001.6,191780.5,688982,NA
+"VEN","Venezuela (Bolivarian Republic of)","Land Use change","Agrifood systems","no","yes",1998,144996842.5,595667,2139936.4,NA
+"VEN","Venezuela (Bolivarian Republic of)","Land Use change","Agrifood systems","no","yes",1999,143271620.5,220003,790378.4,NA
+"VEN","Venezuela (Bolivarian Republic of)","Land Use change","Agrifood systems","no","yes",2000,143676046.4,308062.5,1106744.8,NA
+"VEN","Venezuela (Bolivarian Republic of)","Land Use change","Agrifood systems","no","yes",2001,84463963.3,218360,252700,NA
+"VEN","Venezuela (Bolivarian Republic of)","Land Use change","Agrifood systems","no","yes",2002,84038170.10000001,20988,24278.8,NA
+"VEN","Venezuela (Bolivarian Republic of)","Land Use change","Agrifood systems","no","yes",2003,85221814.19999999,569670.5,659240.4,NA
+"VEN","Venezuela (Bolivarian Republic of)","Land Use change","Agrifood systems","no","yes",2004,84103687.5,51357,59427.2,NA
+"VEN","Venezuela (Bolivarian Republic of)","Land Use change","Agrifood systems","no","yes",2005,84253916.3,120999,140014,NA
+"VEN","Venezuela (Bolivarian Republic of)","Land Use change","Agrifood systems","no","yes",2006,84136324.60000001,66488.5,76932.8,NA
+"VEN","Venezuela (Bolivarian Republic of)","Land Use change","Agrifood systems","no","yes",2007,84397019,187328.5,216787.2,NA
+"VEN","Venezuela (Bolivarian Republic of)","Land Use change","Agrifood systems","no","yes",2008,84122156.2,59916.5,69336.4,NA
+"VEN","Venezuela (Bolivarian Republic of)","Land Use change","Agrifood systems","no","yes",2009,84072466.10000001,36888,42674.799999999996,NA
+"VEN","Venezuela (Bolivarian Republic of)","Land Use change","Agrifood systems","no","yes",2010,84911239.7,425696,492640.4,NA
+"VEN","Venezuela (Bolivarian Republic of)","Land Use change","Agrifood systems","no","yes",2011,104538001.60000001,15317,17724,NA
+"VEN","Venezuela (Bolivarian Republic of)","Land Use change","Agrifood systems","no","yes",2012,104540353.7,16403.5,18989.6,NA
+"VEN","Venezuela (Bolivarian Republic of)","Land Use change","Agrifood systems","no","yes",2013,104754154.5,115513.5,133680.4,NA
+"VEN","Venezuela (Bolivarian Republic of)","Land Use change","Agrifood systems","no","yes",2014,104642958,63971,74026.4,NA
+"VEN","Venezuela (Bolivarian Republic of)","Land Use change","Agrifood systems","no","yes",2015,104691957.7,86681.5,100315.6,NA
+"VEN","Venezuela (Bolivarian Republic of)","Land Use change","Agrifood systems","no","yes",2016,40416450.599999994,243402.5,281666,NA
+"VEN","Venezuela (Bolivarian Republic of)","Land Use change","Agrifood systems","no","yes",2017,39955521.5,29733,34406.4,NA
+"VEN","Venezuela (Bolivarian Republic of)","Land Use change","Agrifood systems","no","yes",2018,40045490.5,71444,82664.4,NA
+"VEN","Venezuela (Bolivarian Republic of)","Land Use change","Agrifood systems","no","yes",2019,40520430.099999994,291606,337442,NA
+"VEN","Venezuela (Bolivarian Republic of)","Land Use change","Agrifood systems","no","yes",2020,40449093.3,258534,299177.2,NA
+"VEN","Venezuela (Bolivarian Republic of)","Land Use change","Agrifood systems","no","yes",2021,39941634,23293.5,26958.4,NA
+"VEN","Venezuela (Bolivarian Republic of)","Land Use change","Agrifood systems","no","yes",2022,40010354.6,55146.5,63826,NA
+"VEN","Venezuela (Bolivarian Republic of)","Land Use change","Agrifood systems","no","yes",2030,NA,NA,NA,NA
+"VEN","Venezuela (Bolivarian Republic of)","Land Use change","Agrifood systems","no","yes",2050,NA,NA,NA,NA
+"VEN","Venezuela (Bolivarian Republic of)","Pre- and Post- Production","Agrifood systems","no","yes",1992,9450449,216746.7,988100.8,691816.7999999999
+"VEN","Venezuela (Bolivarian Republic of)","Pre- and Post- Production","Agrifood systems","no","yes",1993,10034969.2,221825.9,1011945.7,437770.2
+"VEN","Venezuela (Bolivarian Republic of)","Pre- and Post- Production","Agrifood systems","no","yes",1994,9849563.5,223418.6,1023687.4,390135
+"VEN","Venezuela (Bolivarian Republic of)","Pre- and Post- Production","Agrifood systems","no","yes",1995,10045906.3,233202.1,1064076.7000000002,97809.6
+"VEN","Venezuela (Bolivarian Republic of)","Pre- and Post- Production","Agrifood systems","no","yes",1996,10827273.1,236028.9,1091738.5999999999,199464.9
+"VEN","Venezuela (Bolivarian Republic of)","Pre- and Post- Production","Agrifood systems","no","yes",1997,10945561.299999999,228462.3,1126952.9,268466.9
+"VEN","Venezuela (Bolivarian Republic of)","Pre- and Post- Production","Agrifood systems","no","yes",1998,12161337.799999999,240203.7,1148071.0999999999,296953.39999999997
+"VEN","Venezuela (Bolivarian Republic of)","Pre- and Post- Production","Agrifood systems","no","yes",1999,12179105.100000001,242357.9,1175468.8,378003.2
+"VEN","Venezuela (Bolivarian Republic of)","Pre- and Post- Production","Agrifood systems","no","yes",2000,12692540.9,252652.09999999998,1206813.9000000001,687315
+"VEN","Venezuela (Bolivarian Republic of)","Pre- and Post- Production","Agrifood systems","no","yes",2001,14180609.1,274437.2,1237318.7,886197.3
+"VEN","Venezuela (Bolivarian Republic of)","Pre- and Post- Production","Agrifood systems","no","yes",2002,15243547,269591.7,1235535.3,1153813.7
+"VEN","Venezuela (Bolivarian Republic of)","Pre- and Post- Production","Agrifood systems","no","yes",2003,14779838.100000001,264207.4,1215881.4,1259683.2999999998
+"VEN","Venezuela (Bolivarian Republic of)","Pre- and Post- Production","Agrifood systems","no","yes",2004,15222503.1,265018,1234915.6,1699082.1
+"VEN","Venezuela (Bolivarian Republic of)","Pre- and Post- Production","Agrifood systems","no","yes",2005,16184975.5,286756.5,1274170.5999999999,1662115.4
+"VEN","Venezuela (Bolivarian Republic of)","Pre- and Post- Production","Agrifood systems","no","yes",2006,18680736.6,299178.4,1307444.8,1969774.9
+"VEN","Venezuela (Bolivarian Republic of)","Pre- and Post- Production","Agrifood systems","no","yes",2007,19801628.3,327548,1336407.3,2187955.9
+"VEN","Venezuela (Bolivarian Republic of)","Pre- and Post- Production","Agrifood systems","no","yes",2008,20144326.2,353954.4,1337053.2,2247226.0999999996
+"VEN","Venezuela (Bolivarian Republic of)","Pre- and Post- Production","Agrifood systems","no","yes",2009,18937624.1,357474.4,1353997.4,2295923.3
+"VEN","Venezuela (Bolivarian Republic of)","Pre- and Post- Production","Agrifood systems","no","yes",2010,18887608,353468.9,1373455.9,2255144.9
+"VEN","Venezuela (Bolivarian Republic of)","Pre- and Post- Production","Agrifood systems","no","yes",2011,19278233.9,365820.80000000005,1403807.3,2245472.8
+"VEN","Venezuela (Bolivarian Republic of)","Pre- and Post- Production","Agrifood systems","no","yes",2012,20995725.900000002,368617.7,1423012.3,2291123.6
+"VEN","Venezuela (Bolivarian Republic of)","Pre- and Post- Production","Agrifood systems","no","yes",2013,20163356.400000002,363389.5,1440396,2355886.8000000003
+"VEN","Venezuela (Bolivarian Republic of)","Pre- and Post- Production","Agrifood systems","no","yes",2014,21281207.8,350491.6,1357209.4,2497886.4
+"VEN","Venezuela (Bolivarian Republic of)","Pre- and Post- Production","Agrifood systems","no","yes",2015,19540519.7,309495.1,1319677.3,2587766.4
+"VEN","Venezuela (Bolivarian Republic of)","Pre- and Post- Production","Agrifood systems","no","yes",2016,20409238.4,274654,1293854.3,2678235
+"VEN","Venezuela (Bolivarian Republic of)","Pre- and Post- Production","Agrifood systems","no","yes",2017,19271223.5,268177.6,1275295.1,2770870.3
+"VEN","Venezuela (Bolivarian Republic of)","Pre- and Post- Production","Agrifood systems","no","yes",2018,18464600.7,252240.80000000002,1255497.7,2864588
+"VEN","Venezuela (Bolivarian Republic of)","Pre- and Post- Production","Agrifood systems","no","yes",2019,17236369.2,242178.69999999998,1237507.2,2946496.7
+"VEN","Venezuela (Bolivarian Republic of)","Pre- and Post- Production","Agrifood systems","no","yes",2020,15983402.5,221629.3,1227587.8,3039187.8000000003
+"VEN","Venezuela (Bolivarian Republic of)","Pre- and Post- Production","Agrifood systems","no","yes",2021,20062908.9,219700.1,1210574.9000000001,3131758.4000000004
+"VEN","Venezuela (Bolivarian Republic of)","Pre- and Post- Production","Agrifood systems","no","yes",2022,20062908.9,219700.1,1210574.9000000001,3131758.4000000004
+"VEN","Venezuela (Bolivarian Republic of)","Pre- and Post- Production","Agrifood systems","no","yes",2030,NA,NA,NA,NA
+"VEN","Venezuela (Bolivarian Republic of)","Pre- and Post- Production","Agrifood systems","no","yes",2050,NA,NA,NA,NA
+"VEN","Venezuela (Bolivarian Republic of)","Emissions on agricultural land","FAO aggregates","no","no",1992,177914725.4,8780457,25777791.2,NA
+"VEN","Venezuela (Bolivarian Republic of)","Emissions on agricultural land","FAO aggregates","no","no",1993,177251007.5,8568748.5,25324933.2,NA
+"VEN","Venezuela (Bolivarian Republic of)","Emissions on agricultural land","FAO aggregates","no","no",1994,178450992.20000002,8776641,26172272,NA
+"VEN","Venezuela (Bolivarian Republic of)","Emissions on agricultural land","FAO aggregates","no","no",1995,178916071.6,8885397,26394830,NA
+"VEN","Venezuela (Bolivarian Republic of)","Emissions on agricultural land","FAO aggregates","no","no",1996,178643817.1,8577096,26282023.6,NA
+"VEN","Venezuela (Bolivarian Republic of)","Emissions on agricultural land","FAO aggregates","no","no",1997,179420124,8671648,26806354.4,NA
+"VEN","Venezuela (Bolivarian Republic of)","Emissions on agricultural land","FAO aggregates","no","no",1998,182048396.5,9183760.5,28791238,NA
+"VEN","Venezuela (Bolivarian Republic of)","Emissions on agricultural land","FAO aggregates","no","no",1999,180614827.1,8668627,27671968.799999997,NA
+"VEN","Venezuela (Bolivarian Republic of)","Emissions on agricultural land","FAO aggregates","no","no",2000,182159379.6,9407314.5,28553282.8,NA
+"VEN","Venezuela (Bolivarian Republic of)","Emissions on agricultural land","FAO aggregates","no","no",2001,124341215,9785893.5,28571348.4,NA
+"VEN","Venezuela (Bolivarian Republic of)","Emissions on agricultural land","FAO aggregates","no","no",2002,124130987.3,9600446.5,28525173.599999998,NA
+"VEN","Venezuela (Bolivarian Republic of)","Emissions on agricultural land","FAO aggregates","no","no",2003,126436396.39999999,10645659.5,30006393.2,NA
+"VEN","Venezuela (Bolivarian Republic of)","Emissions on agricultural land","FAO aggregates","no","no",2004,125931900.6,10086748,29935715.599999998,NA
+"VEN","Venezuela (Bolivarian Republic of)","Emissions on agricultural land","FAO aggregates","no","no",2005,128536830.9,10677433,30987535.599999998,NA
+"VEN","Venezuela (Bolivarian Republic of)","Emissions on agricultural land","FAO aggregates","no","no",2006,126768858.5,10230749,30941170.4,NA
+"VEN","Venezuela (Bolivarian Republic of)","Emissions on agricultural land","FAO aggregates","no","no",2007,127966890.10000001,10779696.5,31597804,NA
+"VEN","Venezuela (Bolivarian Republic of)","Emissions on agricultural land","FAO aggregates","no","no",2008,128729947,11171128,31822221.2,NA
+"VEN","Venezuela (Bolivarian Republic of)","Emissions on agricultural land","FAO aggregates","no","no",2009,128676331.60000001,10975664,31884036.8,NA
+"VEN","Venezuela (Bolivarian Republic of)","Emissions on agricultural land","FAO aggregates","no","no",2010,129100153.2,10331210.5,27333269.6,NA
+"VEN","Venezuela (Bolivarian Republic of)","Emissions on agricultural land","FAO aggregates","no","no",2011,149660755.89999998,9622680,26961026.4,NA
+"VEN","Venezuela (Bolivarian Republic of)","Emissions on agricultural land","FAO aggregates","no","no",2012,155201328.10000002,10644493.5,31507789.6,NA
+"VEN","Venezuela (Bolivarian Republic of)","Emissions on agricultural land","FAO aggregates","no","no",2013,155480997.4,10925685,31827706.4,NA
+"VEN","Venezuela (Bolivarian Republic of)","Emissions on agricultural land","FAO aggregates","no","no",2014,153701760.9,10869505,31729409.599999998,NA
+"VEN","Venezuela (Bolivarian Republic of)","Emissions on agricultural land","FAO aggregates","no","no",2015,149983176.5,10654881.5,31216799.599999998,NA
+"VEN","Venezuela (Bolivarian Republic of)","Emissions on agricultural land","FAO aggregates","no","no",2016,84665197.9,10666303,30624921.6,NA
+"VEN","Venezuela (Bolivarian Republic of)","Emissions on agricultural land","FAO aggregates","no","no",2017,83301748.39999999,10091968.5,29851038,NA
+"VEN","Venezuela (Bolivarian Republic of)","Emissions on agricultural land","FAO aggregates","no","no",2018,83276843.5,9890860,29974624.400000002,NA
+"VEN","Venezuela (Bolivarian Republic of)","Emissions on agricultural land","FAO aggregates","no","no",2019,83157644.10000001,10082243,30389044,NA
+"VEN","Venezuela (Bolivarian Republic of)","Emissions on agricultural land","FAO aggregates","no","no",2020,84524672.30000001,10541090.5,31506003.2,NA
+"VEN","Venezuela (Bolivarian Republic of)","Emissions on agricultural land","FAO aggregates","no","no",2021,81986221.5,9518508.5,30020421.2,NA
+"VEN","Venezuela (Bolivarian Republic of)","Emissions on agricultural land","FAO aggregates","no","no",2022,83830801.9,10083382.5,31300127.6,NA
+"VEN","Venezuela (Bolivarian Republic of)","Emissions on agricultural land","FAO aggregates","no","no",2030,NA,NA,NA,NA
+"VEN","Venezuela (Bolivarian Republic of)","Emissions on agricultural land","FAO aggregates","no","no",2050,NA,NA,NA,NA
+"VEN","Venezuela (Bolivarian Republic of)","Emissions from crops","FAO aggregates","no","no",1992,2243074.3000000003,1081491.5,1161582.7999999998,NA
+"VEN","Venezuela (Bolivarian Republic of)","Emissions from crops","FAO aggregates","no","no",1993,2063583.7000000002,926996.5,1136587.2,NA
+"VEN","Venezuela (Bolivarian Republic of)","Emissions from crops","FAO aggregates","no","no",1994,2083246,876726,1206520,NA
+"VEN","Venezuela (Bolivarian Republic of)","Emissions from crops","FAO aggregates","no","no",1995,2370011.5,1074283.5,1295728,NA
+"VEN","Venezuela (Bolivarian Republic of)","Emissions from crops","FAO aggregates","no","no",1996,2343873.5,1080961.5,1262912,NA
+"VEN","Venezuela (Bolivarian Republic of)","Emissions from crops","FAO aggregates","no","no",1997,2338369.6,1073674,1264695.6,NA
+"VEN","Venezuela (Bolivarian Republic of)","Emissions from crops","FAO aggregates","no","no",1998,1950871.7,839652.5,1111219.2,NA
+"VEN","Venezuela (Bolivarian Republic of)","Emissions from crops","FAO aggregates","no","no",1999,1808450.1,717116.5,1091333.5999999999,NA
+"VEN","Venezuela (Bolivarian Republic of)","Emissions from crops","FAO aggregates","no","no",2000,2158019.6,1134306,1023713.6000000001,NA
+"VEN","Venezuela (Bolivarian Republic of)","Emissions from crops","FAO aggregates","no","no",2001,2316612.9,1175884.5,1140728.4,NA
+"VEN","Venezuela (Bolivarian Republic of)","Emissions from crops","FAO aggregates","no","no",2002,2190447.2,1197164,993283.2,NA
+"VEN","Venezuela (Bolivarian Republic of)","Emissions from crops","FAO aggregates","no","no",2003,2259679.3,1237046.5,1022632.7999999999,NA
+"VEN","Venezuela (Bolivarian Republic of)","Emissions from crops","FAO aggregates","no","no",2004,2802793.5,1339177.5,1463616,NA
+"VEN","Venezuela (Bolivarian Republic of)","Emissions from crops","FAO aggregates","no","no",2005,3011075.6999999997,1420426.5,1590649.2,NA
+"VEN","Venezuela (Bolivarian Republic of)","Emissions from crops","FAO aggregates","no","no",2006,2897480.2,1228487,1668993.2,NA
+"VEN","Venezuela (Bolivarian Republic of)","Emissions from crops","FAO aggregates","no","no",2007,2990590.4,1446158,1544432.4,NA
+"VEN","Venezuela (Bolivarian Republic of)","Emissions from crops","FAO aggregates","no","no",2008,3543335.9,1941363.5,1601972.4000000001,NA
+"VEN","Venezuela (Bolivarian Republic of)","Emissions from crops","FAO aggregates","no","no",2009,3443371,1753081,1690290,NA
+"VEN","Venezuela (Bolivarian Republic of)","Emissions from crops","FAO aggregates","no","no",2010,3184878,1850972,1333906,NA
+"VEN","Venezuela (Bolivarian Republic of)","Emissions from crops","FAO aggregates","no","no",2011,3142111.1999999997,1747728,1394383.2,NA
+"VEN","Venezuela (Bolivarian Republic of)","Emissions from crops","FAO aggregates","no","no",2012,3133594.6,1596095,1537499.6,NA
+"VEN","Venezuela (Bolivarian Republic of)","Emissions from crops","FAO aggregates","no","no",2013,3109166,1529686,1579480,NA
+"VEN","Venezuela (Bolivarian Republic of)","Emissions from crops","FAO aggregates","no","no",2014,3151808.5999999996,1492957,1658851.5999999999,NA
+"VEN","Venezuela (Bolivarian Republic of)","Emissions from crops","FAO aggregates","no","no",2015,2669812.3000000003,1429171.5,1240640.7999999998,NA
+"VEN","Venezuela (Bolivarian Republic of)","Emissions from crops","FAO aggregates","no","no",2016,2304908.7,1372567.5,932341.2,NA
+"VEN","Venezuela (Bolivarian Republic of)","Emissions from crops","FAO aggregates","no","no",2017,2578789.6999999997,1346862.5,1231927.2000000002,NA
+"VEN","Venezuela (Bolivarian Republic of)","Emissions from crops","FAO aggregates","no","no",2018,2132100.1999999997,889393,1242707.2,NA
+"VEN","Venezuela (Bolivarian Republic of)","Emissions from crops","FAO aggregates","no","no",2019,1822060,726630,1095430,NA
+"VEN","Venezuela (Bolivarian Republic of)","Emissions from crops","FAO aggregates","no","no",2020,2019141.5999999999,756098,1263043.5999999999,NA
+"VEN","Venezuela (Bolivarian Republic of)","Emissions from crops","FAO aggregates","no","no",2021,2108002.1,775098.5,1332903.6,NA
+"VEN","Venezuela (Bolivarian Republic of)","Emissions from crops","FAO aggregates","no","no",2022,1916475.2000000002,754296,1162179.2,NA
+"VEN","Venezuela (Bolivarian Republic of)","Emissions from crops","FAO aggregates","no","no",2030,4232591.5,2006129.5,2226462,NA
+"VEN","Venezuela (Bolivarian Republic of)","Emissions from crops","FAO aggregates","no","no",2050,4868414.399999999,2397084,2471330.4,NA
+"VEN","Venezuela (Bolivarian Republic of)","Emissions from livestock","FAO aggregates","no","no",1992,30128818.4,6720082,23408736.400000002,NA
+"VEN","Venezuela (Bolivarian Republic of)","Emissions from livestock","FAO aggregates","no","no",1993,29644278.099999998,6663398.5,22980879.6,NA
+"VEN","Venezuela (Bolivarian Republic of)","Emissions from livestock","FAO aggregates","no","no",1994,30664239.099999998,6906191.5,23758047.6,NA
+"VEN","Venezuela (Bolivarian Republic of)","Emissions from livestock","FAO aggregates","no","no",1995,30708752.2,6817867,23890885.2,NA
+"VEN","Venezuela (Bolivarian Republic of)","Emissions from livestock","FAO aggregates","no","no",1996,30867201.700000003,6860452.5,24006749.2,NA
+"VEN","Venezuela (Bolivarian Republic of)","Emissions from livestock","FAO aggregates","no","no",1997,31312112.5,6934122.5,24377990,NA
+"VEN","Venezuela (Bolivarian Republic of)","Emissions from livestock","FAO aggregates","no","no",1998,31963327.6,7101576,24861751.599999998,NA
+"VEN","Venezuela (Bolivarian Republic of)","Emissions from livestock","FAO aggregates","no","no",1999,32567879.799999997,7255541,25312338.8,NA
+"VEN","Venezuela (Bolivarian Republic of)","Emissions from livestock","FAO aggregates","no","no",2000,33235230.7,7397183.5,25838047.2,NA
+"VEN","Venezuela (Bolivarian Republic of)","Emissions from livestock","FAO aggregates","no","no",2001,33944522.900000006,7602240.5,26342282.4,NA
+"VEN","Venezuela (Bolivarian Republic of)","Emissions from livestock","FAO aggregates","no","no",2002,34603968.1,7748308.5,26855659.599999998,NA
+"VEN","Venezuela (Bolivarian Republic of)","Emissions from livestock","FAO aggregates","no","no",2003,34807414.2,7712825,27094589.2,NA
+"VEN","Venezuela (Bolivarian Republic of)","Emissions from livestock","FAO aggregates","no","no",2004,35330679.8,7833347,27497332.8,NA
+"VEN","Venezuela (Bolivarian Republic of)","Emissions from livestock","FAO aggregates","no","no",2005,36217328.5,8034614.5,28182714,NA
+"VEN","Venezuela (Bolivarian Republic of)","Emissions from livestock","FAO aggregates","no","no",2006,36303335.6,8056636,28246699.6,NA
+"VEN","Venezuela (Bolivarian Republic of)","Emissions from livestock","FAO aggregates","no","no",2007,36904355.5,8134943.5,28769412,NA
+"VEN","Venezuela (Bolivarian Republic of)","Emissions from livestock","FAO aggregates","no","no",2008,37488179,8280455,29207724,NA
+"VEN","Venezuela (Bolivarian Republic of)","Emissions from livestock","FAO aggregates","no","no",2009,37513840.4,8298422.000000001,29215418.4,NA
+"VEN","Venezuela (Bolivarian Republic of)","Emissions from livestock","FAO aggregates","no","no",2010,31722468.5,7153224.5,24569244,NA
+"VEN","Venezuela (Bolivarian Republic of)","Emissions from livestock","FAO aggregates","no","no",2011,32243333.4,7279603,24963730.4,NA
+"VEN","Venezuela (Bolivarian Republic of)","Emissions from livestock","FAO aggregates","no","no",2012,37688583,8385924.999999999,29302658,NA
+"VEN","Venezuela (Bolivarian Republic of)","Emissions from livestock","FAO aggregates","no","no",2013,37526041.8,8369177,29156864.8,NA
+"VEN","Venezuela (Bolivarian Republic of)","Emissions from livestock","FAO aggregates","no","no",2014,37282002.1,8317634.5,28964367.6,NA
+"VEN","Venezuela (Bolivarian Republic of)","Emissions from livestock","FAO aggregates","no","no",2015,37360426.4,8325664.000000001,29034762.4,NA
+"VEN","Venezuela (Bolivarian Republic of)","Emissions from livestock","FAO aggregates","no","no",2016,36652486.4,8165180,28487306.400000002,NA
+"VEN","Venezuela (Bolivarian Republic of)","Emissions from livestock","FAO aggregates","no","no",2017,35754921.199999996,7952226,27802695.2,NA
+"VEN","Venezuela (Bolivarian Republic of)","Emissions from livestock","FAO aggregates","no","no",2018,35370237.4,7856561,27513676.4,NA
+"VEN","Venezuela (Bolivarian Republic of)","Emissions from livestock","FAO aggregates","no","no",2019,35605064.9,7897026.5,27708038.400000002,NA
+"VEN","Venezuela (Bolivarian Republic of)","Emissions from livestock","FAO aggregates","no","no",2020,36301264.6,8008883,28292381.6,NA
+"VEN","Venezuela (Bolivarian Republic of)","Emissions from livestock","FAO aggregates","no","no",2021,35778978.300000004,7929727.5,27849250.8,NA
+"VEN","Venezuela (Bolivarian Republic of)","Emissions from livestock","FAO aggregates","no","no",2022,37155207.4,8209540.999999999,28945666.4,NA
+"VEN","Venezuela (Bolivarian Republic of)","Emissions from livestock","FAO aggregates","no","no",2030,44682160.7,10060009.5,34622151.2,NA
+"VEN","Venezuela (Bolivarian Republic of)","Emissions from livestock","FAO aggregates","no","no",2050,52333535,11770929,40562606,NA
+"VEN","Venezuela (Bolivarian Republic of)","Agriculture","IPCC aggregates","yes","no",1992,34078246.400000006,8615892,25462354.4,NA
+"VEN","Venezuela (Bolivarian Republic of)","Agriculture","IPCC aggregates","yes","no",1993,33414244.8,8404740,25009504.799999997,NA
+"VEN","Venezuela (Bolivarian Republic of)","Agriculture","IPCC aggregates","yes","no",1994,34453921.1,8597315.5,25856605.599999998,NA
+"VEN","Venezuela (Bolivarian Republic of)","Agriculture","IPCC aggregates","yes","no",1995,34784746.400000006,8706098,26078648.4,NA
+"VEN","Venezuela (Bolivarian Republic of)","Agriculture","IPCC aggregates","yes","no",1996,34186453.800000004,8416665,25769788.799999997,NA
+"VEN","Venezuela (Bolivarian Republic of)","Agriculture","IPCC aggregates","yes","no",1997,34574904.6,8459383,26115521.6,NA
+"VEN","Venezuela (Bolivarian Republic of)","Agriculture","IPCC aggregates","yes","no",1998,35217278.400000006,8568298,26648980.4,NA
+"VEN","Venezuela (Bolivarian Republic of)","Agriculture","IPCC aggregates","yes","no",1999,35308340,8429544,26878796,NA
+"VEN","Venezuela (Bolivarian Republic of)","Agriculture","IPCC aggregates","yes","no",2000,36524968.2,9080967,27444001.2,NA
+"VEN","Venezuela (Bolivarian Republic of)","Agriculture","IPCC aggregates","yes","no",2001,37859648.2,9543657,28315991.2,NA
+"VEN","Venezuela (Bolivarian Republic of)","Agriculture","IPCC aggregates","yes","no",2002,38050253.3,9552004.5,28498248.8,NA
+"VEN","Venezuela (Bolivarian Republic of)","Agriculture","IPCC aggregates","yes","no",2003,39400081.8,10055001,29345080.8,NA
+"VEN","Venezuela (Bolivarian Republic of)","Agriculture","IPCC aggregates","yes","no",2004,39880847,10006877,29873970,NA
+"VEN","Venezuela (Bolivarian Republic of)","Agriculture","IPCC aggregates","yes","no",2005,41269062,10425312,30843750,NA
+"VEN","Venezuela (Bolivarian Republic of)","Agriculture","IPCC aggregates","yes","no",2006,41011592.6,10148811,30862781.599999998,NA
+"VEN","Venezuela (Bolivarian Republic of)","Agriculture","IPCC aggregates","yes","no",2007,41927716.5,10547556.5,31380160,NA
+"VEN","Venezuela (Bolivarian Republic of)","Agriculture","IPCC aggregates","yes","no",2008,42831429.4,11080233,31751196.400000002,NA
+"VEN","Venezuela (Bolivarian Republic of)","Agriculture","IPCC aggregates","yes","no",2009,42742786.9,10903292.5,31839494.4,NA
+"VEN","Venezuela (Bolivarian Republic of)","Agriculture","IPCC aggregates","yes","no",2010,36659959.300000004,9841066.5,26818892.8,NA
+"VEN","Venezuela (Bolivarian Republic of)","Agriculture","IPCC aggregates","yes","no",2011,36473127.1,9555979.5,26917147.6,NA
+"VEN","Venezuela (Bolivarian Republic of)","Agriculture","IPCC aggregates","yes","no",2012,42028878.7,10565841.5,31463037.2,NA
+"VEN","Venezuela (Bolivarian Republic of)","Agriculture","IPCC aggregates","yes","no",2013,42421948.4,10752428,31669520.400000002,NA
+"VEN","Venezuela (Bolivarian Republic of)","Agriculture","IPCC aggregates","yes","no",2014,42379113.4,10741457,31637656.4,NA
+"VEN","Venezuela (Bolivarian Republic of)","Agriculture","IPCC aggregates","yes","no",2015,41638838.1,10529642.5,31109195.599999998,NA
+"VEN","Venezuela (Bolivarian Republic of)","Agriculture","IPCC aggregates","yes","no",2016,40724611.4,10387947,30336664.400000002,NA
+"VEN","Venezuela (Bolivarian Republic of)","Agriculture","IPCC aggregates","yes","no",2017,39842065.6,10031734,29810331.6,NA
+"VEN","Venezuela (Bolivarian Republic of)","Agriculture","IPCC aggregates","yes","no",2018,39674462.2,9788623,29885839.2,NA
+"VEN","Venezuela (Bolivarian Republic of)","Agriculture","IPCC aggregates","yes","no",2019,39815337.800000004,9767317,30048020.799999997,NA
+"VEN","Venezuela (Bolivarian Republic of)","Agriculture","IPCC aggregates","yes","no",2020,41463776.1,10259660.5,31204115.6,NA
+"VEN","Venezuela (Bolivarian Republic of)","Agriculture","IPCC aggregates","yes","no",2021,39463071.4,9472319,29990752.400000002,NA
+"VEN","Venezuela (Bolivarian Republic of)","Agriculture","IPCC aggregates","yes","no",2022,41238931.199999996,10005340,31233591.2,NA
+"VEN","Venezuela (Bolivarian Republic of)","Agriculture","IPCC aggregates","yes","no",2030,NA,NA,NA,NA
+"VEN","Venezuela (Bolivarian Republic of)","Agriculture","IPCC aggregates","yes","no",2050,NA,NA,NA,NA
+"VEN","Venezuela (Bolivarian Republic of)","Agricultural Soils","IPCC aggregates","no","no",1992,7534082.5,7534082.5,NA,NA
+"VEN","Venezuela (Bolivarian Republic of)","Agricultural Soils","IPCC aggregates","no","no",1993,7300061,7300061,NA,NA
+"VEN","Venezuela (Bolivarian Republic of)","Agricultural Soils","IPCC aggregates","no","no",1994,7471304,7471304,NA,NA
+"VEN","Venezuela (Bolivarian Republic of)","Agricultural Soils","IPCC aggregates","no","no",1995,7629456,7629456,NA,NA
+"VEN","Venezuela (Bolivarian Republic of)","Agricultural Soils","IPCC aggregates","no","no",1996,7681634.5,7681634.5,NA,NA
+"VEN","Venezuela (Bolivarian Republic of)","Agricultural Soils","IPCC aggregates","no","no",1997,7756099.5,7756099.5,NA,NA
+"VEN","Venezuela (Bolivarian Republic of)","Agricultural Soils","IPCC aggregates","no","no",1998,7678825.5,7678825.5,NA,NA
+"VEN","Venezuela (Bolivarian Republic of)","Agricultural Soils","IPCC aggregates","no","no",1999,7713487.5,7713487.5,NA,NA
+"VEN","Venezuela (Bolivarian Republic of)","Agricultural Soils","IPCC aggregates","no","no",2000,8266701.499999999,8266701.499999999,NA,NA
+"VEN","Venezuela (Bolivarian Republic of)","Agricultural Soils","IPCC aggregates","no","no",2001,8502631,8502631,NA,NA
+"VEN","Venezuela (Bolivarian Republic of)","Agricultural Soils","IPCC aggregates","no","no",2002,8666984,8666984,NA,NA
+"VEN","Venezuela (Bolivarian Republic of)","Agricultural Soils","IPCC aggregates","no","no",2003,8679995.5,8679995.5,NA,NA
+"VEN","Venezuela (Bolivarian Republic of)","Agricultural Soils","IPCC aggregates","no","no",2004,8892631.5,8892631.5,NA,NA
+"VEN","Venezuela (Bolivarian Republic of)","Agricultural Soils","IPCC aggregates","no","no",2005,9155246.5,9155246.5,NA,NA
+"VEN","Venezuela (Bolivarian Republic of)","Agricultural Soils","IPCC aggregates","no","no",2006,8986097,8986097,NA,NA
+"VEN","Venezuela (Bolivarian Republic of)","Agricultural Soils","IPCC aggregates","no","no",2007,9280114.5,9280114.5,NA,NA
+"VEN","Venezuela (Bolivarian Republic of)","Agricultural Soils","IPCC aggregates","no","no",2008,9899764,9899764,NA,NA
+"VEN","Venezuela (Bolivarian Republic of)","Agricultural Soils","IPCC aggregates","no","no",2009,9727169.5,9727169.5,NA,NA
+"VEN","Venezuela (Bolivarian Republic of)","Agricultural Soils","IPCC aggregates","no","no",2010,8677955,8677955,NA,NA
+"VEN","Venezuela (Bolivarian Republic of)","Agricultural Soils","IPCC aggregates","no","no",2011,8684500.5,8684500.5,NA,NA
+"VEN","Venezuela (Bolivarian Republic of)","Agricultural Soils","IPCC aggregates","no","no",2012,9622653.5,9622653.5,NA,NA
+"VEN","Venezuela (Bolivarian Republic of)","Agricultural Soils","IPCC aggregates","no","no",2013,9544717,9544717,NA,NA
+"VEN","Venezuela (Bolivarian Republic of)","Agricultural Soils","IPCC aggregates","no","no",2014,9462487.5,9462487.5,NA,NA
+"VEN","Venezuela (Bolivarian Republic of)","Agricultural Soils","IPCC aggregates","no","no",2015,9407076,9407076,NA,NA
+"VEN","Venezuela (Bolivarian Republic of)","Agricultural Soils","IPCC aggregates","no","no",2016,9214235.5,9214235.5,NA,NA
+"VEN","Venezuela (Bolivarian Republic of)","Agricultural Soils","IPCC aggregates","no","no",2017,9001281.5,9001281.5,NA,NA
+"VEN","Venezuela (Bolivarian Republic of)","Agricultural Soils","IPCC aggregates","no","no",2018,8469956.5,8469956.5,NA,NA
+"VEN","Venezuela (Bolivarian Republic of)","Agricultural Soils","IPCC aggregates","no","no",2019,8350945,8350945,NA,NA
+"VEN","Venezuela (Bolivarian Republic of)","Agricultural Soils","IPCC aggregates","no","no",2020,8470301,8470301,NA,NA
+"VEN","Venezuela (Bolivarian Republic of)","Agricultural Soils","IPCC aggregates","no","no",2021,8422177,8422177,NA,NA
+"VEN","Venezuela (Bolivarian Republic of)","Agricultural Soils","IPCC aggregates","no","no",2022,8669395.5,8669395.5,NA,NA
+"VEN","Venezuela (Bolivarian Republic of)","Agricultural Soils","IPCC aggregates","no","no",2030,NA,NA,NA,NA
+"VEN","Venezuela (Bolivarian Republic of)","Agricultural Soils","IPCC aggregates","no","no",2050,NA,NA,NA,NA
+"VEN","Venezuela (Bolivarian Republic of)","LULUCF","IPCC aggregates","yes","no",1992,145040646.4,212530,402990,NA
+"VEN","Venezuela (Bolivarian Republic of)","LULUCF","IPCC aggregates","yes","no",1993,145041189.1,212530,402990,NA
+"VEN","Venezuela (Bolivarian Republic of)","LULUCF","IPCC aggregates","yes","no",1994,145041189.1,212530,402990,NA
+"VEN","Venezuela (Bolivarian Republic of)","LULUCF","IPCC aggregates","yes","no",1995,145033548.79999998,212530,402990,NA
+"VEN","Venezuela (Bolivarian Republic of)","LULUCF","IPCC aggregates","yes","no",1996,145310803.79999998,194775,699728.3999999999,NA
+"VEN","Venezuela (Bolivarian Republic of)","LULUCF","IPCC aggregates","yes","no",1997,145587148.5,254983,915975.2,NA
+"VEN","Venezuela (Bolivarian Republic of)","LULUCF","IPCC aggregates","yes","no",1998,147605678.9,695042,2496883.2,NA
+"VEN","Venezuela (Bolivarian Republic of)","LULUCF","IPCC aggregates","yes","no",1999,145731314.79999998,269505,968178.4,NA
+"VEN","Venezuela (Bolivarian Republic of)","LULUCF","IPCC aggregates","yes","no",2000,146291389.39999998,391458,1406300,NA
+"VEN","Venezuela (Bolivarian Republic of)","LULUCF","IPCC aggregates","yes","no",2001,87123157.30000001,272155,314938.4,NA
+"VEN","Venezuela (Bolivarian Republic of)","LULUCF","IPCC aggregates","yes","no",2002,86602163.19999999,33575.5,38844.4,NA
+"VEN","Venezuela (Bolivarian Republic of)","LULUCF","IPCC aggregates","yes","no",2003,88111299.89999999,747273.5,864763.2,NA
+"VEN","Venezuela (Bolivarian Republic of)","LULUCF","IPCC aggregates","yes","no",2004,86674154.7,66568,77047.6,NA
+"VEN","Venezuela (Bolivarian Republic of)","LULUCF","IPCC aggregates","yes","no",2005,86849135.5,149301,172762.8,NA
+"VEN","Venezuela (Bolivarian Republic of)","LULUCF","IPCC aggregates","yes","no",2006,86726993.4,92670.5,107251.2,NA
+"VEN","Venezuela (Bolivarian Republic of)","LULUCF","IPCC aggregates","yes","no",2007,87054687.5,247112.5,285958.39999999997,NA
+"VEN","Venezuela (Bolivarian Republic of)","LULUCF","IPCC aggregates","yes","no",2008,86701859.3,85648,99100.4,NA
+"VEN","Venezuela (Bolivarian Republic of)","LULUCF","IPCC aggregates","yes","no",2009,86616882.80000001,45924.5,53149.6,NA
+"VEN","Venezuela (Bolivarian Republic of)","LULUCF","IPCC aggregates","yes","no",2010,87649890,517491.99999999994,598861.2000000001,NA
+"VEN","Venezuela (Bolivarian Republic of)","LULUCF","IPCC aggregates","yes","no",2011,107769514.5,30289.5,35064.4,NA
+"VEN","Venezuela (Bolivarian Republic of)","LULUCF","IPCC aggregates","yes","no",2012,107763219.89999999,27374.5,31684.8,NA
+"VEN","Venezuela (Bolivarian Republic of)","LULUCF","IPCC aggregates","yes","no",2013,108065636.19999999,149857.5,173434.8,NA
+"VEN","Venezuela (Bolivarian Republic of)","LULUCF","IPCC aggregates","yes","no",2014,108151425.2,114029.5,131961.19999999998,NA
+"VEN","Venezuela (Bolivarian Republic of)","LULUCF","IPCC aggregates","yes","no",2015,108197723.4,135494.5,156794.4,NA
+"VEN","Venezuela (Bolivarian Republic of)","LULUCF","IPCC aggregates","yes","no",2016,42897492.5,325605.5,376793.2,NA
+"VEN","Venezuela (Bolivarian Republic of)","LULUCF","IPCC aggregates","yes","no",2017,42400505.8,44308,51268,NA
+"VEN","Venezuela (Bolivarian Republic of)","LULUCF","IPCC aggregates","yes","no",2018,42637247.1,105735,122351.6,NA
+"VEN","Venezuela (Bolivarian Republic of)","LULUCF","IPCC aggregates","yes","no",2019,43220411.800000004,361751.5,418622.4,NA
+"VEN","Venezuela (Bolivarian Republic of)","LULUCF","IPCC aggregates","yes","no",2020,43321015.3,389311.5,450511.6,NA
+"VEN","Venezuela (Bolivarian Republic of)","LULUCF","IPCC aggregates","yes","no",2021,42523671.9,33734.5,39032,NA
+"VEN","Venezuela (Bolivarian Republic of)","LULUCF","IPCC aggregates","yes","no",2022,42600523.5,69350.5,80267.6,NA
+"VEN","Venezuela (Bolivarian Republic of)","LULUCF","IPCC aggregates","yes","no",2030,NA,NA,NA,NA
+"VEN","Venezuela (Bolivarian Republic of)","LULUCF","IPCC aggregates","yes","no",2050,NA,NA,NA,NA
+"VEN","Venezuela (Bolivarian Republic of)","AFOLU","IPCC aggregates","no","no",1992,179118892.8,8828422,25865344.400000002,NA
+"VEN","Venezuela (Bolivarian Republic of)","AFOLU","IPCC aggregates","no","no",1993,178455433.9,8617270,25412494.8,NA
+"VEN","Venezuela (Bolivarian Republic of)","AFOLU","IPCC aggregates","no","no",1994,179495110.2,8809845.5,26259595.6,NA
+"VEN","Venezuela (Bolivarian Republic of)","AFOLU","IPCC aggregates","no","no",1995,179818295.2,8918628,26481638.4,NA
+"VEN","Venezuela (Bolivarian Republic of)","AFOLU","IPCC aggregates","no","no",1996,179497257.60000002,8611440,26469517.2,NA
+"VEN","Venezuela (Bolivarian Republic of)","AFOLU","IPCC aggregates","no","no",1997,180162053.1,8714366,27031496.8,NA
+"VEN","Venezuela (Bolivarian Republic of)","AFOLU","IPCC aggregates","no","no",1998,182822957.3,9263340,29145863.6,NA
+"VEN","Venezuela (Bolivarian Republic of)","AFOLU","IPCC aggregates","no","no",1999,181039654.79999998,8699049,27846974.4,NA
+"VEN","Venezuela (Bolivarian Republic of)","AFOLU","IPCC aggregates","no","no",2000,182816357.6,9472425,28850301.200000003,NA
+"VEN","Venezuela (Bolivarian Republic of)","AFOLU","IPCC aggregates","no","no",2001,124982805.5,9815812,28630929.599999998,NA
+"VEN","Venezuela (Bolivarian Republic of)","AFOLU","IPCC aggregates","no","no",2002,124652416.5,9585580,28537093.2,NA
+"VEN","Venezuela (Bolivarian Republic of)","AFOLU","IPCC aggregates","no","no",2003,127511381.7,10802274.5,30209844,NA
+"VEN","Venezuela (Bolivarian Republic of)","AFOLU","IPCC aggregates","no","no",2004,126555001.69999999,10073445,29951017.599999998,NA
+"VEN","Venezuela (Bolivarian Republic of)","AFOLU","IPCC aggregates","no","no",2005,128118197.5,10574613,31016512.8,NA
+"VEN","Venezuela (Bolivarian Republic of)","AFOLU","IPCC aggregates","no","no",2006,127738586,10241481.5,30970032.8,NA
+"VEN","Venezuela (Bolivarian Republic of)","AFOLU","IPCC aggregates","no","no",2007,128982404,10794669,31666118.4,NA
+"VEN","Venezuela (Bolivarian Republic of)","AFOLU","IPCC aggregates","no","no",2008,129533288.7,11165881,31850296.8,NA
+"VEN","Venezuela (Bolivarian Republic of)","AFOLU","IPCC aggregates","no","no",2009,129359669.7,10949217,31892644,NA
+"VEN","Venezuela (Bolivarian Republic of)","AFOLU","IPCC aggregates","no","no",2010,124309849.3,10358558.5,27417754,NA
+"VEN","Venezuela (Bolivarian Republic of)","AFOLU","IPCC aggregates","no","no",2011,144242641.6,9586269,26952212,NA
+"VEN","Venezuela (Bolivarian Republic of)","AFOLU","IPCC aggregates","no","no",2012,149792098.6,10593216,31494722,NA
+"VEN","Venezuela (Bolivarian Republic of)","AFOLU","IPCC aggregates","no","no",2013,150487584.6,10902285.5,31842955.2,NA
+"VEN","Venezuela (Bolivarian Republic of)","AFOLU","IPCC aggregates","no","no",2014,150530538.6,10855486.5,31769617.6,NA
+"VEN","Venezuela (Bolivarian Republic of)","AFOLU","IPCC aggregates","no","no",2015,149836561.5,10665137,31265990,NA
+"VEN","Venezuela (Bolivarian Republic of)","AFOLU","IPCC aggregates","no","no",2016,83622103.9,10713552.5,30713457.6,NA
+"VEN","Venezuela (Bolivarian Republic of)","AFOLU","IPCC aggregates","no","no",2017,82242571.4,10076042,29861599.6,NA
+"VEN","Venezuela (Bolivarian Republic of)","AFOLU","IPCC aggregates","no","no",2018,82311709.3,9894358,30008190.8,NA
+"VEN","Venezuela (Bolivarian Republic of)","AFOLU","IPCC aggregates","no","no",2019,83035749.6,10129068.5,30466643.2,NA
+"VEN","Venezuela (Bolivarian Republic of)","AFOLU","IPCC aggregates","no","no",2020,84784791.4,10648972,31654627.2,NA
+"VEN","Venezuela (Bolivarian Republic of)","AFOLU","IPCC aggregates","no","no",2021,81986743.3,9506053.5,30029784.400000002,NA
+"VEN","Venezuela (Bolivarian Republic of)","AFOLU","IPCC aggregates","no","no",2022,83839454.7,10074690.5,31313858.8,NA
+"VEN","Venezuela (Bolivarian Republic of)","AFOLU","IPCC aggregates","no","no",2030,NA,NA,NA,NA
+"VEN","Venezuela (Bolivarian Republic of)","AFOLU","IPCC aggregates","no","no",2050,NA,NA,NA,NA
+NA,"World","Energy","Not agri-food","yes","no",1992,24036911691.100002,167556499.5,2595199950.8,NA
+NA,"World","Energy","Not agri-food","yes","no",1993,24215296715,168737297,2609434779,NA
+NA,"World","Energy","Not agri-food","yes","no",1994,24267147226.7,173768216,2628674613.4,NA
+NA,"World","Energy","Not agri-food","yes","no",1995,24739991875.300003,181760427.9,2704568661.5,NA
+NA,"World","Energy","Not agri-food","yes","no",1996,25377012962.5,186357528.3,2772385271.3,NA
+NA,"World","Energy","Not agri-food","yes","no",1997,25539444230,195852708.9,2799497361.3999996,NA
+NA,"World","Energy","Not agri-food","yes","no",1998,25338218644.1,202748814.7,2705773270.5,NA
+NA,"World","Energy","Not agri-food","yes","no",1999,25826482359.1,211092556.4,2696806913.1,NA
+NA,"World","Energy","Not agri-food","yes","no",2000,26586965049.199997,194088003.9,2809242210.7000003,NA
+NA,"World","Energy","Not agri-food","yes","no",2001,26668316605,197484018.9,2813478644,NA
+NA,"World","Energy","Not agri-food","yes","no",2002,27116971788.600002,202050002.4,2767530447.5,NA
+NA,"World","Energy","Not agri-food","yes","no",2003,28592183540.899998,210751998.9,2954444779.1,NA
+NA,"World","Energy","Not agri-food","yes","no",2004,29607653429,222684316.2,3044729403.8999996,NA
+NA,"World","Energy","Not agri-food","yes","no",2005,30534854940.2,228134585.9,3142534149.9,NA
+NA,"World","Energy","Not agri-food","yes","no",2006,31506582884,236711114.8,3228720861.3,NA
+NA,"World","Energy","Not agri-food","yes","no",2007,32238807485.100002,245858489.70000002,3243260691.1,NA
+NA,"World","Energy","Not agri-food","yes","no",2008,33106800430.3,249576125.3,3311323206.7,NA
+NA,"World","Energy","Not agri-food","yes","no",2009,32597692681.8,243118815.89999998,3263177429.7000003,NA
+NA,"World","Energy","Not agri-food","yes","no",2010,34251535996.699997,254654213.6,3396936397.4,NA
+NA,"World","Energy","Not agri-food","yes","no",2011,35419025039.399994,260161096.7,3563175241.8,NA
+NA,"World","Energy","Not agri-food","yes","no",2012,35931085566.1,262948315.1,3612323284.8999996,NA
+NA,"World","Energy","Not agri-food","yes","no",2013,35991280075.6,266137837.50000003,3585858773.3,NA
+NA,"World","Energy","Not agri-food","yes","no",2014,36278332690.9,268637955.1,3605660305.3,NA
+NA,"World","Energy","Not agri-food","yes","no",2015,36338295926.700005,266106650.8,3569269688.4,NA
+NA,"World","Energy","Not agri-food","yes","no",2016,36292436850.100006,266776664.89999998,3538186803.4,NA
+NA,"World","Energy","Not agri-food","yes","no",2017,36936474034.4,272778446,3608838388.9,NA
+NA,"World","Energy","Not agri-food","yes","no",2018,37777462661.5,278242575.59999996,3708945971.2999997,NA
+NA,"World","Energy","Not agri-food","yes","no",2019,38159836055.1,280138278,3752069487,NA
+NA,"World","Energy","Not agri-food","yes","no",2020,36315495237.2,266484819.20000002,3568636763.4,NA
+NA,"World","Energy","Not agri-food","yes","no",2021,38092048019.7,281338003.6,3654215102.2999997,NA
+NA,"World","Energy","Not agri-food","yes","no",2022,38843791437,285503548.59999996,3784014775.7999997,NA
+NA,"World","Energy","Not agri-food","yes","no",2030,NA,NA,NA,NA
+NA,"World","Energy","Not agri-food","yes","no",2050,NA,NA,NA,NA
+NA,"World","IPPU","Not agri-food","yes","no",1992,1633330095.5,217594228.70000002,3904494,325033096.29999995
+NA,"World","IPPU","Not agri-food","yes","no",1993,1647208740.1000001,210738753,4218424.8,326508493
+NA,"World","IPPU","Not agri-food","yes","no",1994,1728449635.5,224723505.20000002,4493774.6,342053667.7
+NA,"World","IPPU","Not agri-food","yes","no",1995,1835731962.5,242172280.5,4788575.8,371638990
+NA,"World","IPPU","Not agri-food","yes","no",1996,1888171011.9,250080052.39999998,4771049.699999999,394475450.9
+NA,"World","IPPU","Not agri-food","yes","no",1997,1951144671.8999999,240947672.9,4956336.100000001,421832311.8
+NA,"World","IPPU","Not agri-food","yes","no",1998,1965365712.6,217466702.9,5187512.800000001,440242717.8
+NA,"World","IPPU","Not agri-food","yes","no",1999,1998129868.3,198323455.3,5127439.8,452594516.59999996
+NA,"World","IPPU","Not agri-food","yes","no",2000,2091932834,203912941.3,5414291.5,478935456.9
+NA,"World","IPPU","Not agri-food","yes","no",2001,2118828274.4,199270491.79999998,5519567.9,479493094
+NA,"World","IPPU","Not agri-food","yes","no",2002,2245637764,193896562.89999998,5815082.1,555106044.8000001
+NA,"World","IPPU","Not agri-food","yes","no",2003,2400602795.5,197416169.3,6191687.7,584914488.2
+NA,"World","IPPU","Not agri-food","yes","no",2004,2571642571.2000003,210135945,6648133.7,653331162.4
+NA,"World","IPPU","Not agri-food","yes","no",2005,2732112257.3,220367870.4,6946106.899999999,702088711
+NA,"World","IPPU","Not agri-food","yes","no",2006,2898529360,217947769.3,7682605.5,731331962.1999999
+NA,"World","IPPU","Not agri-food","yes","no",2007,3065998056.7000003,233394134.1,8224149.7,746966096.6
+NA,"World","IPPU","Not agri-food","yes","no",2008,3031445772.9,208235395.4,8271861.000000001,734087529
+NA,"World","IPPU","Not agri-food","yes","no",2009,3041781870.5,178987774.29999998,8250483.700000001,755292252.5
+NA,"World","IPPU","Not agri-food","yes","no",2010,3247534138.7999997,183724316.8,9394244.5,810062697.8
+NA,"World","IPPU","Not agri-food","yes","no",2011,3463430211.2,199495637,13672919.6,857074279.5
+NA,"World","IPPU","Not agri-food","yes","no",2012,3583565608.1,214511725.5,14597569.5,909718220.9
+NA,"World","IPPU","Not agri-food","yes","no",2013,3734485320.2999997,215699226.1,15292181.7,954152777.8000001
+NA,"World","IPPU","Not agri-food","yes","no",2014,3918090622.1,216781684.10000002,16803659.400000002,1022421141.1
+NA,"World","IPPU","Not agri-food","yes","no",2015,3801854285,217081191.9,16765213.4,990497525.5
+NA,"World","IPPU","Not agri-food","yes","no",2016,3897441838.8999996,218979551.9,17092722.2,1037498238.4
+NA,"World","IPPU","Not agri-food","yes","no",2017,3999966751.4,220484873.3,17951564,1097517888.8000002
+NA,"World","IPPU","Not agri-food","yes","no",2018,4135166248,222725292.7,18630479,1155441222.4
+NA,"World","IPPU","Not agri-food","yes","no",2019,4292096596.9,223537489.5,19609965.7,1204793037.1000001
+NA,"World","IPPU","Not agri-food","yes","no",2020,4391048283.7,233228647,19844051.5,1262062105.1000001
+NA,"World","IPPU","Not agri-food","yes","no",2021,4563549519.4,244414547.7,20560173.5,1328032278.3999999
+NA,"World","IPPU","Not agri-food","yes","no",2022,4500829092,238006749.5,20560850.900000002,1375643608.7
+NA,"World","IPPU","Not agri-food","yes","no",2030,NA,NA,NA,NA
+NA,"World","IPPU","Not agri-food","yes","no",2050,NA,NA,NA,NA
+NA,"World","Waste","Not agri-food","yes","no",1992,1681652211.8,71022073.5,1599416449.4,NA
+NA,"World","Waste","Not agri-food","yes","no",1993,1701720120.1,72850018,1617892744.2,NA
+NA,"World","Waste","Not agri-food","yes","no",1994,1728377941.9,75084410,1641479633.6999998,NA
+NA,"World","Waste","Not agri-food","yes","no",1995,1748716903.8,76868203.4,1659919483.6,NA
+NA,"World","Waste","Not agri-food","yes","no",1996,1768805854.2,78888709.3,1676699737.2,NA
+NA,"World","Waste","Not agri-food","yes","no",1997,1790371427.3000002,80412705.3,1696004256.4,NA
+NA,"World","Waste","Not agri-food","yes","no",1998,1801830206.5,82347938.1,1706055358.6,NA
+NA,"World","Waste","Not agri-food","yes","no",1999,1822813429.8,83899412.4,1725541141.1,NA
+NA,"World","Waste","Not agri-food","yes","no",2000,1851130952.5,85173924.4,1751302585,NA
+NA,"World","Waste","Not agri-food","yes","no",2001,1850444094.4,86319703.89999999,1749050209.5,NA
+NA,"World","Waste","Not agri-food","yes","no",2002,1866637485.8999999,87481101.8,1764842938,NA
+NA,"World","Waste","Not agri-food","yes","no",2003,1900241184.3999999,89314939.10000001,1795282446.9,NA
+NA,"World","Waste","Not agri-food","yes","no",2004,1929595784.7,90730706.5,1824105829.3000002,NA
+NA,"World","Waste","Not agri-food","yes","no",2005,1949918735.3999999,92046059.39999999,1843582989.8999999,NA
+NA,"World","Waste","Not agri-food","yes","no",2006,1997515998.1,94179213.2,1888274941.9,NA
+NA,"World","Waste","Not agri-food","yes","no",2007,2030827431.2,96472362.6,1918999550.2,NA
+NA,"World","Waste","Not agri-food","yes","no",2008,2051623020.1999998,98372929.9,1937301090.1,NA
+NA,"World","Waste","Not agri-food","yes","no",2009,2063065623.3999999,100317072.8,1947354832.3999999,NA
+NA,"World","Waste","Not agri-food","yes","no",2010,2095361211.7,102245194.2,1976928387.8999999,NA
+NA,"World","Waste","Not agri-food","yes","no",2011,2136570911.2,104434198.5,2015608809.2,NA
+NA,"World","Waste","Not agri-food","yes","no",2012,2162268005.9,106256064.3,2039872256.7,NA
+NA,"World","Waste","Not agri-food","yes","no",2013,2203665962.5,108445557.7,2077110970.3,NA
+NA,"World","Waste","Not agri-food","yes","no",2014,2239601991.7000003,110278949.5,2112781070.9,NA
+NA,"World","Waste","Not agri-food","yes","no",2015,2284385935.8,112492353.4,2154376821.2000003,NA
+NA,"World","Waste","Not agri-food","yes","no",2016,2324249647.2999997,114780317.5,2191728148.9,NA
+NA,"World","Waste","Not agri-food","yes","no",2017,2370435378.3999996,116959244.7,2235882739.3,NA
+NA,"World","Waste","Not agri-food","yes","no",2018,2421855262.6,118369918,2285470827.6,NA
+NA,"World","Waste","Not agri-food","yes","no",2019,2460601366.6,119625750.3,2323158651.2000003,NA
+NA,"World","Waste","Not agri-food","yes","no",2020,2493482160.8,120939021,2354784085.5,NA
+NA,"World","Waste","Not agri-food","yes","no",2021,2537814983.3999996,122631771,2397417080.7,NA
+NA,"World","Waste","Not agri-food","yes","no",2022,2577948164.7999997,124368320,2435745650.6,NA
+NA,"World","Waste","Not agri-food","yes","no",2030,NA,NA,NA,NA
+NA,"World","Waste","Not agri-food","yes","no",2050,NA,NA,NA,NA
+NA,"World","International bunkers","Not agri-food","yes","no",1992,702353566.1,18719019.9,10145042.799999999,NA
+NA,"World","International bunkers","Not agri-food","yes","no",1993,694417618,18293519.400000002,10401002.1,NA
+NA,"World","International bunkers","Not agri-food","yes","no",1994,720837613,18904499.5,10529299.5,NA
+NA,"World","International bunkers","Not agri-food","yes","no",1995,747593213.3,19585018.1,10827616.799999999,NA
+NA,"World","International bunkers","Not agri-food","yes","no",1996,768680640.5,20056787.7,11185745.9,NA
+NA,"World","International bunkers","Not agri-food","yes","no",1997,795182893.5,20645940.6,11711789.4,NA
+NA,"World","International bunkers","Not agri-food","yes","no",1998,820245833.6,21285579.5,12179980,NA
+NA,"World","International bunkers","Not agri-food","yes","no",1999,862182342.5,22465202.6,11860805.5,NA
+NA,"World","International bunkers","Not agri-food","yes","no",2000,888807641.9000001,23095665.700000003,12630424.7,NA
+NA,"World","International bunkers","Not agri-food","yes","no",2001,856088439.6,22075329.4,12569337.299999999,NA
+NA,"World","International bunkers","Not agri-food","yes","no",2002,895486229.7,23011671.5,12300391.299999999,NA
+NA,"World","International bunkers","Not agri-food","yes","no",2003,902203411.8,23258565.4,13105463.299999999,NA
+NA,"World","International bunkers","Not agri-food","yes","no",2004,984150036.5,25468029.8,14072929.700000001,NA
+NA,"World","International bunkers","Not agri-food","yes","no",2005,1029668106.5,26493050.3,14290346.100000001,NA
+NA,"World","International bunkers","Not agri-food","yes","no",2006,1084034358.5,28061450.2,14420807.1,NA
+NA,"World","International bunkers","Not agri-food","yes","no",2007,1135468333.1,29561185.6,14489504.5,NA
+NA,"World","International bunkers","Not agri-food","yes","no",2008,1144453695.8999999,29691362.5,14454789.9,NA
+NA,"World","International bunkers","Not agri-food","yes","no",2009,1089605471.5,28275223.900000002,13689324.9,NA
+NA,"World","International bunkers","Not agri-food","yes","no",2010,1164513733.7,30342001.599999998,13977752.5,NA
+NA,"World","International bunkers","Not agri-food","yes","no",2011,1181008242.8,30582358.599999998,14064556.6,NA
+NA,"World","International bunkers","Not agri-food","yes","no",2012,1134479490.8,28909241.2,14096945.299999999,NA
+NA,"World","International bunkers","Not agri-food","yes","no",2013,1139920649.5,28933391.2,13887920.8,NA
+NA,"World","International bunkers","Not agri-food","yes","no",2014,1177191253.4,29960799.8,13690781.1,NA
+NA,"World","International bunkers","Not agri-food","yes","no",2015,1234289944.2,31366202.2,14279236.3,NA
+NA,"World","International bunkers","Not agri-food","yes","no",2016,1275074038.6000001,32253135.3,15005348.4,NA
+NA,"World","International bunkers","Not agri-food","yes","no",2017,1337993917.1,33696200.7,15002222.9,NA
+NA,"World","International bunkers","Not agri-food","yes","no",2018,1367234190.3999999,34122817.9,15280640.600000001,NA
+NA,"World","International bunkers","Not agri-food","yes","no",2019,1361078427.5,33713409.4,15105310.7,NA
+NA,"World","International bunkers","Not agri-food","yes","no",2020,970417676.6999999,27304302.3,13875440.7,NA
+NA,"World","International bunkers","Not agri-food","yes","no",2021,1054970571.1999999,29271616.6,13921977.5,NA
+NA,"World","International bunkers","Not agri-food","yes","no",2022,1175800119.8,31747905.599999998,13979750.700000001,NA
+NA,"World","International bunkers","Not agri-food","yes","no",2030,NA,NA,NA,NA
+NA,"World","International bunkers","Not agri-food","yes","no",2050,NA,NA,NA,NA
+NA,"World","Agrifood systems","FAO aggregates","no","no",1992,14282899194.199999,1782507576.8,4629746690.1,84683345.5
+NA,"World","Agrifood systems","FAO aggregates","no","no",1993,14280046545,1768206858.1000001,4628880772.5,57829209.4
+NA,"World","Agrifood systems","FAO aggregates","no","no",1994,14393527457.599998,1787418338.2,4665827031.5,67303695.7
+NA,"World","Agrifood systems","FAO aggregates","no","no",1995,14649810371.6,1825800175.8000002,4708049873.1,52627726.7
+NA,"World","Agrifood systems","FAO aggregates","no","no",1996,14556886781,1821883282,4679099171.1,49940830.4
+NA,"World","Agrifood systems","FAO aggregates","no","no",1997,15524098171.9,1815599244.6000001,4924928398.900001,63488162.900000006
+NA,"World","Agrifood systems","FAO aggregates","no","no",1998,14902367656.5,1851912786.6,4810199323.400001,56904136.3
+NA,"World","Agrifood systems","FAO aggregates","no","no",1999,14796929247.400002,1865640272,4771804487.4,74419550.8
+NA,"World","Agrifood systems","FAO aggregates","no","no",2000,14741011050.4,1847162561.7,4731353130.8,73853525.2
+NA,"World","Agrifood systems","FAO aggregates","no","no",2001,14269401409.800001,1883317543.8000002,4713077975.1,88864781.4
+NA,"World","Agrifood systems","FAO aggregates","no","no",2002,14846484925.300001,1932112229.4,4865072662.8,107546018.4
+NA,"World","Agrifood systems","FAO aggregates","no","no",2003,14677466215.4,1951731727,4807205037,121404608.39999999
+NA,"World","Agrifood systems","FAO aggregates","no","no",2004,15351789719.8,2011847408.2,4975664081.3,138881912.5
+NA,"World","Agrifood systems","FAO aggregates","no","no",2005,15230994680.9,2020153376.8,4948230967.5,142973310.3
+NA,"World","Agrifood systems","FAO aggregates","no","no",2006,15809947452.3,2040128484.3,5078768331.2,165896005.70000002
+NA,"World","Agrifood systems","FAO aggregates","no","no",2007,15450884247.300001,2094272506.8000002,4995813926.7,188286885.5
+NA,"World","Agrifood systems","FAO aggregates","no","no",2008,15490399511.5,2073307689.5,5001820479.1,209512089.6
+NA,"World","Agrifood systems","FAO aggregates","no","no",2009,15895568700.5,2078362942.4,5099908715.900001,224863245.5
+NA,"World","Agrifood systems","FAO aggregates","no","no",2010,15800558873.7,2148983626.9,5060990791.1,250028015
+NA,"World","Agrifood systems","FAO aggregates","no","no",2011,15827455283.3,2205057876.3,5159117783.3,274555694.8
+NA,"World","Agrifood systems","FAO aggregates","no","no",2012,15951416706.1,2213764510.4,5187082971.7,303081355.3
+NA,"World","Agrifood systems","FAO aggregates","no","no",2013,16059044963.199999,2186562183.8,5142986294.200001,326290405.5
+NA,"World","Agrifood systems","FAO aggregates","no","no",2014,16519153502.5,2217259749.1,5253080990.1,355786913.7
+NA,"World","Agrifood systems","FAO aggregates","no","no",2015,16566725249,2225979630.7999997,5283770338,369395535.6
+NA,"World","Agrifood systems","FAO aggregates","no","no",2016,15843316493.1,2238805668.1,5170879833.3,389882788.2
+NA,"World","Agrifood systems","FAO aggregates","no","no",2017,15924120686.2,2284822089.5,5202751052.400001,406333813.2
+NA,"World","Agrifood systems","FAO aggregates","no","no",2018,16136601313.4,2254149683.3,5233221075.6,422089257.7
+NA,"World","Agrifood systems","FAO aggregates","no","no",2019,16396435262.800001,2268677409.2000003,5306478006.7,439170244.2
+NA,"World","Agrifood systems","FAO aggregates","no","no",2020,16068038530.4,2326485746.2,5260076115.299999,455775638.3
+NA,"World","Agrifood systems","FAO aggregates","no","no",2021,16269113536.599998,2332445023.8,5276503970.8,484820999.20000005
+NA,"World","Agrifood systems","FAO aggregates","no","no",2022,16240231621.300001,2304140850.8,5284390764.4,484820999.20000005
+NA,"World","Agrifood systems","FAO aggregates","no","no",2030,NA,NA,NA,NA
+NA,"World","Agrifood systems","FAO aggregates","no","no",2050,NA,NA,NA,NA
+NA,"World","Farm gate","Agrifood systems","no","yes",1992,6688008429.1,1632928701.5,3531310773.2000003,NA
+NA,"World","Farm gate","Agrifood systems","no","yes",1993,6635560752.9,1618355848,3513006490,NA
+NA,"World","Farm gate","Agrifood systems","no","yes",1994,6706765680.4,1634859465,3541751939.6000004,NA
+NA,"World","Farm gate","Agrifood systems","no","yes",1995,6791415129.8,1669693953.5,3561181218,NA
+NA,"World","Farm gate","Agrifood systems","no","yes",1996,6825211220.5,1699233768.5,3559437529.2000003,NA
+NA,"World","Farm gate","Agrifood systems","no","yes",1997,6746619828.700001,1675278033.5,3509713253.2000003,NA
+NA,"World","Farm gate","Agrifood systems","no","yes",1998,6791818843.3,1703895171.5,3534674399.2,NA
+NA,"World","Farm gate","Agrifood systems","no","yes",1999,6835616393.8,1726646004.5,3568999758.8,NA
+NA,"World","Farm gate","Agrifood systems","no","yes",2000,6834518809.1,1720408699.5,3572606688,NA
+NA,"World","Farm gate","Agrifood systems","no","yes",2001,6840976935.3,1731498393,3566048362.7999997,NA
+NA,"World","Farm gate","Agrifood systems","no","yes",2002,6841081283.200001,1762928373.5,3589021293.2000003,NA
+NA,"World","Farm gate","Agrifood systems","no","yes",2003,6872925290.7,1761177094.5,3588551038.8,NA
+NA,"World","Farm gate","Agrifood systems","no","yes",2004,7027632748,1812159517,3648931689.2,NA
+NA,"World","Farm gate","Agrifood systems","no","yes",2005,7094253581.7,1820605014,3682254657.2,NA
+NA,"World","Farm gate","Agrifood systems","no","yes",2006,7180010200.2,1849056659.5,3714979410.8,NA
+NA,"World","Farm gate","Agrifood systems","no","yes",2007,7230533764.6,1887627568.5,3750934499.2,NA
+NA,"World","Farm gate","Agrifood systems","no","yes",2008,7257334597.400001,1881253152.5,3767794676.8,NA
+NA,"World","Farm gate","Agrifood systems","no","yes",2009,7248093901,1887084557,3757901532,NA
+NA,"World","Farm gate","Agrifood systems","no","yes",2010,7332008563.5,1923787746,3779966422.4,NA
+NA,"World","Farm gate","Agrifood systems","no","yes",2011,7493170774.2,1994406085.5,3840099211.2,NA
+NA,"World","Farm gate","Agrifood systems","no","yes",2012,7531078770,1999621312,3856981604,NA
+NA,"World","Farm gate","Agrifood systems","no","yes",2013,7516173712.3,1981417958.5,3820430068,NA
+NA,"World","Farm gate","Agrifood systems","no","yes",2014,7573065260.599999,2008678932.5,3846190012,NA
+NA,"World","Farm gate","Agrifood systems","no","yes",2015,7562499489,2012113942,3861282997.6,NA
+NA,"World","Farm gate","Agrifood systems","no","yes",2016,7619543537,2024454833,3888333836.8,NA
+NA,"World","Farm gate","Agrifood systems","no","yes",2017,7732443617.6,2070552563.5,3925937836.8,NA
+NA,"World","Farm gate","Agrifood systems","no","yes",2018,7712985451.2,2055924033.5,3918768736.3999996,NA
+NA,"World","Farm gate","Agrifood systems","no","yes",2019,7717673705,2053773426,3910593374.7999997,NA
+NA,"World","Farm gate","Agrifood systems","no","yes",2020,7787487099.3,2105418216,3964562277.2,NA
+NA,"World","Farm gate","Agrifood systems","no","yes",2021,7833801093.7,2117189807.5,3998197725.2000003,NA
+NA,"World","Farm gate","Agrifood systems","no","yes",2022,7836567809.1,2098403454,4019952288.8,NA
+NA,"World","Farm gate","Agrifood systems","no","yes",2030,NA,NA,NA,NA
+NA,"World","Farm gate","Agrifood systems","no","yes",2050,NA,NA,NA,NA
+NA,"World","Land Use change","Agrifood systems","no","yes",1992,4673137708.2,61493276.5,150676624,NA
+NA,"World","Land Use change","Agrifood systems","no","yes",1993,4673137708.2,61493276.5,150676624,NA
+NA,"World","Land Use change","Agrifood systems","no","yes",1994,4673137708.2,61493276.5,150676624,NA
+NA,"World","Land Use change","Agrifood systems","no","yes",1995,4673137708.2,61493276.5,150676624,NA
+NA,"World","Land Use change","Agrifood systems","no","yes",1996,4461456549.4,24608456.5,108097505.60000001,NA
+NA,"World","Land Use change","Agrifood systems","no","yes",1997,5461125955.900001,41103275.5,402801226.8,NA
+NA,"World","Land Use change","Agrifood systems","no","yes",1998,4731566694.400001,45756357.5,228153875.6,NA
+NA,"World","Land Use change","Agrifood systems","no","yes",1999,4539435173.2,33636397,149836033.20000002,NA
+NA,"World","Land Use change","Agrifood systems","no","yes",2000,4406541225,20819725,84926352,NA
+NA,"World","Land Use change","Agrifood systems","no","yes",2001,3828991740,44038018,61391766.8,NA
+NA,"World","Land Use change","Agrifood systems","no","yes",2002,4356142402.099999,55189059,203434669.20000002,NA
+NA,"World","Land Use change","Agrifood systems","no","yes",2003,4024029388.7999997,72361191.5,128557086,NA
+NA,"World","Land Use change","Agrifood systems","no","yes",2004,4402881489.6,81076670.5,231075745.6,NA
+NA,"World","Land Use change","Agrifood systems","no","yes",2005,4117071301.4,80422438.5,157269935.20000002,NA
+NA,"World","Land Use change","Agrifood systems","no","yes",2006,4480901865.8,67950319.5,243220821.20000002,NA
+NA,"World","Land Use change","Agrifood systems","no","yes",2007,3928081306.6,81246217.5,109282728.8,NA
+NA,"World","Land Use change","Agrifood systems","no","yes",2008,3872284531.8999996,65417529,85406308.39999999,NA
+NA,"World","Land Use change","Agrifood systems","no","yes",2009,4270317802.5,62281492.5,185729132.4,NA
+NA,"World","Land Use change","Agrifood systems","no","yes",2010,3932940763.2,90771801.5,116271864.8,NA
+NA,"World","Land Use change","Agrifood systems","no","yes",2011,3673606145.6,71061419.5,138257014,NA
+NA,"World","Land Use change","Agrifood systems","no","yes",2012,3687055625.6,73683011.5,143291436.4,NA
+NA,"World","Land Use change","Agrifood systems","no","yes",2013,3645110211.2,63886385.5,126602700,NA
+NA,"World","Land Use change","Agrifood systems","no","yes",2014,3995901776.9,64134425.5,216757923.2,NA
+NA,"World","Land Use change","Agrifood systems","no","yes",2015,4034918066.1,72052652,231574229.6,NA
+NA,"World","Land Use change","Agrifood systems","no","yes",2016,3170499943.2999997,70058553.5,100148109.6,NA
+NA,"World","Land Use change","Agrifood systems","no","yes",2017,3125766749.7999997,71878679.5,89765096.39999999,NA
+NA,"World","Land Use change","Agrifood systems","no","yes",2018,3287562857,56942378.5,122299419.2,NA
+NA,"World","Land Use change","Agrifood systems","no","yes",2019,3552834469.9,72466847,199763967.20000002,NA
+NA,"World","Land Use change","Agrifood systems","no","yes",2020,3151153050.7,73451666.5,97225116.8,NA
+NA,"World","Land Use change","Agrifood systems","no","yes",2021,3101243474.8,62906097.5,78057288.4,NA
+NA,"World","Land Use change","Agrifood systems","no","yes",2022,3069594844.1,53388278,64189518.4,NA
+NA,"World","Land Use change","Agrifood systems","no","yes",2030,NA,NA,NA,NA
+NA,"World","Land Use change","Agrifood systems","no","yes",2050,NA,NA,NA,NA
+NA,"World","Pre- and Post- Production","Agrifood systems","no","yes",1992,2921753056.9,88085598.80000001,947759292.9,84683345.5
+NA,"World","Pre- and Post- Production","Agrifood systems","no","yes",1993,2971348083.9,88357733.60000001,965197658.5,57829209.4
+NA,"World","Pre- and Post- Production","Agrifood systems","no","yes",1994,3013624069,91065596.69999999,973398467.9000001,67303695.7
+NA,"World","Pre- and Post- Production","Agrifood systems","no","yes",1995,3185257533.6000004,94612945.8,996192031.1,52627726.7
+NA,"World","Pre- and Post- Production","Agrifood systems","no","yes",1996,3270219011.1,98041057,1011564136.3000001,49940830.4
+NA,"World","Pre- and Post- Production","Agrifood systems","no","yes",1997,3316352387.3,99217935.6,1012413918.9000001,63488162.900000006
+NA,"World","Pre- and Post- Production","Agrifood systems","no","yes",1998,3378982118.7999997,102261257.6,1047371048.6,56904136.3
+NA,"World","Pre- and Post- Production","Agrifood systems","no","yes",1999,3421877680.4,105357870.6,1052968695.4000001,74419550.8
+NA,"World","Pre- and Post- Production","Agrifood systems","no","yes",2000,3499951016.2999997,105934137.2,1073820090.8,73853525.2
+NA,"World","Pre- and Post- Production","Agrifood systems","no","yes",2001,3599432734.5,107781132.80000001,1085637845.5,88864781.4
+NA,"World","Pre- and Post- Production","Agrifood systems","no","yes",2002,3649261240,113994796.9,1072616700.4,107546018.4
+NA,"World","Pre- and Post- Production","Agrifood systems","no","yes",2003,3780511535.9,118193441,1090096912.1999998,121404608.39999999
+NA,"World","Pre- and Post- Production","Agrifood systems","no","yes",2004,3921275482.2,118611220.7,1095656646.5,138881912.5
+NA,"World","Pre- and Post- Production","Agrifood systems","no","yes",2005,4019669797.7999997,119125924.4,1108706375.1000001,142973310.3
+NA,"World","Pre- and Post- Production","Agrifood systems","no","yes",2006,4149035386.2999997,123121505.3,1120568099.2,165896005.70000002
+NA,"World","Pre- and Post- Production","Agrifood systems","no","yes",2007,4292269176.1,125398720.8,1135596698.7,188286885.5
+NA,"World","Pre- and Post- Production","Agrifood systems","no","yes",2008,4360780382.2,126637008,1148619493.8999999,209512089.6
+NA,"World","Pre- and Post- Production","Agrifood systems","no","yes",2009,4377156997,128996892.9,1156278051.5,224863245.5
+NA,"World","Pre- and Post- Production","Agrifood systems","no","yes",2010,4535609547,134424079.39999998,1164752503.8999999,250028015
+NA,"World","Pre- and Post- Production","Agrifood systems","no","yes",2011,4660678363.5,139590371.3,1180761558.1,274555694.8
+NA,"World","Pre- and Post- Production","Agrifood systems","no","yes",2012,4733282310.5,140460186.9,1186809931.3,303081355.3
+NA,"World","Pre- and Post- Production","Agrifood systems","no","yes",2013,4897761039.7,141257839.79999998,1195953526.2,326290405.5
+NA,"World","Pre- and Post- Production","Agrifood systems","no","yes",2014,4950186465,144446391.1,1190133054.9,355786913.7
+NA,"World","Pre- and Post- Production","Agrifood systems","no","yes",2015,4969307693.900001,141813036.8,1190913110.8,369395535.6
+NA,"World","Pre- and Post- Production","Agrifood systems","no","yes",2016,5053273012.799999,144292281.6,1182397886.9,389882788.2
+NA,"World","Pre- and Post- Production","Agrifood systems","no","yes",2017,5065910318.799999,142390846.5,1187048119.2,406333813.2
+NA,"World","Pre- and Post- Production","Agrifood systems","no","yes",2018,5136053005.2,141283271.29999998,1192152920,422089257.7
+NA,"World","Pre- and Post- Production","Agrifood systems","no","yes",2019,5125927087.9,142437136.20000002,1196120664.7,439170244.2
+NA,"World","Pre- and Post- Production","Agrifood systems","no","yes",2020,5129398380.400001,147615863.7,1198288721.3000002,455775638.3
+NA,"World","Pre- and Post- Production","Agrifood systems","no","yes",2021,5334068968.1,152349118.79999998,1200248957.2,484820999.20000005
+NA,"World","Pre- and Post- Production","Agrifood systems","no","yes",2022,5334068968.1,152349118.79999998,1200248957.2,484820999.20000005
+NA,"World","Pre- and Post- Production","Agrifood systems","no","yes",2030,NA,NA,NA,NA
+NA,"World","Pre- and Post- Production","Agrifood systems","no","yes",2050,NA,NA,NA,NA
+NA,"World","Emissions on agricultural land","FAO aggregates","no","no",1992,11361146137.3,1694421978,3681987397.2,NA
+NA,"World","Emissions on agricultural land","FAO aggregates","no","no",1993,11308698461.1,1679849124.5,3663683114,NA
+NA,"World","Emissions on agricultural land","FAO aggregates","no","no",1994,11379903388.599998,1696352741.5,3692428563.6,NA
+NA,"World","Emissions on agricultural land","FAO aggregates","no","no",1995,11464552838,1731187230,3711857842,NA
+NA,"World","Emissions on agricultural land","FAO aggregates","no","no",1996,11286667769.9,1723842225,3667535034.8,NA
+NA,"World","Emissions on agricultural land","FAO aggregates","no","no",1997,12207745784.6,1716381309,3912514480,NA
+NA,"World","Emissions on agricultural land","FAO aggregates","no","no",1998,11523385537.699999,1749651529,3762828274.7999997,NA
+NA,"World","Emissions on agricultural land","FAO aggregates","no","no",1999,11375051567,1760282401.5,3718835792,NA
+NA,"World","Emissions on agricultural land","FAO aggregates","no","no",2000,11241060034.1,1741228424.5,3657533040,NA
+NA,"World","Emissions on agricultural land","FAO aggregates","no","no",2001,10669968675.300001,1775536411,3627440129.6,NA
+NA,"World","Emissions on agricultural land","FAO aggregates","no","no",2002,11197223685.3,1818117432.5,3792455962.4,NA
+NA,"World","Emissions on agricultural land","FAO aggregates","no","no",2003,10896954679.5,1833538286,3717108124.7999997,NA
+NA,"World","Emissions on agricultural land","FAO aggregates","no","no",2004,11430514237.6,1893236187.5,3880007434.7999997,NA
+NA,"World","Emissions on agricultural land","FAO aggregates","no","no",2005,11211324883.099998,1901027452.5,3839524592.4,NA
+NA,"World","Emissions on agricultural land","FAO aggregates","no","no",2006,11660912066,1917006979,3958200232,NA
+NA,"World","Emissions on agricultural land","FAO aggregates","no","no",2007,11158615071.2,1968873786,3860217228,NA
+NA,"World","Emissions on agricultural land","FAO aggregates","no","no",2008,11129619129.3,1946670681.5,3853200985.2,NA
+NA,"World","Emissions on agricultural land","FAO aggregates","no","no",2009,11518411703.5,1949366049.5,3943630664.4,NA
+NA,"World","Emissions on agricultural land","FAO aggregates","no","no",2010,11264949326.7,2014559547.5,3896238287.2000003,NA
+NA,"World","Emissions on agricultural land","FAO aggregates","no","no",2011,11166776919.800001,2065467505,3978356225.2000003,NA
+NA,"World","Emissions on agricultural land","FAO aggregates","no","no",2012,11218134395.6,2073304323.5,4000273040.3999996,NA
+NA,"World","Emissions on agricultural land","FAO aggregates","no","no",2013,11161283923.5,2045304344,3947032768,NA
+NA,"World","Emissions on agricultural land","FAO aggregates","no","no",2014,11568967037.5,2072813358,4062947935.2000003,NA
+NA,"World","Emissions on agricultural land","FAO aggregates","no","no",2015,11597417555.1,2084166594,4092857227.2000003,NA
+NA,"World","Emissions on agricultural land","FAO aggregates","no","no",2016,10790043480.3,2094513386.5,3988481946.3999996,NA
+NA,"World","Emissions on agricultural land","FAO aggregates","no","no",2017,10858210367.4,2142431242.9999998,4015702933.2,NA
+NA,"World","Emissions on agricultural land","FAO aggregates","no","no",2018,11000548308.2,2112866412,4041068155.6000004,NA
+NA,"World","Emissions on agricultural land","FAO aggregates","no","no",2019,11270508174.900002,2126240273,4110357342,NA
+NA,"World","Emissions on agricultural land","FAO aggregates","no","no",2020,10938640150,2178869882.5,4061787394,NA
+NA,"World","Emissions on agricultural land","FAO aggregates","no","no",2021,10935044568.5,2180095905,4076255013.6000004,NA
+NA,"World","Emissions on agricultural land","FAO aggregates","no","no",2022,10906162653.2,2151791732,4084141807.2000003,NA
+NA,"World","Emissions on agricultural land","FAO aggregates","no","no",2030,NA,NA,NA,NA
+NA,"World","Emissions on agricultural land","FAO aggregates","no","no",2050,NA,NA,NA,NA
+NA,"World","Emissions from crops","FAO aggregates","no","no",1992,1194219038.3999999,547460638,646758400.4000001,NA
+NA,"World","Emissions from crops","FAO aggregates","no","no",1993,1176082227.8,535303975,640778252.8000001,NA
+NA,"World","Emissions from crops","FAO aggregates","no","no",1994,1188195331.1999998,540880582,647314749.1999999,NA
+NA,"World","Emissions from crops","FAO aggregates","no","no",1995,1226262774.4,567653108,658609666.4,NA
+NA,"World","Emissions from crops","FAO aggregates","no","no",1996,1266866312.1,600655810.5,666210501.5999999,NA
+NA,"World","Emissions from crops","FAO aggregates","no","no",1997,1264527130.5,594336196.5,670190934,NA
+NA,"World","Emissions from crops","FAO aggregates","no","no",1998,1267670801.5,601135407.5,666535394,NA
+NA,"World","Emissions from crops","FAO aggregates","no","no",1999,1304467526.4,612889456,691578070.4,NA
+NA,"World","Emissions from crops","FAO aggregates","no","no",2000,1267869089.9,590642573.5,677226516.4,NA
+NA,"World","Emissions from crops","FAO aggregates","no","no",2001,1267380918.2,598620213,668760705.1999999,NA
+NA,"World","Emissions from crops","FAO aggregates","no","no",2002,1264194699.5,609695119.5,654499580,NA
+NA,"World","Emissions from crops","FAO aggregates","no","no",2003,1279693240.4,625969644,653723596.4000001,NA
+NA,"World","Emissions from crops","FAO aggregates","no","no",2004,1317848282.3999999,650146442,667701840.4,NA
+NA,"World","Emissions from crops","FAO aggregates","no","no",2005,1336482078.5,653824032.5,682658046,NA
+NA,"World","Emissions from crops","FAO aggregates","no","no",2006,1353835323.5,669508799.5,684326524,NA
+NA,"World","Emissions from crops","FAO aggregates","no","no",2007,1375957634.7,691105875.5,684851759.1999999,NA
+NA,"World","Emissions from crops","FAO aggregates","no","no",2008,1394812066.6,692246939,702565127.6,NA
+NA,"World","Emissions from crops","FAO aggregates","no","no",2009,1400868034.2,703864751,697003283.1999999,NA
+NA,"World","Emissions from crops","FAO aggregates","no","no",2010,1437794402.1999998,727208389,710586013.2,NA
+NA,"World","Emissions from crops","FAO aggregates","no","no",2011,1467915156,754082834,713832322,NA
+NA,"World","Emissions from crops","FAO aggregates","no","no",2012,1464032373.3000002,752260190.5,711772182.8,NA
+NA,"World","Emissions from crops","FAO aggregates","no","no",2013,1492520406.9,773575094.5,718945312.4000001,NA
+NA,"World","Emissions from crops","FAO aggregates","no","no",2014,1498416966.4,783740044,714676922.4000001,NA
+NA,"World","Emissions from crops","FAO aggregates","no","no",2015,1483208158.1,778343292.5,704864865.6,NA
+NA,"World","Emissions from crops","FAO aggregates","no","no",2016,1499173457.3,788370256.5,710803200.8,NA
+NA,"World","Emissions from crops","FAO aggregates","no","no",2017,1518374017.9,804733529.5,713640488.4,NA
+NA,"World","Emissions from crops","FAO aggregates","no","no",2018,1509507401,794612199,714895202,NA
+NA,"World","Emissions from crops","FAO aggregates","no","no",2019,1493883180,793684646,700198534,NA
+NA,"World","Emissions from crops","FAO aggregates","no","no",2020,1549787899.2,831882700,717905199.2,NA
+NA,"World","Emissions from crops","FAO aggregates","no","no",2021,1548969118.6,827633743,721335375.6,NA
+NA,"World","Emissions from crops","FAO aggregates","no","no",2022,1512035966.7,799175737.5,712860229.1999999,NA
+NA,"World","Emissions from crops","FAO aggregates","no","no",2030,1558205431.2,861372430,696833001.2,NA
+NA,"World","Emissions from crops","FAO aggregates","no","no",2050,1642520356.9,957523042.5,684997314.4,NA
+NA,"World","Emissions from livestock","FAO aggregates","no","no",1992,3576369583.3,842567208.5,2733802374.7999997,NA
+NA,"World","Emissions from livestock","FAO aggregates","no","no",1993,3562977763.2,841036754,2721941009.2000003,NA
+NA,"World","Emissions from livestock","FAO aggregates","no","no",1994,3595477689.1,851991721.5,2743485967.6,NA
+NA,"World","Emissions from livestock","FAO aggregates","no","no",1995,3609132203.9,858408219.5,2750723984.4,NA
+NA,"World","Emissions from livestock","FAO aggregates","no","no",1996,3614738692.9,863732440.5,2751006252.4,NA
+NA,"World","Emissions from livestock","FAO aggregates","no","no",1997,3551697948.7999997,849592862,2702105086.8,NA
+NA,"World","Emissions from livestock","FAO aggregates","no","no",1998,3558288634.9,851228998.5,2707059636.4,NA
+NA,"World","Emissions from livestock","FAO aggregates","no","no",1999,3573315481.6,858930614,2714384867.6,NA
+NA,"World","Emissions from livestock","FAO aggregates","no","no",2000,3592873562.7000003,867228797.5,2725644765.2,NA
+NA,"World","Emissions from livestock","FAO aggregates","no","no",2001,3596324393.4,869353859,2726970534.3999996,NA
+NA,"World","Emissions from livestock","FAO aggregates","no","no",2002,3633130254.2,880794545,2752335709.2,NA
+NA,"World","Emissions from livestock","FAO aggregates","no","no",2003,3674345376.9,890178486.5,2784166890.4,NA
+NA,"World","Emissions from livestock","FAO aggregates","no","no",2004,3717652263.1,902297519.5,2815354743.6000004,NA
+NA,"World","Emissions from livestock","FAO aggregates","no","no",2005,3759762215.2,915226048,2844536167.2,NA
+NA,"World","Emissions from livestock","FAO aggregates","no","no",2006,3795043428.2,924117275,2870926153.2000003,NA
+NA,"World","Emissions from livestock","FAO aggregates","no","no",2007,3830591833.5,935022793.5,2895569040,NA
+NA,"World","Emissions from livestock","FAO aggregates","no","no",2008,3862468114.8,945532720,2916935394.7999997,NA
+NA,"World","Emissions from livestock","FAO aggregates","no","no",2009,3876016317.6000004,951738172,2924278145.6,NA
+NA,"World","Emissions from livestock","FAO aggregates","no","no",2010,3877075449.3999996,954765267,2922310182.3999996,NA
+NA,"World","Emissions from livestock","FAO aggregates","no","no",2011,3892402966.7000003,958798911.5,2933604055.2,NA
+NA,"World","Emissions from livestock","FAO aggregates","no","no",2012,3928142076.4,970741216,2957400860.4,NA
+NA,"World","Emissions from livestock","FAO aggregates","no","no",2013,3947002652.7,977653979.5,2969348673.2000003,NA
+NA,"World","Emissions from livestock","FAO aggregates","no","no",2014,3974854986.5,985545838.5,2989309148,NA
+NA,"World","Emissions from livestock","FAO aggregates","no","no",2015,4011148612.4,997562714,3013585898.3999996,NA
+NA,"World","Emissions from livestock","FAO aggregates","no","no",2016,4057527578.1,1011002692.5,3046524885.6000004,NA
+NA,"World","Emissions from livestock","FAO aggregates","no","no",2017,4084334832.7000003,1022913647.5,3061421185.2000003,NA
+NA,"World","Emissions from livestock","FAO aggregates","no","no",2018,4092797116.8,1027512696,3065284420.8,NA
+NA,"World","Emissions from livestock","FAO aggregates","no","no",2019,4122279203.4,1036937103,3085342100.4,NA
+NA,"World","Emissions from livestock","FAO aggregates","no","no",2020,4175703143,1052803713,3122899430,NA
+NA,"World","Emissions from livestock","FAO aggregates","no","no",2021,4212360700.2999997,1062942957.5,3149417742.8,NA
+NA,"World","Emissions from livestock","FAO aggregates","no","no",2022,4259877757.7,1076125594.5,3183752163.2,NA
+NA,"World","Emissions from livestock","FAO aggregates","no","no",2030,4425555106.8,1114556504,3310998602.8,NA
+NA,"World","Emissions from livestock","FAO aggregates","no","no",2050,4943284786.5,1272654046.5,3670630740,NA
+NA,"World","Agriculture","IPCC aggregates","yes","no",1992,5123315612.200001,1600799863,3522515749.2,NA
+NA,"World","Agriculture","IPCC aggregates","yes","no",1993,5091786133.5,1587111897.5,3504674236,NA
+NA,"World","Agriculture","IPCC aggregates","yes","no",1994,5136362991.8,1603607273,3532755718.7999997,NA
+NA,"World","Agriculture","IPCC aggregates","yes","no",1995,5188540038.4,1637251408,3551288630.4,NA
+NA,"World","Agriculture","IPCC aggregates","yes","no",1996,5216276061.700001,1666963234.5,3549312827.2000003,NA
+NA,"World","Agriculture","IPCC aggregates","yes","no",1997,5142017639.1,1642381675.5,3499635963.6,NA
+NA,"World","Agriculture","IPCC aggregates","yes","no",1998,5196216661.7,1671578792.5,3524637869.2000003,NA
+NA,"World","Agriculture","IPCC aggregates","yes","no",1999,5253997746.7,1694074907.5,3559922839.2,NA
+NA,"World","Agriculture","IPCC aggregates","yes","no",2000,5251075009.700001,1686849046.5,3564225963.2000003,NA
+NA,"World","Agriculture","IPCC aggregates","yes","no",2001,5255673249.200001,1697710522,3557962727.2000003,NA
+NA,"World","Agriculture","IPCC aggregates","yes","no",2002,5314201780.7,1731784301.5,3582417479.2,NA
+NA,"World","Agriculture","IPCC aggregates","yes","no",2003,5310520937,1729446657,3581074280,NA
+NA,"World","Agriculture","IPCC aggregates","yes","no",2004,5419120131.099999,1778372679.5,3640747451.6,NA
+NA,"World","Agriculture","IPCC aggregates","yes","no",2005,5458908338.5,1785368944.5,3673539394,NA
+NA,"World","Agriculture","IPCC aggregates","yes","no",2006,5519707244.099999,1813828460.5,3705878783.6000004,NA
+NA,"World","Agriculture","IPCC aggregates","yes","no",2007,5597137452.2,1855601391,3741536061.2,NA
+NA,"World","Agriculture","IPCC aggregates","yes","no",2008,5606615531.3,1848187512.5,3758428018.8,NA
+NA,"World","Agriculture","IPCC aggregates","yes","no",2009,5604125187.8,1855823355,3748301832.8,NA
+NA,"World","Agriculture","IPCC aggregates","yes","no",2010,5661779311.9,1891506797.5,3770272514.4,NA
+NA,"World","Agriculture","IPCC aggregates","yes","no",2011,5791473871.6,1961619782,3829854089.6,NA
+NA,"World","Agriculture","IPCC aggregates","yes","no",2012,5813948103.299999,1967499522.5,3846448580.8,NA
+NA,"World","Agriculture","IPCC aggregates","yes","no",2013,5755782239.799999,1946844601,3808937638.7999997,NA
+NA,"World","Agriculture","IPCC aggregates","yes","no",2014,5808449360.3,1973720291.5,3834729068.8,NA
+NA,"World","Agriculture","IPCC aggregates","yes","no",2015,5829836030.1,1980490034.5,3849345995.6,NA
+NA,"World","Agriculture","IPCC aggregates","yes","no",2016,5869461107.8,1993453543,3876007564.7999997,NA
+NA,"World","Agriculture","IPCC aggregates","yes","no",2017,5952042210.2,2038717875,3913324335.2000003,NA
+NA,"World","Agriculture","IPCC aggregates","yes","no",2018,5931475905.3,2024079248.5,3907396656.8,NA
+NA,"World","Agriculture","IPCC aggregates","yes","no",2019,5921635029.5,2021677023.5,3899958006,NA
+NA,"World","Agriculture","IPCC aggregates","yes","no",2020,6029355739.900001,2075094133.5,3954261606.4,NA
+NA,"World","Agriculture","IPCC aggregates","yes","no",2021,6075035290.6,2085545389,3989489901.6,NA
+NA,"World","Agriculture","IPCC aggregates","yes","no",2022,6078003500.7,2066759035.5,4011244465.2,NA
+NA,"World","Agriculture","IPCC aggregates","yes","no",2030,NA,NA,NA,NA
+NA,"World","Agriculture","IPCC aggregates","yes","no",2050,NA,NA,NA,NA
+NA,"World","Agricultural Soils","IPCC aggregates","no","no",1992,1353535968.5,1353535968.5,NA,NA
+NA,"World","Agricultural Soils","IPCC aggregates","no","no",1993,1340307433.5,1340307433.5,NA,NA
+NA,"World","Agricultural Soils","IPCC aggregates","no","no",1994,1355637339,1355637339,NA,NA
+NA,"World","Agricultural Soils","IPCC aggregates","no","no",1995,1388523123.5,1388523123.5,NA,NA
+NA,"World","Agricultural Soils","IPCC aggregates","no","no",1996,1425912106,1425912106,NA,NA
+NA,"World","Agricultural Soils","IPCC aggregates","no","no",1997,1412586952,1412586952,NA,NA
+NA,"World","Agricultural Soils","IPCC aggregates","no","no",1998,1420949848.5,1420949848.5,NA,NA
+NA,"World","Agricultural Soils","IPCC aggregates","no","no",1999,1440954460,1440954460,NA,NA
+NA,"World","Agricultural Soils","IPCC aggregates","no","no",2000,1426553141,1426553141,NA,NA
+NA,"World","Agricultural Soils","IPCC aggregates","no","no",2001,1438177578,1438177578,NA,NA
+NA,"World","Agricultural Soils","IPCC aggregates","no","no",2002,1460879677.5,1460879677.5,NA,NA
+NA,"World","Agricultural Soils","IPCC aggregates","no","no",2003,1487207984,1487207984,NA,NA
+NA,"World","Agricultural Soils","IPCC aggregates","no","no",2004,1523735928.5,1523735928.5,NA,NA
+NA,"World","Agricultural Soils","IPCC aggregates","no","no",2005,1540206844.5,1540206844.5,NA,NA
+NA,"World","Agricultural Soils","IPCC aggregates","no","no",2006,1564085252.5,1564085252.5,NA,NA
+NA,"World","Agricultural Soils","IPCC aggregates","no","no",2007,1596628286,1596628286,NA,NA
+NA,"World","Agricultural Soils","IPCC aggregates","no","no",2008,1606721420.5,1606721420.5,NA,NA
+NA,"World","Agricultural Soils","IPCC aggregates","no","no",2009,1624579611.5,1624579611.5,NA,NA
+NA,"World","Agricultural Soils","IPCC aggregates","no","no",2010,1650963488.5,1650963488.5,NA,NA
+NA,"World","Agricultural Soils","IPCC aggregates","no","no",2011,1683079209.5,1683079209.5,NA,NA
+NA,"World","Agricultural Soils","IPCC aggregates","no","no",2012,1692906920,1692906920,NA,NA
+NA,"World","Agricultural Soils","IPCC aggregates","no","no",2013,1721554745,1721554745,NA,NA
+NA,"World","Agricultural Soils","IPCC aggregates","no","no",2014,1738783349,1738783349,NA,NA
+NA,"World","Agricultural Soils","IPCC aggregates","no","no",2015,1744112128,1744112128,NA,NA
+NA,"World","Agricultural Soils","IPCC aggregates","no","no",2016,1766556700.5,1766556700.5,NA,NA
+NA,"World","Agricultural Soils","IPCC aggregates","no","no",2017,1793779912,1793779912,NA,NA
+NA,"World","Agricultural Soils","IPCC aggregates","no","no",2018,1789939293.5,1789939293.5,NA,NA
+NA,"World","Agricultural Soils","IPCC aggregates","no","no",2019,1800709768,1800709768,NA,NA
+NA,"World","Agricultural Soils","IPCC aggregates","no","no",2020,1852451998.5,1852451998.5,NA,NA
+NA,"World","Agricultural Soils","IPCC aggregates","no","no",2021,1856753001.5,1856753001.5,NA,NA
+NA,"World","Agricultural Soils","IPCC aggregates","no","no",2022,1841095211.5,1841095211.5,NA,NA
+NA,"World","Agricultural Soils","IPCC aggregates","no","no",2030,NA,NA,NA,NA
+NA,"World","Agricultural Soils","IPCC aggregates","no","no",2050,NA,NA,NA,NA
+NA,"World","LULUCF","IPCC aggregates","yes","no",1992,2033915902,85291124.5,185081184.4,NA
+NA,"World","LULUCF","IPCC aggregates","yes","no",1993,2034349504.5,85291098,185081184.4,NA
+NA,"World","LULUCF","IPCC aggregates","yes","no",1994,2034016466.8,85291098,185081184.4,NA
+NA,"World","LULUCF","IPCC aggregates","yes","no",1995,2039624050,85291098,185081184.4,NA
+NA,"World","LULUCF","IPCC aggregates","yes","no",1996,1838414288.2,44379179,157877888,NA
+NA,"World","LULUCF","IPCC aggregates","yes","no",1997,2837769912.3,58685283.5,453084917.59999996,NA
+NA,"World","LULUCF","IPCC aggregates","yes","no",1998,2149914046.3,73830192.5,306071799.6,NA
+NA,"World","LULUCF","IPCC aggregates","yes","no",1999,1951647577.7,57628410.5,220340307.6,NA
+NA,"World","LULUCF","IPCC aggregates","yes","no",2000,1796244861.1999998,39135014.5,135573090.8,NA
+NA,"World","LULUCF","IPCC aggregates","yes","no",2001,1487781753.8,61613798.5,81730997.60000001,NA
+NA,"World","LULUCF","IPCC aggregates","yes","no",2002,2017549803.7,73167586.5,224240038.39999998,NA
+NA,"World","LULUCF","IPCC aggregates","yes","no",2003,1704629994.9,98368503.5,158653672.8,NA
+NA,"World","LULUCF","IPCC aggregates","yes","no",2004,2082948646.5,105635731,259496241.2,NA
+NA,"World","LULUCF","IPCC aggregates","yes","no",2005,1796078906.7,102285283,182570186.4,NA
+NA,"World","LULUCF","IPCC aggregates","yes","no",2006,2166971209.6000004,90626873,269462964.4,NA
+NA,"World","LULUCF","IPCC aggregates","yes","no",2007,1627803765.2,107411337,139561679.6,NA
+NA,"World","LULUCF","IPCC aggregates","yes","no",2008,1571482006.8000002,89465669.5,113235620.4,NA
+NA,"World","LULUCF","IPCC aggregates","yes","no",2009,1974110744.3,87066783.5,214411170.4,NA
+NA,"World","LULUCF","IPCC aggregates","yes","no",2010,1650541207.9,119354860.5,149348875.20000002,NA
+NA,"World","LULUCF","IPCC aggregates","yes","no",2011,564808877.6,93706862,164463177.20000002,NA
+NA,"World","LULUCF","IPCC aggregates","yes","no",2012,597318144.6,103423405,177707989.20000002,NA
+NA,"World","LULUCF","IPCC aggregates","yes","no",2013,544281229,87899360.5,154391241.2,NA
+NA,"World","LULUCF","IPCC aggregates","yes","no",2014,901085876.9,89527997.5,246144211.60000002,NA
+NA,"World","LULUCF","IPCC aggregates","yes","no",2015,936250537.6,95719828.5,258962482.8,NA
+NA,"World","LULUCF","IPCC aggregates","yes","no",2016,1406173697.1,94659060,128616460,NA
+NA,"World","LULUCF","IPCC aggregates","yes","no",2017,1360261854,95358686.5,116936853.60000001,NA
+NA,"World","LULUCF","IPCC aggregates","yes","no",2018,1528027411,81468976.5,150682392,NA
+NA,"World","LULUCF","IPCC aggregates","yes","no",2019,1809331217.2,103268353.5,235408527.20000002,NA
+NA,"World","LULUCF","IPCC aggregates","yes","no",2020,1398103068,98601067.5,126328930,NA
+NA,"World","LULUCF","IPCC aggregates","yes","no",2021,1345086472.4,86341743.5,105177744,NA
+NA,"World","LULUCF","IPCC aggregates","yes","no",2022,1298976093.9,70213472.5,83660172.39999999,NA
+NA,"World","LULUCF","IPCC aggregates","yes","no",2030,NA,NA,NA,NA
+NA,"World","LULUCF","IPCC aggregates","yes","no",2050,NA,NA,NA,NA
+NA,"World","AFOLU","IPCC aggregates","no","no",1992,7157231514.2,1686090987.5,3707596933.6,NA
+NA,"World","AFOLU","IPCC aggregates","no","no",1993,7126135638,1672402995.5,3689755420.4,NA
+NA,"World","AFOLU","IPCC aggregates","no","no",1994,7170379458.599999,1688898371,3717836903.2000003,NA
+NA,"World","AFOLU","IPCC aggregates","no","no",1995,7228164088.4,1722542506,3736369814.7999997,NA
+NA,"World","AFOLU","IPCC aggregates","no","no",1996,7054690349.9,1711342413.5,3707190715.2,NA
+NA,"World","AFOLU","IPCC aggregates","no","no",1997,7979787551.400001,1701066959,3952720881.2000003,NA
+NA,"World","AFOLU","IPCC aggregates","no","no",1998,7346130708,1745408985,3830709668.8,NA
+NA,"World","AFOLU","IPCC aggregates","no","no",1999,7205645324.400001,1751703318,3780263146.8,NA
+NA,"World","AFOLU","IPCC aggregates","no","no",2000,7047319870.900001,1725984061,3699799054,NA
+NA,"World","AFOLU","IPCC aggregates","no","no",2001,6743455003,1759324320.5,3639693724.8,NA
+NA,"World","AFOLU","IPCC aggregates","no","no",2002,7331751584.4,1804951888,3806657517.6,NA
+NA,"World","AFOLU","IPCC aggregates","no","no",2003,7015150931.900001,1827815160.5,3739727952.8,NA
+NA,"World","AFOLU","IPCC aggregates","no","no",2004,7502068777.599999,1884008410.5,3900243692.7999997,NA
+NA,"World","AFOLU","IPCC aggregates","no","no",2005,7254987245.2,1887654227.5,3856109580.4,NA
+NA,"World","AFOLU","IPCC aggregates","no","no",2006,7686678453.700001,1904455333.5,3975341748,NA
+NA,"World","AFOLU","IPCC aggregates","no","no",2007,7224941217.400001,1963012728,3881097740.7999997,NA
+NA,"World","AFOLU","IPCC aggregates","no","no",2008,7178097538.099999,1937653182,3871663639.2000003,NA
+NA,"World","AFOLU","IPCC aggregates","no","no",2009,7578235932.099999,1942890138.5,3962713003.2000003,NA
+NA,"World","AFOLU","IPCC aggregates","no","no",2010,7312320519.8,2010861658,3919621389.6,NA
+NA,"World","AFOLU","IPCC aggregates","no","no",2011,6356282749.200001,2055326644,3994317266.7999997,NA
+NA,"World","AFOLU","IPCC aggregates","no","no",2012,6411266247.9,2070922927.5,4024156570,NA
+NA,"World","AFOLU","IPCC aggregates","no","no",2013,6300063468.8,2034743961.5,3963328880,NA
+NA,"World","AFOLU","IPCC aggregates","no","no",2014,6709535237.200001,2063248289,4080873280.4,NA
+NA,"World","AFOLU","IPCC aggregates","no","no",2015,6766086567.7,2076209863,4108308478.4,NA
+NA,"World","AFOLU","IPCC aggregates","no","no",2016,7275634804.9,2088112603,4004624024.7999997,NA
+NA,"World","AFOLU","IPCC aggregates","no","no",2017,7312304064.2,2134076561.4999998,4030261188.8,NA
+NA,"World","AFOLU","IPCC aggregates","no","no",2018,7459503316.3,2105548225,4058079048.8,NA
+NA,"World","AFOLU","IPCC aggregates","no","no",2019,7730966246.7,2124945376.9999998,4135366533.2,NA
+NA,"World","AFOLU","IPCC aggregates","no","no",2020,7427458807.900001,2173695201,4080590536.4,NA
+NA,"World","AFOLU","IPCC aggregates","no","no",2021,7420121763,2171887132.5,4094667645.6,NA
+NA,"World","AFOLU","IPCC aggregates","no","no",2022,7376979594.6,2136972508,4094904637.6,NA
+NA,"World","AFOLU","IPCC aggregates","no","no",2030,NA,NA,NA,NA
+NA,"World","AFOLU","IPCC aggregates","no","no",2050,NA,NA,NA,NA

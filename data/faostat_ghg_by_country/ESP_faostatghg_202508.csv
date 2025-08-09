@@ -1,0 +1,958 @@
+﻿"ISO3","Area","Item","Group","sector","agrifood","Year","tCO2eq_total","tCO2eq_N2O","tCO2eq_CH4","tCO2eq_Fgases"
+"ESP","Spain","Energy","Not agri-food","yes","no",1992,230201830.5,1733722.2999999998,5319008.2,NA
+"ESP","Spain","Energy","Not agri-food","yes","no",1993,216554894.20000002,1712717.3,4946956.8,NA
+"ESP","Spain","Energy","Not agri-food","yes","no",1994,228984001.1,1790901.7,4787459.300000001,NA
+"ESP","Spain","Energy","Not agri-food","yes","no",1995,236090968.3,1871056,4459292.3,NA
+"ESP","Spain","Energy","Not agri-food","yes","no",1996,228585094.1,1840591.7999999998,4391742.3,NA
+"ESP","Spain","Energy","Not agri-food","yes","no",1997,246585218.6,1884588.7,4426399.9,NA
+"ESP","Spain","Energy","Not agri-food","yes","no",1998,253513612.7,1882978.4,4232564.3,NA
+"ESP","Spain","Energy","Not agri-food","yes","no",1999,272718666,1999902.9000000001,4036373,NA
+"ESP","Spain","Energy","Not agri-food","yes","no",2000,283803767,2132690.6,3905056.4,NA
+"ESP","Spain","Energy","Not agri-food","yes","no",2001,284671427.6,2090943.0000000002,3850304.6,NA
+"ESP","Spain","Energy","Not agri-food","yes","no",2002,300559669.6,2134521.5,3727748.0999999996,NA
+"ESP","Spain","Energy","Not agri-food","yes","no",2003,306996744.3,2238413.9,3558290.4,NA
+"ESP","Spain","Energy","Not agri-food","yes","no",2004,324181018.3,2394674,3432684.4,NA
+"ESP","Spain","Energy","Not agri-food","yes","no",2005,335555062.7,2430157.2,3389565.5,NA
+"ESP","Spain","Energy","Not agri-food","yes","no",2006,329390194.4,2310790.9,3294643.5,NA
+"ESP","Spain","Energy","Not agri-food","yes","no",2007,337811907.7,2452141.4,3210016.3,NA
+"ESP","Spain","Energy","Not agri-food","yes","no",2008,314301104.9,2218350.8000000003,3038794.1,NA
+"ESP","Spain","Energy","Not agri-food","yes","no",2009,278818671.3,2070029.5999999999,3131171.6999999997,NA
+"ESP","Spain","Energy","Not agri-food","yes","no",2010,263024945.10000002,1998395.2999999998,2990269.8,NA
+"ESP","Spain","Energy","Not agri-food","yes","no",2011,265310145.7,1958812.3,2803163.4,NA
+"ESP","Spain","Energy","Not agri-food","yes","no",2012,262474883.09999996,1963927.4000000001,2719525.7,NA
+"ESP","Spain","Energy","Not agri-food","yes","no",2013,234620758.5,1778005,2614733.5,NA
+"ESP","Spain","Energy","Not agri-food","yes","no",2014,231557927,1748628,2637219,NA
+"ESP","Spain","Energy","Not agri-food","yes","no",2015,247738749.9,1857907.0999999999,2456862.8,NA
+"ESP","Spain","Energy","Not agri-food","yes","no",2016,241287350.10000002,1856450.7000000002,2111779.5,NA
+"ESP","Spain","Energy","Not agri-food","yes","no",2017,263933607.39999998,1935292.9,2255264.6,NA
+"ESP","Spain","Energy","Not agri-food","yes","no",2018,257586729.9,1934726.1,2261553.8000000003,NA
+"ESP","Spain","Energy","Not agri-food","yes","no",2019,238734530.1,1883211.7,2262308.4,NA
+"ESP","Spain","Energy","Not agri-food","yes","no",2020,198957220.8,1728647.3,2249453.5,NA
+"ESP","Spain","Energy","Not agri-food","yes","no",2021,217465219,1872509.6,2305269.4,NA
+"ESP","Spain","Energy","Not agri-food","yes","no",2022,233580403.3,2058585.3000000003,2379248,NA
+"ESP","Spain","Energy","Not agri-food","yes","no",2030,NA,NA,NA,NA
+"ESP","Spain","Energy","Not agri-food","yes","no",2050,NA,NA,NA,NA
+"ESP","Spain","IPPU","Not agri-food","yes","no",1992,25422841.9,2426245.6,29989,5772538.3
+"ESP","Spain","IPPU","Not agri-food","yes","no",1993,24101924.7,2157864.0999999996,30421.199999999997,5790499.300000001
+"ESP","Spain","IPPU","Not agri-food","yes","no",1994,25566478.200000003,2445739.5,36455.7,4402249
+"ESP","Spain","IPPU","Not agri-food","yes","no",1995,26682681.2,2651376.9000000004,38157,4078593.3
+"ESP","Spain","IPPU","Not agri-food","yes","no",1996,26796614.3,2722500,32586.9,4731030.300000001
+"ESP","Spain","IPPU","Not agri-food","yes","no",1997,28373797.4,2702268.6,35142.5,5221583.3
+"ESP","Spain","IPPU","Not agri-food","yes","no",1998,30391193,2550042.7,37876.1,6110854.2
+"ESP","Spain","IPPU","Not agri-food","yes","no",1999,32106258.3,2727443.6,35793.6,7055405.1
+"ESP","Spain","IPPU","Not agri-food","yes","no",2000,33316696.000000004,2712739,36097.700000000004,7734037.2
+"ESP","Spain","IPPU","Not agri-food","yes","no",2001,34062292.4,2533168.4,36531.9,8262508
+"ESP","Spain","IPPU","Not agri-food","yes","no",2002,35638889.8,2246526.6,35238.3,9856470.9
+"ESP","Spain","IPPU","Not agri-food","yes","no",2003,36726725.400000006,2097396.5,34414,10260341
+"ESP","Spain","IPPU","Not agri-food","yes","no",2004,39515695.099999994,1960188.9000000001,38088.1,12642408
+"ESP","Spain","IPPU","Not agri-food","yes","no",2005,41397598.1,2003803.5999999999,40106.5,13445886
+"ESP","Spain","IPPU","Not agri-food","yes","no",2006,42705923.6,1738109,37335.6,15482114
+"ESP","Spain","IPPU","Not agri-food","yes","no",2007,45382973.1,1583190.7000000002,40561.4,17897257
+"ESP","Spain","IPPU","Not agri-food","yes","no",2008,42880917.9,1511980.2,45301.7,17925198
+"ESP","Spain","IPPU","Not agri-food","yes","no",2009,36449838.8,1538459.1,36701.700000000004,16041798
+"ESP","Spain","IPPU","Not agri-food","yes","no",2010,37227181.5,1517517.2,39626.3,16253355
+"ESP","Spain","IPPU","Not agri-food","yes","no",2011,34746929,1491914.5,38898.5,15943494
+"ESP","Spain","IPPU","Not agri-food","yes","no",2012,34516968,1545831,39395,15952859
+"ESP","Spain","IPPU","Not agri-food","yes","no",2013,31762577.9,1511130.4,37966.5,15528960
+"ESP","Spain","IPPU","Not agri-food","yes","no",2014,33238617.400000002,1519261.7,40487.7,15502124
+"ESP","Spain","IPPU","Not agri-food","yes","no",2015,27247971.8,1555157,40506.100000000006,9142651.700000001
+"ESP","Spain","IPPU","Not agri-food","yes","no",2016,27276640.200000003,1525762.9,39911.9,9084911.299999999
+"ESP","Spain","IPPU","Not agri-food","yes","no",2017,25723302.3,1510961.6,42991.6,7251430.1
+"ESP","Spain","IPPU","Not agri-food","yes","no",2018,24215298.4,1514065.9000000001,42292.1,5429664.399999999
+"ESP","Spain","IPPU","Not agri-food","yes","no",2019,22839772.700000003,1506203.8,39824.9,5227678
+"ESP","Spain","IPPU","Not agri-food","yes","no",2020,20338956.8,1451477.1,35147.3,4237804.4
+"ESP","Spain","IPPU","Not agri-food","yes","no",2021,20516455.5,1513050.9,38752.1,3742676.5
+"ESP","Spain","IPPU","Not agri-food","yes","no",2022,19490943.5,1489978.9000000001,36963.4,3790881.3
+"ESP","Spain","IPPU","Not agri-food","yes","no",2030,NA,NA,NA,NA
+"ESP","Spain","IPPU","Not agri-food","yes","no",2050,NA,NA,NA,NA
+"ESP","Spain","Waste","Not agri-food","yes","no",1992,15943129,1115211.4,12452773.5,NA
+"ESP","Spain","Waste","Not agri-food","yes","no",1993,15904111.1,1076769.6,12739895.8,NA
+"ESP","Spain","Waste","Not agri-food","yes","no",1994,16224640.7,1063418.5,13279756.799999999,NA
+"ESP","Spain","Waste","Not agri-food","yes","no",1995,16184251.399999999,1014335.9,13721935.100000001,NA
+"ESP","Spain","Waste","Not agri-food","yes","no",1996,18083811.900000002,1229026.1,14149692.8,NA
+"ESP","Spain","Waste","Not agri-food","yes","no",1997,19206239.8,1326419.2,14715353.8,NA
+"ESP","Spain","Waste","Not agri-food","yes","no",1998,18851333.8,1247223.3,15045980.600000001,NA
+"ESP","Spain","Waste","Not agri-food","yes","no",1999,18986744.8,1236160.1,15330276.6,NA
+"ESP","Spain","Waste","Not agri-food","yes","no",2000,19958515.9,1360241.8,15665118.6,NA
+"ESP","Spain","Waste","Not agri-food","yes","no",2001,21137193.3,1454147.0999999999,16281986.8,NA
+"ESP","Spain","Waste","Not agri-food","yes","no",2002,20890285.599999998,1410451,16724270.4,NA
+"ESP","Spain","Waste","Not agri-food","yes","no",2003,22179249.400000002,1582723.9,16818202,NA
+"ESP","Spain","Waste","Not agri-food","yes","no",2004,21304202.9,1500448.4,16848854.1,NA
+"ESP","Spain","Waste","Not agri-food","yes","no",2005,21455102.5,1460252.8,17417141.599999998,NA
+"ESP","Spain","Waste","Not agri-food","yes","no",2006,22665711.200000003,1583489,17897954.2,NA
+"ESP","Spain","Waste","Not agri-food","yes","no",2007,23216941.7,1612828.5,18423628.400000002,NA
+"ESP","Spain","Waste","Not agri-food","yes","no",2008,23520063.2,1616563,18926351.6,NA
+"ESP","Spain","Waste","Not agri-food","yes","no",2009,25976109.799999997,1684023.6,20907076.400000002,NA
+"ESP","Spain","Waste","Not agri-food","yes","no",2010,25301068.3,1711405.9,20088155.900000002,NA
+"ESP","Spain","Waste","Not agri-food","yes","no",2011,25558290.3,1706845,20197167.8,NA
+"ESP","Spain","Waste","Not agri-food","yes","no",2012,23235302.400000002,1501987.8,19334265.200000003,NA
+"ESP","Spain","Waste","Not agri-food","yes","no",2013,23724383.5,1739032.3,17767279.299999997,NA
+"ESP","Spain","Waste","Not agri-food","yes","no",2014,22102004.700000003,1495733.5,17856462.7,NA
+"ESP","Spain","Waste","Not agri-food","yes","no",2015,23414321.1,1629393.5,18262251,NA
+"ESP","Spain","Waste","Not agri-food","yes","no",2016,23196878.5,1623198.5,18103863.4,NA
+"ESP","Spain","Waste","Not agri-food","yes","no",2017,22541945.5,1606980.8,17652550.200000003,NA
+"ESP","Spain","Waste","Not agri-food","yes","no",2018,23108518.599999998,1578749,18279144.799999997,NA
+"ESP","Spain","Waste","Not agri-food","yes","no",2019,22431028.6,1558729.8,17653463.8,NA
+"ESP","Spain","Waste","Not agri-food","yes","no",2020,22525799,1559066.5,17747897.400000002,NA
+"ESP","Spain","Waste","Not agri-food","yes","no",2021,22446975.299999997,1545001.0999999999,17743907.4,NA
+"ESP","Spain","Waste","Not agri-food","yes","no",2022,22213300.9,1531642.9000000001,17583212.4,NA
+"ESP","Spain","Waste","Not agri-food","yes","no",2030,NA,NA,NA,NA
+"ESP","Spain","Waste","Not agri-food","yes","no",2050,NA,NA,NA,NA
+"ESP","Spain","Agrifood systems","FAO aggregates","no","no",1992,85910316.7,14017397.1,40276507.1,3082449.4
+"ESP","Spain","Agrifood systems","FAO aggregates","no","no",1993,83940690.8,14792583.3,39854091.800000004,1762052.3
+"ESP","Spain","Agrifood systems","FAO aggregates","no","no",1994,86007322.9,14961102.1,40121077.4,1774981.2999999998
+"ESP","Spain","Agrifood systems","FAO aggregates","no","no",1995,86429227.19999999,14529656.1,40705564.6,131454.3
+"ESP","Spain","Agrifood systems","FAO aggregates","no","no",1996,87023479.8,16301485.3,41104113.1,346060
+"ESP","Spain","Agrifood systems","FAO aggregates","no","no",1997,92181314.4,15969588.2,44533984.1,732389
+"ESP","Spain","Agrifood systems","FAO aggregates","no","no",1998,96654492.6,17143707.299999997,47225904.5,1298806.4
+"ESP","Spain","Agrifood systems","FAO aggregates","no","no",1999,100624525.1,16953689,46795906,1930448
+"ESP","Spain","Agrifood systems","FAO aggregates","no","no",2000,105386163.8,17172849.6,47603552.1,2743723.8000000003
+"ESP","Spain","Agrifood systems","FAO aggregates","no","no",2001,106275539.1,16879539.400000002,48314012.8,3575013
+"ESP","Spain","Agrifood systems","FAO aggregates","no","no",2002,110886918.9,16798041.3,48793343.699999996,4345758.7
+"ESP","Spain","Agrifood systems","FAO aggregates","no","no",2003,116285004.8,17844550.1,50583283.7,5196372.6
+"ESP","Spain","Agrifood systems","FAO aggregates","no","no",2004,117236015.5,17426070.9,49717125.800000004,6081937.399999999
+"ESP","Spain","Agrifood systems","FAO aggregates","no","no",2005,108845647.80000001,15937638.2,41356694,7160337.5
+"ESP","Spain","Agrifood systems","FAO aggregates","no","no",2006,106903238.80000001,16246355.799999999,41114185.7,8989558.6
+"ESP","Spain","Agrifood systems","FAO aggregates","no","no",2007,111267174.4,16819828.5,42073443.6,10677551.600000001
+"ESP","Spain","Agrifood systems","FAO aggregates","no","no",2008,102917408.80000001,14877644.3,38429832.6,11515702
+"ESP","Spain","Agrifood systems","FAO aggregates","no","no",2009,98977797,14769286.6,38860194.300000004,10613717.3
+"ESP","Spain","Agrifood systems","FAO aggregates","no","no",2010,97107747,15577379.7,38381720.800000004,10676471.4
+"ESP","Spain","Agrifood systems","FAO aggregates","no","no",2011,97286628.2,14881377.399999999,37703744.7,10720276.9
+"ESP","Spain","Agrifood systems","FAO aggregates","no","no",2012,97686312.9,14568134.1,37216568.7,10887002.6
+"ESP","Spain","Agrifood systems","FAO aggregates","no","no",2013,96528820.2,15552504.7,37136284.699999996,11002451.5
+"ESP","Spain","Agrifood systems","FAO aggregates","no","no",2014,97890355,16198915.8,37717307,10964226.1
+"ESP","Spain","Agrifood systems","FAO aggregates","no","no",2015,95433352.8,16415730,38439128.900000006,5340164.899999999
+"ESP","Spain","Agrifood systems","FAO aggregates","no","no",2016,94921329.7,16237019.1,38486669.300000004,5182864.4
+"ESP","Spain","Agrifood systems","FAO aggregates","no","no",2017,96138951,16532190.4,38828598.2,3570867
+"ESP","Spain","Agrifood systems","FAO aggregates","no","no",2018,94154017.2,16789403.099999998,39115981.5,2190839.1999999997
+"ESP","Spain","Agrifood systems","FAO aggregates","no","no",2019,92592697.6,16462267.500000002,39298567.5,2127813.2
+"ESP","Spain","Agrifood systems","FAO aggregates","no","no",2020,90992219.2,17264339.8,39772438.5,1375093.8
+"ESP","Spain","Agrifood systems","FAO aggregates","no","no",2021,92892788.3,17087133.5,39736719.7,1037833.0000000001
+"ESP","Spain","Agrifood systems","FAO aggregates","no","no",2022,90125292.5,15115162.5,38941194.900000006,1037833.0000000001
+"ESP","Spain","Agrifood systems","FAO aggregates","no","no",2030,NA,NA,NA,NA
+"ESP","Spain","Agrifood systems","FAO aggregates","no","no",2050,NA,NA,NA,NA
+"ESP","Spain","Farm gate","Agrifood systems","no","yes",1992,45330280,13271995,24715177.2,NA
+"ESP","Spain","Farm gate","Agrifood systems","no","yes",1993,45327952.1,14049531.5,24098144,NA
+"ESP","Spain","Farm gate","Agrifood systems","no","yes",1994,46054568.2,14197083.5,24199834.4,NA
+"ESP","Spain","Farm gate","Agrifood systems","no","yes",1995,46646937.599999994,13759992.5,24478008.8,NA
+"ESP","Spain","Farm gate","Agrifood systems","no","yes",1996,48352352.9,15509390,25036250.400000002,NA
+"ESP","Spain","Farm gate","Agrifood systems","no","yes",1997,49243170.2,15164015.5,26461769.6,NA
+"ESP","Spain","Farm gate","Agrifood systems","no","yes",1998,50277727.2,16291882,26847805.6,NA
+"ESP","Spain","Farm gate","Agrifood systems","no","yes",1999,51754104.3,16086931,27225578.8,NA
+"ESP","Spain","Farm gate","Agrifood systems","no","yes",2000,53609908.199999996,16294823.5,27760353.599999998,NA
+"ESP","Spain","Farm gate","Agrifood systems","no","yes",2001,52917052.7,15981964.5,28222955.6,NA
+"ESP","Spain","Farm gate","Agrifood systems","no","yes",2002,53185959.9,15809105,28488779.2,NA
+"ESP","Spain","Farm gate","Agrifood systems","no","yes",2003,55767096.2,16844804.5,28691266.8,NA
+"ESP","Spain","Farm gate","Agrifood systems","no","yes",2004,56652190.300000004,16415689.999999998,28868588,NA
+"ESP","Spain","Farm gate","Agrifood systems","no","yes",2005,54053712,14915419,28356067.599999998,NA
+"ESP","Spain","Farm gate","Agrifood systems","no","yes",2006,52862392.6,15234346.5,27758718.400000002,NA
+"ESP","Spain","Farm gate","Agrifood systems","no","yes",2007,54513718.9,15794132.5,28361048.8,NA
+"ESP","Spain","Farm gate","Agrifood systems","no","yes",2008,49585507.3,13867423.5,26589021.2,NA
+"ESP","Spain","Farm gate","Agrifood systems","no","yes",2009,48677103.7,13757687,27018983.599999998,NA
+"ESP","Spain","Farm gate","Agrifood systems","no","yes",2010,48260887.1,14584354.5,26487095.6,NA
+"ESP","Spain","Farm gate","Agrifood systems","no","yes",2011,47362083.400000006,13884330.5,25752269.2,NA
+"ESP","Spain","Farm gate","Agrifood systems","no","yes",2012,47387676.9,13567364,25249322,NA
+"ESP","Spain","Farm gate","Agrifood systems","no","yes",2013,48317790,14581731,25063315.2,NA
+"ESP","Spain","Farm gate","Agrifood systems","no","yes",2014,49534123.9,15250935.5,25844616,NA
+"ESP","Spain","Farm gate","Agrifood systems","no","yes",2015,50847208,15453422,26819276.4,NA
+"ESP","Spain","Farm gate","Agrifood systems","no","yes",2016,50733383.699999996,15278151,26993520.400000002,NA
+"ESP","Spain","Farm gate","Agrifood systems","no","yes",2017,51693993.5,15557328.5,27342406,NA
+"ESP","Spain","Farm gate","Agrifood systems","no","yes",2018,52007479.6,15809078.5,27588691.200000003,NA
+"ESP","Spain","Farm gate","Agrifood systems","no","yes",2019,51989657.9,15486361.5,27743195.2,NA
+"ESP","Spain","Farm gate","Agrifood systems","no","yes",2020,53578467,16298692.5,28207256,NA
+"ESP","Spain","Farm gate","Agrifood systems","no","yes",2021,53627933.1,16099121,28159174.4,NA
+"ESP","Spain","Farm gate","Agrifood systems","no","yes",2022,50860437.3,14127150,27363649.6,NA
+"ESP","Spain","Farm gate","Agrifood systems","no","yes",2030,NA,NA,NA,NA
+"ESP","Spain","Farm gate","Agrifood systems","no","yes",2050,NA,NA,NA,NA
+"ESP","Spain","Land Use change","Agrifood systems","no","yes",1992,0,0,0,NA
+"ESP","Spain","Land Use change","Agrifood systems","no","yes",1993,0,0,0,NA
+"ESP","Spain","Land Use change","Agrifood systems","no","yes",1994,0,0,0,NA
+"ESP","Spain","Land Use change","Agrifood systems","no","yes",1995,0,0,0,NA
+"ESP","Spain","Land Use change","Agrifood systems","no","yes",1996,0,0,0,NA
+"ESP","Spain","Land Use change","Agrifood systems","no","yes",1997,0,0,0,NA
+"ESP","Spain","Land Use change","Agrifood systems","no","yes",1998,0,0,0,NA
+"ESP","Spain","Land Use change","Agrifood systems","no","yes",1999,0,0,0,NA
+"ESP","Spain","Land Use change","Agrifood systems","no","yes",2000,0,0,0,NA
+"ESP","Spain","Land Use change","Agrifood systems","no","yes",2001,0,0,0,NA
+"ESP","Spain","Land Use change","Agrifood systems","no","yes",2002,0,0,0,NA
+"ESP","Spain","Land Use change","Agrifood systems","no","yes",2003,0,0,0,NA
+"ESP","Spain","Land Use change","Agrifood systems","no","yes",2004,0,0,0,NA
+"ESP","Spain","Land Use change","Agrifood systems","no","yes",2005,0,0,0,NA
+"ESP","Spain","Land Use change","Agrifood systems","no","yes",2006,0,0,0,NA
+"ESP","Spain","Land Use change","Agrifood systems","no","yes",2007,0,0,0,NA
+"ESP","Spain","Land Use change","Agrifood systems","no","yes",2008,0,0,0,NA
+"ESP","Spain","Land Use change","Agrifood systems","no","yes",2009,0,0,0,NA
+"ESP","Spain","Land Use change","Agrifood systems","no","yes",2010,0,0,0,NA
+"ESP","Spain","Land Use change","Agrifood systems","no","yes",2011,464549.10000000003,0,0,NA
+"ESP","Spain","Land Use change","Agrifood systems","no","yes",2012,464549.10000000003,0,0,NA
+"ESP","Spain","Land Use change","Agrifood systems","no","yes",2013,464549.10000000003,0,0,NA
+"ESP","Spain","Land Use change","Agrifood systems","no","yes",2014,464549.10000000003,0,0,NA
+"ESP","Spain","Land Use change","Agrifood systems","no","yes",2015,464549.10000000003,0,0,NA
+"ESP","Spain","Land Use change","Agrifood systems","no","yes",2016,807814.3,0,0,NA
+"ESP","Spain","Land Use change","Agrifood systems","no","yes",2017,807814.3,0,0,NA
+"ESP","Spain","Land Use change","Agrifood systems","no","yes",2018,807814.3,0,0,NA
+"ESP","Spain","Land Use change","Agrifood systems","no","yes",2019,807814.3,0,0,NA
+"ESP","Spain","Land Use change","Agrifood systems","no","yes",2020,807814.3,0,0,NA
+"ESP","Spain","Land Use change","Agrifood systems","no","yes",2021,807814.3,0,0,NA
+"ESP","Spain","Land Use change","Agrifood systems","no","yes",2022,807814.3,0,0,NA
+"ESP","Spain","Land Use change","Agrifood systems","no","yes",2030,NA,NA,NA,NA
+"ESP","Spain","Land Use change","Agrifood systems","no","yes",2050,NA,NA,NA,NA
+"ESP","Spain","Pre- and Post- Production","Agrifood systems","no","yes",1992,40580036.699999996,745402.1,15561329.9,3082449.4
+"ESP","Spain","Pre- and Post- Production","Agrifood systems","no","yes",1993,38612738.7,743051.7999999999,15755947.8,1762052.3
+"ESP","Spain","Pre- and Post- Production","Agrifood systems","no","yes",1994,39952754.699999996,764018.6,15921243,1774981.2999999998
+"ESP","Spain","Pre- and Post- Production","Agrifood systems","no","yes",1995,39782289.599999994,769663.6,16227555.8,131454.3
+"ESP","Spain","Pre- and Post- Production","Agrifood systems","no","yes",1996,38671126.900000006,792095.2999999999,16067862.7,346060
+"ESP","Spain","Pre- and Post- Production","Agrifood systems","no","yes",1997,42938144.2,805572.7000000001,18072214.5,732389
+"ESP","Spain","Pre- and Post- Production","Agrifood systems","no","yes",1998,46376765.4,851825.2999999999,20378098.900000002,1298806.4
+"ESP","Spain","Pre- and Post- Production","Agrifood systems","no","yes",1999,48870420.8,866758,19570327.2,1930448
+"ESP","Spain","Pre- and Post- Production","Agrifood systems","no","yes",2000,51776255.599999994,878026.1000000001,19843198.5,2743723.8000000003
+"ESP","Spain","Pre- and Post- Production","Agrifood systems","no","yes",2001,53358486.4,897574.8999999999,20091057.2,3575013
+"ESP","Spain","Pre- and Post- Production","Agrifood systems","no","yes",2002,57700959,988936.2999999999,20304564.5,4345758.7
+"ESP","Spain","Pre- and Post- Production","Agrifood systems","no","yes",2003,60517908.6,999745.6,21892016.9,5196372.6
+"ESP","Spain","Pre- and Post- Production","Agrifood systems","no","yes",2004,60583825.2,1010380.9,20848537.799999997,6081937.399999999
+"ESP","Spain","Pre- and Post- Production","Agrifood systems","no","yes",2005,54791935.8,1022219.2,13000626.399999999,7160337.5
+"ESP","Spain","Pre- and Post- Production","Agrifood systems","no","yes",2006,54040846.2,1012009.3,13355467.3,8989558.6
+"ESP","Spain","Pre- and Post- Production","Agrifood systems","no","yes",2007,56753455.5,1025695.9999999999,13712394.8,10677551.600000001
+"ESP","Spain","Pre- and Post- Production","Agrifood systems","no","yes",2008,53331901.5,1010220.8,11840811.4,11515702
+"ESP","Spain","Pre- and Post- Production","Agrifood systems","no","yes",2009,50300693.3,1011599.6,11841210.7,10613717.3
+"ESP","Spain","Pre- and Post- Production","Agrifood systems","no","yes",2010,48846859.900000006,993025.2000000001,11894625.200000001,10676471.4
+"ESP","Spain","Pre- and Post- Production","Agrifood systems","no","yes",2011,49459995.7,997046.9,11951475.5,10720276.9
+"ESP","Spain","Pre- and Post- Production","Agrifood systems","no","yes",2012,49834086.9,1000770.1,11967246.7,10887002.6
+"ESP","Spain","Pre- and Post- Production","Agrifood systems","no","yes",2013,47746481.099999994,970773.7,12072969.5,11002451.5
+"ESP","Spain","Pre- and Post- Production","Agrifood systems","no","yes",2014,47891682,947980.3,11872691,10964226.1
+"ESP","Spain","Pre- and Post- Production","Agrifood systems","no","yes",2015,44121595.699999996,962308,11619852.5,5340164.899999999
+"ESP","Spain","Pre- and Post- Production","Agrifood systems","no","yes",2016,43380131.699999996,958868.1,11493148.9,5182864.4
+"ESP","Spain","Pre- and Post- Production","Agrifood systems","no","yes",2017,43637143.199999996,974861.9,11486192.2,3570867
+"ESP","Spain","Pre- and Post- Production","Agrifood systems","no","yes",2018,41338723.3,980324.6,11527290.3,2190839.1999999997
+"ESP","Spain","Pre- and Post- Production","Agrifood systems","no","yes",2019,39795225.400000006,975906,11555372.3,2127813.2
+"ESP","Spain","Pre- and Post- Production","Agrifood systems","no","yes",2020,36605937.9,965647.2999999999,11565182.5,1375093.8
+"ESP","Spain","Pre- and Post- Production","Agrifood systems","no","yes",2021,38457040.9,988012.5,11577545.299999999,1037833.0000000001
+"ESP","Spain","Pre- and Post- Production","Agrifood systems","no","yes",2022,38457040.9,988012.5,11577545.299999999,1037833.0000000001
+"ESP","Spain","Pre- and Post- Production","Agrifood systems","no","yes",2030,NA,NA,NA,NA
+"ESP","Spain","Pre- and Post- Production","Agrifood systems","no","yes",2050,NA,NA,NA,NA
+"ESP","Spain","Emissions on agricultural land","FAO aggregates","no","no",1992,45330280,13271995,24715177.2,NA
+"ESP","Spain","Emissions on agricultural land","FAO aggregates","no","no",1993,45327952.1,14049531.5,24098144,NA
+"ESP","Spain","Emissions on agricultural land","FAO aggregates","no","no",1994,46054568.2,14197083.5,24199834.4,NA
+"ESP","Spain","Emissions on agricultural land","FAO aggregates","no","no",1995,46646937.599999994,13759992.5,24478008.8,NA
+"ESP","Spain","Emissions on agricultural land","FAO aggregates","no","no",1996,48352352.9,15509390,25036250.400000002,NA
+"ESP","Spain","Emissions on agricultural land","FAO aggregates","no","no",1997,49243170.2,15164015.5,26461769.6,NA
+"ESP","Spain","Emissions on agricultural land","FAO aggregates","no","no",1998,50277727.2,16291882,26847805.6,NA
+"ESP","Spain","Emissions on agricultural land","FAO aggregates","no","no",1999,51754104.3,16086931,27225578.8,NA
+"ESP","Spain","Emissions on agricultural land","FAO aggregates","no","no",2000,53609908.199999996,16294823.5,27760353.599999998,NA
+"ESP","Spain","Emissions on agricultural land","FAO aggregates","no","no",2001,52917052.7,15981964.5,28222955.6,NA
+"ESP","Spain","Emissions on agricultural land","FAO aggregates","no","no",2002,53185959.9,15809105,28488779.2,NA
+"ESP","Spain","Emissions on agricultural land","FAO aggregates","no","no",2003,55767096.2,16844804.5,28691266.8,NA
+"ESP","Spain","Emissions on agricultural land","FAO aggregates","no","no",2004,56652190.300000004,16415689.999999998,28868588,NA
+"ESP","Spain","Emissions on agricultural land","FAO aggregates","no","no",2005,54053712,14915419,28356067.599999998,NA
+"ESP","Spain","Emissions on agricultural land","FAO aggregates","no","no",2006,52862392.6,15234346.5,27758718.400000002,NA
+"ESP","Spain","Emissions on agricultural land","FAO aggregates","no","no",2007,54513718.9,15794132.5,28361048.8,NA
+"ESP","Spain","Emissions on agricultural land","FAO aggregates","no","no",2008,49585507.3,13867423.5,26589021.2,NA
+"ESP","Spain","Emissions on agricultural land","FAO aggregates","no","no",2009,48677103.7,13757687,27018983.599999998,NA
+"ESP","Spain","Emissions on agricultural land","FAO aggregates","no","no",2010,48260887.1,14584354.5,26487095.6,NA
+"ESP","Spain","Emissions on agricultural land","FAO aggregates","no","no",2011,47826632.5,13884330.5,25752269.2,NA
+"ESP","Spain","Emissions on agricultural land","FAO aggregates","no","no",2012,47852226,13567364,25249322,NA
+"ESP","Spain","Emissions on agricultural land","FAO aggregates","no","no",2013,48782339.099999994,14581731,25063315.2,NA
+"ESP","Spain","Emissions on agricultural land","FAO aggregates","no","no",2014,49998673,15250935.5,25844616,NA
+"ESP","Spain","Emissions on agricultural land","FAO aggregates","no","no",2015,51311757.1,15453422,26819276.4,NA
+"ESP","Spain","Emissions on agricultural land","FAO aggregates","no","no",2016,51541198,15278151,26993520.400000002,NA
+"ESP","Spain","Emissions on agricultural land","FAO aggregates","no","no",2017,52501807.800000004,15557328.5,27342406,NA
+"ESP","Spain","Emissions on agricultural land","FAO aggregates","no","no",2018,52815293.9,15809078.5,27588691.200000003,NA
+"ESP","Spain","Emissions on agricultural land","FAO aggregates","no","no",2019,52797472.199999996,15486361.5,27743195.2,NA
+"ESP","Spain","Emissions on agricultural land","FAO aggregates","no","no",2020,54386281.300000004,16298692.5,28207256,NA
+"ESP","Spain","Emissions on agricultural land","FAO aggregates","no","no",2021,54435747.4,16099121,28159174.4,NA
+"ESP","Spain","Emissions on agricultural land","FAO aggregates","no","no",2022,51668251.6,14127150,27363649.6,NA
+"ESP","Spain","Emissions on agricultural land","FAO aggregates","no","no",2030,NA,NA,NA,NA
+"ESP","Spain","Emissions on agricultural land","FAO aggregates","no","no",2050,NA,NA,NA,NA
+"ESP","Spain","Emissions from crops","FAO aggregates","no","no",1992,6842995.399999999,5532405,1310590.4000000001,NA
+"ESP","Spain","Emissions from crops","FAO aggregates","no","no",1993,7058994.399999999,6291842,767152.3999999999,NA
+"ESP","Spain","Emissions from crops","FAO aggregates","no","no",1994,7481613.9,6452087.5,1029526.4,NA
+"ESP","Spain","Emissions from crops","FAO aggregates","no","no",1995,6732334.1,5869564.5,862769.6,NA
+"ESP","Spain","Emissions from crops","FAO aggregates","no","no",1996,9346141.799999999,7764447,1581694.8,NA
+"ESP","Spain","Emissions from crops","FAO aggregates","no","no",1997,8678108.700000001,6971063.5,1707045.2,NA
+"ESP","Spain","Emissions from crops","FAO aggregates","no","no",1998,9691535.5,8003821.5,1687714,NA
+"ESP","Spain","Emissions from crops","FAO aggregates","no","no",1999,9358051.299999999,7668066.5,1689984.8,NA
+"ESP","Spain","Emissions from crops","FAO aggregates","no","no",2000,9412698.8,7652140,1760558.8,NA
+"ESP","Spain","Emissions from crops","FAO aggregates","no","no",2001,8990300.6,7249605,1740695.6,NA
+"ESP","Spain","Emissions from crops","FAO aggregates","no","no",2002,8719689.5,7005725.5,1713964,NA
+"ESP","Spain","Emissions from crops","FAO aggregates","no","no",2003,9695653.899999999,7931211.5,1764442.4,NA
+"ESP","Spain","Emissions from crops","FAO aggregates","no","no",2004,9257276.5,7419496.5,1837780,NA
+"ESP","Spain","Emissions from crops","FAO aggregates","no","no",2005,7812487.9,6025967.5,1786520.4000000001,NA
+"ESP","Spain","Emissions from crops","FAO aggregates","no","no",2006,8131558.5,6539590.5,1591968,NA
+"ESP","Spain","Emissions from crops","FAO aggregates","no","no",2007,8435965.700000001,6916632.5,1519333.2,NA
+"ESP","Spain","Emissions from crops","FAO aggregates","no","no",2008,6992833,5542475,1450358,NA
+"ESP","Spain","Emissions from crops","FAO aggregates","no","no",2009,7188105.3,5419594.5,1768510.8,NA
+"ESP","Spain","Emissions from crops","FAO aggregates","no","no",2010,8225565.500000001,6413503.5,1812062,NA
+"ESP","Spain","Emissions from crops","FAO aggregates","no","no",2011,7817503,5997321,1820182,NA
+"ESP","Spain","Emissions from crops","FAO aggregates","no","no",2012,7422230.1,5729750.5,1692479.5999999999,NA
+"ESP","Spain","Emissions from crops","FAO aggregates","no","no",2013,8479883,6796985,1682898,NA
+"ESP","Spain","Emissions from crops","FAO aggregates","no","no",2014,8972824.3,7312701.5,1660122.8,NA
+"ESP","Spain","Emissions from crops","FAO aggregates","no","no",2015,8741641.4,7098873,1642768.4,NA
+"ESP","Spain","Emissions from crops","FAO aggregates","no","no",2016,8486100.399999999,6844102,1641998.4,NA
+"ESP","Spain","Emissions from crops","FAO aggregates","no","no",2017,8591186.9,6979596.5,1611590.4000000001,NA
+"ESP","Spain","Emissions from crops","FAO aggregates","no","no",2018,8748686.299999999,7175643.5,1573042.8,NA
+"ESP","Spain","Emissions from crops","FAO aggregates","no","no",2019,8340415.800000001,6792321,1548094.8,NA
+"ESP","Spain","Emissions from crops","FAO aggregates","no","no",2020,8943287.899999999,7414885.5,1528402.4,NA
+"ESP","Spain","Emissions from crops","FAO aggregates","no","no",2021,8443516.5,7153542.5,1289974,NA
+"ESP","Spain","Emissions from crops","FAO aggregates","no","no",2022,6135963.5,5253333.5,882630,NA
+"ESP","Spain","Emissions from crops","FAO aggregates","no","no",2030,8147935.9,6508373.5,1639562.4000000001,NA
+"ESP","Spain","Emissions from crops","FAO aggregates","no","no",2050,8160405.1,6530421.5,1629983.6,NA
+"ESP","Spain","Emissions from livestock","FAO aggregates","no","no",1992,30574654.1,7206436.5,23368217.6,NA
+"ESP","Spain","Emissions from livestock","FAO aggregates","no","no",1993,30499194.599999998,7204449,23294745.599999998,NA
+"ESP","Spain","Emissions from livestock","FAO aggregates","no","no",1994,30302220,7168886,23133334,NA
+"ESP","Spain","Emissions from livestock","FAO aggregates","no","no",1995,30866213.1,7287897.5,23578315.6,NA
+"ESP","Spain","Emissions from livestock","FAO aggregates","no","no",1996,30555648.099999998,7138066.5,23417581.6,NA
+"ESP","Spain","Emissions from livestock","FAO aggregates","no","no",1997,32303037.1,7585863.5,24717173.599999998,NA
+"ESP","Spain","Emissions from livestock","FAO aggregates","no","no",1998,32843269.6,7729308,25113961.599999998,NA
+"ESP","Spain","Emissions from livestock","FAO aggregates","no","no",1999,33311522.799999997,7815168,25496354.8,NA
+"ESP","Spain","Emissions from livestock","FAO aggregates","no","no",2000,33867620,7924878,25942742,NA
+"ESP","Spain","Emissions from livestock","FAO aggregates","no","no",2001,34524303.099999994,8073145.5,26451157.599999998,NA
+"ESP","Spain","Emissions from livestock","FAO aggregates","no","no",2002,34898968.800000004,8152036,26746932.799999997,NA
+"ESP","Spain","Emissions from livestock","FAO aggregates","no","no",2003,35065461.9,8186671.5,26878790.400000002,NA
+"ESP","Spain","Emissions from livestock","FAO aggregates","no","no",2004,35170409.6,8184578,26985831.6,NA
+"ESP","Spain","Emissions from livestock","FAO aggregates","no","no",2005,34582377.4,8075133,26507244.4,NA
+"ESP","Spain","Emissions from livestock","FAO aggregates","no","no",2006,34130513.6,8005332,26125181.6,NA
+"ESP","Spain","Emissions from livestock","FAO aggregates","no","no",2007,34949487.4,8146577,26802910.400000002,NA
+"ESP","Spain","Emissions from livestock","FAO aggregates","no","no",2008,32791616.199999996,7675619,25115997.200000003,NA
+"ESP","Spain","Emissions from livestock","FAO aggregates","no","no",2009,32919620.499999996,7707286.5,25212334,NA
+"ESP","Spain","Emissions from livestock","FAO aggregates","no","no",2010,32229851.7,7574468.5,24655383.2,NA
+"ESP","Spain","Emissions from livestock","FAO aggregates","no","no",2011,31232507.099999998,7329979.5,23902527.6,NA
+"ESP","Spain","Emissions from livestock","FAO aggregates","no","no",2012,30689554.7,7204263.5,23485291.2,NA
+"ESP","Spain","Emissions from livestock","FAO aggregates","no","no",2013,30525918.8,7171536,23354382.8,NA
+"ESP","Spain","Emissions from livestock","FAO aggregates","no","no",2014,31518950,7359262,24159688,NA
+"ESP","Spain","Emissions from livestock","FAO aggregates","no","no",2015,32843426.8,7698780,25144646.799999997,NA
+"ESP","Spain","Emissions from livestock","FAO aggregates","no","no",2016,33069758.900000002,7744492.5,25325266.400000002,NA
+"ESP","Spain","Emissions from livestock","FAO aggregates","no","no",2017,33554810.1,7867240.5,25687569.599999998,NA
+"ESP","Spain","Emissions from livestock","FAO aggregates","no","no",2018,33914747.6,7917246,25997501.599999998,NA
+"ESP","Spain","Emissions from livestock","FAO aggregates","no","no",2019,34114170.3,7948489.5,26165680.799999997,NA
+"ESP","Spain","Emissions from livestock","FAO aggregates","no","no",2020,34740068.5,8090158.5,26649910,NA
+"ESP","Spain","Emissions from livestock","FAO aggregates","no","no",2021,34972104.7,8133883.5,26838221.2,NA
+"ESP","Spain","Emissions from livestock","FAO aggregates","no","no",2022,34411187.2,8015296,26395891.2,NA
+"ESP","Spain","Emissions from livestock","FAO aggregates","no","no",2030,33472892.5,7845192.5,25627700,NA
+"ESP","Spain","Emissions from livestock","FAO aggregates","no","no",2050,31850598.4,7475120,24375478.4,NA
+"ESP","Spain","Agriculture","IPCC aggregates","yes","no",1992,37516504.3,12815797.5,24700706.8,NA
+"ESP","Spain","Agriculture","IPCC aggregates","yes","no",1993,37656937.8,13573141,24083796.8,NA
+"ESP","Spain","Agriculture","IPCC aggregates","yes","no",1994,37882476.7,13697717.5,24184759.2,NA
+"ESP","Spain","Agriculture","IPCC aggregates","yes","no",1995,37696766,13233782,24462984,NA
+"ESP","Spain","Agriculture","IPCC aggregates","yes","no",1996,40000613.8,14979125,25021488.8,NA
+"ESP","Spain","Agriculture","IPCC aggregates","yes","no",1997,41082258.9,14634598.5,26447660.400000002,NA
+"ESP","Spain","Agriculture","IPCC aggregates","yes","no",1998,42656430.2,15822143,26834287.2,NA
+"ESP","Spain","Agriculture","IPCC aggregates","yes","no",1999,42781478,15571400,27210078,NA
+"ESP","Spain","Agriculture","IPCC aggregates","yes","no",2000,43423896,15680474,27743422,NA
+"ESP","Spain","Agriculture","IPCC aggregates","yes","no",2001,43611699.699999996,15404264.5,28207435.2,NA
+"ESP","Spain","Agriculture","IPCC aggregates","yes","no",2002,43715215.7,15241766.5,28473449.2,NA
+"ESP","Spain","Agriculture","IPCC aggregates","yes","no",2003,44888948.900000006,16216436.5,28672512.4,NA
+"ESP","Spain","Agriculture","IPCC aggregates","yes","no",2004,44547883.800000004,15699607,28848276.8,NA
+"ESP","Spain","Agriculture","IPCC aggregates","yes","no",2005,42550434.1,14212930.5,28337503.6,NA
+"ESP","Spain","Agriculture","IPCC aggregates","yes","no",2006,42381071.4,14639713,27741358.400000002,NA
+"ESP","Spain","Agriculture","IPCC aggregates","yes","no",2007,43497302,15154078,28343224,NA
+"ESP","Spain","Agriculture","IPCC aggregates","yes","no",2008,39869725.1,13296613.5,26573111.6,NA
+"ESP","Spain","Agriculture","IPCC aggregates","yes","no",2009,40225789.3,13220346.5,27005442.8,NA
+"ESP","Spain","Agriculture","IPCC aggregates","yes","no",2010,40539764.8,14065776,26473988.8,NA
+"ESP","Spain","Agriculture","IPCC aggregates","yes","no",2011,39150878.199999996,13412763,25738115.2,NA
+"ESP","Spain","Agriculture","IPCC aggregates","yes","no",2012,38287934.1,13054244.5,25233689.6,NA
+"ESP","Spain","Agriculture","IPCC aggregates","yes","no",2013,39094350.8,14048180,25046170.8,NA
+"ESP","Spain","Agriculture","IPCC aggregates","yes","no",2014,40579826.1,14751304.5,25828521.6,NA
+"ESP","Spain","Agriculture","IPCC aggregates","yes","no",2015,41687706.3,14883751.5,26803954.8,NA
+"ESP","Spain","Agriculture","IPCC aggregates","yes","no",2016,41648280.1,14669896.5,26978383.6,NA
+"ESP","Spain","Agriculture","IPCC aggregates","yes","no",2017,42268360.1,14941362.5,27326997.599999998,NA
+"ESP","Spain","Agriculture","IPCC aggregates","yes","no",2018,42738130.599999994,15164943,27573187.6,NA
+"ESP","Spain","Agriculture","IPCC aggregates","yes","no",2019,42551638.2,14824683,27726955.2,NA
+"ESP","Spain","Agriculture","IPCC aggregates","yes","no",2020,43778351.300000004,15587962.5,28190388.8,NA
+"ESP","Spain","Agriculture","IPCC aggregates","yes","no",2021,43512857.900000006,15371351.5,28141506.4,NA
+"ESP","Spain","Agriculture","IPCC aggregates","yes","no",2022,40745362.1,13399380.5,27345981.599999998,NA
+"ESP","Spain","Agriculture","IPCC aggregates","yes","no",2030,NA,NA,NA,NA
+"ESP","Spain","Agriculture","IPCC aggregates","yes","no",2050,NA,NA,NA,NA
+"ESP","Spain","Agricultural Soils","IPCC aggregates","no","no",1992,11303177.5,11303177.5,NA,NA
+"ESP","Spain","Agricultural Soils","IPCC aggregates","no","no",1993,12059832,12059832,NA,NA
+"ESP","Spain","Agricultural Soils","IPCC aggregates","no","no",1994,12184090.5,12184090.5,NA,NA
+"ESP","Spain","Agricultural Soils","IPCC aggregates","no","no",1995,11675820.5,11675820.5,NA,NA
+"ESP","Spain","Agricultural Soils","IPCC aggregates","no","no",1996,13414485.5,13414485.5,NA,NA
+"ESP","Spain","Agricultural Soils","IPCC aggregates","no","no",1997,13016164,13016164,NA,NA
+"ESP","Spain","Agricultural Soils","IPCC aggregates","no","no",1998,14172836,14172836,NA,NA
+"ESP","Spain","Agricultural Soils","IPCC aggregates","no","no",1999,13878368,13878368,NA,NA
+"ESP","Spain","Agricultural Soils","IPCC aggregates","no","no",2000,13937330.5,13937330.5,NA,NA
+"ESP","Spain","Agricultural Soils","IPCC aggregates","no","no",2001,13657676,13657676,NA,NA
+"ESP","Spain","Agricultural Soils","IPCC aggregates","no","no",2002,13464067,13464067,NA,NA
+"ESP","Spain","Agricultural Soils","IPCC aggregates","no","no",2003,14413297,14413297,NA,NA
+"ESP","Spain","Agricultural Soils","IPCC aggregates","no","no",2004,13880594,13880594,NA,NA
+"ESP","Spain","Agricultural Soils","IPCC aggregates","no","no",2005,12407644.5,12407644.5,NA,NA
+"ESP","Spain","Agricultural Soils","IPCC aggregates","no","no",2006,12865538,12865538,NA,NA
+"ESP","Spain","Agricultural Soils","IPCC aggregates","no","no",2007,13340868.5,13340868.5,NA,NA
+"ESP","Spain","Agricultural Soils","IPCC aggregates","no","no",2008,11576631,11576631,NA,NA
+"ESP","Spain","Agricultural Soils","IPCC aggregates","no","no",2009,11473652,11473652,NA,NA
+"ESP","Spain","Agricultural Soils","IPCC aggregates","no","no",2010,12352392,12352392,NA,NA
+"ESP","Spain","Agricultural Soils","IPCC aggregates","no","no",2011,11720075.5,11720075.5,NA,NA
+"ESP","Spain","Agricultural Soils","IPCC aggregates","no","no",2012,11342954,11342954,NA,NA
+"ESP","Spain","Agricultural Soils","IPCC aggregates","no","no",2013,12376772,12376772,NA,NA
+"ESP","Spain","Agricultural Soils","IPCC aggregates","no","no",2014,13016853,13016853,NA,NA
+"ESP","Spain","Agricultural Soils","IPCC aggregates","no","no",2015,13078041.5,13078041.5,NA,NA
+"ESP","Spain","Agricultural Soils","IPCC aggregates","no","no",2016,12845239,12845239,NA,NA
+"ESP","Spain","Agricultural Soils","IPCC aggregates","no","no",2017,13073881,13073881,NA,NA
+"ESP","Spain","Agricultural Soils","IPCC aggregates","no","no",2018,13277401,13277401,NA,NA
+"ESP","Spain","Agricultural Soils","IPCC aggregates","no","no",2019,12908468,12908468,NA,NA
+"ESP","Spain","Agricultural Soils","IPCC aggregates","no","no",2020,13626936,13626936,NA,NA
+"ESP","Spain","Agricultural Soils","IPCC aggregates","no","no",2021,13378843,13378843,NA,NA
+"ESP","Spain","Agricultural Soils","IPCC aggregates","no","no",2022,11378623,11378623,NA,NA
+"ESP","Spain","Agricultural Soils","IPCC aggregates","no","no",2030,NA,NA,NA,NA
+"ESP","Spain","Agricultural Soils","IPCC aggregates","no","no",2050,NA,NA,NA,NA
+"ESP","Spain","LULUCF","IPCC aggregates","yes","no",1992,-42658730.199999996,30157,43845.2,NA
+"ESP","Spain","LULUCF","IPCC aggregates","yes","no",1993,-42659942.199999996,30157,43845.2,NA
+"ESP","Spain","LULUCF","IPCC aggregates","yes","no",1994,-42660697,30157,43845.2,NA
+"ESP","Spain","LULUCF","IPCC aggregates","yes","no",1995,-42662929.7,30157,43845.2,NA
+"ESP","Spain","LULUCF","IPCC aggregates","yes","no",1996,-42615456,41737.5,79738.4,NA
+"ESP","Spain","LULUCF","IPCC aggregates","yes","no",1997,-42409672.3,112466,214793.6,NA
+"ESP","Spain","LULUCF","IPCC aggregates","yes","no",1998,-42491986.5,76452.5,146028.4,NA
+"ESP","Spain","LULUCF","IPCC aggregates","yes","no",1999,-42569373.800000004,36093,68916.4,NA
+"ESP","Spain","LULUCF","IPCC aggregates","yes","no",2000,-42475130.4,66197,126439.6,NA
+"ESP","Spain","LULUCF","IPCC aggregates","yes","no",2001,-19189847.2,6386.5,7397.5999999999995,NA
+"ESP","Spain","LULUCF","IPCC aggregates","yes","no",2002,-19150818.9,9354.5,10819.2,NA
+"ESP","Spain","LULUCF","IPCC aggregates","yes","no",2003,-19077497.4,42983,49739.2,NA
+"ESP","Spain","LULUCF","IPCC aggregates","yes","no",2004,-19125023.3,17675.5,20445.6,NA
+"ESP","Spain","LULUCF","IPCC aggregates","yes","no",2005,-19077651.8,40094.5,46396,NA
+"ESP","Spain","LULUCF","IPCC aggregates","yes","no",2006,-19011364.5,71285,82490.79999999999,NA
+"ESP","Spain","LULUCF","IPCC aggregates","yes","no",2007,-19141496.5,14018.5,16220.400000000001,NA
+"ESP","Spain","LULUCF","IPCC aggregates","yes","no",2008,-19168357.5,1563.5,1814.4,NA
+"ESP","Spain","LULUCF","IPCC aggregates","yes","no",2009,-19142629.2,14893,17220,NA
+"ESP","Spain","LULUCF","IPCC aggregates","yes","no",2010,-19170237.9,2226,2581.6,NA
+"ESP","Spain","LULUCF","IPCC aggregates","yes","no",2011,-7874677,9407.5,10886.4,NA
+"ESP","Spain","LULUCF","IPCC aggregates","yes","no",2012,-7837617,27056.5,31320.8,NA
+"ESP","Spain","LULUCF","IPCC aggregates","yes","no",2013,-7882605.7,6201,7187.5999999999995,NA
+"ESP","Spain","LULUCF","IPCC aggregates","yes","no",2014,-7886360,4823,5583.2,NA
+"ESP","Spain","LULUCF","IPCC aggregates","yes","no",2015,-7869567,12614,14585.2,NA
+"ESP","Spain","LULUCF","IPCC aggregates","yes","no",2016,-13885460.6,11395,13176.8,NA
+"ESP","Spain","LULUCF","IPCC aggregates","yes","no",2017,-13848801.2,31588,36565.2,NA
+"ESP","Spain","LULUCF","IPCC aggregates","yes","no",2018,-13918483,954,1117.2,NA
+"ESP","Spain","LULUCF","IPCC aggregates","yes","no",2019,-13887356.700000001,7473,8646.4,NA
+"ESP","Spain","LULUCF","IPCC aggregates","yes","no",2020,-13897757.299999999,2650,3068.8,NA
+"ESP","Spain","LULUCF","IPCC aggregates","yes","no",2021,-13856613.1,21809.5,25239.2,NA
+"ESP","Spain","LULUCF","IPCC aggregates","yes","no",2022,-13707934.2,90736,104991.6,NA
+"ESP","Spain","LULUCF","IPCC aggregates","yes","no",2030,NA,NA,NA,NA
+"ESP","Spain","LULUCF","IPCC aggregates","yes","no",2050,NA,NA,NA,NA
+"ESP","Spain","AFOLU","IPCC aggregates","no","no",1992,-5142225.9,12845954.5,24744552,NA
+"ESP","Spain","AFOLU","IPCC aggregates","no","no",1993,-5003004.399999999,13603298,24127642,NA
+"ESP","Spain","AFOLU","IPCC aggregates","no","no",1994,-4778220.3,13727874.5,24228604.4,NA
+"ESP","Spain","AFOLU","IPCC aggregates","no","no",1995,-4966163.7,13263939,24506829.2,NA
+"ESP","Spain","AFOLU","IPCC aggregates","no","no",1996,-2614842.2,15020862.5,25101227.200000003,NA
+"ESP","Spain","AFOLU","IPCC aggregates","no","no",1997,-1327413.4,14747064.5,26662454,NA
+"ESP","Spain","AFOLU","IPCC aggregates","no","no",1998,164443.7,15898595.5,26980315.6,NA
+"ESP","Spain","AFOLU","IPCC aggregates","no","no",1999,212104.19999999998,15607493,27278994.4,NA
+"ESP","Spain","AFOLU","IPCC aggregates","no","no",2000,948765.6,15746671,27869861.6,NA
+"ESP","Spain","AFOLU","IPCC aggregates","no","no",2001,24421852.5,15410651,28214832.8,NA
+"ESP","Spain","AFOLU","IPCC aggregates","no","no",2002,24564396.799999997,15251121,28484268.400000002,NA
+"ESP","Spain","AFOLU","IPCC aggregates","no","no",2003,25811451.5,16259419.5,28722251.599999998,NA
+"ESP","Spain","AFOLU","IPCC aggregates","no","no",2004,25422860.5,15717282.5,28868722.4,NA
+"ESP","Spain","AFOLU","IPCC aggregates","no","no",2005,23472782.3,14253025,28383899.6,NA
+"ESP","Spain","AFOLU","IPCC aggregates","no","no",2006,23369706.900000002,14710998,27823849.2,NA
+"ESP","Spain","AFOLU","IPCC aggregates","no","no",2007,24355805.5,15168096.5,28359444.4,NA
+"ESP","Spain","AFOLU","IPCC aggregates","no","no",2008,20701367.6,13298177,26574926,NA
+"ESP","Spain","AFOLU","IPCC aggregates","no","no",2009,21083160.1,13235239.5,27022662.799999997,NA
+"ESP","Spain","AFOLU","IPCC aggregates","no","no",2010,21369526.900000002,14068002,26476570.400000002,NA
+"ESP","Spain","AFOLU","IPCC aggregates","no","no",2011,31276201.2,13422170.5,25749001.599999998,NA
+"ESP","Spain","AFOLU","IPCC aggregates","no","no",2012,30450317.1,13081301,25265010.4,NA
+"ESP","Spain","AFOLU","IPCC aggregates","no","no",2013,31211745.1,14054381,25053358.400000002,NA
+"ESP","Spain","AFOLU","IPCC aggregates","no","no",2014,32693466.1,14756127.5,25834104.8,NA
+"ESP","Spain","AFOLU","IPCC aggregates","no","no",2015,33818139.300000004,14896365.5,26818540,NA
+"ESP","Spain","AFOLU","IPCC aggregates","no","no",2016,27762819.5,14681291.5,26991560.4,NA
+"ESP","Spain","AFOLU","IPCC aggregates","no","no",2017,28419558.9,14972950.5,27363562.8,NA
+"ESP","Spain","AFOLU","IPCC aggregates","no","no",2018,28819647.6,15165897,27574304.8,NA
+"ESP","Spain","AFOLU","IPCC aggregates","no","no",2019,28664281.5,14832156,27735601.6,NA
+"ESP","Spain","AFOLU","IPCC aggregates","no","no",2020,29880594,15590612.5,28193457.6,NA
+"ESP","Spain","AFOLU","IPCC aggregates","no","no",2021,29656244.8,15393161,28166745.599999998,NA
+"ESP","Spain","AFOLU","IPCC aggregates","no","no",2022,27037427.9,13490116.5,27450973.2,NA
+"ESP","Spain","AFOLU","IPCC aggregates","no","no",2030,NA,NA,NA,NA
+"ESP","Spain","AFOLU","IPCC aggregates","no","no",2050,NA,NA,NA,NA
+NA,"World","Energy","Not agri-food","yes","no",1992,24036911691.100002,167556499.5,2595199950.8,NA
+NA,"World","Energy","Not agri-food","yes","no",1993,24215296715,168737297,2609434779,NA
+NA,"World","Energy","Not agri-food","yes","no",1994,24267147226.7,173768216,2628674613.4,NA
+NA,"World","Energy","Not agri-food","yes","no",1995,24739991875.300003,181760427.9,2704568661.5,NA
+NA,"World","Energy","Not agri-food","yes","no",1996,25377012962.5,186357528.3,2772385271.3,NA
+NA,"World","Energy","Not agri-food","yes","no",1997,25539444230,195852708.9,2799497361.3999996,NA
+NA,"World","Energy","Not agri-food","yes","no",1998,25338218644.1,202748814.7,2705773270.5,NA
+NA,"World","Energy","Not agri-food","yes","no",1999,25826482359.1,211092556.4,2696806913.1,NA
+NA,"World","Energy","Not agri-food","yes","no",2000,26586965049.199997,194088003.9,2809242210.7000003,NA
+NA,"World","Energy","Not agri-food","yes","no",2001,26668316605,197484018.9,2813478644,NA
+NA,"World","Energy","Not agri-food","yes","no",2002,27116971788.600002,202050002.4,2767530447.5,NA
+NA,"World","Energy","Not agri-food","yes","no",2003,28592183540.899998,210751998.9,2954444779.1,NA
+NA,"World","Energy","Not agri-food","yes","no",2004,29607653429,222684316.2,3044729403.8999996,NA
+NA,"World","Energy","Not agri-food","yes","no",2005,30534854940.2,228134585.9,3142534149.9,NA
+NA,"World","Energy","Not agri-food","yes","no",2006,31506582884,236711114.8,3228720861.3,NA
+NA,"World","Energy","Not agri-food","yes","no",2007,32238807485.100002,245858489.70000002,3243260691.1,NA
+NA,"World","Energy","Not agri-food","yes","no",2008,33106800430.3,249576125.3,3311323206.7,NA
+NA,"World","Energy","Not agri-food","yes","no",2009,32597692681.8,243118815.89999998,3263177429.7000003,NA
+NA,"World","Energy","Not agri-food","yes","no",2010,34251535996.699997,254654213.6,3396936397.4,NA
+NA,"World","Energy","Not agri-food","yes","no",2011,35419025039.399994,260161096.7,3563175241.8,NA
+NA,"World","Energy","Not agri-food","yes","no",2012,35931085566.1,262948315.1,3612323284.8999996,NA
+NA,"World","Energy","Not agri-food","yes","no",2013,35991280075.6,266137837.50000003,3585858773.3,NA
+NA,"World","Energy","Not agri-food","yes","no",2014,36278332690.9,268637955.1,3605660305.3,NA
+NA,"World","Energy","Not agri-food","yes","no",2015,36338295926.700005,266106650.8,3569269688.4,NA
+NA,"World","Energy","Not agri-food","yes","no",2016,36292436850.100006,266776664.89999998,3538186803.4,NA
+NA,"World","Energy","Not agri-food","yes","no",2017,36936474034.4,272778446,3608838388.9,NA
+NA,"World","Energy","Not agri-food","yes","no",2018,37777462661.5,278242575.59999996,3708945971.2999997,NA
+NA,"World","Energy","Not agri-food","yes","no",2019,38159836055.1,280138278,3752069487,NA
+NA,"World","Energy","Not agri-food","yes","no",2020,36315495237.2,266484819.20000002,3568636763.4,NA
+NA,"World","Energy","Not agri-food","yes","no",2021,38092048019.7,281338003.6,3654215102.2999997,NA
+NA,"World","Energy","Not agri-food","yes","no",2022,38843791437,285503548.59999996,3784014775.7999997,NA
+NA,"World","Energy","Not agri-food","yes","no",2030,NA,NA,NA,NA
+NA,"World","Energy","Not agri-food","yes","no",2050,NA,NA,NA,NA
+NA,"World","IPPU","Not agri-food","yes","no",1992,1633330095.5,217594228.70000002,3904494,325033096.29999995
+NA,"World","IPPU","Not agri-food","yes","no",1993,1647208740.1000001,210738753,4218424.8,326508493
+NA,"World","IPPU","Not agri-food","yes","no",1994,1728449635.5,224723505.20000002,4493774.6,342053667.7
+NA,"World","IPPU","Not agri-food","yes","no",1995,1835731962.5,242172280.5,4788575.8,371638990
+NA,"World","IPPU","Not agri-food","yes","no",1996,1888171011.9,250080052.39999998,4771049.699999999,394475450.9
+NA,"World","IPPU","Not agri-food","yes","no",1997,1951144671.8999999,240947672.9,4956336.100000001,421832311.8
+NA,"World","IPPU","Not agri-food","yes","no",1998,1965365712.6,217466702.9,5187512.800000001,440242717.8
+NA,"World","IPPU","Not agri-food","yes","no",1999,1998129868.3,198323455.3,5127439.8,452594516.59999996
+NA,"World","IPPU","Not agri-food","yes","no",2000,2091932834,203912941.3,5414291.5,478935456.9
+NA,"World","IPPU","Not agri-food","yes","no",2001,2118828274.4,199270491.79999998,5519567.9,479493094
+NA,"World","IPPU","Not agri-food","yes","no",2002,2245637764,193896562.89999998,5815082.1,555106044.8000001
+NA,"World","IPPU","Not agri-food","yes","no",2003,2400602795.5,197416169.3,6191687.7,584914488.2
+NA,"World","IPPU","Not agri-food","yes","no",2004,2571642571.2000003,210135945,6648133.7,653331162.4
+NA,"World","IPPU","Not agri-food","yes","no",2005,2732112257.3,220367870.4,6946106.899999999,702088711
+NA,"World","IPPU","Not agri-food","yes","no",2006,2898529360,217947769.3,7682605.5,731331962.1999999
+NA,"World","IPPU","Not agri-food","yes","no",2007,3065998056.7000003,233394134.1,8224149.7,746966096.6
+NA,"World","IPPU","Not agri-food","yes","no",2008,3031445772.9,208235395.4,8271861.000000001,734087529
+NA,"World","IPPU","Not agri-food","yes","no",2009,3041781870.5,178987774.29999998,8250483.700000001,755292252.5
+NA,"World","IPPU","Not agri-food","yes","no",2010,3247534138.7999997,183724316.8,9394244.5,810062697.8
+NA,"World","IPPU","Not agri-food","yes","no",2011,3463430211.2,199495637,13672919.6,857074279.5
+NA,"World","IPPU","Not agri-food","yes","no",2012,3583565608.1,214511725.5,14597569.5,909718220.9
+NA,"World","IPPU","Not agri-food","yes","no",2013,3734485320.2999997,215699226.1,15292181.7,954152777.8000001
+NA,"World","IPPU","Not agri-food","yes","no",2014,3918090622.1,216781684.10000002,16803659.400000002,1022421141.1
+NA,"World","IPPU","Not agri-food","yes","no",2015,3801854285,217081191.9,16765213.4,990497525.5
+NA,"World","IPPU","Not agri-food","yes","no",2016,3897441838.8999996,218979551.9,17092722.2,1037498238.4
+NA,"World","IPPU","Not agri-food","yes","no",2017,3999966751.4,220484873.3,17951564,1097517888.8000002
+NA,"World","IPPU","Not agri-food","yes","no",2018,4135166248,222725292.7,18630479,1155441222.4
+NA,"World","IPPU","Not agri-food","yes","no",2019,4292096596.9,223537489.5,19609965.7,1204793037.1000001
+NA,"World","IPPU","Not agri-food","yes","no",2020,4391048283.7,233228647,19844051.5,1262062105.1000001
+NA,"World","IPPU","Not agri-food","yes","no",2021,4563549519.4,244414547.7,20560173.5,1328032278.3999999
+NA,"World","IPPU","Not agri-food","yes","no",2022,4500829092,238006749.5,20560850.900000002,1375643608.7
+NA,"World","IPPU","Not agri-food","yes","no",2030,NA,NA,NA,NA
+NA,"World","IPPU","Not agri-food","yes","no",2050,NA,NA,NA,NA
+NA,"World","Waste","Not agri-food","yes","no",1992,1681652211.8,71022073.5,1599416449.4,NA
+NA,"World","Waste","Not agri-food","yes","no",1993,1701720120.1,72850018,1617892744.2,NA
+NA,"World","Waste","Not agri-food","yes","no",1994,1728377941.9,75084410,1641479633.6999998,NA
+NA,"World","Waste","Not agri-food","yes","no",1995,1748716903.8,76868203.4,1659919483.6,NA
+NA,"World","Waste","Not agri-food","yes","no",1996,1768805854.2,78888709.3,1676699737.2,NA
+NA,"World","Waste","Not agri-food","yes","no",1997,1790371427.3000002,80412705.3,1696004256.4,NA
+NA,"World","Waste","Not agri-food","yes","no",1998,1801830206.5,82347938.1,1706055358.6,NA
+NA,"World","Waste","Not agri-food","yes","no",1999,1822813429.8,83899412.4,1725541141.1,NA
+NA,"World","Waste","Not agri-food","yes","no",2000,1851130952.5,85173924.4,1751302585,NA
+NA,"World","Waste","Not agri-food","yes","no",2001,1850444094.4,86319703.89999999,1749050209.5,NA
+NA,"World","Waste","Not agri-food","yes","no",2002,1866637485.8999999,87481101.8,1764842938,NA
+NA,"World","Waste","Not agri-food","yes","no",2003,1900241184.3999999,89314939.10000001,1795282446.9,NA
+NA,"World","Waste","Not agri-food","yes","no",2004,1929595784.7,90730706.5,1824105829.3000002,NA
+NA,"World","Waste","Not agri-food","yes","no",2005,1949918735.3999999,92046059.39999999,1843582989.8999999,NA
+NA,"World","Waste","Not agri-food","yes","no",2006,1997515998.1,94179213.2,1888274941.9,NA
+NA,"World","Waste","Not agri-food","yes","no",2007,2030827431.2,96472362.6,1918999550.2,NA
+NA,"World","Waste","Not agri-food","yes","no",2008,2051623020.1999998,98372929.9,1937301090.1,NA
+NA,"World","Waste","Not agri-food","yes","no",2009,2063065623.3999999,100317072.8,1947354832.3999999,NA
+NA,"World","Waste","Not agri-food","yes","no",2010,2095361211.7,102245194.2,1976928387.8999999,NA
+NA,"World","Waste","Not agri-food","yes","no",2011,2136570911.2,104434198.5,2015608809.2,NA
+NA,"World","Waste","Not agri-food","yes","no",2012,2162268005.9,106256064.3,2039872256.7,NA
+NA,"World","Waste","Not agri-food","yes","no",2013,2203665962.5,108445557.7,2077110970.3,NA
+NA,"World","Waste","Not agri-food","yes","no",2014,2239601991.7000003,110278949.5,2112781070.9,NA
+NA,"World","Waste","Not agri-food","yes","no",2015,2284385935.8,112492353.4,2154376821.2000003,NA
+NA,"World","Waste","Not agri-food","yes","no",2016,2324249647.2999997,114780317.5,2191728148.9,NA
+NA,"World","Waste","Not agri-food","yes","no",2017,2370435378.3999996,116959244.7,2235882739.3,NA
+NA,"World","Waste","Not agri-food","yes","no",2018,2421855262.6,118369918,2285470827.6,NA
+NA,"World","Waste","Not agri-food","yes","no",2019,2460601366.6,119625750.3,2323158651.2000003,NA
+NA,"World","Waste","Not agri-food","yes","no",2020,2493482160.8,120939021,2354784085.5,NA
+NA,"World","Waste","Not agri-food","yes","no",2021,2537814983.3999996,122631771,2397417080.7,NA
+NA,"World","Waste","Not agri-food","yes","no",2022,2577948164.7999997,124368320,2435745650.6,NA
+NA,"World","Waste","Not agri-food","yes","no",2030,NA,NA,NA,NA
+NA,"World","Waste","Not agri-food","yes","no",2050,NA,NA,NA,NA
+NA,"World","International bunkers","Not agri-food","yes","no",1992,702353566.1,18719019.9,10145042.799999999,NA
+NA,"World","International bunkers","Not agri-food","yes","no",1993,694417618,18293519.400000002,10401002.1,NA
+NA,"World","International bunkers","Not agri-food","yes","no",1994,720837613,18904499.5,10529299.5,NA
+NA,"World","International bunkers","Not agri-food","yes","no",1995,747593213.3,19585018.1,10827616.799999999,NA
+NA,"World","International bunkers","Not agri-food","yes","no",1996,768680640.5,20056787.7,11185745.9,NA
+NA,"World","International bunkers","Not agri-food","yes","no",1997,795182893.5,20645940.6,11711789.4,NA
+NA,"World","International bunkers","Not agri-food","yes","no",1998,820245833.6,21285579.5,12179980,NA
+NA,"World","International bunkers","Not agri-food","yes","no",1999,862182342.5,22465202.6,11860805.5,NA
+NA,"World","International bunkers","Not agri-food","yes","no",2000,888807641.9000001,23095665.700000003,12630424.7,NA
+NA,"World","International bunkers","Not agri-food","yes","no",2001,856088439.6,22075329.4,12569337.299999999,NA
+NA,"World","International bunkers","Not agri-food","yes","no",2002,895486229.7,23011671.5,12300391.299999999,NA
+NA,"World","International bunkers","Not agri-food","yes","no",2003,902203411.8,23258565.4,13105463.299999999,NA
+NA,"World","International bunkers","Not agri-food","yes","no",2004,984150036.5,25468029.8,14072929.700000001,NA
+NA,"World","International bunkers","Not agri-food","yes","no",2005,1029668106.5,26493050.3,14290346.100000001,NA
+NA,"World","International bunkers","Not agri-food","yes","no",2006,1084034358.5,28061450.2,14420807.1,NA
+NA,"World","International bunkers","Not agri-food","yes","no",2007,1135468333.1,29561185.6,14489504.5,NA
+NA,"World","International bunkers","Not agri-food","yes","no",2008,1144453695.8999999,29691362.5,14454789.9,NA
+NA,"World","International bunkers","Not agri-food","yes","no",2009,1089605471.5,28275223.900000002,13689324.9,NA
+NA,"World","International bunkers","Not agri-food","yes","no",2010,1164513733.7,30342001.599999998,13977752.5,NA
+NA,"World","International bunkers","Not agri-food","yes","no",2011,1181008242.8,30582358.599999998,14064556.6,NA
+NA,"World","International bunkers","Not agri-food","yes","no",2012,1134479490.8,28909241.2,14096945.299999999,NA
+NA,"World","International bunkers","Not agri-food","yes","no",2013,1139920649.5,28933391.2,13887920.8,NA
+NA,"World","International bunkers","Not agri-food","yes","no",2014,1177191253.4,29960799.8,13690781.1,NA
+NA,"World","International bunkers","Not agri-food","yes","no",2015,1234289944.2,31366202.2,14279236.3,NA
+NA,"World","International bunkers","Not agri-food","yes","no",2016,1275074038.6000001,32253135.3,15005348.4,NA
+NA,"World","International bunkers","Not agri-food","yes","no",2017,1337993917.1,33696200.7,15002222.9,NA
+NA,"World","International bunkers","Not agri-food","yes","no",2018,1367234190.3999999,34122817.9,15280640.600000001,NA
+NA,"World","International bunkers","Not agri-food","yes","no",2019,1361078427.5,33713409.4,15105310.7,NA
+NA,"World","International bunkers","Not agri-food","yes","no",2020,970417676.6999999,27304302.3,13875440.7,NA
+NA,"World","International bunkers","Not agri-food","yes","no",2021,1054970571.1999999,29271616.6,13921977.5,NA
+NA,"World","International bunkers","Not agri-food","yes","no",2022,1175800119.8,31747905.599999998,13979750.700000001,NA
+NA,"World","International bunkers","Not agri-food","yes","no",2030,NA,NA,NA,NA
+NA,"World","International bunkers","Not agri-food","yes","no",2050,NA,NA,NA,NA
+NA,"World","Agrifood systems","FAO aggregates","no","no",1992,14282899194.199999,1782507576.8,4629746690.1,84683345.5
+NA,"World","Agrifood systems","FAO aggregates","no","no",1993,14280046545,1768206858.1000001,4628880772.5,57829209.4
+NA,"World","Agrifood systems","FAO aggregates","no","no",1994,14393527457.599998,1787418338.2,4665827031.5,67303695.7
+NA,"World","Agrifood systems","FAO aggregates","no","no",1995,14649810371.6,1825800175.8000002,4708049873.1,52627726.7
+NA,"World","Agrifood systems","FAO aggregates","no","no",1996,14556886781,1821883282,4679099171.1,49940830.4
+NA,"World","Agrifood systems","FAO aggregates","no","no",1997,15524098171.9,1815599244.6000001,4924928398.900001,63488162.900000006
+NA,"World","Agrifood systems","FAO aggregates","no","no",1998,14902367656.5,1851912786.6,4810199323.400001,56904136.3
+NA,"World","Agrifood systems","FAO aggregates","no","no",1999,14796929247.400002,1865640272,4771804487.4,74419550.8
+NA,"World","Agrifood systems","FAO aggregates","no","no",2000,14741011050.4,1847162561.7,4731353130.8,73853525.2
+NA,"World","Agrifood systems","FAO aggregates","no","no",2001,14269401409.800001,1883317543.8000002,4713077975.1,88864781.4
+NA,"World","Agrifood systems","FAO aggregates","no","no",2002,14846484925.300001,1932112229.4,4865072662.8,107546018.4
+NA,"World","Agrifood systems","FAO aggregates","no","no",2003,14677466215.4,1951731727,4807205037,121404608.39999999
+NA,"World","Agrifood systems","FAO aggregates","no","no",2004,15351789719.8,2011847408.2,4975664081.3,138881912.5
+NA,"World","Agrifood systems","FAO aggregates","no","no",2005,15230994680.9,2020153376.8,4948230967.5,142973310.3
+NA,"World","Agrifood systems","FAO aggregates","no","no",2006,15809947452.3,2040128484.3,5078768331.2,165896005.70000002
+NA,"World","Agrifood systems","FAO aggregates","no","no",2007,15450884247.300001,2094272506.8000002,4995813926.7,188286885.5
+NA,"World","Agrifood systems","FAO aggregates","no","no",2008,15490399511.5,2073307689.5,5001820479.1,209512089.6
+NA,"World","Agrifood systems","FAO aggregates","no","no",2009,15895568700.5,2078362942.4,5099908715.900001,224863245.5
+NA,"World","Agrifood systems","FAO aggregates","no","no",2010,15800558873.7,2148983626.9,5060990791.1,250028015
+NA,"World","Agrifood systems","FAO aggregates","no","no",2011,15827455283.3,2205057876.3,5159117783.3,274555694.8
+NA,"World","Agrifood systems","FAO aggregates","no","no",2012,15951416706.1,2213764510.4,5187082971.7,303081355.3
+NA,"World","Agrifood systems","FAO aggregates","no","no",2013,16059044963.199999,2186562183.8,5142986294.200001,326290405.5
+NA,"World","Agrifood systems","FAO aggregates","no","no",2014,16519153502.5,2217259749.1,5253080990.1,355786913.7
+NA,"World","Agrifood systems","FAO aggregates","no","no",2015,16566725249,2225979630.7999997,5283770338,369395535.6
+NA,"World","Agrifood systems","FAO aggregates","no","no",2016,15843316493.1,2238805668.1,5170879833.3,389882788.2
+NA,"World","Agrifood systems","FAO aggregates","no","no",2017,15924120686.2,2284822089.5,5202751052.400001,406333813.2
+NA,"World","Agrifood systems","FAO aggregates","no","no",2018,16136601313.4,2254149683.3,5233221075.6,422089257.7
+NA,"World","Agrifood systems","FAO aggregates","no","no",2019,16396435262.800001,2268677409.2000003,5306478006.7,439170244.2
+NA,"World","Agrifood systems","FAO aggregates","no","no",2020,16068038530.4,2326485746.2,5260076115.299999,455775638.3
+NA,"World","Agrifood systems","FAO aggregates","no","no",2021,16269113536.599998,2332445023.8,5276503970.8,484820999.20000005
+NA,"World","Agrifood systems","FAO aggregates","no","no",2022,16240231621.300001,2304140850.8,5284390764.4,484820999.20000005
+NA,"World","Agrifood systems","FAO aggregates","no","no",2030,NA,NA,NA,NA
+NA,"World","Agrifood systems","FAO aggregates","no","no",2050,NA,NA,NA,NA
+NA,"World","Farm gate","Agrifood systems","no","yes",1992,6688008429.1,1632928701.5,3531310773.2000003,NA
+NA,"World","Farm gate","Agrifood systems","no","yes",1993,6635560752.9,1618355848,3513006490,NA
+NA,"World","Farm gate","Agrifood systems","no","yes",1994,6706765680.4,1634859465,3541751939.6000004,NA
+NA,"World","Farm gate","Agrifood systems","no","yes",1995,6791415129.8,1669693953.5,3561181218,NA
+NA,"World","Farm gate","Agrifood systems","no","yes",1996,6825211220.5,1699233768.5,3559437529.2000003,NA
+NA,"World","Farm gate","Agrifood systems","no","yes",1997,6746619828.700001,1675278033.5,3509713253.2000003,NA
+NA,"World","Farm gate","Agrifood systems","no","yes",1998,6791818843.3,1703895171.5,3534674399.2,NA
+NA,"World","Farm gate","Agrifood systems","no","yes",1999,6835616393.8,1726646004.5,3568999758.8,NA
+NA,"World","Farm gate","Agrifood systems","no","yes",2000,6834518809.1,1720408699.5,3572606688,NA
+NA,"World","Farm gate","Agrifood systems","no","yes",2001,6840976935.3,1731498393,3566048362.7999997,NA
+NA,"World","Farm gate","Agrifood systems","no","yes",2002,6841081283.200001,1762928373.5,3589021293.2000003,NA
+NA,"World","Farm gate","Agrifood systems","no","yes",2003,6872925290.7,1761177094.5,3588551038.8,NA
+NA,"World","Farm gate","Agrifood systems","no","yes",2004,7027632748,1812159517,3648931689.2,NA
+NA,"World","Farm gate","Agrifood systems","no","yes",2005,7094253581.7,1820605014,3682254657.2,NA
+NA,"World","Farm gate","Agrifood systems","no","yes",2006,7180010200.2,1849056659.5,3714979410.8,NA
+NA,"World","Farm gate","Agrifood systems","no","yes",2007,7230533764.6,1887627568.5,3750934499.2,NA
+NA,"World","Farm gate","Agrifood systems","no","yes",2008,7257334597.400001,1881253152.5,3767794676.8,NA
+NA,"World","Farm gate","Agrifood systems","no","yes",2009,7248093901,1887084557,3757901532,NA
+NA,"World","Farm gate","Agrifood systems","no","yes",2010,7332008563.5,1923787746,3779966422.4,NA
+NA,"World","Farm gate","Agrifood systems","no","yes",2011,7493170774.2,1994406085.5,3840099211.2,NA
+NA,"World","Farm gate","Agrifood systems","no","yes",2012,7531078770,1999621312,3856981604,NA
+NA,"World","Farm gate","Agrifood systems","no","yes",2013,7516173712.3,1981417958.5,3820430068,NA
+NA,"World","Farm gate","Agrifood systems","no","yes",2014,7573065260.599999,2008678932.5,3846190012,NA
+NA,"World","Farm gate","Agrifood systems","no","yes",2015,7562499489,2012113942,3861282997.6,NA
+NA,"World","Farm gate","Agrifood systems","no","yes",2016,7619543537,2024454833,3888333836.8,NA
+NA,"World","Farm gate","Agrifood systems","no","yes",2017,7732443617.6,2070552563.5,3925937836.8,NA
+NA,"World","Farm gate","Agrifood systems","no","yes",2018,7712985451.2,2055924033.5,3918768736.3999996,NA
+NA,"World","Farm gate","Agrifood systems","no","yes",2019,7717673705,2053773426,3910593374.7999997,NA
+NA,"World","Farm gate","Agrifood systems","no","yes",2020,7787487099.3,2105418216,3964562277.2,NA
+NA,"World","Farm gate","Agrifood systems","no","yes",2021,7833801093.7,2117189807.5,3998197725.2000003,NA
+NA,"World","Farm gate","Agrifood systems","no","yes",2022,7836567809.1,2098403454,4019952288.8,NA
+NA,"World","Farm gate","Agrifood systems","no","yes",2030,NA,NA,NA,NA
+NA,"World","Farm gate","Agrifood systems","no","yes",2050,NA,NA,NA,NA
+NA,"World","Land Use change","Agrifood systems","no","yes",1992,4673137708.2,61493276.5,150676624,NA
+NA,"World","Land Use change","Agrifood systems","no","yes",1993,4673137708.2,61493276.5,150676624,NA
+NA,"World","Land Use change","Agrifood systems","no","yes",1994,4673137708.2,61493276.5,150676624,NA
+NA,"World","Land Use change","Agrifood systems","no","yes",1995,4673137708.2,61493276.5,150676624,NA
+NA,"World","Land Use change","Agrifood systems","no","yes",1996,4461456549.4,24608456.5,108097505.60000001,NA
+NA,"World","Land Use change","Agrifood systems","no","yes",1997,5461125955.900001,41103275.5,402801226.8,NA
+NA,"World","Land Use change","Agrifood systems","no","yes",1998,4731566694.400001,45756357.5,228153875.6,NA
+NA,"World","Land Use change","Agrifood systems","no","yes",1999,4539435173.2,33636397,149836033.20000002,NA
+NA,"World","Land Use change","Agrifood systems","no","yes",2000,4406541225,20819725,84926352,NA
+NA,"World","Land Use change","Agrifood systems","no","yes",2001,3828991740,44038018,61391766.8,NA
+NA,"World","Land Use change","Agrifood systems","no","yes",2002,4356142402.099999,55189059,203434669.20000002,NA
+NA,"World","Land Use change","Agrifood systems","no","yes",2003,4024029388.7999997,72361191.5,128557086,NA
+NA,"World","Land Use change","Agrifood systems","no","yes",2004,4402881489.6,81076670.5,231075745.6,NA
+NA,"World","Land Use change","Agrifood systems","no","yes",2005,4117071301.4,80422438.5,157269935.20000002,NA
+NA,"World","Land Use change","Agrifood systems","no","yes",2006,4480901865.8,67950319.5,243220821.20000002,NA
+NA,"World","Land Use change","Agrifood systems","no","yes",2007,3928081306.6,81246217.5,109282728.8,NA
+NA,"World","Land Use change","Agrifood systems","no","yes",2008,3872284531.8999996,65417529,85406308.39999999,NA
+NA,"World","Land Use change","Agrifood systems","no","yes",2009,4270317802.5,62281492.5,185729132.4,NA
+NA,"World","Land Use change","Agrifood systems","no","yes",2010,3932940763.2,90771801.5,116271864.8,NA
+NA,"World","Land Use change","Agrifood systems","no","yes",2011,3673606145.6,71061419.5,138257014,NA
+NA,"World","Land Use change","Agrifood systems","no","yes",2012,3687055625.6,73683011.5,143291436.4,NA
+NA,"World","Land Use change","Agrifood systems","no","yes",2013,3645110211.2,63886385.5,126602700,NA
+NA,"World","Land Use change","Agrifood systems","no","yes",2014,3995901776.9,64134425.5,216757923.2,NA
+NA,"World","Land Use change","Agrifood systems","no","yes",2015,4034918066.1,72052652,231574229.6,NA
+NA,"World","Land Use change","Agrifood systems","no","yes",2016,3170499943.2999997,70058553.5,100148109.6,NA
+NA,"World","Land Use change","Agrifood systems","no","yes",2017,3125766749.7999997,71878679.5,89765096.39999999,NA
+NA,"World","Land Use change","Agrifood systems","no","yes",2018,3287562857,56942378.5,122299419.2,NA
+NA,"World","Land Use change","Agrifood systems","no","yes",2019,3552834469.9,72466847,199763967.20000002,NA
+NA,"World","Land Use change","Agrifood systems","no","yes",2020,3151153050.7,73451666.5,97225116.8,NA
+NA,"World","Land Use change","Agrifood systems","no","yes",2021,3101243474.8,62906097.5,78057288.4,NA
+NA,"World","Land Use change","Agrifood systems","no","yes",2022,3069594844.1,53388278,64189518.4,NA
+NA,"World","Land Use change","Agrifood systems","no","yes",2030,NA,NA,NA,NA
+NA,"World","Land Use change","Agrifood systems","no","yes",2050,NA,NA,NA,NA
+NA,"World","Pre- and Post- Production","Agrifood systems","no","yes",1992,2921753056.9,88085598.80000001,947759292.9,84683345.5
+NA,"World","Pre- and Post- Production","Agrifood systems","no","yes",1993,2971348083.9,88357733.60000001,965197658.5,57829209.4
+NA,"World","Pre- and Post- Production","Agrifood systems","no","yes",1994,3013624069,91065596.69999999,973398467.9000001,67303695.7
+NA,"World","Pre- and Post- Production","Agrifood systems","no","yes",1995,3185257533.6000004,94612945.8,996192031.1,52627726.7
+NA,"World","Pre- and Post- Production","Agrifood systems","no","yes",1996,3270219011.1,98041057,1011564136.3000001,49940830.4
+NA,"World","Pre- and Post- Production","Agrifood systems","no","yes",1997,3316352387.3,99217935.6,1012413918.9000001,63488162.900000006
+NA,"World","Pre- and Post- Production","Agrifood systems","no","yes",1998,3378982118.7999997,102261257.6,1047371048.6,56904136.3
+NA,"World","Pre- and Post- Production","Agrifood systems","no","yes",1999,3421877680.4,105357870.6,1052968695.4000001,74419550.8
+NA,"World","Pre- and Post- Production","Agrifood systems","no","yes",2000,3499951016.2999997,105934137.2,1073820090.8,73853525.2
+NA,"World","Pre- and Post- Production","Agrifood systems","no","yes",2001,3599432734.5,107781132.80000001,1085637845.5,88864781.4
+NA,"World","Pre- and Post- Production","Agrifood systems","no","yes",2002,3649261240,113994796.9,1072616700.4,107546018.4
+NA,"World","Pre- and Post- Production","Agrifood systems","no","yes",2003,3780511535.9,118193441,1090096912.1999998,121404608.39999999
+NA,"World","Pre- and Post- Production","Agrifood systems","no","yes",2004,3921275482.2,118611220.7,1095656646.5,138881912.5
+NA,"World","Pre- and Post- Production","Agrifood systems","no","yes",2005,4019669797.7999997,119125924.4,1108706375.1000001,142973310.3
+NA,"World","Pre- and Post- Production","Agrifood systems","no","yes",2006,4149035386.2999997,123121505.3,1120568099.2,165896005.70000002
+NA,"World","Pre- and Post- Production","Agrifood systems","no","yes",2007,4292269176.1,125398720.8,1135596698.7,188286885.5
+NA,"World","Pre- and Post- Production","Agrifood systems","no","yes",2008,4360780382.2,126637008,1148619493.8999999,209512089.6
+NA,"World","Pre- and Post- Production","Agrifood systems","no","yes",2009,4377156997,128996892.9,1156278051.5,224863245.5
+NA,"World","Pre- and Post- Production","Agrifood systems","no","yes",2010,4535609547,134424079.39999998,1164752503.8999999,250028015
+NA,"World","Pre- and Post- Production","Agrifood systems","no","yes",2011,4660678363.5,139590371.3,1180761558.1,274555694.8
+NA,"World","Pre- and Post- Production","Agrifood systems","no","yes",2012,4733282310.5,140460186.9,1186809931.3,303081355.3
+NA,"World","Pre- and Post- Production","Agrifood systems","no","yes",2013,4897761039.7,141257839.79999998,1195953526.2,326290405.5
+NA,"World","Pre- and Post- Production","Agrifood systems","no","yes",2014,4950186465,144446391.1,1190133054.9,355786913.7
+NA,"World","Pre- and Post- Production","Agrifood systems","no","yes",2015,4969307693.900001,141813036.8,1190913110.8,369395535.6
+NA,"World","Pre- and Post- Production","Agrifood systems","no","yes",2016,5053273012.799999,144292281.6,1182397886.9,389882788.2
+NA,"World","Pre- and Post- Production","Agrifood systems","no","yes",2017,5065910318.799999,142390846.5,1187048119.2,406333813.2
+NA,"World","Pre- and Post- Production","Agrifood systems","no","yes",2018,5136053005.2,141283271.29999998,1192152920,422089257.7
+NA,"World","Pre- and Post- Production","Agrifood systems","no","yes",2019,5125927087.9,142437136.20000002,1196120664.7,439170244.2
+NA,"World","Pre- and Post- Production","Agrifood systems","no","yes",2020,5129398380.400001,147615863.7,1198288721.3000002,455775638.3
+NA,"World","Pre- and Post- Production","Agrifood systems","no","yes",2021,5334068968.1,152349118.79999998,1200248957.2,484820999.20000005
+NA,"World","Pre- and Post- Production","Agrifood systems","no","yes",2022,5334068968.1,152349118.79999998,1200248957.2,484820999.20000005
+NA,"World","Pre- and Post- Production","Agrifood systems","no","yes",2030,NA,NA,NA,NA
+NA,"World","Pre- and Post- Production","Agrifood systems","no","yes",2050,NA,NA,NA,NA
+NA,"World","Emissions on agricultural land","FAO aggregates","no","no",1992,11361146137.3,1694421978,3681987397.2,NA
+NA,"World","Emissions on agricultural land","FAO aggregates","no","no",1993,11308698461.1,1679849124.5,3663683114,NA
+NA,"World","Emissions on agricultural land","FAO aggregates","no","no",1994,11379903388.599998,1696352741.5,3692428563.6,NA
+NA,"World","Emissions on agricultural land","FAO aggregates","no","no",1995,11464552838,1731187230,3711857842,NA
+NA,"World","Emissions on agricultural land","FAO aggregates","no","no",1996,11286667769.9,1723842225,3667535034.8,NA
+NA,"World","Emissions on agricultural land","FAO aggregates","no","no",1997,12207745784.6,1716381309,3912514480,NA
+NA,"World","Emissions on agricultural land","FAO aggregates","no","no",1998,11523385537.699999,1749651529,3762828274.7999997,NA
+NA,"World","Emissions on agricultural land","FAO aggregates","no","no",1999,11375051567,1760282401.5,3718835792,NA
+NA,"World","Emissions on agricultural land","FAO aggregates","no","no",2000,11241060034.1,1741228424.5,3657533040,NA
+NA,"World","Emissions on agricultural land","FAO aggregates","no","no",2001,10669968675.300001,1775536411,3627440129.6,NA
+NA,"World","Emissions on agricultural land","FAO aggregates","no","no",2002,11197223685.3,1818117432.5,3792455962.4,NA
+NA,"World","Emissions on agricultural land","FAO aggregates","no","no",2003,10896954679.5,1833538286,3717108124.7999997,NA
+NA,"World","Emissions on agricultural land","FAO aggregates","no","no",2004,11430514237.6,1893236187.5,3880007434.7999997,NA
+NA,"World","Emissions on agricultural land","FAO aggregates","no","no",2005,11211324883.099998,1901027452.5,3839524592.4,NA
+NA,"World","Emissions on agricultural land","FAO aggregates","no","no",2006,11660912066,1917006979,3958200232,NA
+NA,"World","Emissions on agricultural land","FAO aggregates","no","no",2007,11158615071.2,1968873786,3860217228,NA
+NA,"World","Emissions on agricultural land","FAO aggregates","no","no",2008,11129619129.3,1946670681.5,3853200985.2,NA
+NA,"World","Emissions on agricultural land","FAO aggregates","no","no",2009,11518411703.5,1949366049.5,3943630664.4,NA
+NA,"World","Emissions on agricultural land","FAO aggregates","no","no",2010,11264949326.7,2014559547.5,3896238287.2000003,NA
+NA,"World","Emissions on agricultural land","FAO aggregates","no","no",2011,11166776919.800001,2065467505,3978356225.2000003,NA
+NA,"World","Emissions on agricultural land","FAO aggregates","no","no",2012,11218134395.6,2073304323.5,4000273040.3999996,NA
+NA,"World","Emissions on agricultural land","FAO aggregates","no","no",2013,11161283923.5,2045304344,3947032768,NA
+NA,"World","Emissions on agricultural land","FAO aggregates","no","no",2014,11568967037.5,2072813358,4062947935.2000003,NA
+NA,"World","Emissions on agricultural land","FAO aggregates","no","no",2015,11597417555.1,2084166594,4092857227.2000003,NA
+NA,"World","Emissions on agricultural land","FAO aggregates","no","no",2016,10790043480.3,2094513386.5,3988481946.3999996,NA
+NA,"World","Emissions on agricultural land","FAO aggregates","no","no",2017,10858210367.4,2142431242.9999998,4015702933.2,NA
+NA,"World","Emissions on agricultural land","FAO aggregates","no","no",2018,11000548308.2,2112866412,4041068155.6000004,NA
+NA,"World","Emissions on agricultural land","FAO aggregates","no","no",2019,11270508174.900002,2126240273,4110357342,NA
+NA,"World","Emissions on agricultural land","FAO aggregates","no","no",2020,10938640150,2178869882.5,4061787394,NA
+NA,"World","Emissions on agricultural land","FAO aggregates","no","no",2021,10935044568.5,2180095905,4076255013.6000004,NA
+NA,"World","Emissions on agricultural land","FAO aggregates","no","no",2022,10906162653.2,2151791732,4084141807.2000003,NA
+NA,"World","Emissions on agricultural land","FAO aggregates","no","no",2030,NA,NA,NA,NA
+NA,"World","Emissions on agricultural land","FAO aggregates","no","no",2050,NA,NA,NA,NA
+NA,"World","Emissions from crops","FAO aggregates","no","no",1992,1194219038.3999999,547460638,646758400.4000001,NA
+NA,"World","Emissions from crops","FAO aggregates","no","no",1993,1176082227.8,535303975,640778252.8000001,NA
+NA,"World","Emissions from crops","FAO aggregates","no","no",1994,1188195331.1999998,540880582,647314749.1999999,NA
+NA,"World","Emissions from crops","FAO aggregates","no","no",1995,1226262774.4,567653108,658609666.4,NA
+NA,"World","Emissions from crops","FAO aggregates","no","no",1996,1266866312.1,600655810.5,666210501.5999999,NA
+NA,"World","Emissions from crops","FAO aggregates","no","no",1997,1264527130.5,594336196.5,670190934,NA
+NA,"World","Emissions from crops","FAO aggregates","no","no",1998,1267670801.5,601135407.5,666535394,NA
+NA,"World","Emissions from crops","FAO aggregates","no","no",1999,1304467526.4,612889456,691578070.4,NA
+NA,"World","Emissions from crops","FAO aggregates","no","no",2000,1267869089.9,590642573.5,677226516.4,NA
+NA,"World","Emissions from crops","FAO aggregates","no","no",2001,1267380918.2,598620213,668760705.1999999,NA
+NA,"World","Emissions from crops","FAO aggregates","no","no",2002,1264194699.5,609695119.5,654499580,NA
+NA,"World","Emissions from crops","FAO aggregates","no","no",2003,1279693240.4,625969644,653723596.4000001,NA
+NA,"World","Emissions from crops","FAO aggregates","no","no",2004,1317848282.3999999,650146442,667701840.4,NA
+NA,"World","Emissions from crops","FAO aggregates","no","no",2005,1336482078.5,653824032.5,682658046,NA
+NA,"World","Emissions from crops","FAO aggregates","no","no",2006,1353835323.5,669508799.5,684326524,NA
+NA,"World","Emissions from crops","FAO aggregates","no","no",2007,1375957634.7,691105875.5,684851759.1999999,NA
+NA,"World","Emissions from crops","FAO aggregates","no","no",2008,1394812066.6,692246939,702565127.6,NA
+NA,"World","Emissions from crops","FAO aggregates","no","no",2009,1400868034.2,703864751,697003283.1999999,NA
+NA,"World","Emissions from crops","FAO aggregates","no","no",2010,1437794402.1999998,727208389,710586013.2,NA
+NA,"World","Emissions from crops","FAO aggregates","no","no",2011,1467915156,754082834,713832322,NA
+NA,"World","Emissions from crops","FAO aggregates","no","no",2012,1464032373.3000002,752260190.5,711772182.8,NA
+NA,"World","Emissions from crops","FAO aggregates","no","no",2013,1492520406.9,773575094.5,718945312.4000001,NA
+NA,"World","Emissions from crops","FAO aggregates","no","no",2014,1498416966.4,783740044,714676922.4000001,NA
+NA,"World","Emissions from crops","FAO aggregates","no","no",2015,1483208158.1,778343292.5,704864865.6,NA
+NA,"World","Emissions from crops","FAO aggregates","no","no",2016,1499173457.3,788370256.5,710803200.8,NA
+NA,"World","Emissions from crops","FAO aggregates","no","no",2017,1518374017.9,804733529.5,713640488.4,NA
+NA,"World","Emissions from crops","FAO aggregates","no","no",2018,1509507401,794612199,714895202,NA
+NA,"World","Emissions from crops","FAO aggregates","no","no",2019,1493883180,793684646,700198534,NA
+NA,"World","Emissions from crops","FAO aggregates","no","no",2020,1549787899.2,831882700,717905199.2,NA
+NA,"World","Emissions from crops","FAO aggregates","no","no",2021,1548969118.6,827633743,721335375.6,NA
+NA,"World","Emissions from crops","FAO aggregates","no","no",2022,1512035966.7,799175737.5,712860229.1999999,NA
+NA,"World","Emissions from crops","FAO aggregates","no","no",2030,1558205431.2,861372430,696833001.2,NA
+NA,"World","Emissions from crops","FAO aggregates","no","no",2050,1642520356.9,957523042.5,684997314.4,NA
+NA,"World","Emissions from livestock","FAO aggregates","no","no",1992,3576369583.3,842567208.5,2733802374.7999997,NA
+NA,"World","Emissions from livestock","FAO aggregates","no","no",1993,3562977763.2,841036754,2721941009.2000003,NA
+NA,"World","Emissions from livestock","FAO aggregates","no","no",1994,3595477689.1,851991721.5,2743485967.6,NA
+NA,"World","Emissions from livestock","FAO aggregates","no","no",1995,3609132203.9,858408219.5,2750723984.4,NA
+NA,"World","Emissions from livestock","FAO aggregates","no","no",1996,3614738692.9,863732440.5,2751006252.4,NA
+NA,"World","Emissions from livestock","FAO aggregates","no","no",1997,3551697948.7999997,849592862,2702105086.8,NA
+NA,"World","Emissions from livestock","FAO aggregates","no","no",1998,3558288634.9,851228998.5,2707059636.4,NA
+NA,"World","Emissions from livestock","FAO aggregates","no","no",1999,3573315481.6,858930614,2714384867.6,NA
+NA,"World","Emissions from livestock","FAO aggregates","no","no",2000,3592873562.7000003,867228797.5,2725644765.2,NA
+NA,"World","Emissions from livestock","FAO aggregates","no","no",2001,3596324393.4,869353859,2726970534.3999996,NA
+NA,"World","Emissions from livestock","FAO aggregates","no","no",2002,3633130254.2,880794545,2752335709.2,NA
+NA,"World","Emissions from livestock","FAO aggregates","no","no",2003,3674345376.9,890178486.5,2784166890.4,NA
+NA,"World","Emissions from livestock","FAO aggregates","no","no",2004,3717652263.1,902297519.5,2815354743.6000004,NA
+NA,"World","Emissions from livestock","FAO aggregates","no","no",2005,3759762215.2,915226048,2844536167.2,NA
+NA,"World","Emissions from livestock","FAO aggregates","no","no",2006,3795043428.2,924117275,2870926153.2000003,NA
+NA,"World","Emissions from livestock","FAO aggregates","no","no",2007,3830591833.5,935022793.5,2895569040,NA
+NA,"World","Emissions from livestock","FAO aggregates","no","no",2008,3862468114.8,945532720,2916935394.7999997,NA
+NA,"World","Emissions from livestock","FAO aggregates","no","no",2009,3876016317.6000004,951738172,2924278145.6,NA
+NA,"World","Emissions from livestock","FAO aggregates","no","no",2010,3877075449.3999996,954765267,2922310182.3999996,NA
+NA,"World","Emissions from livestock","FAO aggregates","no","no",2011,3892402966.7000003,958798911.5,2933604055.2,NA
+NA,"World","Emissions from livestock","FAO aggregates","no","no",2012,3928142076.4,970741216,2957400860.4,NA
+NA,"World","Emissions from livestock","FAO aggregates","no","no",2013,3947002652.7,977653979.5,2969348673.2000003,NA
+NA,"World","Emissions from livestock","FAO aggregates","no","no",2014,3974854986.5,985545838.5,2989309148,NA
+NA,"World","Emissions from livestock","FAO aggregates","no","no",2015,4011148612.4,997562714,3013585898.3999996,NA
+NA,"World","Emissions from livestock","FAO aggregates","no","no",2016,4057527578.1,1011002692.5,3046524885.6000004,NA
+NA,"World","Emissions from livestock","FAO aggregates","no","no",2017,4084334832.7000003,1022913647.5,3061421185.2000003,NA
+NA,"World","Emissions from livestock","FAO aggregates","no","no",2018,4092797116.8,1027512696,3065284420.8,NA
+NA,"World","Emissions from livestock","FAO aggregates","no","no",2019,4122279203.4,1036937103,3085342100.4,NA
+NA,"World","Emissions from livestock","FAO aggregates","no","no",2020,4175703143,1052803713,3122899430,NA
+NA,"World","Emissions from livestock","FAO aggregates","no","no",2021,4212360700.2999997,1062942957.5,3149417742.8,NA
+NA,"World","Emissions from livestock","FAO aggregates","no","no",2022,4259877757.7,1076125594.5,3183752163.2,NA
+NA,"World","Emissions from livestock","FAO aggregates","no","no",2030,4425555106.8,1114556504,3310998602.8,NA
+NA,"World","Emissions from livestock","FAO aggregates","no","no",2050,4943284786.5,1272654046.5,3670630740,NA
+NA,"World","Agriculture","IPCC aggregates","yes","no",1992,5123315612.200001,1600799863,3522515749.2,NA
+NA,"World","Agriculture","IPCC aggregates","yes","no",1993,5091786133.5,1587111897.5,3504674236,NA
+NA,"World","Agriculture","IPCC aggregates","yes","no",1994,5136362991.8,1603607273,3532755718.7999997,NA
+NA,"World","Agriculture","IPCC aggregates","yes","no",1995,5188540038.4,1637251408,3551288630.4,NA
+NA,"World","Agriculture","IPCC aggregates","yes","no",1996,5216276061.700001,1666963234.5,3549312827.2000003,NA
+NA,"World","Agriculture","IPCC aggregates","yes","no",1997,5142017639.1,1642381675.5,3499635963.6,NA
+NA,"World","Agriculture","IPCC aggregates","yes","no",1998,5196216661.7,1671578792.5,3524637869.2000003,NA
+NA,"World","Agriculture","IPCC aggregates","yes","no",1999,5253997746.7,1694074907.5,3559922839.2,NA
+NA,"World","Agriculture","IPCC aggregates","yes","no",2000,5251075009.700001,1686849046.5,3564225963.2000003,NA
+NA,"World","Agriculture","IPCC aggregates","yes","no",2001,5255673249.200001,1697710522,3557962727.2000003,NA
+NA,"World","Agriculture","IPCC aggregates","yes","no",2002,5314201780.7,1731784301.5,3582417479.2,NA
+NA,"World","Agriculture","IPCC aggregates","yes","no",2003,5310520937,1729446657,3581074280,NA
+NA,"World","Agriculture","IPCC aggregates","yes","no",2004,5419120131.099999,1778372679.5,3640747451.6,NA
+NA,"World","Agriculture","IPCC aggregates","yes","no",2005,5458908338.5,1785368944.5,3673539394,NA
+NA,"World","Agriculture","IPCC aggregates","yes","no",2006,5519707244.099999,1813828460.5,3705878783.6000004,NA
+NA,"World","Agriculture","IPCC aggregates","yes","no",2007,5597137452.2,1855601391,3741536061.2,NA
+NA,"World","Agriculture","IPCC aggregates","yes","no",2008,5606615531.3,1848187512.5,3758428018.8,NA
+NA,"World","Agriculture","IPCC aggregates","yes","no",2009,5604125187.8,1855823355,3748301832.8,NA
+NA,"World","Agriculture","IPCC aggregates","yes","no",2010,5661779311.9,1891506797.5,3770272514.4,NA
+NA,"World","Agriculture","IPCC aggregates","yes","no",2011,5791473871.6,1961619782,3829854089.6,NA
+NA,"World","Agriculture","IPCC aggregates","yes","no",2012,5813948103.299999,1967499522.5,3846448580.8,NA
+NA,"World","Agriculture","IPCC aggregates","yes","no",2013,5755782239.799999,1946844601,3808937638.7999997,NA
+NA,"World","Agriculture","IPCC aggregates","yes","no",2014,5808449360.3,1973720291.5,3834729068.8,NA
+NA,"World","Agriculture","IPCC aggregates","yes","no",2015,5829836030.1,1980490034.5,3849345995.6,NA
+NA,"World","Agriculture","IPCC aggregates","yes","no",2016,5869461107.8,1993453543,3876007564.7999997,NA
+NA,"World","Agriculture","IPCC aggregates","yes","no",2017,5952042210.2,2038717875,3913324335.2000003,NA
+NA,"World","Agriculture","IPCC aggregates","yes","no",2018,5931475905.3,2024079248.5,3907396656.8,NA
+NA,"World","Agriculture","IPCC aggregates","yes","no",2019,5921635029.5,2021677023.5,3899958006,NA
+NA,"World","Agriculture","IPCC aggregates","yes","no",2020,6029355739.900001,2075094133.5,3954261606.4,NA
+NA,"World","Agriculture","IPCC aggregates","yes","no",2021,6075035290.6,2085545389,3989489901.6,NA
+NA,"World","Agriculture","IPCC aggregates","yes","no",2022,6078003500.7,2066759035.5,4011244465.2,NA
+NA,"World","Agriculture","IPCC aggregates","yes","no",2030,NA,NA,NA,NA
+NA,"World","Agriculture","IPCC aggregates","yes","no",2050,NA,NA,NA,NA
+NA,"World","Agricultural Soils","IPCC aggregates","no","no",1992,1353535968.5,1353535968.5,NA,NA
+NA,"World","Agricultural Soils","IPCC aggregates","no","no",1993,1340307433.5,1340307433.5,NA,NA
+NA,"World","Agricultural Soils","IPCC aggregates","no","no",1994,1355637339,1355637339,NA,NA
+NA,"World","Agricultural Soils","IPCC aggregates","no","no",1995,1388523123.5,1388523123.5,NA,NA
+NA,"World","Agricultural Soils","IPCC aggregates","no","no",1996,1425912106,1425912106,NA,NA
+NA,"World","Agricultural Soils","IPCC aggregates","no","no",1997,1412586952,1412586952,NA,NA
+NA,"World","Agricultural Soils","IPCC aggregates","no","no",1998,1420949848.5,1420949848.5,NA,NA
+NA,"World","Agricultural Soils","IPCC aggregates","no","no",1999,1440954460,1440954460,NA,NA
+NA,"World","Agricultural Soils","IPCC aggregates","no","no",2000,1426553141,1426553141,NA,NA
+NA,"World","Agricultural Soils","IPCC aggregates","no","no",2001,1438177578,1438177578,NA,NA
+NA,"World","Agricultural Soils","IPCC aggregates","no","no",2002,1460879677.5,1460879677.5,NA,NA
+NA,"World","Agricultural Soils","IPCC aggregates","no","no",2003,1487207984,1487207984,NA,NA
+NA,"World","Agricultural Soils","IPCC aggregates","no","no",2004,1523735928.5,1523735928.5,NA,NA
+NA,"World","Agricultural Soils","IPCC aggregates","no","no",2005,1540206844.5,1540206844.5,NA,NA
+NA,"World","Agricultural Soils","IPCC aggregates","no","no",2006,1564085252.5,1564085252.5,NA,NA
+NA,"World","Agricultural Soils","IPCC aggregates","no","no",2007,1596628286,1596628286,NA,NA
+NA,"World","Agricultural Soils","IPCC aggregates","no","no",2008,1606721420.5,1606721420.5,NA,NA
+NA,"World","Agricultural Soils","IPCC aggregates","no","no",2009,1624579611.5,1624579611.5,NA,NA
+NA,"World","Agricultural Soils","IPCC aggregates","no","no",2010,1650963488.5,1650963488.5,NA,NA
+NA,"World","Agricultural Soils","IPCC aggregates","no","no",2011,1683079209.5,1683079209.5,NA,NA
+NA,"World","Agricultural Soils","IPCC aggregates","no","no",2012,1692906920,1692906920,NA,NA
+NA,"World","Agricultural Soils","IPCC aggregates","no","no",2013,1721554745,1721554745,NA,NA
+NA,"World","Agricultural Soils","IPCC aggregates","no","no",2014,1738783349,1738783349,NA,NA
+NA,"World","Agricultural Soils","IPCC aggregates","no","no",2015,1744112128,1744112128,NA,NA
+NA,"World","Agricultural Soils","IPCC aggregates","no","no",2016,1766556700.5,1766556700.5,NA,NA
+NA,"World","Agricultural Soils","IPCC aggregates","no","no",2017,1793779912,1793779912,NA,NA
+NA,"World","Agricultural Soils","IPCC aggregates","no","no",2018,1789939293.5,1789939293.5,NA,NA
+NA,"World","Agricultural Soils","IPCC aggregates","no","no",2019,1800709768,1800709768,NA,NA
+NA,"World","Agricultural Soils","IPCC aggregates","no","no",2020,1852451998.5,1852451998.5,NA,NA
+NA,"World","Agricultural Soils","IPCC aggregates","no","no",2021,1856753001.5,1856753001.5,NA,NA
+NA,"World","Agricultural Soils","IPCC aggregates","no","no",2022,1841095211.5,1841095211.5,NA,NA
+NA,"World","Agricultural Soils","IPCC aggregates","no","no",2030,NA,NA,NA,NA
+NA,"World","Agricultural Soils","IPCC aggregates","no","no",2050,NA,NA,NA,NA
+NA,"World","LULUCF","IPCC aggregates","yes","no",1992,2033915902,85291124.5,185081184.4,NA
+NA,"World","LULUCF","IPCC aggregates","yes","no",1993,2034349504.5,85291098,185081184.4,NA
+NA,"World","LULUCF","IPCC aggregates","yes","no",1994,2034016466.8,85291098,185081184.4,NA
+NA,"World","LULUCF","IPCC aggregates","yes","no",1995,2039624050,85291098,185081184.4,NA
+NA,"World","LULUCF","IPCC aggregates","yes","no",1996,1838414288.2,44379179,157877888,NA
+NA,"World","LULUCF","IPCC aggregates","yes","no",1997,2837769912.3,58685283.5,453084917.59999996,NA
+NA,"World","LULUCF","IPCC aggregates","yes","no",1998,2149914046.3,73830192.5,306071799.6,NA
+NA,"World","LULUCF","IPCC aggregates","yes","no",1999,1951647577.7,57628410.5,220340307.6,NA
+NA,"World","LULUCF","IPCC aggregates","yes","no",2000,1796244861.1999998,39135014.5,135573090.8,NA
+NA,"World","LULUCF","IPCC aggregates","yes","no",2001,1487781753.8,61613798.5,81730997.60000001,NA
+NA,"World","LULUCF","IPCC aggregates","yes","no",2002,2017549803.7,73167586.5,224240038.39999998,NA
+NA,"World","LULUCF","IPCC aggregates","yes","no",2003,1704629994.9,98368503.5,158653672.8,NA
+NA,"World","LULUCF","IPCC aggregates","yes","no",2004,2082948646.5,105635731,259496241.2,NA
+NA,"World","LULUCF","IPCC aggregates","yes","no",2005,1796078906.7,102285283,182570186.4,NA
+NA,"World","LULUCF","IPCC aggregates","yes","no",2006,2166971209.6000004,90626873,269462964.4,NA
+NA,"World","LULUCF","IPCC aggregates","yes","no",2007,1627803765.2,107411337,139561679.6,NA
+NA,"World","LULUCF","IPCC aggregates","yes","no",2008,1571482006.8000002,89465669.5,113235620.4,NA
+NA,"World","LULUCF","IPCC aggregates","yes","no",2009,1974110744.3,87066783.5,214411170.4,NA
+NA,"World","LULUCF","IPCC aggregates","yes","no",2010,1650541207.9,119354860.5,149348875.20000002,NA
+NA,"World","LULUCF","IPCC aggregates","yes","no",2011,564808877.6,93706862,164463177.20000002,NA
+NA,"World","LULUCF","IPCC aggregates","yes","no",2012,597318144.6,103423405,177707989.20000002,NA
+NA,"World","LULUCF","IPCC aggregates","yes","no",2013,544281229,87899360.5,154391241.2,NA
+NA,"World","LULUCF","IPCC aggregates","yes","no",2014,901085876.9,89527997.5,246144211.60000002,NA
+NA,"World","LULUCF","IPCC aggregates","yes","no",2015,936250537.6,95719828.5,258962482.8,NA
+NA,"World","LULUCF","IPCC aggregates","yes","no",2016,1406173697.1,94659060,128616460,NA
+NA,"World","LULUCF","IPCC aggregates","yes","no",2017,1360261854,95358686.5,116936853.60000001,NA
+NA,"World","LULUCF","IPCC aggregates","yes","no",2018,1528027411,81468976.5,150682392,NA
+NA,"World","LULUCF","IPCC aggregates","yes","no",2019,1809331217.2,103268353.5,235408527.20000002,NA
+NA,"World","LULUCF","IPCC aggregates","yes","no",2020,1398103068,98601067.5,126328930,NA
+NA,"World","LULUCF","IPCC aggregates","yes","no",2021,1345086472.4,86341743.5,105177744,NA
+NA,"World","LULUCF","IPCC aggregates","yes","no",2022,1298976093.9,70213472.5,83660172.39999999,NA
+NA,"World","LULUCF","IPCC aggregates","yes","no",2030,NA,NA,NA,NA
+NA,"World","LULUCF","IPCC aggregates","yes","no",2050,NA,NA,NA,NA
+NA,"World","AFOLU","IPCC aggregates","no","no",1992,7157231514.2,1686090987.5,3707596933.6,NA
+NA,"World","AFOLU","IPCC aggregates","no","no",1993,7126135638,1672402995.5,3689755420.4,NA
+NA,"World","AFOLU","IPCC aggregates","no","no",1994,7170379458.599999,1688898371,3717836903.2000003,NA
+NA,"World","AFOLU","IPCC aggregates","no","no",1995,7228164088.4,1722542506,3736369814.7999997,NA
+NA,"World","AFOLU","IPCC aggregates","no","no",1996,7054690349.9,1711342413.5,3707190715.2,NA
+NA,"World","AFOLU","IPCC aggregates","no","no",1997,7979787551.400001,1701066959,3952720881.2000003,NA
+NA,"World","AFOLU","IPCC aggregates","no","no",1998,7346130708,1745408985,3830709668.8,NA
+NA,"World","AFOLU","IPCC aggregates","no","no",1999,7205645324.400001,1751703318,3780263146.8,NA
+NA,"World","AFOLU","IPCC aggregates","no","no",2000,7047319870.900001,1725984061,3699799054,NA
+NA,"World","AFOLU","IPCC aggregates","no","no",2001,6743455003,1759324320.5,3639693724.8,NA
+NA,"World","AFOLU","IPCC aggregates","no","no",2002,7331751584.4,1804951888,3806657517.6,NA
+NA,"World","AFOLU","IPCC aggregates","no","no",2003,7015150931.900001,1827815160.5,3739727952.8,NA
+NA,"World","AFOLU","IPCC aggregates","no","no",2004,7502068777.599999,1884008410.5,3900243692.7999997,NA
+NA,"World","AFOLU","IPCC aggregates","no","no",2005,7254987245.2,1887654227.5,3856109580.4,NA
+NA,"World","AFOLU","IPCC aggregates","no","no",2006,7686678453.700001,1904455333.5,3975341748,NA
+NA,"World","AFOLU","IPCC aggregates","no","no",2007,7224941217.400001,1963012728,3881097740.7999997,NA
+NA,"World","AFOLU","IPCC aggregates","no","no",2008,7178097538.099999,1937653182,3871663639.2000003,NA
+NA,"World","AFOLU","IPCC aggregates","no","no",2009,7578235932.099999,1942890138.5,3962713003.2000003,NA
+NA,"World","AFOLU","IPCC aggregates","no","no",2010,7312320519.8,2010861658,3919621389.6,NA
+NA,"World","AFOLU","IPCC aggregates","no","no",2011,6356282749.200001,2055326644,3994317266.7999997,NA
+NA,"World","AFOLU","IPCC aggregates","no","no",2012,6411266247.9,2070922927.5,4024156570,NA
+NA,"World","AFOLU","IPCC aggregates","no","no",2013,6300063468.8,2034743961.5,3963328880,NA
+NA,"World","AFOLU","IPCC aggregates","no","no",2014,6709535237.200001,2063248289,4080873280.4,NA
+NA,"World","AFOLU","IPCC aggregates","no","no",2015,6766086567.7,2076209863,4108308478.4,NA
+NA,"World","AFOLU","IPCC aggregates","no","no",2016,7275634804.9,2088112603,4004624024.7999997,NA
+NA,"World","AFOLU","IPCC aggregates","no","no",2017,7312304064.2,2134076561.4999998,4030261188.8,NA
+NA,"World","AFOLU","IPCC aggregates","no","no",2018,7459503316.3,2105548225,4058079048.8,NA
+NA,"World","AFOLU","IPCC aggregates","no","no",2019,7730966246.7,2124945376.9999998,4135366533.2,NA
+NA,"World","AFOLU","IPCC aggregates","no","no",2020,7427458807.900001,2173695201,4080590536.4,NA
+NA,"World","AFOLU","IPCC aggregates","no","no",2021,7420121763,2171887132.5,4094667645.6,NA
+NA,"World","AFOLU","IPCC aggregates","no","no",2022,7376979594.6,2136972508,4094904637.6,NA
+NA,"World","AFOLU","IPCC aggregates","no","no",2030,NA,NA,NA,NA
+NA,"World","AFOLU","IPCC aggregates","no","no",2050,NA,NA,NA,NA
