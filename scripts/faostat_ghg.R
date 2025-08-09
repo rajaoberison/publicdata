@@ -42,7 +42,7 @@ non_agrifood <- c("Energy", "IPPU", "Waste", "International bunkers", "Others")
 # get selected aggregates
 tmp_agg <- tmp_long %>% filter(Item %in% c(FAO_agrifood, FAO_agg, IPCC_agg, non_agrifood))
 # add item groups
-tmp_grouped <- tmp_agg %>% mutate(Group = case_when(Item %in% FAO_agrifood ~ "Agrifood systems", Item %in% FAO_agg ~ "FAO aggregates", Item %in% IPCC_agg ~ "IPCC aggregates", T ~ "Not agri-food")) %>% mutate(sector = case_when(Item %in% c("IPCC Agriculture", "LULUCF", non_agrifood) ~ "yes", T ~ "no"), agrifood = case_when(Item %in% FAO_agrifood ~ "yes", T ~ "no")) %>% mutate(Item = case_when(Item == "IPCC Agriculture" ~ "Agriculture", T ~ Item))
+tmp_grouped <- tmp_agg %>% mutate(Group = case_when(Item %in% FAO_agrifood ~ "Agrifood systems", Item %in% FAO_agg ~ "FAO aggregates", Item %in% IPCC_agg ~ "IPCC aggregates", T ~ "Not agri-food")) %>% mutate(sector = case_when(Item %in% c("IPCC Agriculture", "LULUCF", non_agrifood) ~ "yes", T ~ "no"), agrifood = case_when(Item %in% FAO_agrifood ~ "yes", T ~ "no")) %>% mutate(Item = case_when(Item == "IPCC Agriculture" ~ "Agriculture", Item == "Emissions from crops" ~ "Crops", Item == "Emissions from livestock" ~ "Livestock", T ~ Item))
 
 # get iso3 code
 cty_code <- read.csv("../country_codes.csv", check.names = F)
