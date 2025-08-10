@@ -30,9 +30,10 @@ tmp_ghg <- read.csv(file.path(tmp_folder, "Emissions_Totals_E_All_Data_NOFLAG.cs
 # get only co2eq emission totals from FAO TIER 1
 tmp_co2eq <- tmp_ghg %>% filter(grepl("CO2eq", Element) & Source == "FAO TIER 1")
 # select key columns + convert to tCO2eq
-tmp_tCo2eq <- tmp_co2eq %>% select(`Area Code (M49)`, Item, Element, Y1992:Y2050) %>% mutate(across(Y1992:Y2050, \(x) x*1e3))
+maxYear <- names(tmp_co2eq %>% select(starts_with("Y"))) %>% gsub("Y", "", .) %>% as.integer() %>% max(na.rm=T)
+tmp_tCo2eq <- tmp_co2eq %>% select(`Area Code (M49)`, Item, Element, Y1992:paste0("Y",maxYear)) %>% mutate(across(Y1992:paste0("Y",maxYear), \(x) x*1e3))
 # transpose year and element
-tmp_long0 <- tmp_tCo2eq %>% tidyr::pivot_longer(Y1992:Y2050, names_to = "Year", values_to = "tCO2eq") %>% mutate(Year = as.integer(gsub("Y", "", Year)))
+tmp_long0 <- tmp_tCo2eq %>% tidyr::pivot_longer(Y1992:paste0("Y",maxYear), names_to = "Year", values_to = "tCO2eq") %>% mutate(Year = as.integer(gsub("Y", "", Year)))
 tmp_long <- tmp_long0 %>% tidyr::pivot_wider(names_from = Element, values_from = "tCO2eq", values_fill = NA) %>% rename(tCO2eq_total = `Emissions (CO2eq) (AR5)`, tCO2eq_N2O = `Emissions (CO2eq) from N2O (AR5)`, tCO2eq_CH4 = `Emissions (CO2eq) from CH4 (AR5)`, tCO2eq_Fgases = `Emissions (CO2eq) from F-gases (AR5)`)
 # get only aggregate values
 FAO_agrifood <- c("Farm gate", "Land Use change", "Pre- and Post- Production")
