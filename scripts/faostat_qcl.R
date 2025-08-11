@@ -5,8 +5,8 @@
 #' 
 #' Necessary packages: utils, dplyr, tidyr, readr
 #' 
-#' Data source: https://bulks-faostat.fao.org/production/Production_Crops_Livestock_E_All_Data.zip
-#' Output format: ISO3, Area, Item, Year, tCO2eq_N2O, tCO2eq_total, tCO2eq_CH4, tCO2eq_Fgases, Group, charted
+#' Data source: https://www.fao.org/faostat/en/#data/QCL
+#' Output format: ISO3, Area, cpc_name1, Item, Element, Unit, Year, value, grouped
 #' @source: \url{https://github.com/rajaoberison/publicdata}
 library(dplyr)
 
