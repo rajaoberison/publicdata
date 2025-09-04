@@ -1,75 +1,76 @@
-ISO3,OPERATION,SHAREHOLDERS
-ALB,1,1
-ARE,0,1
-ARM,1,1
-AUS,0,1
-AUT,0,1
-AZE,1,1
-BEL,0,1
-BEN,1,0
-BGR,1,1
-BIH,1,1
-CAN,0,1
-CHE,0,1
-CHN,0,1
-CIV,1,0
-CYP,1,1
-CZE,1,1
-DEU,0,1
-DNK,0,1
-DZA,0,1
-EGY,1,1
-ESP,0,1
-EST,1,1
-FIN,0,1
-FRA,0,1
-GBR,0,1
-GEO,1,1
-GRC,1,1
-HRV,1,1
-HUN,1,1
-IND,0,1
-IRL,0,1
-IRQ,0,1
-ISL,0,1
-ISR,0,1
-ITA,0,1
-JOR,1,1
-JPN,0,1
-KAZ,1,1
-KEN,0,1
-KGZ,1,1
-KOR,0,1
-LBN,1,1
-LBY,0,1
-LIE,0,1
-LTU,1,1
-LUX,0,1
-LVA,1,1
-MAR,1,1
-MDA,1,1
-MEX,0,1
-MKD,1,1
-MLT,0,1
-MNE,1,1
-MNG,1,1
-NGA,1,0
-NLD,0,1
-NOR,0,1
-NZL,0,1
-POL,1,1
-PRT,0,1
-ROU,1,1
-SEN,0,1
-SMR,0,1
-SRB,1,1
-SVK,1,1
-SVN,1,1
-SWE,0,1
-TJK,1,1
-TKM,1,1
-TUN,1,1
-TUR,1,1
-UKR,1,1
-USA,0,1
-UZB,1,1
+﻿ISO3,OPERATION,SHAREHOLDER,Country or Area,Sub-region Name,EBRD region
+ALB,1,1,Albania,Southern Europe,South-eastern Europe
+ARE,0,1,United Arab Emirates,Western Asia,n/a
+ARM,1,1,Armenia,Western Asia,Eastern Europe and the Caucasus
+AUS,0,1,Australia,Australia and New Zealand,n/a
+AUT,0,1,Austria,Western Europe,n/a
+AZE,1,1,Azerbaijan,Western Asia,Eastern Europe and the Caucasus
+BEL,0,1,Belgium,Western Europe,n/a
+BEN,1,0,Benin,Sub-Saharan Africa,Sub-Saharan Africa
+BGR,1,1,Bulgaria,Eastern Europe,South-eastern Europe
+BIH,1,1,Bosnia and Herzegovina,Southern Europe,South-eastern Europe
+CAN,0,1,Canada,Northern America,n/a
+CHE,0,1,Switzerland,Western Europe,n/a
+CHN,0,1,China,Eastern Asia,n/a
+CIV,1,0,Côte d’Ivoire,Sub-Saharan Africa,Sub-Saharan Africa
+CYP,1,1,Cyprus,Western Asia,n/a
+CZE,1,1,Czechia,Eastern Europe,Central Europe and the Baltic States
+DEU,0,1,Germany,Western Europe,n/a
+DNK,0,1,Denmark,Northern Europe,n/a
+DZA,0,1,Algeria,Northern Africa,n/a
+EGY,1,1,Egypt,Northern Africa,Southern and eastern Mediterranean
+ESP,0,1,Spain,Southern Europe,n/a
+EST,1,1,Estonia,Northern Europe,Central Europe and the Baltic States
+FIN,0,1,Finland,Northern Europe,n/a
+FRA,0,1,France,Western Europe,n/a
+GBR,0,1,United Kingdom of Great Britain and Northern Ireland,Northern Europe,n/a
+GEO,1,1,Georgia,Western Asia,Eastern Europe and the Caucasus
+GHA,0,0,Ghana,Sub-Saharan Africa,Sub-Saharan Africa
+GRC,1,1,Greece,Southern Europe,n/a
+HRV,1,1,Croatia,Southern Europe,Central Europe and the Baltic States
+HUN,1,1,Hungary,Eastern Europe,Central Europe and the Baltic States
+IND,0,1,India,Southern Asia,n/a
+IRL,0,1,Ireland,Northern Europe,n/a
+IRQ,0,1,Iraq,Western Asia,Southern and eastern Mediterranean
+ISL,0,1,Iceland,Northern Europe,n/a
+ISR,0,1,Israel,Western Asia,n/a
+ITA,0,1,Italy,Southern Europe,n/a
+JOR,1,1,Jordan,Western Asia,Southern and eastern Mediterranean
+JPN,0,1,Japan,Eastern Asia,n/a
+KAZ,1,1,Kazakhstan,Central Asia,Central Asia
+KEN,0,1,Kenya,Sub-Saharan Africa,Sub-Saharan Africa
+KGZ,1,1,Kyrgyzstan,Central Asia,Central Asia
+KOR,0,1,Republic of Korea,Eastern Asia,n/a
+LBN,1,1,Lebanon,Western Asia,Southern and eastern Mediterranean
+LBY,0,1,Libya,Northern Africa,n/a
+LIE,0,1,Liechtenstein,Western Europe,n/a
+LTU,1,1,Lithuania,Northern Europe,Central Europe and the Baltic States
+LUX,0,1,Luxembourg,Western Europe,n/a
+LVA,1,1,Latvia,Northern Europe,Central Europe and the Baltic States
+MAR,1,1,Morocco,Northern Africa,Southern and eastern Mediterranean
+MDA,1,1,Republic of Moldova,Eastern Europe,Eastern Europe and the Caucasus
+MEX,0,1,Mexico,Latin America and the Caribbean,n/a
+MKD,1,1,North Macedonia,Southern Europe,South-eastern Europe
+MLT,0,1,Malta,Southern Europe,n/a
+MNE,1,1,Montenegro,Southern Europe,South-eastern Europe
+MNG,1,1,Mongolia,Eastern Asia,Central Asia
+NGA,1,0,Nigeria,Sub-Saharan Africa,Sub-Saharan Africa
+NLD,0,1,Netherlands (Kingdom of the),Western Europe,n/a
+NOR,0,1,Norway,Northern Europe,n/a
+NZL,0,1,New Zealand,Australia and New Zealand,n/a
+POL,1,1,Poland,Eastern Europe,Central Europe and the Baltic States
+PRT,0,1,Portugal,Southern Europe,n/a
+ROU,1,1,Romania,Eastern Europe,South-eastern Europe
+SEN,0,1,Senegal,Sub-Saharan Africa,Sub-Saharan Africa
+SMR,0,1,San Marino,Southern Europe,n/a
+SRB,1,1,Serbia,Southern Europe,South-eastern Europe
+SVK,1,1,Slovakia,Eastern Europe,Central Europe and the Baltic States
+SVN,1,1,Slovenia,Southern Europe,Central Europe and the Baltic States
+SWE,0,1,Sweden,Northern Europe,n/a
+TJK,1,1,Tajikistan,Central Asia,Central Asia
+TKM,1,1,Turkmenistan,Central Asia,Central Asia
+TUN,1,1,Tunisia,Northern Africa,Southern and eastern Mediterranean
+TUR,1,1,Türkiye,Western Asia,Türkiye
+UKR,1,1,Ukraine,Eastern Europe,Eastern Europe and the Caucasus
+USA,0,1,United States of America,Northern America,n/a
+UZB,1,1,Uzbekistan,Central Asia,Central Asia

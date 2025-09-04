@@ -66,9 +66,12 @@ for (iso3 in unique(out_data$ISO3)){
 
 
 ### EBRD analysis
+ebrd_countries <- read.csv("../EBRD_countries.csv", check.names = F)
+# ebrdOp <- ebrd_countries %>% filter(OPERATION == 1)
+# ebrdRegions <- ebrd_countries %>% left_join(cty_code %>% select(`ISO-alpha3 Code`, `Country or Area`, `Sub-region Name`), by = c("ISO3"="ISO-alpha3 Code"))
+# readr::write_excel_csv(ebrdRegions, "../EBRD_countries.csv")
 
-
-
-
+# stats for the region
+ebrdQv <- out_data %>% filter(ISO3 %in% ebrd_countries$ISO3, Year %in% 2014:2023)
 
 
