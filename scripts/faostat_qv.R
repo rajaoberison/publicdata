@@ -33,7 +33,7 @@ utils::unzip(tmp_file, exdir = tmp_folder)
 # read raw faostat data with noflag
 tmp_qv <- read.csv(file.path(tmp_folder, "Value_of_Production_E_All_Data_NOFLAG.csv"), check.names = F)
 # get only current and constant US$
-tmp_keyVars <- tmp_qv %>% filter(Element %in% c("Gross Production Value (current thousand US$)", "Gross Production Value (constant 2014-2016 thousand US$)"))
+tmp_keyVars <- tmp_qv %>% filter(Element %in% c("Gross Production Value (constant 2014-2016 thousand I$)", "Gross Production Value (constant 2014-2016 thousand US$)"))
 # fix commodity names
 ## add cpc_code2 to FAO data
 tmp_cpcRev <- tmp_keyVars %>% mutate(CPCrev = gsub("'", "", `Item Code (CPC)`, fixed=T)) %>% left_join(CPCv21, by = c("CPCrev"="CPC Ver. 2.1 Code")) %>% mutate(cpc_code2 = substr(CPCrev, 1, 4)) %>% left_join(cpc_group2, by = "cpc_code2") %>% filter(!is.na(cpc_name1))
