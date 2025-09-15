@@ -46,7 +46,7 @@ tmp_keyCols <- tmp_cpcRev %>% select(`Area Code (M49)`, Item, cpc_name1, Element
 tmp0_long <- tmp_keyCols %>% tidyr::pivot_longer(Y1992:paste0("Y",maxYear), names_to = "Year", values_to = "value") %>% mutate(Year = as.integer(gsub("Y", "", Year)))
 # fix Item names
 ## remove indigenous categories
-tmp_long <- tmp0_long %>% mutate(revItem = gsub("\\s*\\([^)]*\\)", "", Item)) %>% mutate(revItem = gsub(", fresh or chilled", "", revItem)) %>% mutate(revItem = gsub(", dry", "", revItem)) %>% mutate(revItem = gsub(", raw", "", revItem)) %>% mutate(revItem = gsub(", green", "", revItem)) %>% mutate(revItem = gsub(", in shell", "", revItem)) %>% mutate(revItem = trimws(revItem)) %>% group_by(`Area Code (M49)`, revItem, cpc_name1, Element, Unit, Year) %>% summarise(value = sum(value, na.rm = T)) %>% ungroup() %>% rename(Item = revItem)
+tmp_long <- tmp0_long %>% mutate(revItem = gsub("\\s*\\([^)]*\\)", "", Item)) %>% mutate(revItem = gsub(", fresh or chilled", "", revItem)) %>% mutate(revItem = gsub(", fresh", "", revItem)) %>% mutate(revItem = gsub(", chilled or frozen", "", revItem)) %>% mutate(revItem = gsub(", dry", "", revItem)) %>% mutate(revItem = gsub(", raw", "", revItem)) %>% mutate(revItem = gsub(", green", "", revItem)) %>% mutate(revItem = gsub(", in shell", "", revItem)) %>% mutate(revItem = trimws(revItem)) %>% group_by(`Area Code (M49)`, revItem, cpc_name1, Element, Unit, Year) %>% summarise(value = sum(value, na.rm = T)) %>% ungroup() %>% rename(Item = revItem)
 
 # get iso3 code
 cty_code <- read.csv("../country_codes.csv", check.names = F)
