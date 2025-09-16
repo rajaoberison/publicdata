@@ -53,13 +53,14 @@ iso3 <- cty_code %>% mutate(m49cd = paste0("'", sprintf("%03d", `M49 Code`))) %>
 
 # final data
 out_data <- tmp_wCO2 %>% left_join(iso3, by = c("Area Code (M49)" = "m49cd")) %>% relocate(ISO3) %>% select(-`Area Code (M49)`) %>% select(ISO3, Area, Item, Group, sector, agrifood, Year, Total, CO2, N2O, CH4, `F-gases`)
+
 out_data_long <- out_data %>% tidyr::pivot_longer(Total:`F-gases`, names_to = "gas", values_to = "tCO2eq")
 
 # saving as csv
-readr::write_excel_csv(out_data, paste0("../data/", "faostatghg_", thisYear, thisMonth, ".csv"))
-readr::write_excel_csv(out_data %>% filter(sector == "yes"), paste0("../data/", "faostatghg_sector_", thisYear, thisMonth, ".csv"))
+readr::write_excel_csv(out_data_long, paste0("../data/", "faostatghg_", thisYear, thisMonth, ".csv"))
+readr::write_excel_csv(out_data_long %>% filter(sector == "yes"), paste0("../data/", "faostatghg_sector_", thisYear, thisMonth, ".csv"))
 
 ##split into multiple csv
-for (iso3 in unique(out_data$ISO3)){
-  readr::write_excel_csv(out_data %>% filter(ISO3 == iso3 | Area == "World"), paste0("../data/faostat_ghg_by_country/", iso3, "_faostatghg.csv"))
+for (iso3 in unique(out_data_long$ISO3)){
+  readr::write_excel_csv(out_data_long %>% filter(ISO3 == iso3 | Area == "World"), paste0("../data/faostat_ghg_by_country/", iso3, "_faostatghg.csv"))
 }
