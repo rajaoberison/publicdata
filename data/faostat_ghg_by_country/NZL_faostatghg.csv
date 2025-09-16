@@ -1,0 +1,958 @@
+﻿"ISO3","Area","Item","Group","sector","agrifood","Year","Total","CO2","N2O","CH4","F-gases"
+"NZL","New Zealand","Energy","Not agri-food","yes","no",1992,26567931.9,24999347,200043,1368541.9,NA
+"NZL","New Zealand","Energy","Not agri-food","yes","no",1993,28263414.700000003,26541324.900000002,210706.4,1511383.4,NA
+"NZL","New Zealand","Energy","Not agri-food","yes","no",1994,28251322.5,26501201.9,220033.80000000002,1530086.8,NA
+"NZL","New Zealand","Energy","Not agri-food","yes","no",1995,28526806.7,26929635,230600.8,1366570.9,NA
+"NZL","New Zealand","Energy","Not agri-food","yes","no",1996,30238387.599999998,28496665.9,232468.19999999998,1509253.5,NA
+"NZL","New Zealand","Energy","Not agri-food","yes","no",1997,32727119.4,30792004.9,242072.9,1693041.6,NA
+"NZL","New Zealand","Energy","Not agri-food","yes","no",1998,31679820.1,29890989,237481.59999999998,1551349.5,NA
+"NZL","New Zealand","Energy","Not agri-food","yes","no",1999,34262411,32465234,250670.80000000002,1546506.2,NA
+"NZL","New Zealand","Energy","Not agri-food","yes","no",2000,34616466.3,32820349.099999998,264725,1531392.2,NA
+"NZL","New Zealand","Energy","Not agri-food","yes","no",2001,36040553.4,34140624.1,272471.7,1627457.5999999999,NA
+"NZL","New Zealand","Energy","Not agri-food","yes","no",2002,34910122.6,33046829,286363.1,1576930.5,NA
+"NZL","New Zealand","Energy","Not agri-food","yes","no",2003,35604275.199999996,33828815.99999999,301834,1473625.2,NA
+"NZL","New Zealand","Energy","Not agri-food","yes","no",2004,36158899.599999994,34319096.99999999,312026.2,1527776.4,NA
+"NZL","New Zealand","Energy","Not agri-food","yes","no",2005,35861903.7,33888383,319683,1653837.7,NA
+"NZL","New Zealand","Energy","Not agri-food","yes","no",2006,35490519.4,33216215.9,322983.2,1951320.3,NA
+"NZL","New Zealand","Energy","Not agri-food","yes","no",2007,35490250.099999994,33283158.999999993,319269.1,1887822,NA
+"NZL","New Zealand","Energy","Not agri-food","yes","no",2008,35807927,33899827,313009,1595091,NA
+"NZL","New Zealand","Energy","Not agri-food","yes","no",2009,34168075.4,32248217,285896.4,1633962,NA
+"NZL","New Zealand","Energy","Not agri-food","yes","no",2010,33875751.4,31658491,280409.60000000003,1936850.8,NA
+"NZL","New Zealand","Energy","Not agri-food","yes","no",2011,33559742.2,31351178.000000004,288981.3,1919582.9000000001,NA
+"NZL","New Zealand","Energy","Not agri-food","yes","no",2012,36268732.1,34230627,300825.5,1737279.6,NA
+"NZL","New Zealand","Energy","Not agri-food","yes","no",2013,35562775.4,33733552.9,298719.4,1530503.0999999999,NA
+"NZL","New Zealand","Energy","Not agri-food","yes","no",2014,36796812,34998597,313194,1485021,NA
+"NZL","New Zealand","Energy","Not agri-food","yes","no",2015,36686107.5,34897633,314537.2,1473937.3,NA
+"NZL","New Zealand","Energy","Not agri-food","yes","no",2016,35257149.2,33570377.900000006,329908.6,1356862.7,NA
+"NZL","New Zealand","Energy","Not agri-food","yes","no",2017,35579212.699999996,33891001.9,329991.10000000003,1358219.7000000002,NA
+"NZL","New Zealand","Energy","Not agri-food","yes","no",2018,34031340.1,32414765,333672,1282903.1,NA
+"NZL","New Zealand","Energy","Not agri-food","yes","no",2019,36203591,34597988,333538.8,1272064.2,NA
+"NZL","New Zealand","Energy","Not agri-food","yes","no",2020,34607853.300000004,33097610.100000005,333975.9,1176267.3,NA
+"NZL","New Zealand","Energy","Not agri-food","yes","no",2021,34228355.900000006,32772723.900000006,335681,1119951,NA
+"NZL","New Zealand","Energy","Not agri-food","yes","no",2022,32072155.4,30665205,332029.10000000003,1074921.3,NA
+"NZL","New Zealand","Energy","Not agri-food","yes","no",2030,NA,NA,NA,NA,NA
+"NZL","New Zealand","Energy","Not agri-food","yes","no",2050,NA,NA,NA,NA,NA
+"NZL","New Zealand","IPPU","Not agri-food","yes","no",1992,2462732.1,1600920.2000000002,39112.6,43613.5,779085.7999999999
+"NZL","New Zealand","IPPU","Not agri-food","yes","no",1993,3007013.8000000003,2003442.2000000002,39792.6,71783.2,891995.8
+"NZL","New Zealand","IPPU","Not agri-food","yes","no",1994,3423891.5,2397626.6,40445,112031.59999999999,873788.3
+"NZL","New Zealand","IPPU","Not agri-food","yes","no",1995,4095817.1,3118540,41017.299999999996,168418.3,767841.5
+"NZL","New Zealand","IPPU","Not agri-food","yes","no",1996,4104572.9,3067201,41486.4,165682.6,830202.9
+"NZL","New Zealand","IPPU","Not agri-food","yes","no",1997,3626016.2,2632214.2,41872.700000000004,120118.79999999999,831810.5
+"NZL","New Zealand","IPPU","Not agri-food","yes","no",1998,3780110.5,2949195.1,42221,147184.59999999998,641509.8
+"NZL","New Zealand","IPPU","Not agri-food","yes","no",1999,4130930.5000000005,3138254.9000000004,42597.700000000004,156321.2,793756.7000000001
+"NZL","New Zealand","IPPU","Not agri-food","yes","no",2000,4034532.7,3124188,43049.2,156287.9,711007.6
+"NZL","New Zealand","IPPU","Not agri-food","yes","no",2001,3590603.3000000003,2929291.9000000004,42598.5,138553,480159.89999999997
+"NZL","New Zealand","IPPU","Not agri-food","yes","no",2002,3913596.8,3070882.8,42190.600000000006,147994,652529.4
+"NZL","New Zealand","IPPU","Not agri-food","yes","no",2003,2979521.6999999997,2078238.4999999998,41791.600000000006,63560.299999999996,795931.2999999999
+"NZL","New Zealand","IPPU","Not agri-food","yes","no",2004,3057442.4,2151469.5,41357.700000000004,71317.7,793297.5
+"NZL","New Zealand","IPPU","Not agri-food","yes","no",2005,2600887.5,1660492.7,40859.8,23275,876260
+"NZL","New Zealand","IPPU","Not agri-food","yes","no",2006,2736177.6,1711518.2000000002,39188.1,27150.5,958320.7999999999
+"NZL","New Zealand","IPPU","Not agri-food","yes","no",2007,3210978.2,1921180.2000000002,37434.3,29213.5,1223150.2
+"NZL","New Zealand","IPPU","Not agri-food","yes","no",2008,3378777.3000000003,2014975.2000000002,35614.4,37817.4,1290370.3
+"NZL","New Zealand","IPPU","Not agri-food","yes","no",2009,3287559.3,2089557.8999999997,33747.6,53979.5,1110274.3
+"NZL","New Zealand","IPPU","Not agri-food","yes","no",2010,3473340.6,2181321.5,31844.2,54614.7,1205560.2
+"NZL","New Zealand","IPPU","Not agri-food","yes","no",2011,3560962.9,2206178.6999999997,32196.199999999997,54602.4,1267985.6
+"NZL","New Zealand","IPPU","Not agri-food","yes","no",2012,3780923.5,2408620.3,32555.999999999996,72598.29999999999,1267148.9
+"NZL","New Zealand","IPPU","Not agri-food","yes","no",2013,4095846,2653734.4000000004,32918.799999999996,92545.90000000001,1316646.9
+"NZL","New Zealand","IPPU","Not agri-food","yes","no",2014,4795915,3278443.1,33277.1,142520.5,1341674.2999999998
+"NZL","New Zealand","IPPU","Not agri-food","yes","no",2015,4635803.899999999,3036121.8,33625.700000000004,120559,1445497.4
+"NZL","New Zealand","IPPU","Not agri-food","yes","no",2016,4903793.899999999,3164242.1999999993,33963.1,141255,1564333.5999999999
+"NZL","New Zealand","IPPU","Not agri-food","yes","no",2017,4752557.8,2940100,34290.9,126367,1651799.9
+"NZL","New Zealand","IPPU","Not agri-food","yes","no",2018,4608124,2660257.6,34609.9,104653.5,1808603
+"NZL","New Zealand","IPPU","Not agri-food","yes","no",2019,4522966.9,2677514.5,34921.9,109012.7,1701517.8
+"NZL","New Zealand","IPPU","Not agri-food","yes","no",2020,4398951.600000001,2514375.6000000006,35228,102080.5,1747267.5
+"NZL","New Zealand","IPPU","Not agri-food","yes","no",2021,4236654.6,2308396.5,35523.7,89594.6,1803139.7999999998
+"NZL","New Zealand","IPPU","Not agri-food","yes","no",2022,4082348.5999999996,2247357.1999999997,35822.5,83119.20000000001,1716049.7
+"NZL","New Zealand","IPPU","Not agri-food","yes","no",2030,NA,NA,NA,NA,NA
+"NZL","New Zealand","IPPU","Not agri-food","yes","no",2050,NA,NA,NA,NA,NA
+"NZL","New Zealand","Waste","Not agri-food","yes","no",1992,4330322,2925.5000000009313,59210.1,4268186.399999999,NA
+"NZL","New Zealand","Waste","Not agri-food","yes","no",1993,4482156.9,3027.5000000009313,62474.600000000006,4416654.8,NA
+"NZL","New Zealand","Waste","Not agri-food","yes","no",1994,4437259.5,2621.7000000001863,62812.399999999994,4371825.399999999,NA
+"NZL","New Zealand","Waste","Not agri-food","yes","no",1995,4543466.6,2632.2000000001863,64341.1,4476493.3,NA
+"NZL","New Zealand","Waste","Not agri-food","yes","no",1996,4642817.600000001,2563.0000000009313,62748.5,4577506.1,NA
+"NZL","New Zealand","Waste","Not agri-food","yes","no",1997,4709823.9,2791.4000000003725,62587.899999999994,4644444.6,NA
+"NZL","New Zealand","Waste","Not agri-food","yes","no",1998,4782490.8,3025,61262.2,4718203.6,NA
+"NZL","New Zealand","Waste","Not agri-food","yes","no",1999,4857778.3,3263.9000000003725,60580.1,4793934.3,NA
+"NZL","New Zealand","Waste","Not agri-food","yes","no",2000,4959463,3161.100000000559,60581.1,4895720.8,NA
+"NZL","New Zealand","Waste","Not agri-food","yes","no",2001,5036041.4,3054.7999999998137,61332.9,4971653.7,NA
+"NZL","New Zealand","Waste","Not agri-food","yes","no",2002,5124850.1,2944.699999999255,63042.4,5058863,NA
+"NZL","New Zealand","Waste","Not agri-food","yes","no",2003,5023416,2800.7000000001863,64626.8,4955988.5,NA
+"NZL","New Zealand","Waste","Not agri-food","yes","no",2004,5107673.5,2856.5999999996275,66047.5,5038769.4,NA
+"NZL","New Zealand","Waste","Not agri-food","yes","no",2005,5142677.5,2801.0999999996275,67415.40000000001,5072461,NA
+"NZL","New Zealand","Waste","Not agri-food","yes","no",2006,5090785.399999999,2808.4000000003725,68469.09999999999,5019507.899999999,NA
+"NZL","New Zealand","Waste","Not agri-food","yes","no",2007,5094042.9,2755.5,69758.4,5021529,NA
+"NZL","New Zealand","Waste","Not agri-food","yes","no",2008,5031035.1,2635.0999999996275,70026.70000000001,4958373.3,NA
+"NZL","New Zealand","Waste","Not agri-food","yes","no",2009,5001091.1,2580.5999999996275,69942.09999999999,4928568.4,NA
+"NZL","New Zealand","Waste","Not agri-food","yes","no",2010,4899386.4,2605,72880.1,4823901.300000001,NA
+"NZL","New Zealand","Waste","Not agri-food","yes","no",2011,4890300.199999999,2523.5,75482.8,4812293.899999999,NA
+"NZL","New Zealand","Waste","Not agri-food","yes","no",2012,4745759.8,2529.9000000003725,79709.8,4663520.1,NA
+"NZL","New Zealand","Waste","Not agri-food","yes","no",2013,4496984.9,2465.5000000009313,81667,4412852.399999999,NA
+"NZL","New Zealand","Waste","Not agri-food","yes","no",2014,4626585.100000001,2467.2000000001863,85198.9,4538919,NA
+"NZL","New Zealand","Waste","Not agri-food","yes","no",2015,4574333.5,2402.9999999990687,89357.9,4482572.600000001,NA
+"NZL","New Zealand","Waste","Not agri-food","yes","no",2016,4819897.100000001,2413.900000001304,93950.1,4723533.1,NA
+"NZL","New Zealand","Waste","Not agri-food","yes","no",2017,4918846,2279.0999999996275,99413,4817153.9,NA
+"NZL","New Zealand","Waste","Not agri-food","yes","no",2018,5188604.3,2211.4000000003725,102795.8,5083597.1,NA
+"NZL","New Zealand","Waste","Not agri-food","yes","no",2019,4921364.800000001,2233.100000000559,107208.5,4811923.2,NA
+"NZL","New Zealand","Waste","Not agri-food","yes","no",2020,4790549.5,2254.5999999996275,109394.7,4678900.2,NA
+"NZL","New Zealand","Waste","Not agri-food","yes","no",2021,4827930.9,2224.9000000003725,113402,4712304,NA
+"NZL","New Zealand","Waste","Not agri-food","yes","no",2022,4864175.100000001,2195.600000000559,117672.9,4744306.6,NA
+"NZL","New Zealand","Waste","Not agri-food","yes","no",2030,NA,NA,NA,NA,NA
+"NZL","New Zealand","Waste","Not agri-food","yes","no",2050,NA,NA,NA,NA,NA
+"NZL","New Zealand","Agrifood systems","FAO aggregates","no","no",1992,51249168.3,7119835.299999997,12654088.9,31252991.8,222252.3
+"NZL","New Zealand","Agrifood systems","FAO aggregates","no","no",1993,50974963.4,7087489.700000003,12565020.6,31110966.9,211486.19999999998
+"NZL","New Zealand","Agrifood systems","FAO aggregates","no","no",1994,52354177.900000006,7161864.200000003,12951374.700000001,32189985,50954
+"NZL","New Zealand","Agrifood systems","FAO aggregates","no","no",1995,53627175.4,7350753.8999999985,13304535.700000001,32955611.400000002,16274.4
+"NZL","New Zealand","Agrifood systems","FAO aggregates","no","no",1996,52664742.2,7564245.6000000015,12890498.600000001,32168790.6,41207.4
+"NZL","New Zealand","Agrifood systems","FAO aggregates","no","no",1997,53325125.2,8119061.6000000015,12833740.9,32316397.2,55925.5
+"NZL","New Zealand","Agrifood systems","FAO aggregates","no","no",1998,52304788.699999996,8091222.099999994,12549220,31591363.700000003,72982.9
+"NZL","New Zealand","Agrifood systems","FAO aggregates","no","no",1999,53230312,8345639.6000000015,12900610.7,31876353.4,107708.29999999999
+"NZL","New Zealand","Agrifood systems","FAO aggregates","no","no",2000,52433064.6,8332990.1000000015,12800443.9,31163795,135835.6
+"NZL","New Zealand","Agrifood systems","FAO aggregates","no","no",2001,52343342.5,7824690,12929712.5,31420084.200000003,168855.8
+"NZL","New Zealand","Agrifood systems","FAO aggregates","no","no",2002,53564320.9,7879508.799999997,13213888.7,32242934.5,227988.9
+"NZL","New Zealand","Agrifood systems","FAO aggregates","no","no",2003,54886004.699999996,8408958.499999993,13520179.700000001,32657725.2,299141.3
+"NZL","New Zealand","Agrifood systems","FAO aggregates","no","no",2004,55044777.5,8527163.700000003,13533582.6,32638230.7,345800.5
+"NZL","New Zealand","Agrifood systems","FAO aggregates","no","no",2005,55319818.099999994,8677070.199999996,13603038.6,32614870.1,424839.2
+"NZL","New Zealand","Agrifood systems","FAO aggregates","no","no",2006,55297587.4,8501839.599999994,13427599,32882040.6,486108.2
+"NZL","New Zealand","Agrifood systems","FAO aggregates","no","no",2007,54956551.800000004,8479163.700000003,13287852.9,32640548.7,548986.5
+"NZL","New Zealand","Agrifood systems","FAO aggregates","no","no",2008,54029997.300000004,8535050.700000003,12898774.799999999,31993685.2,602486.6
+"NZL","New Zealand","Agrifood systems","FAO aggregates","no","no",2009,53782443.800000004,8092107.6000000015,12681906.5,32403987.400000002,604442.3
+"NZL","New Zealand","Agrifood systems","FAO aggregates","no","no",2010,54240569.1,8321948.8999999985,12880291.9,32399566.900000002,638761.4
+"NZL","New Zealand","Agrifood systems","FAO aggregates","no","no",2011,54403708.5,8220666.700000003,12970057.4,32532565.2,680419.2000000001
+"NZL","New Zealand","Agrifood systems","FAO aggregates","no","no",2012,55128574.9,8221644.799999997,13090205.5,33114914.1,701810.5
+"NZL","New Zealand","Agrifood systems","FAO aggregates","no","no",2013,55069145.900000006,8244780.100000009,13063104.799999999,33003603.6,757657.4
+"NZL","New Zealand","Agrifood systems","FAO aggregates","no","no",2014,55874420.7,8452600.399999999,13286603.9,33354412.6,780803.8
+"NZL","New Zealand","Agrifood systems","FAO aggregates","no","no",2015,54869608.5,8439571.700000003,13113912.700000001,32509163.9,806960.2
+"NZL","New Zealand","Agrifood systems","FAO aggregates","no","no",2016,56106914.8,9631430.200000003,13037580.799999999,32585337.9,852565.9
+"NZL","New Zealand","Agrifood systems","FAO aggregates","no","no",2017,56117535.7,9860243.700000003,13060520.8,32335102.4,861668.8
+"NZL","New Zealand","Agrifood systems","FAO aggregates","no","no",2018,55841088.4,9690659.799999997,13090586.9,32177129,882712.7000000001
+"NZL","New Zealand","Agrifood systems","FAO aggregates","no","no",2019,55986071.8,10228813.899999999,13018760.700000001,31941365.099999998,797132.1000000001
+"NZL","New Zealand","Agrifood systems","FAO aggregates","no","no",2020,55638550.8,10259489.5,13009319.799999999,31588075.099999998,781666.3999999999
+"NZL","New Zealand","Agrifood systems","FAO aggregates","no","no",2021,55430587.6,10215133.299999997,12853428.799999999,31596491.900000002,765533.6
+"NZL","New Zealand","Agrifood systems","FAO aggregates","no","no",2022,54773111.1,10213738.5,12603666.3,31190172.7,765533.6
+"NZL","New Zealand","Agrifood systems","FAO aggregates","no","no",2030,NA,NA,NA,NA,NA
+"NZL","New Zealand","Agrifood systems","FAO aggregates","no","no",2050,NA,NA,NA,NA,NA
+"NZL","New Zealand","Farm gate","Agrifood systems","no","yes",1992,46575325.1,3745367.3000000045,12576529,30253428.8,NA
+"NZL","New Zealand","Farm gate","Agrifood systems","no","yes",1993,46327710.7,3738224.3000000045,12484998,30104488.4,NA
+"NZL","New Zealand","Farm gate","Agrifood systems","no","yes",1994,47798571.5,3761035.799999997,12871606.5,31165929.2,NA
+"NZL","New Zealand","Farm gate","Agrifood systems","no","yes",1995,48982420.7,3855998.799999997,13218173.5,31908248.400000002,NA
+"NZL","New Zealand","Farm gate","Agrifood systems","no","yes",1996,47975853.1,3923152.5,12816301,31236399.6,NA
+"NZL","New Zealand","Farm gate","Agrifood systems","no","yes",1997,48232551,4096454,12757365,31378732,NA
+"NZL","New Zealand","Farm gate","Agrifood systems","no","yes",1998,47279118.8,4163589.200000003,12473444,30642085.599999998,NA
+"NZL","New Zealand","Farm gate","Agrifood systems","no","yes",1999,48009425.7,4261956.900000006,12823986,30923482.8,NA
+"NZL","New Zealand","Farm gate","Agrifood systems","no","yes",2000,47112118.5,4183650,12724266.5,30204202,NA
+"NZL","New Zealand","Farm gate","Agrifood systems","no","yes",2001,47587187.599999994,4277712.499999993,12852791.5,30456683.6,NA
+"NZL","New Zealand","Farm gate","Agrifood systems","no","yes",2002,48770545.599999994,4366109.299999997,13135069.5,31269366.8,NA
+"NZL","New Zealand","Farm gate","Agrifood systems","no","yes",2003,49752772.5,4636305.8999999985,13437779,31678687.6,NA
+"NZL","New Zealand","Farm gate","Agrifood systems","no","yes",2004,49618082.1,4521969.8000000045,13448087.5,31648024.8,NA
+"NZL","New Zealand","Farm gate","Agrifood systems","no","yes",2005,49822223.400000006,4684648,13518021,31619554.400000002,NA
+"NZL","New Zealand","Farm gate","Agrifood systems","no","yes",2006,49883919.9,4662872.299999997,13341054,31879993.6,NA
+"NZL","New Zealand","Farm gate","Agrifood systems","no","yes",2007,49416524.7,4583916.400000006,13201425.5,31631182.799999997,NA
+"NZL","New Zealand","Farm gate","Agrifood systems","no","yes",2008,48330673.7,4543636.700000003,12811001,30976036,NA
+"NZL","New Zealand","Farm gate","Agrifood systems","no","yes",2009,48271523.5,4291851.299999997,12596351,31383321.2,NA
+"NZL","New Zealand","Farm gate","Agrifood systems","no","yes",2010,48340840.4,4175342.1000000015,12795233.5,31370264.8,NA
+"NZL","New Zealand","Farm gate","Agrifood systems","no","yes",2011,48584719.3,4202793.8999999985,12880643,31501282.4,NA
+"NZL","New Zealand","Farm gate","Agrifood systems","no","yes",2012,49432100.9,4344919.6000000015,13004106.5,32083074.799999997,NA
+"NZL","New Zealand","Farm gate","Agrifood systems","no","yes",2013,49210856.2,4271845.6000000015,12976361,31962649.6,NA
+"NZL","New Zealand","Farm gate","Agrifood systems","no","yes",2014,49905686.6,4403487.6999999955,13199570.5,32302628.400000002,NA
+"NZL","New Zealand","Farm gate","Agrifood systems","no","yes",2015,48691879.5,4290948.3999999985,13019211.5,31381719.6,NA
+"NZL","New Zealand","Farm gate","Agrifood systems","no","yes",2016,48534945.5,4140280.6000000015,12941990.5,31452674.4,NA
+"NZL","New Zealand","Farm gate","Agrifood systems","no","yes",2017,48209231.9,4047457.1999999955,12962819.5,31198955.2,NA
+"NZL","New Zealand","Farm gate","Agrifood systems","no","yes",2018,47979450.900000006,3957138.3000000045,12991307,31031005.6,NA
+"NZL","New Zealand","Farm gate","Agrifood systems","no","yes",2019,47688765.7,3981142.6000000015,12917557.5,30790065.6,NA
+"NZL","New Zealand","Farm gate","Agrifood systems","no","yes",2020,47682366.4,4338515.299999997,12912045.5,30431805.6,NA
+"NZL","New Zealand","Farm gate","Agrifood systems","no","yes",2021,47469666.7,4275756.1000000015,12756729,30437181.6,NA
+"NZL","New Zealand","Farm gate","Agrifood systems","no","yes",2022,46812190.199999996,4274361.29999999,12506966.5,30030862.400000002,NA
+"NZL","New Zealand","Farm gate","Agrifood systems","no","yes",2030,NA,NA,NA,NA,NA
+"NZL","New Zealand","Farm gate","Agrifood systems","no","yes",2050,NA,NA,NA,NA,NA
+"NZL","New Zealand","Land Use change","Agrifood systems","no","yes",1992,1012798.1,1012798.1,0,0,NA
+"NZL","New Zealand","Land Use change","Agrifood systems","no","yes",1993,1012798.1,1012798.1,0,0,NA
+"NZL","New Zealand","Land Use change","Agrifood systems","no","yes",1994,1012798.1,1012798.1,0,0,NA
+"NZL","New Zealand","Land Use change","Agrifood systems","no","yes",1995,1012798.1,1012798.1,0,0,NA
+"NZL","New Zealand","Land Use change","Agrifood systems","no","yes",1996,1012798.1,1012798.1,0,0,NA
+"NZL","New Zealand","Land Use change","Agrifood systems","no","yes",1997,1012798.1,1012798.1,0,0,NA
+"NZL","New Zealand","Land Use change","Agrifood systems","no","yes",1998,1012798.1,1012798.1,0,0,NA
+"NZL","New Zealand","Land Use change","Agrifood systems","no","yes",1999,1012798.1,1012798.1,0,0,NA
+"NZL","New Zealand","Land Use change","Agrifood systems","no","yes",2000,1012798.1,1012798.1,0,0,NA
+"NZL","New Zealand","Land Use change","Agrifood systems","no","yes",2001,147599.19999999998,147599.19999999998,0,0,NA
+"NZL","New Zealand","Land Use change","Agrifood systems","no","yes",2002,147599.19999999998,147599.19999999998,0,0,NA
+"NZL","New Zealand","Land Use change","Agrifood systems","no","yes",2003,147599.19999999998,147599.19999999998,0,0,NA
+"NZL","New Zealand","Land Use change","Agrifood systems","no","yes",2004,147599.19999999998,147599.19999999998,0,0,NA
+"NZL","New Zealand","Land Use change","Agrifood systems","no","yes",2005,147599.19999999998,147599.19999999998,0,0,NA
+"NZL","New Zealand","Land Use change","Agrifood systems","no","yes",2006,147599.19999999998,147599.19999999998,0,0,NA
+"NZL","New Zealand","Land Use change","Agrifood systems","no","yes",2007,147599.19999999998,147599.19999999998,0,0,NA
+"NZL","New Zealand","Land Use change","Agrifood systems","no","yes",2008,147599.19999999998,147599.19999999998,0,0,NA
+"NZL","New Zealand","Land Use change","Agrifood systems","no","yes",2009,147599.19999999998,147599.19999999998,0,0,NA
+"NZL","New Zealand","Land Use change","Agrifood systems","no","yes",2010,147599.19999999998,147599.19999999998,0,0,NA
+"NZL","New Zealand","Land Use change","Agrifood systems","no","yes",2011,302599.10000000003,302599.10000000003,0,0,NA
+"NZL","New Zealand","Land Use change","Agrifood systems","no","yes",2012,302599.10000000003,302599.10000000003,0,0,NA
+"NZL","New Zealand","Land Use change","Agrifood systems","no","yes",2013,302599.10000000003,302599.10000000003,0,0,NA
+"NZL","New Zealand","Land Use change","Agrifood systems","no","yes",2014,302599.10000000003,302599.10000000003,0,0,NA
+"NZL","New Zealand","Land Use change","Agrifood systems","no","yes",2015,302599.10000000003,302599.10000000003,0,0,NA
+"NZL","New Zealand","Land Use change","Agrifood systems","no","yes",2016,1795233.7,1795233.7,0,0,NA
+"NZL","New Zealand","Land Use change","Agrifood systems","no","yes",2017,1795233.7,1795233.7,0,0,NA
+"NZL","New Zealand","Land Use change","Agrifood systems","no","yes",2018,1795233.7,1795233.7,0,0,NA
+"NZL","New Zealand","Land Use change","Agrifood systems","no","yes",2019,1795233.7,1795233.7,0,0,NA
+"NZL","New Zealand","Land Use change","Agrifood systems","no","yes",2020,1795233.7,1795233.7,0,0,NA
+"NZL","New Zealand","Land Use change","Agrifood systems","no","yes",2021,1795233.7,1795233.7,0,0,NA
+"NZL","New Zealand","Land Use change","Agrifood systems","no","yes",2022,1795233.7,1795233.7,0,0,NA
+"NZL","New Zealand","Land Use change","Agrifood systems","no","yes",2030,NA,NA,NA,NA,NA
+"NZL","New Zealand","Land Use change","Agrifood systems","no","yes",2050,NA,NA,NA,NA,NA
+"NZL","New Zealand","Pre- and Post- Production","Agrifood systems","no","yes",1992,3661045.0999999996,2361669.8999999994,77559.9,999563,222252.3
+"NZL","New Zealand","Pre- and Post- Production","Agrifood systems","no","yes",1993,3634454.6,2336467.3,80022.59999999999,1006478.5,211486.19999999998
+"NZL","New Zealand","Pre- and Post- Production","Agrifood systems","no","yes",1994,3542808.3000000003,2388030.3000000003,79768.2,1024055.8,50954
+"NZL","New Zealand","Pre- and Post- Production","Agrifood systems","no","yes",1995,3631956.6,2481957,86362.2,1047363,16274.4
+"NZL","New Zealand","Pre- and Post- Production","Agrifood systems","no","yes",1996,3676091,2628295,74197.59999999999,932391,41207.4
+"NZL","New Zealand","Pre- and Post- Production","Agrifood systems","no","yes",1997,4079776.1,3009809.5,76375.9,937665.2000000001,55925.5
+"NZL","New Zealand","Pre- and Post- Production","Agrifood systems","no","yes",1998,4012871.8,2914834.8,75776,949278.1,72982.9
+"NZL","New Zealand","Pre- and Post- Production","Agrifood systems","no","yes",1999,4208088.2,3070884.5,76624.79999999999,952870.6,107708.29999999999
+"NZL","New Zealand","Pre- and Post- Production","Agrifood systems","no","yes",2000,4308148,3136542,76177.40000000001,959593,135835.6
+"NZL","New Zealand","Pre- and Post- Production","Agrifood systems","no","yes",2001,4608555.7,3399378.3,76921,963400.6000000001,168855.8
+"NZL","New Zealand","Pre- and Post- Production","Agrifood systems","no","yes",2002,4646176.1,3365800.3,78819.2,973567.7,227988.9
+"NZL","New Zealand","Pre- and Post- Production","Agrifood systems","no","yes",2003,4985633,3625053.4000000004,82400.7,979037.6,299141.3
+"NZL","New Zealand","Pre- and Post- Production","Agrifood systems","no","yes",2004,5279096.2,3857594.7,85495.09999999999,990205.9,345800.5
+"NZL","New Zealand","Pre- and Post- Production","Agrifood systems","no","yes",2005,5349995.5,3844823,85017.6,995315.7,424839.2
+"NZL","New Zealand","Pre- and Post- Production","Agrifood systems","no","yes",2006,5266068.3,3691368.0999999996,86545,1002047,486108.2
+"NZL","New Zealand","Pre- and Post- Production","Agrifood systems","no","yes",2007,5392427.899999999,3747648.0999999996,86427.40000000001,1009365.9,548986.5
+"NZL","New Zealand","Pre- and Post- Production","Agrifood systems","no","yes",2008,5551724.4,3843814.8000000007,87773.79999999999,1017649.2,602486.6
+"NZL","New Zealand","Pre- and Post- Production","Agrifood systems","no","yes",2009,5363321.100000001,3652657.1000000006,85555.5,1020666.2,604442.3
+"NZL","New Zealand","Pre- and Post- Production","Agrifood systems","no","yes",2010,5752129.5,3999007.5999999996,85058.40000000001,1029302.1000000001,638761.4
+"NZL","New Zealand","Pre- and Post- Production","Agrifood systems","no","yes",2011,5516390.1,3715273.6999999997,89414.4,1031282.7999999999,680419.2000000001
+"NZL","New Zealand","Pre- and Post- Production","Agrifood systems","no","yes",2012,5393874.899999999,3574126.0999999996,86099,1031839.3,701810.5
+"NZL","New Zealand","Pre- and Post- Production","Agrifood systems","no","yes",2013,5555690.6,3670335.3999999994,86743.79999999999,1040954,757657.4
+"NZL","New Zealand","Pre- and Post- Production","Agrifood systems","no","yes",2014,5666135,3746513.6,87033.4,1051784.2,780803.8
+"NZL","New Zealand","Pre- and Post- Production","Agrifood systems","no","yes",2015,5875129.9,3846024.2,94701.2,1127444.3,806960.2
+"NZL","New Zealand","Pre- and Post- Production","Agrifood systems","no","yes",2016,5776735.6,3695915.8999999994,95590.3,1132663.5,852565.9
+"NZL","New Zealand","Pre- and Post- Production","Agrifood systems","no","yes",2017,6113070.1,4017552.7999999993,97701.3,1136147.2000000002,861668.8
+"NZL","New Zealand","Pre- and Post- Production","Agrifood systems","no","yes",2018,6066403.8,3938287.8,99279.9,1146123.4,882712.7000000001
+"NZL","New Zealand","Pre- and Post- Production","Agrifood systems","no","yes",2019,6502072.4,4452437.600000001,101203.2,1151299.5,797132.1000000001
+"NZL","New Zealand","Pre- and Post- Production","Agrifood systems","no","yes",2020,6160950.7,4125740.5,97274.3,1156269.5,781666.3999999999
+"NZL","New Zealand","Pre- and Post- Production","Agrifood systems","no","yes",2021,6165687.2,4144143.5,96699.8,1159310.3,765533.6
+"NZL","New Zealand","Pre- and Post- Production","Agrifood systems","no","yes",2022,6165687.2,4144143.5,96699.8,1159310.3,765533.6
+"NZL","New Zealand","Pre- and Post- Production","Agrifood systems","no","yes",2030,NA,NA,NA,NA,NA
+"NZL","New Zealand","Pre- and Post- Production","Agrifood systems","no","yes",2050,NA,NA,NA,NA,NA
+"NZL","New Zealand","Emissions on agricultural land","FAO aggregates","no","no",1992,47588123.2,4758165.400000006,12576529,30253428.8,NA
+"NZL","New Zealand","Emissions on agricultural land","FAO aggregates","no","no",1993,47340508.800000004,4751022.400000006,12484998,30104488.4,NA
+"NZL","New Zealand","Emissions on agricultural land","FAO aggregates","no","no",1994,48811369.6,4773833.8999999985,12871606.5,31165929.2,NA
+"NZL","New Zealand","Emissions on agricultural land","FAO aggregates","no","no",1995,49995218.800000004,4868796.8999999985,13218173.5,31908248.400000002,NA
+"NZL","New Zealand","Emissions on agricultural land","FAO aggregates","no","no",1996,48988651.2,4935950.6000000015,12816301,31236399.6,NA
+"NZL","New Zealand","Emissions on agricultural land","FAO aggregates","no","no",1997,49245349.1,5109252.1000000015,12757365,31378732,NA
+"NZL","New Zealand","Emissions on agricultural land","FAO aggregates","no","no",1998,48291916.9,5176387.3000000045,12473444,30642085.599999998,NA
+"NZL","New Zealand","Emissions on agricultural land","FAO aggregates","no","no",1999,49022223.8,5274755,12823986,30923482.8,NA
+"NZL","New Zealand","Emissions on agricultural land","FAO aggregates","no","no",2000,48124916.599999994,5196448.099999994,12724266.5,30204202,NA
+"NZL","New Zealand","Emissions on agricultural land","FAO aggregates","no","no",2001,47734786.800000004,4425311.700000003,12852791.5,30456683.6,NA
+"NZL","New Zealand","Emissions on agricultural land","FAO aggregates","no","no",2002,48918144.800000004,4513708.500000007,13135069.5,31269366.8,NA
+"NZL","New Zealand","Emissions on agricultural land","FAO aggregates","no","no",2003,49900371.7,4783905.1000000015,13437779,31678687.6,NA
+"NZL","New Zealand","Emissions on agricultural land","FAO aggregates","no","no",2004,49765681.3,4669569,13448087.5,31648024.8,NA
+"NZL","New Zealand","Emissions on agricultural land","FAO aggregates","no","no",2005,49969822.6,4832247.1999999955,13518021,31619554.400000002,NA
+"NZL","New Zealand","Emissions on agricultural land","FAO aggregates","no","no",2006,50031519.099999994,4810471.499999993,13341054,31879993.6,NA
+"NZL","New Zealand","Emissions on agricultural land","FAO aggregates","no","no",2007,49564123.9,4731515.6000000015,13201425.5,31631182.799999997,NA
+"NZL","New Zealand","Emissions on agricultural land","FAO aggregates","no","no",2008,48478272.900000006,4691235.900000006,12811001,30976036,NA
+"NZL","New Zealand","Emissions on agricultural land","FAO aggregates","no","no",2009,48419122.7,4439450.5,12596351,31383321.2,NA
+"NZL","New Zealand","Emissions on agricultural land","FAO aggregates","no","no",2010,48488439.6,4322941.3000000045,12795233.5,31370264.8,NA
+"NZL","New Zealand","Emissions on agricultural land","FAO aggregates","no","no",2011,48887318.4,4505393,12880643,31501282.4,NA
+"NZL","New Zealand","Emissions on agricultural land","FAO aggregates","no","no",2012,49734700,4647518.700000003,13004106.5,32083074.799999997,NA
+"NZL","New Zealand","Emissions on agricultural land","FAO aggregates","no","no",2013,49513455.300000004,4574444.700000003,12976361,31962649.6,NA
+"NZL","New Zealand","Emissions on agricultural land","FAO aggregates","no","no",2014,50208285.7,4706086.799999997,13199570.5,32302628.400000002,NA
+"NZL","New Zealand","Emissions on agricultural land","FAO aggregates","no","no",2015,48994478.6,4593547.5,13019211.5,31381719.6,NA
+"NZL","New Zealand","Emissions on agricultural land","FAO aggregates","no","no",2016,50330179.199999996,5935514.299999997,12941990.5,31452674.4,NA
+"NZL","New Zealand","Emissions on agricultural land","FAO aggregates","no","no",2017,50004465.6,5842690.8999999985,12962819.5,31198955.2,NA
+"NZL","New Zealand","Emissions on agricultural land","FAO aggregates","no","no",2018,49774684.6,5752372,12991307,31031005.6,NA
+"NZL","New Zealand","Emissions on agricultural land","FAO aggregates","no","no",2019,49483999.4,5776376.299999997,12917557.5,30790065.6,NA
+"NZL","New Zealand","Emissions on agricultural land","FAO aggregates","no","no",2020,49477600.1,6133749,12912045.5,30431805.6,NA
+"NZL","New Zealand","Emissions on agricultural land","FAO aggregates","no","no",2021,49264900.4,6070989.799999997,12756729,30437181.6,NA
+"NZL","New Zealand","Emissions on agricultural land","FAO aggregates","no","no",2022,48607423.9,6069594.999999993,12506966.5,30030862.400000002,NA
+"NZL","New Zealand","Emissions on agricultural land","FAO aggregates","no","no",2030,NA,NA,NA,NA,NA
+"NZL","New Zealand","Emissions on agricultural land","FAO aggregates","no","no",2050,NA,NA,NA,NA,NA
+"NZL","New Zealand","Crops","FAO aggregates","no","no",1992,544955.4,0,542455,2500.4,NA
+"NZL","New Zealand","Crops","FAO aggregates","no","no",1993,635099.7999999999,-1.1641532182693481e-10,632661,2438.8,NA
+"NZL","New Zealand","Crops","FAO aggregates","no","no",1994,746843.4,0,744385,2458.4,NA
+"NZL","New Zealand","Crops","FAO aggregates","no","no",1995,907169.8,0,904339,2830.8,NA
+"NZL","New Zealand","Crops","FAO aggregates","no","no",1996,829601.9,0,826667.5,2934.4,NA
+"NZL","New Zealand","Crops","FAO aggregates","no","no",1997,828535.8,0,825369,3166.7999999999997,NA
+"NZL","New Zealand","Crops","FAO aggregates","no","no",1998,902890.6,0,900099,2791.6,NA
+"NZL","New Zealand","Crops","FAO aggregates","no","no",1999,1049127,0,1046060.9999999999,3066,NA
+"NZL","New Zealand","Crops","FAO aggregates","no","no",2000,1328111.5,0,1325185.5,2926,NA
+"NZL","New Zealand","Crops","FAO aggregates","no","no",2001,1544165.4000000001,2.3283064365386963e-10,1541399,2766.4,NA
+"NZL","New Zealand","Crops","FAO aggregates","no","no",2002,1599371.7999999998,-2.3283064365386963e-10,1596625,2746.7999999999997,NA
+"NZL","New Zealand","Crops","FAO aggregates","no","no",2003,1841169,0,1838411,2758,NA
+"NZL","New Zealand","Crops","FAO aggregates","no","no",2004,1967900.2,0,1965187,2713.2000000000003,NA
+"NZL","New Zealand","Crops","FAO aggregates","no","no",2005,2013227.5,0,2010581.5,2646,NA
+"NZL","New Zealand","Crops","FAO aggregates","no","no",2006,1760409.1,0,1757771.5,2637.6,NA
+"NZL","New Zealand","Crops","FAO aggregates","no","no",2007,1779100.9,0,1776586.5,2514.4,NA
+"NZL","New Zealand","Crops","FAO aggregates","no","no",2008,1871760.8,0,1869098,2662.7999999999997,NA
+"NZL","New Zealand","Crops","FAO aggregates","no","no",2009,1708984.7,0,1705725.5,3259.2,NA
+"NZL","New Zealand","Crops","FAO aggregates","no","no",2010,1944849,0,1941867,2982,NA
+"NZL","New Zealand","Crops","FAO aggregates","no","no",2011,2088087.1,2.3283064365386963e-10,2085099.4999999998,2987.6,NA
+"NZL","New Zealand","Crops","FAO aggregates","no","no",2012,2076219.7999999998,0,2073094.9999999998,3124.8,NA
+"NZL","New Zealand","Crops","FAO aggregates","no","no",2013,2110360.7,0,2107465.5,2895.2,NA
+"NZL","New Zealand","Crops","FAO aggregates","no","no",2014,2302299.5,0,2299219.5,3080,NA
+"NZL","New Zealand","Crops","FAO aggregates","no","no",2015,2435716.6999999997,-4.656612873077393e-10,2432779.5,2937.2,NA
+"NZL","New Zealand","Crops","FAO aggregates","no","no",2016,2450993,0,2448123,2870,NA
+"NZL","New Zealand","Crops","FAO aggregates","no","no",2017,2502068.5,0,2499506.5,2562,NA
+"NZL","New Zealand","Crops","FAO aggregates","no","no",2018,2587931.3000000003,4.656612873077393e-10,2585366.5,2564.8,NA
+"NZL","New Zealand","Crops","FAO aggregates","no","no",2019,2557197.1,0,2554573.5,2623.6000000000004,NA
+"NZL","New Zealand","Crops","FAO aggregates","no","no",2020,2656799.1999999997,-4.656612873077393e-10,2654240,2559.2000000000003,NA
+"NZL","New Zealand","Crops","FAO aggregates","no","no",2021,2495241.8,0,2492537,2704.8,NA
+"NZL","New Zealand","Crops","FAO aggregates","no","no",2022,2376878.2,0,2374347,2531.2000000000003,NA
+"NZL","New Zealand","Crops","FAO aggregates","no","no",2030,671631.7000000001,1.1641532182693481e-10,668568.5,3063.2000000000003,NA
+"NZL","New Zealand","Crops","FAO aggregates","no","no",2050,694399.9,0,691199.5,3200.4,NA
+"NZL","New Zealand","Livestock","FAO aggregates","no","no",1992,41893860.800000004,7.450580596923828e-9,11651520,30242340.8,NA
+"NZL","New Zealand","Livestock","FAO aggregates","no","no",1993,41561183.5,0,11467371.5,30093812,NA
+"NZL","New Zealand","Livestock","FAO aggregates","no","no",1994,42893221.1,7.450580596923828e-9,11737671.5,31155549.599999998,NA
+"NZL","New Zealand","Livestock","FAO aggregates","no","no",1995,43808966.699999996,-7.450580596923828e-9,11911299.5,31897667.2,NA
+"NZL","New Zealand","Livestock","FAO aggregates","no","no",1996,42808261.3,0,11581692.5,31226568.8,NA
+"NZL","New Zealand","Livestock","FAO aggregates","no","no",1997,42883339.800000004,7.450580596923828e-9,11514727,31368612.8,NA
+"NZL","New Zealand","Livestock","FAO aggregates","no","no",1998,41781521.4,0,11149345,30632176.4,NA
+"NZL","New Zealand","Livestock","FAO aggregates","no","no",1999,42260057.6,0,11346876,30913181.6,NA
+"NZL","New Zealand","Livestock","FAO aggregates","no","no",2000,41168976.8,0,10974922,30194054.8,NA
+"NZL","New Zealand","Livestock","FAO aggregates","no","no",2001,41332478.300000004,7.450580596923828e-9,10885961.5,30446516.8,NA
+"NZL","New Zealand","Livestock","FAO aggregates","no","no",2002,42358805.6,7.450580596923828e-9,11099684,31259121.599999998,NA
+"NZL","New Zealand","Livestock","FAO aggregates","no","no",2003,42828371.2,0,11160528,31667843.2,NA
+"NZL","New Zealand","Livestock","FAO aggregates","no","no",2004,42686843.4,0,11049705,31637138.4,NA
+"NZL","New Zealand","Livestock","FAO aggregates","no","no",2005,42672538,0,11063856,31608682,NA
+"NZL","New Zealand","Livestock","FAO aggregates","no","no",2006,43012255.4,0,11143515,31868740.4,NA
+"NZL","New Zealand","Livestock","FAO aggregates","no","no",2007,42606813.6,7.450580596923828e-9,10986688,31620125.599999998,NA
+"NZL","New Zealand","Livestock","FAO aggregates","no","no",2008,41478634.400000006,7.450580596923828e-9,10512656,30965978.4,NA
+"NZL","New Zealand","Livestock","FAO aggregates","no","no",2009,41848692.8,0,10475026,31373666.8,NA
+"NZL","New Zealand","Livestock","FAO aggregates","no","no",2010,41805118.699999996,-7.450580596923828e-9,10443623.5,31361495.200000003,NA
+"NZL","New Zealand","Livestock","FAO aggregates","no","no",2011,41869897.3,0,10377426.5,31492470.8,NA
+"NZL","New Zealand","Livestock","FAO aggregates","no","no",2012,42580250.699999996,-7.450580596923828e-9,10506057.5,32074193.200000003,NA
+"NZL","New Zealand","Livestock","FAO aggregates","no","no",2013,42402043,0,10448261,31953782,NA
+"NZL","New Zealand","Livestock","FAO aggregates","no","no",2014,42755779.8,0,10462677,32293102.8,NA
+"NZL","New Zealand","Livestock","FAO aggregates","no","no",2015,41533178.2,0,10160259,31372919.2,NA
+"NZL","New Zealand","Livestock","FAO aggregates","no","no",2016,41515678.699999996,-7.450580596923828e-9,10072199.5,31443479.200000003,NA
+"NZL","New Zealand","Livestock","FAO aggregates","no","no",2017,41243625.099999994,-7.450580596923828e-9,10052907.5,31190717.6,NA
+"NZL","New Zealand","Livestock","FAO aggregates","no","no",2018,41022658.6,7.450580596923828e-9,9998821,31023837.599999998,NA
+"NZL","New Zealand","Livestock","FAO aggregates","no","no",2019,40743372.7,0,9961323.5,30782049.200000003,NA
+"NZL","New Zealand","Livestock","FAO aggregates","no","no",2020,40245763.6,0,9824080,30421683.6,NA
+"NZL","New Zealand","Livestock","FAO aggregates","no","no",2021,40261317.1,7.450580596923828e-9,9832745.5,30428571.599999998,NA
+"NZL","New Zealand","Livestock","FAO aggregates","no","no",2022,39724418.9,0,9701676.5,30022742.4,NA
+"NZL","New Zealand","Livestock","FAO aggregates","no","no",2030,46176974.9,0,12001664.5,34175310.4,NA
+"NZL","New Zealand","Livestock","FAO aggregates","no","no",2050,46323026.2,7.450580596923828e-9,11983353,34339673.199999996,NA
+"NZL","New Zealand","Agriculture","IPCC aggregates","yes","no",1992,42731541.8,0,12486429,30245112.8,NA
+"NZL","New Zealand","Agriculture","IPCC aggregates","yes","no",1993,42488985.2,0,12392460,30096525.2,NA
+"NZL","New Zealand","Agriculture","IPCC aggregates","yes","no",1994,43932554.4,0,12774272,31158282.4,NA
+"NZL","New Zealand","Agriculture","IPCC aggregates","yes","no",1995,45015463.4,-7.450580596923828e-9,13114691,31900772.400000002,NA
+"NZL","New Zealand","Agriculture","IPCC aggregates","yes","no",1996,43936083.400000006,7.450580596923828e-9,12706485,31229598.4,NA
+"NZL","New Zealand","Agriculture","IPCC aggregates","yes","no",1997,44010147.3,0,12638300.5,31371846.8,NA
+"NZL","New Zealand","Agriculture","IPCC aggregates","yes","no",1998,42983166.3,0,12348125.5,30635040.799999997,NA
+"NZL","New Zealand","Agriculture","IPCC aggregates","yes","no",1999,43607188.5,0,12690876.5,30916312,NA
+"NZL","New Zealand","Agriculture","IPCC aggregates","yes","no",2000,42794886.400000006,7.450580596923828e-9,12597676,30197210.4,NA
+"NZL","New Zealand","Agriculture","IPCC aggregates","yes","no",2001,43175401.599999994,0,12725830,30449571.599999998,NA
+"NZL","New Zealand","Agriculture","IPCC aggregates","yes","no",2002,44255937,0,12994063,31261874,NA
+"NZL","New Zealand","Agriculture","IPCC aggregates","yes","no",2003,44967002.699999996,-7.450580596923828e-9,13296401.5,31670601.2,NA
+"NZL","New Zealand","Agriculture","IPCC aggregates","yes","no",2004,44952150.9,0,13312142.5,31640008.4,NA
+"NZL","New Zealand","Agriculture","IPCC aggregates","yes","no",2005,44982804,0,13371476,31611328,NA
+"NZL","New Zealand","Agriculture","IPCC aggregates","yes","no",2006,45070123,0,13198325,31871798,NA
+"NZL","New Zealand","Agriculture","IPCC aggregates","yes","no",2007,44683824.3,0,13060551.5,31623272.799999997,NA
+"NZL","New Zealand","Agriculture","IPCC aggregates","yes","no",2008,43647421.8,0,12678607,30968814.8,NA
+"NZL","New Zealand","Agriculture","IPCC aggregates","yes","no",2009,43853868,0,12476942,31376926,NA
+"NZL","New Zealand","Agriculture","IPCC aggregates","yes","no",2010,44046146.699999996,-7.450580596923828e-9,12681389.5,31364757.2,NA
+"NZL","New Zealand","Agriculture","IPCC aggregates","yes","no",2011,44254097.699999996,-7.450580596923828e-9,12758398.5,31495699.2,NA
+"NZL","New Zealand","Agriculture","IPCC aggregates","yes","no",2012,44952146.5,0,12874786.5,32077360,NA
+"NZL","New Zealand","Agriculture","IPCC aggregates","yes","no",2013,44808091.699999996,-7.450580596923828e-9,12851148.5,31956943.200000003,NA
+"NZL","New Zealand","Agriculture","IPCC aggregates","yes","no",2014,45353398.9,0,13057000.5,32296398.4,NA
+"NZL","New Zealand","Agriculture","IPCC aggregates","yes","no",2015,44264264.9,0,12888142.5,31376122.4,NA
+"NZL","New Zealand","Agriculture","IPCC aggregates","yes","no",2016,44262800.6,0,12815771,31447029.6,NA
+"NZL","New Zealand","Agriculture","IPCC aggregates","yes","no",2017,44041901.1,0,12847809.5,31194091.6,NA
+"NZL","New Zealand","Agriculture","IPCC aggregates","yes","no",2018,43905436,0,12879000,31026436,NA
+"NZL","New Zealand","Agriculture","IPCC aggregates","yes","no",2019,43595956.7,0,12810603.5,30785353.200000003,NA
+"NZL","New Zealand","Agriculture","IPCC aggregates","yes","no",2020,43199238.3,0,12773609.5,30425628.799999997,NA
+"NZL","New Zealand","Agriculture","IPCC aggregates","yes","no",2021,43051469.3,0,12619750.5,30431718.799999997,NA
+"NZL","New Zealand","Agriculture","IPCC aggregates","yes","no",2022,42395387.6,0,12369988,30025399.6,NA
+"NZL","New Zealand","Agriculture","IPCC aggregates","yes","no",2030,NA,NA,NA,NA,NA
+"NZL","New Zealand","Agriculture","IPCC aggregates","yes","no",2050,NA,NA,NA,NA,NA
+"NZL","New Zealand","Agricultural Soils","IPCC aggregates","no","no",1992,12118715,0,12118715,NA,NA
+"NZL","New Zealand","Agricultural Soils","IPCC aggregates","no","no",1993,12019128,0,12019128,NA,NA
+"NZL","New Zealand","Agricultural Soils","IPCC aggregates","no","no",1994,12373724.5,0,12373724.5,NA,NA
+"NZL","New Zealand","Agricultural Soils","IPCC aggregates","no","no",1995,12697740,0,12697740,NA,NA
+"NZL","New Zealand","Agricultural Soils","IPCC aggregates","no","no",1996,12305487,0,12305487,NA,NA
+"NZL","New Zealand","Agricultural Soils","IPCC aggregates","no","no",1997,12235553.5,0,12235553.5,NA,NA
+"NZL","New Zealand","Agricultural Soils","IPCC aggregates","no","no",1998,11963875.5,0,11963875.5,NA,NA
+"NZL","New Zealand","Agricultural Soils","IPCC aggregates","no","no",1999,12297590,0,12297590,NA,NA
+"NZL","New Zealand","Agricultural Soils","IPCC aggregates","no","no",2000,12200653,0,12200653,NA,NA
+"NZL","New Zealand","Agricultural Soils","IPCC aggregates","no","no",2001,12321599,0,12321599,NA,NA
+"NZL","New Zealand","Agricultural Soils","IPCC aggregates","no","no",2002,12570778.5,0,12570778.5,NA,NA
+"NZL","New Zealand","Agricultural Soils","IPCC aggregates","no","no",2003,12873806,0,12873806,NA,NA
+"NZL","New Zealand","Agricultural Soils","IPCC aggregates","no","no",2004,12901763.5,0,12901763.5,NA,NA
+"NZL","New Zealand","Agricultural Soils","IPCC aggregates","no","no",2005,12967006.5,0,12967006.5,NA,NA
+"NZL","New Zealand","Agricultural Soils","IPCC aggregates","no","no",2006,12790384,0,12790384,NA,NA
+"NZL","New Zealand","Agricultural Soils","IPCC aggregates","no","no",2007,12648794.5,0,12648794.5,NA,NA
+"NZL","New Zealand","Agricultural Soils","IPCC aggregates","no","no",2008,12270242,0,12270242,NA,NA
+"NZL","New Zealand","Agricultural Soils","IPCC aggregates","no","no",2009,12064469.5,0,12064469.5,NA,NA
+"NZL","New Zealand","Agricultural Soils","IPCC aggregates","no","no",2010,12275144.5,0,12275144.5,NA,NA
+"NZL","New Zealand","Agricultural Soils","IPCC aggregates","no","no",2011,12348099,0,12348099,NA,NA
+"NZL","New Zealand","Agricultural Soils","IPCC aggregates","no","no",2012,12461916.5,0,12461916.5,NA,NA
+"NZL","New Zealand","Agricultural Soils","IPCC aggregates","no","no",2013,12438384.5,0,12438384.5,NA,NA
+"NZL","New Zealand","Agricultural Soils","IPCC aggregates","no","no",2014,12638804,0,12638804,NA,NA
+"NZL","New Zealand","Agricultural Soils","IPCC aggregates","no","no",2015,12483938,0,12483938,NA,NA
+"NZL","New Zealand","Agricultural Soils","IPCC aggregates","no","no",2016,12408333.5,0,12408333.5,NA,NA
+"NZL","New Zealand","Agricultural Soils","IPCC aggregates","no","no",2017,12434780.5,0,12434780.5,NA,NA
+"NZL","New Zealand","Agricultural Soils","IPCC aggregates","no","no",2018,12467057.5,0,12467057.5,NA,NA
+"NZL","New Zealand","Agricultural Soils","IPCC aggregates","no","no",2019,12392486.5,0,12392486.5,NA,NA
+"NZL","New Zealand","Agricultural Soils","IPCC aggregates","no","no",2020,12357798,0,12357798,NA,NA
+"NZL","New Zealand","Agricultural Soils","IPCC aggregates","no","no",2021,12199275,0,12199275,NA,NA
+"NZL","New Zealand","Agricultural Soils","IPCC aggregates","no","no",2022,11953434.5,0,11953434.5,NA,NA
+"NZL","New Zealand","Agricultural Soils","IPCC aggregates","no","no",2030,NA,NA,NA,NA,NA
+"NZL","New Zealand","Agricultural Soils","IPCC aggregates","no","no",2050,NA,NA,NA,NA,NA
+"NZL","New Zealand","LULUCF","IPCC aggregates","yes","no",1992,-24615420.900000002,-24617024.000000004,715.5,887.5999999999999,NA
+"NZL","New Zealand","LULUCF","IPCC aggregates","yes","no",1993,-24616204.8,-24617807.900000002,715.5,887.5999999999999,NA
+"NZL","New Zealand","LULUCF","IPCC aggregates","yes","no",1994,-24617479.5,-24619082.6,715.5,887.5999999999999,NA
+"NZL","New Zealand","LULUCF","IPCC aggregates","yes","no",1995,-24578859.3,-24580462.400000002,715.5,887.5999999999999,NA
+"NZL","New Zealand","LULUCF","IPCC aggregates","yes","no",1996,-24583628.2,-24585083.7,503.49999999999994,952,NA
+"NZL","New Zealand","LULUCF","IPCC aggregates","yes","no",1997,-24585356.3,-24586062.400000002,238.5,467.6,NA
+"NZL","New Zealand","LULUCF","IPCC aggregates","yes","no",1998,-24585881.6,-24586727.5,291.5,554.4,NA
+"NZL","New Zealand","LULUCF","IPCC aggregates","yes","no",1999,-24588671.3,-24589426.3,265,490,NA
+"NZL","New Zealand","LULUCF","IPCC aggregates","yes","no",2000,-24588373.200000003,-24592021.1,1245.5,2402.4,NA
+"NZL","New Zealand","LULUCF","IPCC aggregates","yes","no",2001,-21505001.400000002,-21507588.3,1192.5,1394.4,NA
+"NZL","New Zealand","LULUCF","IPCC aggregates","yes","no",2002,-21510082.5,-21510082.5,0,0,NA
+"NZL","New Zealand","LULUCF","IPCC aggregates","yes","no",2003,-21511176.200000003,-21512482.900000002,609.5,697.2,NA
+"NZL","New Zealand","LULUCF","IPCC aggregates","yes","no",2004,-21514936.5,-21515209,132.5,140,NA
+"NZL","New Zealand","LULUCF","IPCC aggregates","yes","no",2005,-21515938.900000002,-21515938.900000002,0,0,NA
+"NZL","New Zealand","LULUCF","IPCC aggregates","yes","no",2006,-21517880.8,-21518153.3,132.5,140,NA
+"NZL","New Zealand","LULUCF","IPCC aggregates","yes","no",2007,-21512929,-21518129.3,2411.5,2788.8,NA
+"NZL","New Zealand","LULUCF","IPCC aggregates","yes","no",2008,-21515921,-21517623.2,795,907.2,NA
+"NZL","New Zealand","LULUCF","IPCC aggregates","yes","no",2009,-21518309.700000003,-21519100.700000003,371,420,NA
+"NZL","New Zealand","LULUCF","IPCC aggregates","yes","no",2010,-21519220.3,-21520011.3,371,420,NA
+"NZL","New Zealand","LULUCF","IPCC aggregates","yes","no",2011,-15399061.600000001,-15399184.600000001,53,70,NA
+"NZL","New Zealand","LULUCF","IPCC aggregates","yes","no",2012,-15397393.8,-15398946.5,715.5,837.2,NA
+"NZL","New Zealand","LULUCF","IPCC aggregates","yes","no",2013,-15396669.799999999,-15398222.499999998,715.5,837.2,NA
+"NZL","New Zealand","LULUCF","IPCC aggregates","yes","no",2014,-15399635.5,-15399635.5,0,0,NA
+"NZL","New Zealand","LULUCF","IPCC aggregates","yes","no",2015,-15399770.7,-15399770.7,0,0,NA
+"NZL","New Zealand","LULUCF","IPCC aggregates","yes","no",2016,-9294230.5,-9294230.5,0,0,NA
+"NZL","New Zealand","LULUCF","IPCC aggregates","yes","no",2017,-9292661.5,-9295277.7,1219,1397.2,NA
+"NZL","New Zealand","LULUCF","IPCC aggregates","yes","no",2018,-9295487.9,-9295487.9,0,0,NA
+"NZL","New Zealand","LULUCF","IPCC aggregates","yes","no",2019,-9294518.899999999,-9304011.099999998,4399,5093.200000000001,NA
+"NZL","New Zealand","LULUCF","IPCC aggregates","yes","no",2020,-9300464.799999999,-9304361.2,1802,2094.3999999999996,NA
+"NZL","New Zealand","LULUCF","IPCC aggregates","yes","no",2021,-9302157.7,-9304375.6,1033.5,1184.3999999999999,NA
+"NZL","New Zealand","LULUCF","IPCC aggregates","yes","no",2022,-9304736.2,-9305770.399999999,477,557.2,NA
+"NZL","New Zealand","LULUCF","IPCC aggregates","yes","no",2030,NA,NA,NA,NA,NA
+"NZL","New Zealand","LULUCF","IPCC aggregates","yes","no",2050,NA,NA,NA,NA,NA
+"NZL","New Zealand","AFOLU","IPCC aggregates","no","no",1992,18116120.900000002,-24617024.000000004,12487144.5,30246000.400000002,NA
+"NZL","New Zealand","AFOLU","IPCC aggregates","no","no",1993,17872780.4,-24617807.9,12393175.5,30097412.799999997,NA
+"NZL","New Zealand","AFOLU","IPCC aggregates","no","no",1994,19315074.9,-24619082.6,12774987.5,31159170,NA
+"NZL","New Zealand","AFOLU","IPCC aggregates","no","no",1995,20436604.1,-24580462.4,13115406.5,31901660,NA
+"NZL","New Zealand","AFOLU","IPCC aggregates","no","no",1996,19352455.2,-24585083.7,12706988.5,31230550.4,NA
+"NZL","New Zealand","AFOLU","IPCC aggregates","no","no",1997,19424791,-24586062.4,12638539,31372314.4,NA
+"NZL","New Zealand","AFOLU","IPCC aggregates","no","no",1998,18397284.7,-24586727.500000004,12348417,30635595.2,NA
+"NZL","New Zealand","AFOLU","IPCC aggregates","no","no",1999,19018517.2,-24589426.3,12691141.5,30916802,NA
+"NZL","New Zealand","AFOLU","IPCC aggregates","no","no",2000,18206513.200000003,-24592021.099999994,12598921.5,30199612.8,NA
+"NZL","New Zealand","AFOLU","IPCC aggregates","no","no",2001,21670400.2,-21507588.3,12727022.5,30450966,NA
+"NZL","New Zealand","AFOLU","IPCC aggregates","no","no",2002,22745854.5,-21510082.5,12994063,31261874,NA
+"NZL","New Zealand","AFOLU","IPCC aggregates","no","no",2003,23455826.5,-21512482.9,13297011,31671298.4,NA
+"NZL","New Zealand","AFOLU","IPCC aggregates","no","no",2004,23437214.400000002,-21515208.999999996,13312275,31640148.4,NA
+"NZL","New Zealand","AFOLU","IPCC aggregates","no","no",2005,23466865.099999998,-21515938.900000002,13371476,31611328,NA
+"NZL","New Zealand","AFOLU","IPCC aggregates","no","no",2006,23552242.2,-21518153.3,13198457.5,31871938,NA
+"NZL","New Zealand","AFOLU","IPCC aggregates","no","no",2007,23170895.3,-21518129.3,13062963,31626061.6,NA
+"NZL","New Zealand","AFOLU","IPCC aggregates","no","no",2008,22131500.8,-21517623.2,12679402,30969722,NA
+"NZL","New Zealand","AFOLU","IPCC aggregates","no","no",2009,22335558.3,-21519100.7,12477313,31377346,NA
+"NZL","New Zealand","AFOLU","IPCC aggregates","no","no",2010,22526926.4,-21520011.300000004,12681760.5,31365177.2,NA
+"NZL","New Zealand","AFOLU","IPCC aggregates","no","no",2011,28855036.1,-15399184.600000001,12758451.5,31495769.2,NA
+"NZL","New Zealand","AFOLU","IPCC aggregates","no","no",2012,29554752.7,-15398946.500000004,12875502,32078197.2,NA
+"NZL","New Zealand","AFOLU","IPCC aggregates","no","no",2013,29411421.900000002,-15398222.499999996,12851864,31957780.4,NA
+"NZL","New Zealand","AFOLU","IPCC aggregates","no","no",2014,29953763.4,-15399635.5,13057000.5,32296398.4,NA
+"NZL","New Zealand","AFOLU","IPCC aggregates","no","no",2015,28864494.2,-15399770.7,12888142.5,31376122.4,NA
+"NZL","New Zealand","AFOLU","IPCC aggregates","no","no",2016,34968570.099999994,-9294230.500000007,12815771,31447029.6,NA
+"NZL","New Zealand","AFOLU","IPCC aggregates","no","no",2017,34749239.6,-9295277.699999996,12849028.5,31195488.8,NA
+"NZL","New Zealand","AFOLU","IPCC aggregates","no","no",2018,34609948.1,-9295487.899999999,12879000,31026436,NA
+"NZL","New Zealand","AFOLU","IPCC aggregates","no","no",2019,34301437.8,-9304011.100000009,12815002.5,30790446.400000002,NA
+"NZL","New Zealand","AFOLU","IPCC aggregates","no","no",2020,33898773.5,-9304361.200000003,12775411.5,30427723.2,NA
+"NZL","New Zealand","AFOLU","IPCC aggregates","no","no",2021,33749311.6,-9304375.600000001,12620784,30432903.2,NA
+"NZL","New Zealand","AFOLU","IPCC aggregates","no","no",2022,33090651.400000002,-9305770.399999995,12370465,30025956.8,NA
+"NZL","New Zealand","AFOLU","IPCC aggregates","no","no",2030,NA,NA,NA,NA,NA
+"NZL","New Zealand","AFOLU","IPCC aggregates","no","no",2050,NA,NA,NA,NA,NA
+NA,"World","Energy","Not agri-food","yes","no",1992,24036911691.100002,21274155240.800003,167556499.5,2595199950.8,NA
+NA,"World","Energy","Not agri-food","yes","no",1993,24215296715,21437124639,168737297,2609434779,NA
+NA,"World","Energy","Not agri-food","yes","no",1994,24267147226.7,21464704397.3,173768216,2628674613.4,NA
+NA,"World","Energy","Not agri-food","yes","no",1995,24739991875.300003,21853662785.9,181760427.9,2704568661.5,NA
+NA,"World","Energy","Not agri-food","yes","no",1996,25377012962.5,22418270162.9,186357528.3,2772385271.3,NA
+NA,"World","Energy","Not agri-food","yes","no",1997,25539444230,22544094159.7,195852708.9,2799497361.3999996,NA
+NA,"World","Energy","Not agri-food","yes","no",1998,25338218644.1,22429696558.899998,202748814.7,2705773270.5,NA
+NA,"World","Energy","Not agri-food","yes","no",1999,25826482359.1,22918582889.6,211092556.4,2696806913.1,NA
+NA,"World","Energy","Not agri-food","yes","no",2000,26586965049.199997,23583634834.6,194088003.9,2809242210.7000003,NA
+NA,"World","Energy","Not agri-food","yes","no",2001,26668316605,23657353942.1,197484018.9,2813478644,NA
+NA,"World","Energy","Not agri-food","yes","no",2002,27116971788.600002,24147391338.7,202050002.4,2767530447.5,NA
+NA,"World","Energy","Not agri-food","yes","no",2003,28592183540.899998,25426986762.899998,210751998.9,2954444779.1,NA
+NA,"World","Energy","Not agri-food","yes","no",2004,29607653429,26340239708.9,222684316.2,3044729403.8999996,NA
+NA,"World","Energy","Not agri-food","yes","no",2005,30534854940.2,27164186204.4,228134585.9,3142534149.9,NA
+NA,"World","Energy","Not agri-food","yes","no",2006,31506582884,28041150907.9,236711114.8,3228720861.3,NA
+NA,"World","Energy","Not agri-food","yes","no",2007,32238807485.100002,28749688304.300003,245858489.70000002,3243260691.1,NA
+NA,"World","Energy","Not agri-food","yes","no",2008,33106800430.3,29545901098.3,249576125.3,3311323206.7,NA
+NA,"World","Energy","Not agri-food","yes","no",2009,32597692681.8,29091396436.199997,243118815.89999998,3263177429.7000003,NA
+NA,"World","Energy","Not agri-food","yes","no",2010,34251535996.699997,30599945385.699997,254654213.6,3396936397.4,NA
+NA,"World","Energy","Not agri-food","yes","no",2011,35419025039.399994,31595688700.899994,260161096.7,3563175241.8,NA
+NA,"World","Energy","Not agri-food","yes","no",2012,35931085566.1,32055813966.1,262948315.1,3612323284.8999996,NA
+NA,"World","Energy","Not agri-food","yes","no",2013,35991280075.6,32139283464.8,266137837.50000003,3585858773.3,NA
+NA,"World","Energy","Not agri-food","yes","no",2014,36278332690.9,32404034430.5,268637955.1,3605660305.3,NA
+NA,"World","Energy","Not agri-food","yes","no",2015,36338295926.700005,32502919587.500004,266106650.8,3569269688.4,NA
+NA,"World","Energy","Not agri-food","yes","no",2016,36292436850.100006,32487473381.800007,266776664.89999998,3538186803.4,NA
+NA,"World","Energy","Not agri-food","yes","no",2017,36936474034.4,33054857199.5,272778446,3608838388.9,NA
+NA,"World","Energy","Not agri-food","yes","no",2018,37777462661.5,33790274114.6,278242575.59999996,3708945971.2999997,NA
+NA,"World","Energy","Not agri-food","yes","no",2019,38159836055.1,34127628290.1,280138278,3752069487,NA
+NA,"World","Energy","Not agri-food","yes","no",2020,36315495237.2,32480373654.6,266484819.20000002,3568636763.4,NA
+NA,"World","Energy","Not agri-food","yes","no",2021,38092048019.7,34156494913.799995,281338003.6,3654215102.2999997,NA
+NA,"World","Energy","Not agri-food","yes","no",2022,38843791437,34774273112.6,285503548.59999996,3784014775.7999997,NA
+NA,"World","Energy","Not agri-food","yes","no",2030,NA,NA,NA,NA,NA
+NA,"World","Energy","Not agri-food","yes","no",2050,NA,NA,NA,NA,NA
+NA,"World","IPPU","Not agri-food","yes","no",1992,1633330095.5,1086798276.5,217594228.70000002,3904494,325033096.29999995
+NA,"World","IPPU","Not agri-food","yes","no",1993,1647208740.1000001,1105743069.3000002,210738753,4218424.8,326508493
+NA,"World","IPPU","Not agri-food","yes","no",1994,1728449635.5,1157178688,224723505.20000002,4493774.6,342053667.7
+NA,"World","IPPU","Not agri-food","yes","no",1995,1835731962.5,1217132116.2,242172280.5,4788575.8,371638990
+NA,"World","IPPU","Not agri-food","yes","no",1996,1888171011.9,1238844458.9,250080052.39999998,4771049.699999999,394475450.9
+NA,"World","IPPU","Not agri-food","yes","no",1997,1951144671.8999999,1283408351.1,240947672.9,4956336.100000001,421832311.8
+NA,"World","IPPU","Not agri-food","yes","no",1998,1965365712.6,1302468779.1,217466702.9,5187512.800000001,440242717.8
+NA,"World","IPPU","Not agri-food","yes","no",1999,1998129868.3,1342084456.6,198323455.3,5127439.8,452594516.59999996
+NA,"World","IPPU","Not agri-food","yes","no",2000,2091932834,1403670144.3,203912941.3,5414291.5,478935456.9
+NA,"World","IPPU","Not agri-food","yes","no",2001,2118828274.4,1434545120.7000003,199270491.79999998,5519567.9,479493094
+NA,"World","IPPU","Not agri-food","yes","no",2002,2245637764,1490820074.1999998,193896562.89999998,5815082.1,555106044.8000001
+NA,"World","IPPU","Not agri-food","yes","no",2003,2400602795.5,1612080450.3,197416169.3,6191687.7,584914488.2
+NA,"World","IPPU","Not agri-food","yes","no",2004,2571642571.2000003,1701527330.1000004,210135945,6648133.7,653331162.4
+NA,"World","IPPU","Not agri-food","yes","no",2005,2732112257.3,1802709569.0000002,220367870.4,6946106.899999999,702088711
+NA,"World","IPPU","Not agri-food","yes","no",2006,2898529360,1941567023,217947769.3,7682605.5,731331962.1999999
+NA,"World","IPPU","Not agri-food","yes","no",2007,3065998056.7000003,2077413676.3000002,233394134.1,8224149.7,746966096.6
+NA,"World","IPPU","Not agri-food","yes","no",2008,3031445772.9,2080850987.5,208235395.4,8271861.000000001,734087529
+NA,"World","IPPU","Not agri-food","yes","no",2009,3041781870.5,2099251360,178987774.29999998,8250483.700000001,755292252.5
+NA,"World","IPPU","Not agri-food","yes","no",2010,3247534138.7999997,2244352879.7,183724316.8,9394244.5,810062697.8
+NA,"World","IPPU","Not agri-food","yes","no",2011,3463430211.2,2393187375.1,199495637,13672919.6,857074279.5
+NA,"World","IPPU","Not agri-food","yes","no",2012,3583565608.1,2444738092.2,214511725.5,14597569.5,909718220.9
+NA,"World","IPPU","Not agri-food","yes","no",2013,3734485320.2999997,2549341134.7,215699226.1,15292181.7,954152777.8000001
+NA,"World","IPPU","Not agri-food","yes","no",2014,3918090622.1,2662084137.5,216781684.10000002,16803659.400000002,1022421141.1
+NA,"World","IPPU","Not agri-food","yes","no",2015,3801854285,2577510354.2,217081191.9,16765213.4,990497525.5
+NA,"World","IPPU","Not agri-food","yes","no",2016,3897441838.8999996,2623871326.3999996,218979551.9,17092722.2,1037498238.4
+NA,"World","IPPU","Not agri-food","yes","no",2017,3999966751.4,2664012425.3,220484873.3,17951564,1097517888.8000002
+NA,"World","IPPU","Not agri-food","yes","no",2018,4135166248,2738369253.8999996,222725292.7,18630479,1155441222.4
+NA,"World","IPPU","Not agri-food","yes","no",2019,4292096596.9,2844156104.6,223537489.5,19609965.7,1204793037.1000001
+NA,"World","IPPU","Not agri-food","yes","no",2020,4391048283.7,2875913480.0999994,233228647,19844051.5,1262062105.1000001
+NA,"World","IPPU","Not agri-food","yes","no",2021,4563549519.4,2970542519.7999997,244414547.7,20560173.5,1328032278.3999999
+NA,"World","IPPU","Not agri-food","yes","no",2022,4500829092,2866617882.8999996,238006749.5,20560850.900000002,1375643608.7
+NA,"World","IPPU","Not agri-food","yes","no",2030,NA,NA,NA,NA,NA
+NA,"World","IPPU","Not agri-food","yes","no",2050,NA,NA,NA,NA,NA
+NA,"World","Waste","Not agri-food","yes","no",1992,1681652211.8,11213688.899999857,71022073.5,1599416449.4,NA
+NA,"World","Waste","Not agri-food","yes","no",1993,1701720120.1,10977357.899999857,72850018,1617892744.2,NA
+NA,"World","Waste","Not agri-food","yes","no",1994,1728377941.9,11813898.200000286,75084410,1641479633.6999998,NA
+NA,"World","Waste","Not agri-food","yes","no",1995,1748716903.8,11929216.799999952,76868203.4,1659919483.6,NA
+NA,"World","Waste","Not agri-food","yes","no",1996,1768805854.2,13217407.700000048,78888709.3,1676699737.2,NA
+NA,"World","Waste","Not agri-food","yes","no",1997,1790371427.3000002,13954465.600000143,80412705.3,1696004256.4,NA
+NA,"World","Waste","Not agri-food","yes","no",1998,1801830206.5,13426909.80000019,82347938.1,1706055358.6,NA
+NA,"World","Waste","Not agri-food","yes","no",1999,1822813429.8,13372876.299999952,83899412.4,1725541141.1,NA
+NA,"World","Waste","Not agri-food","yes","no",2000,1851130952.5,14654443.099999905,85173924.4,1751302585,NA
+NA,"World","Waste","Not agri-food","yes","no",2001,1850444094.4,15074181,86319703.89999999,1749050209.5,NA
+NA,"World","Waste","Not agri-food","yes","no",2002,1866637485.8999999,14313446.099999905,87481101.8,1764842938,NA
+NA,"World","Waste","Not agri-food","yes","no",2003,1900241184.3999999,15643798.399999857,89314939.10000001,1795282446.9,NA
+NA,"World","Waste","Not agri-food","yes","no",2004,1929595784.7,14759248.899999857,90730706.5,1824105829.3000002,NA
+NA,"World","Waste","Not agri-food","yes","no",2005,1949918735.3999999,14289686.099999905,92046059.39999999,1843582989.8999999,NA
+NA,"World","Waste","Not agri-food","yes","no",2006,1997515998.1,15061842.999999762,94179213.2,1888274941.9,NA
+NA,"World","Waste","Not agri-food","yes","no",2007,2030827431.2,15355518.400000095,96472362.6,1918999550.2,NA
+NA,"World","Waste","Not agri-food","yes","no",2008,2051623020.1999998,15949000.19999981,98372929.9,1937301090.1,NA
+NA,"World","Waste","Not agri-food","yes","no",2009,2063065623.3999999,15393718.200000048,100317072.8,1947354832.3999999,NA
+NA,"World","Waste","Not agri-food","yes","no",2010,2095361211.7,16187629.600000143,102245194.2,1976928387.8999999,NA
+NA,"World","Waste","Not agri-food","yes","no",2011,2136570911.2,16527903.5,104434198.5,2015608809.2,NA
+NA,"World","Waste","Not agri-food","yes","no",2012,2162268005.9,16139684.900000095,106256064.3,2039872256.7,NA
+NA,"World","Waste","Not agri-food","yes","no",2013,2203665962.5,18109434.5,108445557.7,2077110970.3,NA
+NA,"World","Waste","Not agri-food","yes","no",2014,2239601991.7000003,16541971.30000019,110278949.5,2112781070.9,NA
+NA,"World","Waste","Not agri-food","yes","no",2015,2284385935.8,17516761.19999981,112492353.4,2154376821.2000003,NA
+NA,"World","Waste","Not agri-food","yes","no",2016,2324249647.2999997,17741180.89999962,114780317.5,2191728148.9,NA
+NA,"World","Waste","Not agri-food","yes","no",2017,2370435378.3999996,17593394.39999962,116959244.7,2235882739.3,NA
+NA,"World","Waste","Not agri-food","yes","no",2018,2421855262.6,18014517,118369918,2285470827.6,NA
+NA,"World","Waste","Not agri-food","yes","no",2019,2460601366.6,17816965.099999428,119625750.3,2323158651.2000003,NA
+NA,"World","Waste","Not agri-food","yes","no",2020,2493482160.8,17759054.30000019,120939021,2354784085.5,NA
+NA,"World","Waste","Not agri-food","yes","no",2021,2537814983.3999996,17766131.69999981,122631771,2397417080.7,NA
+NA,"World","Waste","Not agri-food","yes","no",2022,2577948164.7999997,17834194.19999981,124368320,2435745650.6,NA
+NA,"World","Waste","Not agri-food","yes","no",2030,NA,NA,NA,NA,NA
+NA,"World","Waste","Not agri-food","yes","no",2050,NA,NA,NA,NA,NA
+NA,"World","International bunkers","Not agri-food","yes","no",1992,702353566.1,673489503.4,18719019.9,10145042.799999999,NA
+NA,"World","International bunkers","Not agri-food","yes","no",1993,694417618,665723096.5,18293519.400000002,10401002.1,NA
+NA,"World","International bunkers","Not agri-food","yes","no",1994,720837613,691403814,18904499.5,10529299.5,NA
+NA,"World","International bunkers","Not agri-food","yes","no",1995,747593213.3,717180578.4,19585018.1,10827616.799999999,NA
+NA,"World","International bunkers","Not agri-food","yes","no",1996,768680640.5,737438106.9,20056787.7,11185745.9,NA
+NA,"World","International bunkers","Not agri-food","yes","no",1997,795182893.5,762825163.5,20645940.6,11711789.4,NA
+NA,"World","International bunkers","Not agri-food","yes","no",1998,820245833.6,786780274.1,21285579.5,12179980,NA
+NA,"World","International bunkers","Not agri-food","yes","no",1999,862182342.5,827856334.4,22465202.6,11860805.5,NA
+NA,"World","International bunkers","Not agri-food","yes","no",2000,888807641.9000001,853081551.5000001,23095665.700000003,12630424.7,NA
+NA,"World","International bunkers","Not agri-food","yes","no",2001,856088439.6,821443772.9,22075329.4,12569337.299999999,NA
+NA,"World","International bunkers","Not agri-food","yes","no",2002,895486229.7,860174166.9000001,23011671.5,12300391.299999999,NA
+NA,"World","International bunkers","Not agri-food","yes","no",2003,902203411.8,865839383.0999999,23258565.4,13105463.299999999,NA
+NA,"World","International bunkers","Not agri-food","yes","no",2004,984150036.5,944609077,25468029.8,14072929.700000001,NA
+NA,"World","International bunkers","Not agri-food","yes","no",2005,1029668106.5,988884710.1,26493050.3,14290346.100000001,NA
+NA,"World","International bunkers","Not agri-food","yes","no",2006,1084034358.5,1041552101.2,28061450.2,14420807.1,NA
+NA,"World","International bunkers","Not agri-food","yes","no",2007,1135468333.1,1091417643,29561185.6,14489504.5,NA
+NA,"World","International bunkers","Not agri-food","yes","no",2008,1144453695.8999999,1100307543.4999998,29691362.5,14454789.9,NA
+NA,"World","International bunkers","Not agri-food","yes","no",2009,1089605471.5,1047640922.7,28275223.900000002,13689324.9,NA
+NA,"World","International bunkers","Not agri-food","yes","no",2010,1164513733.7,1120193979.6000001,30342001.599999998,13977752.5,NA
+NA,"World","International bunkers","Not agri-food","yes","no",2011,1181008242.8,1136361327.6,30582358.599999998,14064556.6,NA
+NA,"World","International bunkers","Not agri-food","yes","no",2012,1134479490.8,1091473304.3,28909241.2,14096945.299999999,NA
+NA,"World","International bunkers","Not agri-food","yes","no",2013,1139920649.5,1097099337.5,28933391.2,13887920.8,NA
+NA,"World","International bunkers","Not agri-food","yes","no",2014,1177191253.4,1133539672.5,29960799.8,13690781.1,NA
+NA,"World","International bunkers","Not agri-food","yes","no",2015,1234289944.2,1188644505.7,31366202.2,14279236.3,NA
+NA,"World","International bunkers","Not agri-food","yes","no",2016,1275074038.6000001,1227815554.9,32253135.3,15005348.4,NA
+NA,"World","International bunkers","Not agri-food","yes","no",2017,1337993917.1,1289295493.5,33696200.7,15002222.9,NA
+NA,"World","International bunkers","Not agri-food","yes","no",2018,1367234190.3999999,1317830731.8999999,34122817.9,15280640.600000001,NA
+NA,"World","International bunkers","Not agri-food","yes","no",2019,1361078427.5,1312259707.4,33713409.4,15105310.7,NA
+NA,"World","International bunkers","Not agri-food","yes","no",2020,970417676.6999999,929237933.6999999,27304302.3,13875440.7,NA
+NA,"World","International bunkers","Not agri-food","yes","no",2021,1054970571.1999999,1011776977.0999999,29271616.6,13921977.5,NA
+NA,"World","International bunkers","Not agri-food","yes","no",2022,1175800119.8,1130072463.5,31747905.599999998,13979750.700000001,NA
+NA,"World","International bunkers","Not agri-food","yes","no",2030,NA,NA,NA,NA,NA
+NA,"World","International bunkers","Not agri-food","yes","no",2050,NA,NA,NA,NA,NA
+NA,"World","Agrifood systems","FAO aggregates","no","no",1992,14282899194.199999,7785961581.799998,1782507576.8,4629746690.1,84683345.5
+NA,"World","Agrifood systems","FAO aggregates","no","no",1993,14280046545,7825129705,1768206858.1000001,4628880772.5,57829209.4
+NA,"World","Agrifood systems","FAO aggregates","no","no",1994,14393527457.599998,7872978392.199999,1787418338.2,4665827031.5,67303695.7
+NA,"World","Agrifood systems","FAO aggregates","no","no",1995,14649810371.6,8063332596,1825800175.8000002,4708049873.1,52627726.7
+NA,"World","Agrifood systems","FAO aggregates","no","no",1996,14556886781,8005963497.5,1821883282,4679099171.1,49940830.4
+NA,"World","Agrifood systems","FAO aggregates","no","no",1997,15524098171.9,8720082365.5,1815599244.6000001,4924928398.900001,63488162.900000006
+NA,"World","Agrifood systems","FAO aggregates","no","no",1998,14902367656.5,8183351410.2,1851912786.6,4810199323.400001,56904136.3
+NA,"World","Agrifood systems","FAO aggregates","no","no",1999,14796929247.400002,8085064937.200002,1865640272,4771804487.4,74419550.8
+NA,"World","Agrifood systems","FAO aggregates","no","no",2000,14741011050.4,8088641832.7,1847162561.7,4731353130.8,73853525.2
+NA,"World","Agrifood systems","FAO aggregates","no","no",2001,14269401409.800001,7584141109.500001,1883317543.8000002,4713077975.1,88864781.4
+NA,"World","Agrifood systems","FAO aggregates","no","no",2002,14846484925.300001,7941754014.700001,1932112229.4,4865072662.8,107546018.4
+NA,"World","Agrifood systems","FAO aggregates","no","no",2003,14677466215.4,7797124843,1951731727,4807205037,121404608.39999999
+NA,"World","Agrifood systems","FAO aggregates","no","no",2004,15351789719.8,8225396317.799999,2011847408.2,4975664081.3,138881912.5
+NA,"World","Agrifood systems","FAO aggregates","no","no",2005,15230994680.9,8119637026.299999,2020153376.8,4948230967.5,142973310.3
+NA,"World","Agrifood systems","FAO aggregates","no","no",2006,15809947452.3,8525154631.099999,2040128484.3,5078768331.2,165896005.70000002
+NA,"World","Agrifood systems","FAO aggregates","no","no",2007,15450884247.300001,8172510928.300001,2094272506.8000002,4995813926.7,188286885.5
+NA,"World","Agrifood systems","FAO aggregates","no","no",2008,15490399511.5,8205759253.299999,2073307689.5,5001820479.1,209512089.6
+NA,"World","Agrifood systems","FAO aggregates","no","no",2009,15895568700.5,8492433796.699999,2078362942.4,5099908715.900001,224863245.5
+NA,"World","Agrifood systems","FAO aggregates","no","no",2010,15800558873.7,8340556440.700001,2148983626.9,5060990791.1,250028015
+NA,"World","Agrifood systems","FAO aggregates","no","no",2011,15827455283.3,8188723928.899999,2205057876.3,5159117783.3,274555694.8
+NA,"World","Agrifood systems","FAO aggregates","no","no",2012,15951416706.1,8247487868.700001,2213764510.4,5187082971.7,303081355.3
+NA,"World","Agrifood systems","FAO aggregates","no","no",2013,16059044963.199999,8403206079.699998,2186562183.8,5142986294.200001,326290405.5
+NA,"World","Agrifood systems","FAO aggregates","no","no",2014,16519153502.5,8693025849.599998,2217259749.1,5253080990.1,355786913.7
+NA,"World","Agrifood systems","FAO aggregates","no","no",2015,16566725249,8687579744.6,2225979630.7999997,5283770338,369395535.6
+NA,"World","Agrifood systems","FAO aggregates","no","no",2016,15843316493.1,8043748203.5,2238805668.1,5170879833.3,389882788.2
+NA,"World","Agrifood systems","FAO aggregates","no","no",2017,15924120686.2,8030213731.1,2284822089.5,5202751052.400001,406333813.2
+NA,"World","Agrifood systems","FAO aggregates","no","no",2018,16136601313.4,8227141296.799999,2254149683.3,5233221075.6,422089257.7
+NA,"World","Agrifood systems","FAO aggregates","no","no",2019,16396435262.800001,8382109602.700001,2268677409.2000003,5306478006.7,439170244.2
+NA,"World","Agrifood systems","FAO aggregates","no","no",2020,16068038530.4,8025701030.6,2326485746.2,5260076115.299999,455775638.3
+NA,"World","Agrifood systems","FAO aggregates","no","no",2021,16269113536.599998,8175343542.799998,2332445023.8,5276503970.8,484820999.20000005
+NA,"World","Agrifood systems","FAO aggregates","no","no",2022,16240231621.300001,8166879006.900002,2304140850.8,5284390764.4,484820999.20000005
+NA,"World","Agrifood systems","FAO aggregates","no","no",2030,NA,NA,NA,NA,NA
+NA,"World","Agrifood systems","FAO aggregates","no","no",2050,NA,NA,NA,NA,NA
+NA,"World","Farm gate","Agrifood systems","no","yes",1992,6688008429.1,1523768954.3999996,1632928701.5,3531310773.2000003,NA
+NA,"World","Farm gate","Agrifood systems","no","yes",1993,6635560752.9,1504198414.8999996,1618355848,3513006490,NA
+NA,"World","Farm gate","Agrifood systems","no","yes",1994,6706765680.4,1530154275.7999992,1634859465,3541751939.6000004,NA
+NA,"World","Farm gate","Agrifood systems","no","yes",1995,6791415129.8,1560539958.3000002,1669693953.5,3561181218,NA
+NA,"World","Farm gate","Agrifood systems","no","yes",1996,6825211220.5,1566539922.7999992,1699233768.5,3559437529.2000003,NA
+NA,"World","Farm gate","Agrifood systems","no","yes",1997,6746619828.700001,1561628542,1675278033.5,3509713253.2000003,NA
+NA,"World","Farm gate","Agrifood systems","no","yes",1998,6791818843.3,1553249272.6000004,1703895171.5,3534674399.2,NA
+NA,"World","Farm gate","Agrifood systems","no","yes",1999,6835616393.8,1539970630.5,1726646004.5,3568999758.8,NA
+NA,"World","Farm gate","Agrifood systems","no","yes",2000,6834518809.1,1541503421.6000004,1720408699.5,3572606688,NA
+NA,"World","Farm gate","Agrifood systems","no","yes",2001,6840976935.3,1543430179.500001,1731498393,3566048362.7999997,NA
+NA,"World","Farm gate","Agrifood systems","no","yes",2002,6841081283.200001,1489131616.5,1762928373.5,3589021293.2000003,NA
+NA,"World","Farm gate","Agrifood systems","no","yes",2003,6872925290.7,1523197157.3999996,1761177094.5,3588551038.8,NA
+NA,"World","Farm gate","Agrifood systems","no","yes",2004,7027632748,1566541541.8000002,1812159517,3648931689.2,NA
+NA,"World","Farm gate","Agrifood systems","no","yes",2005,7094253581.7,1591393910.5,1820605014,3682254657.2,NA
+NA,"World","Farm gate","Agrifood systems","no","yes",2006,7180010200.2,1615974129.8999996,1849056659.5,3714979410.8,NA
+NA,"World","Farm gate","Agrifood systems","no","yes",2007,7230533764.6,1591971696.9000006,1887627568.5,3750934499.2,NA
+NA,"World","Farm gate","Agrifood systems","no","yes",2008,7257334597.400001,1608286768.1000004,1881253152.5,3767794676.8,NA
+NA,"World","Farm gate","Agrifood systems","no","yes",2009,7248093901,1603107812,1887084557,3757901532,NA
+NA,"World","Farm gate","Agrifood systems","no","yes",2010,7332008563.5,1628254395.1000004,1923787746,3779966422.4,NA
+NA,"World","Farm gate","Agrifood systems","no","yes",2011,7493170774.2,1658665477.5,1994406085.5,3840099211.2,NA
+NA,"World","Farm gate","Agrifood systems","no","yes",2012,7531078770,1674475854,1999621312,3856981604,NA
+NA,"World","Farm gate","Agrifood systems","no","yes",2013,7516173712.3,1714325685.8000002,1981417958.5,3820430068,NA
+NA,"World","Farm gate","Agrifood systems","no","yes",2014,7573065260.599999,1718196316.0999994,2008678932.5,3846190012,NA
+NA,"World","Farm gate","Agrifood systems","no","yes",2015,7562499489,1689102549.3999996,2012113942,3861282997.6,NA
+NA,"World","Farm gate","Agrifood systems","no","yes",2016,7619543537,1706754867.1999998,2024454833,3888333836.8,NA
+NA,"World","Farm gate","Agrifood systems","no","yes",2017,7732443617.6,1735953217.3000002,2070552563.5,3925937836.8,NA
+NA,"World","Farm gate","Agrifood systems","no","yes",2018,7712985451.2,1738292681.3000002,2055924033.5,3918768736.3999996,NA
+NA,"World","Farm gate","Agrifood systems","no","yes",2019,7717673705,1753306904.2000008,2053773426,3910593374.7999997,NA
+NA,"World","Farm gate","Agrifood systems","no","yes",2020,7787487099.3,1717506606.1000004,2105418216,3964562277.2,NA
+NA,"World","Farm gate","Agrifood systems","no","yes",2021,7833801093.7,1718413560.999999,2117189807.5,3998197725.2000003,NA
+NA,"World","Farm gate","Agrifood systems","no","yes",2022,7836567809.1,1718212066.3000002,2098403454,4019952288.8,NA
+NA,"World","Farm gate","Agrifood systems","no","yes",2030,NA,NA,NA,NA,NA
+NA,"World","Farm gate","Agrifood systems","no","yes",2050,NA,NA,NA,NA,NA
+NA,"World","Land Use change","Agrifood systems","no","yes",1992,4673137708.2,4460967807.7,61493276.5,150676624,NA
+NA,"World","Land Use change","Agrifood systems","no","yes",1993,4673137708.2,4460967807.7,61493276.5,150676624,NA
+NA,"World","Land Use change","Agrifood systems","no","yes",1994,4673137708.2,4460967807.7,61493276.5,150676624,NA
+NA,"World","Land Use change","Agrifood systems","no","yes",1995,4673137708.2,4460967807.7,61493276.5,150676624,NA
+NA,"World","Land Use change","Agrifood systems","no","yes",1996,4461456549.4,4328750587.299999,24608456.5,108097505.60000001,NA
+NA,"World","Land Use change","Agrifood systems","no","yes",1997,5461125955.900001,5017221453.6,41103275.5,402801226.8,NA
+NA,"World","Land Use change","Agrifood systems","no","yes",1998,4731566694.400001,4457656461.3,45756357.5,228153875.6,NA
+NA,"World","Land Use change","Agrifood systems","no","yes",1999,4539435173.2,4355962743,33636397,149836033.20000002,NA
+NA,"World","Land Use change","Agrifood systems","no","yes",2000,4406541225,4300795148,20819725,84926352,NA
+NA,"World","Land Use change","Agrifood systems","no","yes",2001,3828991740,3723561955.2,44038018,61391766.8,NA
+NA,"World","Land Use change","Agrifood systems","no","yes",2002,4356142402.099999,4097518673.8999996,55189059,203434669.20000002,NA
+NA,"World","Land Use change","Agrifood systems","no","yes",2003,4024029388.7999997,3823111111.2999997,72361191.5,128557086,NA
+NA,"World","Land Use change","Agrifood systems","no","yes",2004,4402881489.6,4090729073.5000005,81076670.5,231075745.6,NA
+NA,"World","Land Use change","Agrifood systems","no","yes",2005,4117071301.4,3879378927.7000003,80422438.5,157269935.20000002,NA
+NA,"World","Land Use change","Agrifood systems","no","yes",2006,4480901865.8,4169730725.1000004,67950319.5,243220821.20000002,NA
+NA,"World","Land Use change","Agrifood systems","no","yes",2007,3928081306.6,3737552360.2999997,81246217.5,109282728.8,NA
+NA,"World","Land Use change","Agrifood systems","no","yes",2008,3872284531.8999996,3721460694.4999995,65417529,85406308.39999999,NA
+NA,"World","Land Use change","Agrifood systems","no","yes",2009,4270317802.5,4022307177.6,62281492.5,185729132.4,NA
+NA,"World","Land Use change","Agrifood systems","no","yes",2010,3932940763.2,3725897096.8999996,90771801.5,116271864.8,NA
+NA,"World","Land Use change","Agrifood systems","no","yes",2011,3673606145.6,3464287712.1,71061419.5,138257014,NA
+NA,"World","Land Use change","Agrifood systems","no","yes",2012,3687055625.6,3470081177.7,73683011.5,143291436.4,NA
+NA,"World","Land Use change","Agrifood systems","no","yes",2013,3645110211.2,3454621125.7,63886385.5,126602700,NA
+NA,"World","Land Use change","Agrifood systems","no","yes",2014,3995901776.9,3715009428.2000003,64134425.5,216757923.2,NA
+NA,"World","Land Use change","Agrifood systems","no","yes",2015,4034918066.1,3731291184.5,72052652,231574229.6,NA
+NA,"World","Land Use change","Agrifood systems","no","yes",2016,3170499943.2999997,3000293280.2,70058553.5,100148109.6,NA
+NA,"World","Land Use change","Agrifood systems","no","yes",2017,3125766749.7999997,2964122973.8999996,71878679.5,89765096.39999999,NA
+NA,"World","Land Use change","Agrifood systems","no","yes",2018,3287562857,3108321059.3,56942378.5,122299419.2,NA
+NA,"World","Land Use change","Agrifood systems","no","yes",2019,3552834469.9,3280603655.7,72466847,199763967.20000002,NA
+NA,"World","Land Use change","Agrifood systems","no","yes",2020,3151153050.7,2980476267.3999996,73451666.5,97225116.8,NA
+NA,"World","Land Use change","Agrifood systems","no","yes",2021,3101243474.8,2960280088.9,62906097.5,78057288.4,NA
+NA,"World","Land Use change","Agrifood systems","no","yes",2022,3069594844.1,2952017047.7,53388278,64189518.4,NA
+NA,"World","Land Use change","Agrifood systems","no","yes",2030,NA,NA,NA,NA,NA
+NA,"World","Land Use change","Agrifood systems","no","yes",2050,NA,NA,NA,NA,NA
+NA,"World","Pre- and Post- Production","Agrifood systems","no","yes",1992,2921753056.9,1801224819.7,88085598.80000001,947759292.9,84683345.5
+NA,"World","Pre- and Post- Production","Agrifood systems","no","yes",1993,2971348083.9,1859963482.4,88357733.60000001,965197658.5,57829209.4
+NA,"World","Pre- and Post- Production","Agrifood systems","no","yes",1994,3013624069,1881856308.6999998,91065596.69999999,973398467.9000001,67303695.7
+NA,"World","Pre- and Post- Production","Agrifood systems","no","yes",1995,3185257533.6000004,2041824830.0000005,94612945.8,996192031.1,52627726.7
+NA,"World","Pre- and Post- Production","Agrifood systems","no","yes",1996,3270219011.1,2110672987.3999999,98041057,1011564136.3000001,49940830.4
+NA,"World","Pre- and Post- Production","Agrifood systems","no","yes",1997,3316352387.3,2141232369.9,99217935.6,1012413918.9000001,63488162.900000006
+NA,"World","Pre- and Post- Production","Agrifood systems","no","yes",1998,3378982118.7999997,2172445676.2999997,102261257.6,1047371048.6,56904136.3
+NA,"World","Pre- and Post- Production","Agrifood systems","no","yes",1999,3421877680.4,2189131563.6,105357870.6,1052968695.4000001,74419550.8
+NA,"World","Pre- and Post- Production","Agrifood systems","no","yes",2000,3499951016.2999997,2246343263.0999994,105934137.2,1073820090.8,73853525.2
+NA,"World","Pre- and Post- Production","Agrifood systems","no","yes",2001,3599432734.5,2317148974.8,107781132.80000001,1085637845.5,88864781.4
+NA,"World","Pre- and Post- Production","Agrifood systems","no","yes",2002,3649261240,2355103724.3,113994796.9,1072616700.4,107546018.4
+NA,"World","Pre- and Post- Production","Agrifood systems","no","yes",2003,3780511535.9,2450816574.3,118193441,1090096912.1999998,121404608.39999999
+NA,"World","Pre- and Post- Production","Agrifood systems","no","yes",2004,3921275482.2,2568125702.5,118611220.7,1095656646.5,138881912.5
+NA,"World","Pre- and Post- Production","Agrifood systems","no","yes",2005,4019669797.7999997,2648864187.9999995,119125924.4,1108706375.1000001,142973310.3
+NA,"World","Pre- and Post- Production","Agrifood systems","no","yes",2006,4149035386.2999997,2739449776.0999994,123121505.3,1120568099.2,165896005.70000002
+NA,"World","Pre- and Post- Production","Agrifood systems","no","yes",2007,4292269176.1,2842986871.1,125398720.8,1135596698.7,188286885.5
+NA,"World","Pre- and Post- Production","Agrifood systems","no","yes",2008,4360780382.2,2876011790.7,126637008,1148619493.8999999,209512089.6
+NA,"World","Pre- and Post- Production","Agrifood systems","no","yes",2009,4377156997,2867018807.1,128996892.9,1156278051.5,224863245.5
+NA,"World","Pre- and Post- Production","Agrifood systems","no","yes",2010,4535609547,2986404948.7000003,134424079.39999998,1164752503.8999999,250028015
+NA,"World","Pre- and Post- Production","Agrifood systems","no","yes",2011,4660678363.5,3065770739.3,139590371.3,1180761558.1,274555694.8
+NA,"World","Pre- and Post- Production","Agrifood systems","no","yes",2012,4733282310.5,3102930837,140460186.9,1186809931.3,303081355.3
+NA,"World","Pre- and Post- Production","Agrifood systems","no","yes",2013,4897761039.7,3234259268.2,141257839.79999998,1195953526.2,326290405.5
+NA,"World","Pre- and Post- Production","Agrifood systems","no","yes",2014,4950186465,3259820105.3,144446391.1,1190133054.9,355786913.7
+NA,"World","Pre- and Post- Production","Agrifood systems","no","yes",2015,4969307693.900001,3267186010.700001,141813036.8,1190913110.8,369395535.6
+NA,"World","Pre- and Post- Production","Agrifood systems","no","yes",2016,5053273012.799999,3336700056.0999994,144292281.6,1182397886.9,389882788.2
+NA,"World","Pre- and Post- Production","Agrifood systems","no","yes",2017,5065910318.799999,3330137539.899999,142390846.5,1187048119.2,406333813.2
+NA,"World","Pre- and Post- Production","Agrifood systems","no","yes",2018,5136053005.2,3380527556.2,141283271.29999998,1192152920,422089257.7
+NA,"World","Pre- and Post- Production","Agrifood systems","no","yes",2019,5125927087.9,3348199042.799999,142437136.20000002,1196120664.7,439170244.2
+NA,"World","Pre- and Post- Production","Agrifood systems","no","yes",2020,5129398380.400001,3327718157.1000004,147615863.7,1198288721.3000002,455775638.3
+NA,"World","Pre- and Post- Production","Agrifood systems","no","yes",2021,5334068968.1,3496649892.9000006,152349118.79999998,1200248957.2,484820999.20000005
+NA,"World","Pre- and Post- Production","Agrifood systems","no","yes",2022,5334068968.1,3496649892.9000006,152349118.79999998,1200248957.2,484820999.20000005
+NA,"World","Pre- and Post- Production","Agrifood systems","no","yes",2030,NA,NA,NA,NA,NA
+NA,"World","Pre- and Post- Production","Agrifood systems","no","yes",2050,NA,NA,NA,NA,NA
+NA,"World","Emissions on agricultural land","FAO aggregates","no","no",1992,11361146137.3,5984736762.099999,1694421978,3681987397.2,NA
+NA,"World","Emissions on agricultural land","FAO aggregates","no","no",1993,11308698461.1,5965166222.6,1679849124.5,3663683114,NA
+NA,"World","Emissions on agricultural land","FAO aggregates","no","no",1994,11379903388.599998,5991122083.499998,1696352741.5,3692428563.6,NA
+NA,"World","Emissions on agricultural land","FAO aggregates","no","no",1995,11464552838,6021507766,1731187230,3711857842,NA
+NA,"World","Emissions on agricultural land","FAO aggregates","no","no",1996,11286667769.9,5895290510.099999,1723842225,3667535034.8,NA
+NA,"World","Emissions on agricultural land","FAO aggregates","no","no",1997,12207745784.6,6578849995.6,1716381309,3912514480,NA
+NA,"World","Emissions on agricultural land","FAO aggregates","no","no",1998,11523385537.699999,6010905733.9,1749651529,3762828274.7999997,NA
+NA,"World","Emissions on agricultural land","FAO aggregates","no","no",1999,11375051567,5895933373.5,1760282401.5,3718835792,NA
+NA,"World","Emissions on agricultural land","FAO aggregates","no","no",2000,11241060034.1,5842298569.6,1741228424.5,3657533040,NA
+NA,"World","Emissions on agricultural land","FAO aggregates","no","no",2001,10669968675.300001,5266992134.700001,1775536411,3627440129.6,NA
+NA,"World","Emissions on agricultural land","FAO aggregates","no","no",2002,11197223685.3,5586650290.4,1818117432.5,3792455962.4,NA
+NA,"World","Emissions on agricultural land","FAO aggregates","no","no",2003,10896954679.5,5346308268.700001,1833538286,3717108124.7999997,NA
+NA,"World","Emissions on agricultural land","FAO aggregates","no","no",2004,11430514237.6,5657270615.300001,1893236187.5,3880007434.7999997,NA
+NA,"World","Emissions on agricultural land","FAO aggregates","no","no",2005,11211324883.099998,5470772838.199999,1901027452.5,3839524592.4,NA
+NA,"World","Emissions on agricultural land","FAO aggregates","no","no",2006,11660912066,5785704855,1917006979,3958200232,NA
+NA,"World","Emissions on agricultural land","FAO aggregates","no","no",2007,11158615071.2,5329524057.200001,1968873786,3860217228,NA
+NA,"World","Emissions on agricultural land","FAO aggregates","no","no",2008,11129619129.3,5329747462.599999,1946670681.5,3853200985.2,NA
+NA,"World","Emissions on agricultural land","FAO aggregates","no","no",2009,11518411703.5,5625414989.6,1949366049.5,3943630664.4,NA
+NA,"World","Emissions on agricultural land","FAO aggregates","no","no",2010,11264949326.7,5354151492,2014559547.5,3896238287.2000003,NA
+NA,"World","Emissions on agricultural land","FAO aggregates","no","no",2011,11166776919.800001,5122953189.6,2065467505,3978356225.2000003,NA
+NA,"World","Emissions on agricultural land","FAO aggregates","no","no",2012,11218134395.6,5144557031.700001,2073304323.5,4000273040.3999996,NA
+NA,"World","Emissions on agricultural land","FAO aggregates","no","no",2013,11161283923.5,5168946811.5,2045304344,3947032768,NA
+NA,"World","Emissions on agricultural land","FAO aggregates","no","no",2014,11568967037.5,5433205744.299999,2072813358,4062947935.2000003,NA
+NA,"World","Emissions on agricultural land","FAO aggregates","no","no",2015,11597417555.1,5420393733.9,2084166594,4092857227.2000003,NA
+NA,"World","Emissions on agricultural land","FAO aggregates","no","no",2016,10790043480.3,4707048147.4,2094513386.5,3988481946.3999996,NA
+NA,"World","Emissions on agricultural land","FAO aggregates","no","no",2017,10858210367.4,4700076191.2,2142431242.9999998,4015702933.2,NA
+NA,"World","Emissions on agricultural land","FAO aggregates","no","no",2018,11000548308.2,4846613740.6,2112866412,4041068155.6000004,NA
+NA,"World","Emissions on agricultural land","FAO aggregates","no","no",2019,11270508174.900002,5033910559.900002,2126240273,4110357342,NA
+NA,"World","Emissions on agricultural land","FAO aggregates","no","no",2020,10938640150,4697982873.5,2178869882.5,4061787394,NA
+NA,"World","Emissions on agricultural land","FAO aggregates","no","no",2021,10935044568.5,4678693649.9,2180095905,4076255013.6000004,NA
+NA,"World","Emissions on agricultural land","FAO aggregates","no","no",2022,10906162653.2,4670229114,2151791732,4084141807.2000003,NA
+NA,"World","Emissions on agricultural land","FAO aggregates","no","no",2030,NA,NA,NA,NA,NA
+NA,"World","Emissions on agricultural land","FAO aggregates","no","no",2050,NA,NA,NA,NA,NA
+NA,"World","Crops","FAO aggregates","no","no",1992,1194219038.3999999,-2.384185791015625e-7,547460638,646758400.4000001,NA
+NA,"World","Crops","FAO aggregates","no","no",1993,1176082227.8,-2.384185791015625e-7,535303975,640778252.8000001,NA
+NA,"World","Crops","FAO aggregates","no","no",1994,1188195331.1999998,0,540880582,647314749.1999999,NA
+NA,"World","Crops","FAO aggregates","no","no",1995,1226262774.4,0,567653108,658609666.4,NA
+NA,"World","Crops","FAO aggregates","no","no",1996,1266866312.1,0,600655810.5,666210501.5999999,NA
+NA,"World","Crops","FAO aggregates","no","no",1997,1264527130.5,0,594336196.5,670190934,NA
+NA,"World","Crops","FAO aggregates","no","no",1998,1267670801.5,0,601135407.5,666535394,NA
+NA,"World","Crops","FAO aggregates","no","no",1999,1304467526.4,0,612889456,691578070.4,NA
+NA,"World","Crops","FAO aggregates","no","no",2000,1267869089.9,0,590642573.5,677226516.4,NA
+NA,"World","Crops","FAO aggregates","no","no",2001,1267380918.2,2.384185791015625e-7,598620213,668760705.1999999,NA
+NA,"World","Crops","FAO aggregates","no","no",2002,1264194699.5,0,609695119.5,654499580,NA
+NA,"World","Crops","FAO aggregates","no","no",2003,1279693240.4,0,625969644,653723596.4000001,NA
+NA,"World","Crops","FAO aggregates","no","no",2004,1317848282.3999999,-2.384185791015625e-7,650146442,667701840.4,NA
+NA,"World","Crops","FAO aggregates","no","no",2005,1336482078.5,0,653824032.5,682658046,NA
+NA,"World","Crops","FAO aggregates","no","no",2006,1353835323.5,0,669508799.5,684326524,NA
+NA,"World","Crops","FAO aggregates","no","no",2007,1375957634.7,2.384185791015625e-7,691105875.5,684851759.1999999,NA
+NA,"World","Crops","FAO aggregates","no","no",2008,1394812066.6,0,692246939,702565127.6,NA
+NA,"World","Crops","FAO aggregates","no","no",2009,1400868034.2,2.384185791015625e-7,703864751,697003283.1999999,NA
+NA,"World","Crops","FAO aggregates","no","no",2010,1437794402.1999998,-2.384185791015625e-7,727208389,710586013.2,NA
+NA,"World","Crops","FAO aggregates","no","no",2011,1467915156,0,754082834,713832322,NA
+NA,"World","Crops","FAO aggregates","no","no",2012,1464032373.3000002,2.384185791015625e-7,752260190.5,711772182.8,NA
+NA,"World","Crops","FAO aggregates","no","no",2013,1492520406.9,0,773575094.5,718945312.4000001,NA
+NA,"World","Crops","FAO aggregates","no","no",2014,1498416966.4,0,783740044,714676922.4000001,NA
+NA,"World","Crops","FAO aggregates","no","no",2015,1483208158.1,0,778343292.5,704864865.6,NA
+NA,"World","Crops","FAO aggregates","no","no",2016,1499173457.3,0,788370256.5,710803200.8,NA
+NA,"World","Crops","FAO aggregates","no","no",2017,1518374017.9,0,804733529.5,713640488.4,NA
+NA,"World","Crops","FAO aggregates","no","no",2018,1509507401,0,794612199,714895202,NA
+NA,"World","Crops","FAO aggregates","no","no",2019,1493883180,0,793684646,700198534,NA
+NA,"World","Crops","FAO aggregates","no","no",2020,1549787899.2,0,831882700,717905199.2,NA
+NA,"World","Crops","FAO aggregates","no","no",2021,1548969118.6,0,827633743,721335375.6,NA
+NA,"World","Crops","FAO aggregates","no","no",2022,1512035966.7,2.384185791015625e-7,799175737.5,712860229.1999999,NA
+NA,"World","Crops","FAO aggregates","no","no",2030,1558205431.2,0,861372430,696833001.2,NA
+NA,"World","Crops","FAO aggregates","no","no",2050,1642520356.9,0,957523042.5,684997314.4,NA
+NA,"World","Livestock","FAO aggregates","no","no",1992,3576369583.3,4.76837158203125e-7,842567208.5,2733802374.7999997,NA
+NA,"World","Livestock","FAO aggregates","no","no",1993,3562977763.2,-4.76837158203125e-7,841036754,2721941009.2000003,NA
+NA,"World","Livestock","FAO aggregates","no","no",1994,3595477689.1,0,851991721.5,2743485967.6,NA
+NA,"World","Livestock","FAO aggregates","no","no",1995,3609132203.9,0,858408219.5,2750723984.4,NA
+NA,"World","Livestock","FAO aggregates","no","no",1996,3614738692.9,0,863732440.5,2751006252.4,NA
+NA,"World","Livestock","FAO aggregates","no","no",1997,3551697948.7999997,-4.76837158203125e-7,849592862,2702105086.8,NA
+NA,"World","Livestock","FAO aggregates","no","no",1998,3558288634.9,0,851228998.5,2707059636.4,NA
+NA,"World","Livestock","FAO aggregates","no","no",1999,3573315481.6,0,858930614,2714384867.6,NA
+NA,"World","Livestock","FAO aggregates","no","no",2000,3592873562.7000003,4.76837158203125e-7,867228797.5,2725644765.2,NA
+NA,"World","Livestock","FAO aggregates","no","no",2001,3596324393.4,4.76837158203125e-7,869353859,2726970534.3999996,NA
+NA,"World","Livestock","FAO aggregates","no","no",2002,3633130254.2,0,880794545,2752335709.2,NA
+NA,"World","Livestock","FAO aggregates","no","no",2003,3674345376.9,0,890178486.5,2784166890.4,NA
+NA,"World","Livestock","FAO aggregates","no","no",2004,3717652263.1,-4.76837158203125e-7,902297519.5,2815354743.6000004,NA
+NA,"World","Livestock","FAO aggregates","no","no",2005,3759762215.2,0,915226048,2844536167.2,NA
+NA,"World","Livestock","FAO aggregates","no","no",2006,3795043428.2,-4.76837158203125e-7,924117275,2870926153.2000003,NA
+NA,"World","Livestock","FAO aggregates","no","no",2007,3830591833.5,0,935022793.5,2895569040,NA
+NA,"World","Livestock","FAO aggregates","no","no",2008,3862468114.8,4.76837158203125e-7,945532720,2916935394.7999997,NA
+NA,"World","Livestock","FAO aggregates","no","no",2009,3876016317.6000004,4.76837158203125e-7,951738172,2924278145.6,NA
+NA,"World","Livestock","FAO aggregates","no","no",2010,3877075449.3999996,0,954765267,2922310182.3999996,NA
+NA,"World","Livestock","FAO aggregates","no","no",2011,3892402966.7000003,4.76837158203125e-7,958798911.5,2933604055.2,NA
+NA,"World","Livestock","FAO aggregates","no","no",2012,3928142076.4,0,970741216,2957400860.4,NA
+NA,"World","Livestock","FAO aggregates","no","no",2013,3947002652.7,-4.76837158203125e-7,977653979.5,2969348673.2000003,NA
+NA,"World","Livestock","FAO aggregates","no","no",2014,3974854986.5,0,985545838.5,2989309148,NA
+NA,"World","Livestock","FAO aggregates","no","no",2015,4011148612.4,4.76837158203125e-7,997562714,3013585898.3999996,NA
+NA,"World","Livestock","FAO aggregates","no","no",2016,4057527578.1,-4.76837158203125e-7,1011002692.5,3046524885.6000004,NA
+NA,"World","Livestock","FAO aggregates","no","no",2017,4084334832.7000003,0,1022913647.5,3061421185.2000003,NA
+NA,"World","Livestock","FAO aggregates","no","no",2018,4092797116.8,0,1027512696,3065284420.8,NA
+NA,"World","Livestock","FAO aggregates","no","no",2019,4122279203.4,0,1036937103,3085342100.4,NA
+NA,"World","Livestock","FAO aggregates","no","no",2020,4175703143,0,1052803713,3122899430,NA
+NA,"World","Livestock","FAO aggregates","no","no",2021,4212360700.2999997,-4.76837158203125e-7,1062942957.5,3149417742.8,NA
+NA,"World","Livestock","FAO aggregates","no","no",2022,4259877757.7,0,1076125594.5,3183752163.2,NA
+NA,"World","Livestock","FAO aggregates","no","no",2030,4425555106.8,0,1114556504,3310998602.8,NA
+NA,"World","Livestock","FAO aggregates","no","no",2050,4943284786.5,0,1272654046.5,3670630740,NA
+NA,"World","Agriculture","IPCC aggregates","yes","no",1992,5123315612.200001,9.5367431640625e-7,1600799863,3522515749.2,NA
+NA,"World","Agriculture","IPCC aggregates","yes","no",1993,5091786133.5,0,1587111897.5,3504674236,NA
+NA,"World","Agriculture","IPCC aggregates","yes","no",1994,5136362991.8,9.5367431640625e-7,1603607273,3532755718.7999997,NA
+NA,"World","Agriculture","IPCC aggregates","yes","no",1995,5188540038.4,0,1637251408,3551288630.4,NA
+NA,"World","Agriculture","IPCC aggregates","yes","no",1996,5216276061.700001,0,1666963234.5,3549312827.2000003,NA
+NA,"World","Agriculture","IPCC aggregates","yes","no",1997,5142017639.1,0,1642381675.5,3499635963.6,NA
+NA,"World","Agriculture","IPCC aggregates","yes","no",1998,5196216661.7,-9.5367431640625e-7,1671578792.5,3524637869.2000003,NA
+NA,"World","Agriculture","IPCC aggregates","yes","no",1999,5253997746.7,0,1694074907.5,3559922839.2,NA
+NA,"World","Agriculture","IPCC aggregates","yes","no",2000,5251075009.700001,0,1686849046.5,3564225963.2000003,NA
+NA,"World","Agriculture","IPCC aggregates","yes","no",2001,5255673249.200001,0,1697710522,3557962727.2000003,NA
+NA,"World","Agriculture","IPCC aggregates","yes","no",2002,5314201780.7,0,1731784301.5,3582417479.2,NA
+NA,"World","Agriculture","IPCC aggregates","yes","no",2003,5310520937,0,1729446657,3581074280,NA
+NA,"World","Agriculture","IPCC aggregates","yes","no",2004,5419120131.099999,-9.5367431640625e-7,1778372679.5,3640747451.6,NA
+NA,"World","Agriculture","IPCC aggregates","yes","no",2005,5458908338.5,0,1785368944.5,3673539394,NA
+NA,"World","Agriculture","IPCC aggregates","yes","no",2006,5519707244.099999,-9.5367431640625e-7,1813828460.5,3705878783.6000004,NA
+NA,"World","Agriculture","IPCC aggregates","yes","no",2007,5597137452.2,0,1855601391,3741536061.2,NA
+NA,"World","Agriculture","IPCC aggregates","yes","no",2008,5606615531.3,0,1848187512.5,3758428018.8,NA
+NA,"World","Agriculture","IPCC aggregates","yes","no",2009,5604125187.8,0,1855823355,3748301832.8,NA
+NA,"World","Agriculture","IPCC aggregates","yes","no",2010,5661779311.9,0,1891506797.5,3770272514.4,NA
+NA,"World","Agriculture","IPCC aggregates","yes","no",2011,5791473871.6,0,1961619782,3829854089.6,NA
+NA,"World","Agriculture","IPCC aggregates","yes","no",2012,5813948103.299999,-9.5367431640625e-7,1967499522.5,3846448580.8,NA
+NA,"World","Agriculture","IPCC aggregates","yes","no",2013,5755782239.799999,0,1946844601,3808937638.7999997,NA
+NA,"World","Agriculture","IPCC aggregates","yes","no",2014,5808449360.3,0,1973720291.5,3834729068.8,NA
+NA,"World","Agriculture","IPCC aggregates","yes","no",2015,5829836030.1,0,1980490034.5,3849345995.6,NA
+NA,"World","Agriculture","IPCC aggregates","yes","no",2016,5869461107.8,9.5367431640625e-7,1993453543,3876007564.7999997,NA
+NA,"World","Agriculture","IPCC aggregates","yes","no",2017,5952042210.2,-9.5367431640625e-7,2038717875,3913324335.2000003,NA
+NA,"World","Agriculture","IPCC aggregates","yes","no",2018,5931475905.3,0,2024079248.5,3907396656.8,NA
+NA,"World","Agriculture","IPCC aggregates","yes","no",2019,5921635029.5,0,2021677023.5,3899958006,NA
+NA,"World","Agriculture","IPCC aggregates","yes","no",2020,6029355739.900001,9.5367431640625e-7,2075094133.5,3954261606.4,NA
+NA,"World","Agriculture","IPCC aggregates","yes","no",2021,6075035290.6,0,2085545389,3989489901.6,NA
+NA,"World","Agriculture","IPCC aggregates","yes","no",2022,6078003500.7,0,2066759035.5,4011244465.2,NA
+NA,"World","Agriculture","IPCC aggregates","yes","no",2030,NA,NA,NA,NA,NA
+NA,"World","Agriculture","IPCC aggregates","yes","no",2050,NA,NA,NA,NA,NA
+NA,"World","Agricultural Soils","IPCC aggregates","no","no",1992,1353535968.5,0,1353535968.5,NA,NA
+NA,"World","Agricultural Soils","IPCC aggregates","no","no",1993,1340307433.5,0,1340307433.5,NA,NA
+NA,"World","Agricultural Soils","IPCC aggregates","no","no",1994,1355637339,0,1355637339,NA,NA
+NA,"World","Agricultural Soils","IPCC aggregates","no","no",1995,1388523123.5,0,1388523123.5,NA,NA
+NA,"World","Agricultural Soils","IPCC aggregates","no","no",1996,1425912106,0,1425912106,NA,NA
+NA,"World","Agricultural Soils","IPCC aggregates","no","no",1997,1412586952,0,1412586952,NA,NA
+NA,"World","Agricultural Soils","IPCC aggregates","no","no",1998,1420949848.5,0,1420949848.5,NA,NA
+NA,"World","Agricultural Soils","IPCC aggregates","no","no",1999,1440954460,0,1440954460,NA,NA
+NA,"World","Agricultural Soils","IPCC aggregates","no","no",2000,1426553141,0,1426553141,NA,NA
+NA,"World","Agricultural Soils","IPCC aggregates","no","no",2001,1438177578,0,1438177578,NA,NA
+NA,"World","Agricultural Soils","IPCC aggregates","no","no",2002,1460879677.5,0,1460879677.5,NA,NA
+NA,"World","Agricultural Soils","IPCC aggregates","no","no",2003,1487207984,0,1487207984,NA,NA
+NA,"World","Agricultural Soils","IPCC aggregates","no","no",2004,1523735928.5,0,1523735928.5,NA,NA
+NA,"World","Agricultural Soils","IPCC aggregates","no","no",2005,1540206844.5,0,1540206844.5,NA,NA
+NA,"World","Agricultural Soils","IPCC aggregates","no","no",2006,1564085252.5,0,1564085252.5,NA,NA
+NA,"World","Agricultural Soils","IPCC aggregates","no","no",2007,1596628286,0,1596628286,NA,NA
+NA,"World","Agricultural Soils","IPCC aggregates","no","no",2008,1606721420.5,0,1606721420.5,NA,NA
+NA,"World","Agricultural Soils","IPCC aggregates","no","no",2009,1624579611.5,0,1624579611.5,NA,NA
+NA,"World","Agricultural Soils","IPCC aggregates","no","no",2010,1650963488.5,0,1650963488.5,NA,NA
+NA,"World","Agricultural Soils","IPCC aggregates","no","no",2011,1683079209.5,0,1683079209.5,NA,NA
+NA,"World","Agricultural Soils","IPCC aggregates","no","no",2012,1692906920,0,1692906920,NA,NA
+NA,"World","Agricultural Soils","IPCC aggregates","no","no",2013,1721554745,0,1721554745,NA,NA
+NA,"World","Agricultural Soils","IPCC aggregates","no","no",2014,1738783349,0,1738783349,NA,NA
+NA,"World","Agricultural Soils","IPCC aggregates","no","no",2015,1744112128,0,1744112128,NA,NA
+NA,"World","Agricultural Soils","IPCC aggregates","no","no",2016,1766556700.5,0,1766556700.5,NA,NA
+NA,"World","Agricultural Soils","IPCC aggregates","no","no",2017,1793779912,0,1793779912,NA,NA
+NA,"World","Agricultural Soils","IPCC aggregates","no","no",2018,1789939293.5,0,1789939293.5,NA,NA
+NA,"World","Agricultural Soils","IPCC aggregates","no","no",2019,1800709768,0,1800709768,NA,NA
+NA,"World","Agricultural Soils","IPCC aggregates","no","no",2020,1852451998.5,0,1852451998.5,NA,NA
+NA,"World","Agricultural Soils","IPCC aggregates","no","no",2021,1856753001.5,0,1856753001.5,NA,NA
+NA,"World","Agricultural Soils","IPCC aggregates","no","no",2022,1841095211.5,0,1841095211.5,NA,NA
+NA,"World","Agricultural Soils","IPCC aggregates","no","no",2030,NA,NA,NA,NA,NA
+NA,"World","Agricultural Soils","IPCC aggregates","no","no",2050,NA,NA,NA,NA,NA
+NA,"World","LULUCF","IPCC aggregates","yes","no",1992,2033915902,1763543593.1,85291124.5,185081184.4,NA
+NA,"World","LULUCF","IPCC aggregates","yes","no",1993,2034349504.5,1763977222.1,85291098,185081184.4,NA
+NA,"World","LULUCF","IPCC aggregates","yes","no",1994,2034016466.8,1763644184.4,85291098,185081184.4,NA
+NA,"World","LULUCF","IPCC aggregates","yes","no",1995,2039624050,1769251767.6,85291098,185081184.4,NA
+NA,"World","LULUCF","IPCC aggregates","yes","no",1996,1838414288.2,1636157221.2,44379179,157877888,NA
+NA,"World","LULUCF","IPCC aggregates","yes","no",1997,2837769912.3,2325999711.2000003,58685283.5,453084917.59999996,NA
+NA,"World","LULUCF","IPCC aggregates","yes","no",1998,2149914046.3,1770012054.2000003,73830192.5,306071799.6,NA
+NA,"World","LULUCF","IPCC aggregates","yes","no",1999,1951647577.7,1673678859.6,57628410.5,220340307.6,NA
+NA,"World","LULUCF","IPCC aggregates","yes","no",2000,1796244861.1999998,1621536755.8999999,39135014.5,135573090.8,NA
+NA,"World","LULUCF","IPCC aggregates","yes","no",2001,1487781753.8,1344436957.6999998,61613798.5,81730997.60000001,NA
+NA,"World","LULUCF","IPCC aggregates","yes","no",2002,2017549803.7,1720142178.8000002,73167586.5,224240038.39999998,NA
+NA,"World","LULUCF","IPCC aggregates","yes","no",2003,1704629994.9,1447607818.6000001,98368503.5,158653672.8,NA
+NA,"World","LULUCF","IPCC aggregates","yes","no",2004,2082948646.5,1717816674.3,105635731,259496241.2,NA
+NA,"World","LULUCF","IPCC aggregates","yes","no",2005,1796078906.7,1511223437.3000002,102285283,182570186.4,NA
+NA,"World","LULUCF","IPCC aggregates","yes","no",2006,2166971209.6000004,1806881372.2000003,90626873,269462964.4,NA
+NA,"World","LULUCF","IPCC aggregates","yes","no",2007,1627803765.2,1380830748.6000001,107411337,139561679.6,NA
+NA,"World","LULUCF","IPCC aggregates","yes","no",2008,1571482006.8000002,1368780716.9,89465669.5,113235620.4,NA
+NA,"World","LULUCF","IPCC aggregates","yes","no",2009,1974110744.3,1672632790.4,87066783.5,214411170.4,NA
+NA,"World","LULUCF","IPCC aggregates","yes","no",2010,1650541207.9,1381837472.2,119354860.5,149348875.20000002,NA
+NA,"World","LULUCF","IPCC aggregates","yes","no",2011,564808877.6,306638838.4,93706862,164463177.20000002,NA
+NA,"World","LULUCF","IPCC aggregates","yes","no",2012,597318144.6,316186750.4,103423405,177707989.20000002,NA
+NA,"World","LULUCF","IPCC aggregates","yes","no",2013,544281229,301990627.3,87899360.5,154391241.2,NA
+NA,"World","LULUCF","IPCC aggregates","yes","no",2014,901085876.9,565413667.8,89527997.5,246144211.60000002,NA
+NA,"World","LULUCF","IPCC aggregates","yes","no",2015,936250537.6,581568226.3,95719828.5,258962482.8,NA
+NA,"World","LULUCF","IPCC aggregates","yes","no",2016,1406173697.1,1182898177.1,94659060,128616460,NA
+NA,"World","LULUCF","IPCC aggregates","yes","no",2017,1360261854,1147966313.9,95358686.5,116936853.60000001,NA
+NA,"World","LULUCF","IPCC aggregates","yes","no",2018,1528027411,1295876042.5,81468976.5,150682392,NA
+NA,"World","LULUCF","IPCC aggregates","yes","no",2019,1809331217.2,1470654336.5,103268353.5,235408527.20000002,NA
+NA,"World","LULUCF","IPCC aggregates","yes","no",2020,1398103068,1173173070.5,98601067.5,126328930,NA
+NA,"World","LULUCF","IPCC aggregates","yes","no",2021,1345086472.4,1153566984.9,86341743.5,105177744,NA
+NA,"World","LULUCF","IPCC aggregates","yes","no",2022,1298976093.9,1145102449,70213472.5,83660172.39999999,NA
+NA,"World","LULUCF","IPCC aggregates","yes","no",2030,NA,NA,NA,NA,NA
+NA,"World","LULUCF","IPCC aggregates","yes","no",2050,NA,NA,NA,NA,NA
+NA,"World","AFOLU","IPCC aggregates","no","no",1992,7157231514.2,1763543593.0999994,1686090987.5,3707596933.6,NA
+NA,"World","AFOLU","IPCC aggregates","no","no",1993,7126135638,1763977222.1000004,1672402995.5,3689755420.4,NA
+NA,"World","AFOLU","IPCC aggregates","no","no",1994,7170379458.599999,1763644184.3999987,1688898371,3717836903.2000003,NA
+NA,"World","AFOLU","IPCC aggregates","no","no",1995,7228164088.4,1769251767.6000004,1722542506,3736369814.7999997,NA
+NA,"World","AFOLU","IPCC aggregates","no","no",1996,7054690349.9,1636157221.1999998,1711342413.5,3707190715.2,NA
+NA,"World","AFOLU","IPCC aggregates","no","no",1997,7979787551.400001,2325999711.2,1701066959,3952720881.2000003,NA
+NA,"World","AFOLU","IPCC aggregates","no","no",1998,7346130708,1770012054.1999998,1745408985,3830709668.8,NA
+NA,"World","AFOLU","IPCC aggregates","no","no",1999,7205645324.400001,1673678859.6000004,1751703318,3780263146.8,NA
+NA,"World","AFOLU","IPCC aggregates","no","no",2000,7047319870.900001,1621536755.9000006,1725984061,3699799054,NA
+NA,"World","AFOLU","IPCC aggregates","no","no",2001,6743455003,1344436957.6999998,1759324320.5,3639693724.8,NA
+NA,"World","AFOLU","IPCC aggregates","no","no",2002,7331751584.4,1720142178.7999992,1804951888,3806657517.6,NA
+NA,"World","AFOLU","IPCC aggregates","no","no",2003,7015150931.900001,1447607818.6000004,1827815160.5,3739727952.8,NA
+NA,"World","AFOLU","IPCC aggregates","no","no",2004,7502068777.599999,1717816674.3000002,1884008410.5,3900243692.7999997,NA
+NA,"World","AFOLU","IPCC aggregates","no","no",2005,7254987245.2,1511223437.3000002,1887654227.5,3856109580.4,NA
+NA,"World","AFOLU","IPCC aggregates","no","no",2006,7686678453.700001,1806881372.2000008,1904455333.5,3975341748,NA
+NA,"World","AFOLU","IPCC aggregates","no","no",2007,7224941217.400001,1380830748.6000013,1963012728,3881097740.7999997,NA
+NA,"World","AFOLU","IPCC aggregates","no","no",2008,7178097538.099999,1368780716.8999987,1937653182,3871663639.2000003,NA
+NA,"World","AFOLU","IPCC aggregates","no","no",2009,7578235932.099999,1672632790.3999987,1942890138.5,3962713003.2000003,NA
+NA,"World","AFOLU","IPCC aggregates","no","no",2010,7312320519.8,1381837472.1999998,2010861658,3919621389.6,NA
+NA,"World","AFOLU","IPCC aggregates","no","no",2011,6356282749.200001,306638838.4000015,2055326644,3994317266.7999997,NA
+NA,"World","AFOLU","IPCC aggregates","no","no",2012,6411266247.9,316186750.3999996,2070922927.5,4024156570,NA
+NA,"World","AFOLU","IPCC aggregates","no","no",2013,6300063468.8,301990627.3000002,2034743961.5,3963328880,NA
+NA,"World","AFOLU","IPCC aggregates","no","no",2014,6709535237.200001,565413667.8000011,2063248289,4080873280.4,NA
+NA,"World","AFOLU","IPCC aggregates","no","no",2015,6766086567.7,581568226.3000002,2076209863,4108308478.4,NA
+NA,"World","AFOLU","IPCC aggregates","no","no",2016,7275634804.9,1182898177.1000004,2088112603,4004624024.7999997,NA
+NA,"World","AFOLU","IPCC aggregates","no","no",2017,7312304064.2,1147966313.8999996,2134076561.4999998,4030261188.8,NA
+NA,"World","AFOLU","IPCC aggregates","no","no",2018,7459503316.3,1295876042.5,2105548225,4058079048.8,NA
+NA,"World","AFOLU","IPCC aggregates","no","no",2019,7730966246.7,1470654336.5,2124945376.9999998,4135366533.2,NA
+NA,"World","AFOLU","IPCC aggregates","no","no",2020,7427458807.900001,1173173070.500001,2173695201,4080590536.4,NA
+NA,"World","AFOLU","IPCC aggregates","no","no",2021,7420121763,1153566984.8999996,2171887132.5,4094667645.6,NA
+NA,"World","AFOLU","IPCC aggregates","no","no",2022,7376979594.6,1145102449,2136972508,4094904637.6,NA
+NA,"World","AFOLU","IPCC aggregates","no","no",2030,NA,NA,NA,NA,NA
+NA,"World","AFOLU","IPCC aggregates","no","no",2050,NA,NA,NA,NA,NA

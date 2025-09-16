@@ -6,7 +6,7 @@
 #' Necessary packages: utils, dplyr, tidyr, readr
 #' 
 #' Data source: https://www.fao.org/faostat/en/#data/GT
-#' Output format: ISO3, Area, Item, Year, tCO2eq_N2O, tCO2eq_total, tCO2eq_CH4, tCO2eq_Fgases, Group, charted
+#' Output format: ISO3, Area, Item, Year, gas, tCO2eq
 #' @source: \url{https://github.com/rajaoberison/publicdata}
 library(dplyr)
 
@@ -34,7 +34,7 @@ maxYear <- names(tmp_co2eq %>% select(starts_with("Y"))) %>% gsub("Y", "", .) %>
 tmp_tCo2eq <- tmp_co2eq %>% select(`Area Code (M49)`, Item, Element, Y1992:paste0("Y",maxYear)) %>% mutate(across(Y1992:paste0("Y",maxYear), \(x) x*1e3))
 # transpose year and element
 tmp_long0 <- tmp_tCo2eq %>% tidyr::pivot_longer(Y1992:paste0("Y",maxYear), names_to = "Year", values_to = "tCO2eq") %>% mutate(Year = as.integer(gsub("Y", "", Year)))
-tmp_long <- tmp_long0 %>% tidyr::pivot_wider(names_from = Element, values_from = "tCO2eq", values_fill = NA) %>% rename(tCO2eq_total = `Emissions (CO2eq) (AR5)`, tCO2eq_N2O = `Emissions (CO2eq) from N2O (AR5)`, tCO2eq_CH4 = `Emissions (CO2eq) from CH4 (AR5)`, tCO2eq_Fgases = `Emissions (CO2eq) from F-gases (AR5)`)
+tmp_long <- tmp_long0 %>% tidyr::pivot_wider(names_from = Element, values_from = "tCO2eq", values_fill = NA) %>% rename(Total = `Emissions (CO2eq) (AR5)`, N2O = `Emissions (CO2eq) from N2O (AR5)`, CH4 = `Emissions (CO2eq) from CH4 (AR5)`, `F-gases` = `Emissions (CO2eq) from F-gases (AR5)`)
 # get only aggregate values
 FAO_agrifood <- c("Farm gate", "Land Use change", "Pre- and Post- Production")
 FAO_agg <- c("Emissions on agricultural land", "Emissions from crops", "Emissions from livestock", "Agrifood systems")
@@ -45,17 +45,21 @@ tmp_agg <- tmp_long %>% filter(Item %in% c(FAO_agrifood, FAO_agg, IPCC_agg, non_
 # add item groups
 tmp_grouped <- tmp_agg %>% mutate(Group = case_when(Item %in% FAO_agrifood ~ "Agrifood systems", Item %in% FAO_agg ~ "FAO aggregates", Item %in% IPCC_agg ~ "IPCC aggregates", T ~ "Not agri-food")) %>% mutate(sector = case_when(Item %in% c("IPCC Agriculture", "LULUCF", non_agrifood) ~ "yes", T ~ "no"), agrifood = case_when(Item %in% FAO_agrifood ~ "yes", T ~ "no")) %>% mutate(Item = case_when(Item == "IPCC Agriculture" ~ "Agriculture", Item == "Emissions from crops" ~ "Crops", Item == "Emissions from livestock" ~ "Livestock", T ~ Item))
 
+tmp_wCO2 <- tmp_grouped %>% mutate(CO2 = Total - rowSums(across(c(N2O, CH4, `F-gases`)), na.rm=T))
+
 # get iso3 code
 cty_code <- read.csv("../country_codes.csv", check.names = F)
 iso3 <- cty_code %>% mutate(m49cd = paste0("'", sprintf("%03d", `M49 Code`))) %>% rename(ISO3 = `ISO-alpha3 Code`, Area = `Country or Area`) %>% select(m49cd, ISO3, Area)
 
 # final data
-out_data <- tmp_grouped %>% left_join(iso3, by = c("Area Code (M49)" = "m49cd")) %>% relocate(ISO3) %>% select(-`Area Code (M49)`) %>% select(ISO3, Area, Item, Group, sector, agrifood, Year, tCO2eq_total, tCO2eq_N2O, tCO2eq_CH4, tCO2eq_Fgases)
+out_data <- tmp_wCO2 %>% left_join(iso3, by = c("Area Code (M49)" = "m49cd")) %>% relocate(ISO3) %>% select(-`Area Code (M49)`) %>% select(ISO3, Area, Item, Group, sector, agrifood, Year, Total, CO2, N2O, CH4, `F-gases`)
+out_data_long <- out_data %>% tidyr::pivot_longer(Total:`F-gases`, names_to = "gas", values_to = "tCO2eq")
+
 # saving as csv
 readr::write_excel_csv(out_data, paste0("../data/", "faostatghg_", thisYear, thisMonth, ".csv"))
 readr::write_excel_csv(out_data %>% filter(sector == "yes"), paste0("../data/", "faostatghg_sector_", thisYear, thisMonth, ".csv"))
 
 ##split into multiple csv
 for (iso3 in unique(out_data$ISO3)){
-  readr::write_excel_csv(out_data %>% filter(ISO3 == iso3 | Area == "World"), paste0("../data/faostat_ghg_by_country/", iso3, "_faostatghg_", thisYear, thisMonth, ".csv"))
+  readr::write_excel_csv(out_data %>% filter(ISO3 == iso3 | Area == "World"), paste0("../data/faostat_ghg_by_country/", iso3, "_faostatghg.csv"))
 }
