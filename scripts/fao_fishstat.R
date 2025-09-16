@@ -48,12 +48,12 @@ faoreg_data <- fao_country_group %>% filter(`ISO3 Code` %in% iso3$ISO3, `Country
 iso3wReg <- iso3 %>% left_join(faoreg_data, by = c("ISO3" = "ISO3 Code"))
 
 # final data
-out_data0 <- tmp_latest %>% left_join(iso3wReg, by = "ISO3") %>% filter(!is.na(Area)) %>% select(ISO3, Area, `Country Group`, type, Item, cpc_group, isscaap, unit, value) %>% mutate(grouped = "no")
+out_data0 <- tmp_latest %>% left_join(iso3wReg, by = "ISO3") %>% filter(!is.na(Area)) %>% select(ISO3, Area, `Country Group`, type, Item, cpc_group, isscaap, unit, year, value) %>% mutate(grouped = "no")
 ## get grouped stats
-out_data0_grouped <- out_data0 %>% group_by(ISO3, Area, `Country Group`, type, Item, unit) %>% summarise(value = sum(value, na.rm=T)) %>% ungroup() %>% mutate(cpc_group = NA, isscaap = NA, grouped = "yes")
+out_data0_grouped <- out_data0 %>% group_by(ISO3, Area, `Country Group`, type, Item, unit, year) %>% summarise(value = sum(value, na.rm=T)) %>% ungroup() %>% mutate(cpc_group = NA, isscaap = NA, grouped = "yes")
 # world
-out_world <- tmp_latest %>% group_by(type, Item, cpc_group, isscaap, unit) %>% summarise(value = sum(value, na.rm=T)) %>% ungroup() %>% mutate(ISO3 = NA, Area = "World", `Country Group` = NA, grouped = "no")
-out_world_grouped <- tmp_latest %>% group_by(type, Item, unit) %>% summarise(value = sum(value, na.rm=T)) %>% ungroup() %>% mutate(ISO3 = NA, Area = "World", `Country Group` = NA, cpc_group = NA, isscaap = NA, grouped = "yes")
+out_world <- tmp_latest %>% group_by(type, Item, cpc_group, isscaap, unit, year) %>% summarise(value = sum(value, na.rm=T)) %>% ungroup() %>% mutate(ISO3 = NA, Area = "World", `Country Group` = NA, grouped = "no")
+out_world_grouped <- tmp_latest %>% group_by(type, Item, unit, year) %>% summarise(value = sum(value, na.rm=T)) %>% ungroup() %>% mutate(ISO3 = NA, Area = "World", `Country Group` = NA, cpc_group = NA, isscaap = NA, grouped = "yes")
 ## combine the data
 out_data_grouped <- bind_rows(out_data0_grouped, out_data0)
 out_data <- bind_rows(out_data0_grouped, out_data0, out_world, out_world_grouped)
