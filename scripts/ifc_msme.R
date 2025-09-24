@@ -38,9 +38,13 @@ names(tmp_fixed) <- filledColnames %>% pull(fixedColnames)
 relVars <- c("Country Code | NA", "Year | NA", "Population, total | NA", "Number of Enterprises | Micro per 1, 000 people", "Number of Enterprises | SMEs per 1, 000 people", "Number of Enterprises | Large Ent. per 1, 000 people")
 tmp_subset <- tmp_fixed %>% as_tibble(.name_repair = "unique") %>% filter(!is.na(`Country | NA`)) %>% select(all_of(relVars))
 names(tmp_subset) <- c("ISO3", "year", "pop", "micro per 1000 people", "sme per 1000 people", "large per 1000 people")
+# clean
+tmp_clean <- tmp_subset %>% mutate(across(year:pop, \(x) as.integer(x))) %>% mutate(across(`micro per 1000 people`:`large per 1000 people`, \(x) as.numeric(x))) %>% rowwise() %>% mutate(`total per 1000 people` = sum(c(`micro per 1000 people`, `sme per 1000 people`, `large per 1000 people`), na.rm=T)) %>% filter(`total per 1000 people`>0)
+tmp_long <- tmp_clean %>% tidyr::pivot_longer(`micro per 1000 people`:`total per 1000 people`, names_to = "type", values_to = "value")
+
 
 # final data
-out_data <- tmp_subset %>% mutate(across(year:pop, \(x) as.integer(x))) %>% mutate(across(`micro per 1000 people`:`large per 1000 people`, \(x) as.numeric(x))) %>% rowwise() %>% mutate(`total per 1000 people` = sum(c(`micro per 1000 people`, `sme per 1000 people`, `large per 1000 people`), na.rm=T)) %>% filter(`total per 1000 people`>0)
+out_data <- tmp_long
 
 # saving as csv
 readr::write_excel_csv(out_data, paste0("../data/", "ifc_msme_data.csv"))
