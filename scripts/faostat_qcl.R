@@ -1,6 +1,5 @@
 #' Script for downloading and processing FAOSTAT Crop and Livestock data
 #' Developed by Andry Rajaoberison
-#' Last updated: August 09, 2025
 #' Contributors: ...
 #' 
 #' Necessary packages: utils, dplyr, tidyr, readr
@@ -10,6 +9,11 @@
 #' @source: \url{https://github.com/rajaoberison/publicdata}
 library(dplyr)
 
+## geo data
+# get iso3 code
+iso3 <- read.csv("../iso3_regions.csv", check.names = F)
+
+## idx data
 thisYear <- as.numeric(format(Sys.Date(), "%Y"))
 thisMonth <- format(Sys.Date(), "%m")
 
@@ -45,31 +49,52 @@ tmp_keyCols <- tmp_cpcRev %>% select(`Area Code (M49)`, Item, cpc_name1, Element
 # transpose year and element
 tmp_long <- tmp_keyCols %>% tidyr::pivot_longer(Y1992:paste0("Y",maxYear), names_to = "Year", values_to = "value") %>% mutate(Year = as.integer(gsub("Y", "", Year)))
 
-# get iso3 code
-cty_code <- read.csv("../country_codes.csv", check.names = F)
-iso3 <- cty_code %>% mutate(m49cd = paste0("'", sprintf("%03d", `M49 Code`))) %>% rename(ISO3 = `ISO-alpha3 Code`, Area = `Country or Area`) %>% select(m49cd, ISO3, Area)
 ## faostat regions
 faoreg_list <- c("Australia and New Zealand", "Caribbean", "Central America", "Central Asia", "Eastern Africa", "Eastern Asia", "Eastern Europe", "Melanesia", "Micronesia", "Middle Africa", "Northern Africa", "Northern America", "Northern Europe", "Polynesia", "South America", "South-eastern Asia", "Southern Africa", "Southern Asia", "Southern Europe", "Western Africa", "Western Asia", "Western Europe")
 fao_country_group <- read.csv("../faostat_region.csv", check.names = F)
 faoreg_data <- fao_country_group %>% filter(`ISO3 Code` %in% iso3$ISO3, `Country Group` %in% faoreg_list) %>% select(`ISO3 Code`, `Country Group`)
 iso3wReg <- iso3 %>% left_join(faoreg_data, by = c("ISO3" = "ISO3 Code"))
 
-# final data
-out_data0 <- tmp_long %>% left_join(iso3wReg, by = c("Area Code (M49)" = "m49cd")) %>% relocate(ISO3) %>% select(-`Area Code (M49)`) %>% filter(!is.na(Area)) %>% select(ISO3, Area, `Country Group`, cpc_name1, Item, Element, Unit, Year, value) %>% mutate(grouped = "no")
+# clean data
+out_data0 <- tmp_long %>% left_join(iso3wReg, by = c("Area Code (M49)" = "m49cd")) %>% relocate(ISO3) %>% select(-`Area Code (M49)`) %>% filter(!is.na(Area)) %>% select(ISO3, Area, `Country Group`, `UN Region`, `EBRD Region`, cpc_name1, Item, Element, Unit, Year, value) %>% mutate(grouped = "no")
 ## get grouped stats
-out_data_grouped <- out_data0 %>% group_by(ISO3, Area, `Country Group`, cpc_name1, Element, Unit, Year) %>% summarise(value = sum(value, na.rm=T)) %>% ungroup() %>% mutate(Item = NA, grouped = "yes")
-## combine the two data
-out_data <- bind_rows(out_data_grouped, out_data0)
+out_data_grouped <- out_data0 %>% group_by(ISO3, Area, `Country Group`, `UN Region`, `EBRD Region`, cpc_name1, Element, Unit, Year) %>% summarise(value = sum(value, na.rm=T)) %>% ungroup() %>% mutate(Item = NA, grouped = "yes")
 
-# saving as csv
-readr::write_excel_csv(out_data_grouped, paste0("../data/", "faostatqcl_grouped_", thisYear, thisMonth, ".csv"))
+## region average
+out_unregion <- out_data0 %>% group_by(`UN Region`, cpc_name1, Item, Element, Unit, Year) %>%  summarise(value = mean(value, na.rm=T)) %>% filter(!is.na(`UN Region`)) %>% mutate(grouped = "no")
+out_unregion_grouped <- out_unregion %>% group_by(`UN Region`, cpc_name1, Element, Unit, Year) %>% summarise(value = mean(value, na.rm=T)) %>% ungroup() %>% mutate(grouped = "yes")
+
+out_ebrdregion <- out_data0 %>% group_by(`EBRD Region`, cpc_name1, Item, Element, Unit, Year) %>%  summarise(value = mean(value, na.rm=T)) %>% filter(!is.na(`EBRD Region`)) %>% mutate(grouped = "no")
+out_ebrdregion_grouped <- out_ebrdregion %>% group_by(`EBRD Region`, cpc_name1, Element, Unit, Year) %>% summarise(value = mean(value, na.rm=T)) %>% ungroup() %>% mutate(grouped = "yes")
+
+## final data
+out_data <- bind_rows(out_data_grouped, out_data0, out_unregion, out_unregion_grouped, out_ebrdregion, out_ebrdregion_grouped)
+
+# # saving as csv
+# readr::write_excel_csv(out_data_grouped, paste0("../data/", "faostatqcl_grouped_", thisYear, thisMonth, ".csv"))
 
 ##split into multiple csv
+# for (iso3 in unique(out_data$ISO3)){
+#   readr::write_excel_csv(out_data %>% filter(ISO3 == iso3 | Area == "World"), paste0("../data/faostat_qcl_by_country/", iso3, "_faostatqcl.csv"))
+# }
+
 for (iso3 in unique(out_data$ISO3)){
-  readr::write_excel_csv(out_data %>% filter(ISO3 == iso3 | Area == "World"), paste0("../data/faostat_qcl_by_country/", iso3, "_faostatqcl.csv"))
+  thisData <- out_data %>% filter(ISO3 == iso3 | Area == "World")
+  thisUnReg <- thisData %>% filter(!is.na(`UN Region`)) %>% pull(`UN Region`) %>% unique()
+  thisEbrdReg <- thisData %>% filter(!is.na(`EBRD Region`)) %>% pull(`EBRD Region`) %>% unique()
+  
+  if(length(thisUnReg) > 0){
+    thisUnRegAvg <- out_data %>% filter(is.na(Area), `UN Region` == thisUnReg)
+    thisData <- thisData %>% bind_rows(thisUnRegAvg)
+  }
+  
+  if(length(thisEbrdReg) > 0){
+    thisEbrdRegAvg <- out_data %>% filter(is.na(Area), `EBRD Region` == thisEbrdReg)
+    thisData <- thisData %>% bind_rows(thisEbrdRegAvg)
+  }
+  
+  readr::write_excel_csv(thisData, paste0("../data/faostat_qcl_by_country/", iso3, "_faostatqcl.csv"))
 }
-
-
 
 
 
