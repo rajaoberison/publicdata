@@ -51,7 +51,7 @@ tmp_long <- tmp_long0 %>% tidyr::pivot_wider(names_from = Element, values_from =
 FAO_agrifood <- c("Farm gate", "Land Use change", "Pre- and Post- Production")
 FAO_agg <- c("Emissions on agricultural land", "Emissions from crops", "Emissions from livestock", "Agrifood systems")
 IPCC_agg <- c("IPCC Agriculture", "Agricultural Soils", "LULUCF", "AFOLU")
-non_agrifood <- c("Energy", "IPPU", "Waste", "International bunkers", "Others")
+non_agrifood <- c("Energy", "IPPU", "Waste", "International bunkers", "Other")
 # get selected aggregates
 tmp_agg <- tmp_long %>% filter(Item %in% c(FAO_agrifood, FAO_agg, IPCC_agg, non_agrifood))
 
