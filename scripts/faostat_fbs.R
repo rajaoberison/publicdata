@@ -66,6 +66,11 @@ out_ebrdregion <- clean_data %>% group_by(`EBRD Region`, Element, `FBS Class`, U
 ## final data
 out_data <- bind_rows(clean_data, out_unregion, out_ebrdregion)
 
+## extra data
+aggSupplyQty <- clean_data %>% filter(Type == "Per capita", !is.na(ISO3)) %>% group_by(ISO3, Area, `UN Region`, `EBRD Region`, Element, Unit, Year) %>% summarise(value = sum(value, na.rm = T)) %>% ungroup()
+
+readr::write_excel_csv(aggSupplyQty, paste0("../data/faostat_aggregates/", "agg_faostatfbs.csv"))
+
 # saving as csv
 ##split into multiple csv
 for (iso3 in unique(out_data$ISO3)){
