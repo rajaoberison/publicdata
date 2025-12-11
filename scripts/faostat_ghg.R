@@ -47,20 +47,25 @@ tmp_tCo2eq <- tmp_co2eq %>% select(`Area Code (M49)`, Item, Element, Y1992:paste
 # transpose year and element
 tmp_long0 <- tmp_tCo2eq %>% tidyr::pivot_longer(Y1992:paste0("Y",maxYear), names_to = "Year", values_to = "tCO2eq") %>% mutate(Year = as.integer(gsub("Y", "", Year)))
 tmp_long <- tmp_long0 %>% tidyr::pivot_wider(names_from = Element, values_from = "tCO2eq", values_fill = NA) %>% rename(Total = `Emissions (CO2eq) (AR5)`, N2O = `Emissions (CO2eq) from N2O (AR5)`, CH4 = `Emissions (CO2eq) from CH4 (AR5)`, `F-gases` = `Emissions (CO2eq) from F-gases (AR5)`)
-# get only aggregate values
-FAO_agrifood <- c("Farm gate", "Land Use change", "Pre- and post-production")
+# get aggregate values
+FAO_agrifood <- c("Farm gate", "Land-use change", "Pre- and post-production")
 FAO_agg <- c("Emissions on agricultural land", "Emissions from crops", "Emissions from livestock", "Agrifood systems")
 IPCC_agg <- c("IPCC Agriculture", "Agricultural Soils", "LULUCF", "AFOLU")
 non_agrifood <- c("Energy", "IPPU", "Waste", "International bunkers", "Other")
-# get selected aggregates
-tmp_agg <- tmp_long %>% filter(Item %in% c(FAO_agrifood, FAO_agg, IPCC_agg, non_agrifood))
+# get non aggregate values for agri-food sys
+af_lulc <- c("Fires in humid tropical forests", "Fires in organic soils")
+af_farmgate <- c("Burning - Crop residues", "Crop Residues", "Drained organic soils", "Enteric Fermentation", "Manure applied to Soils", "Manure left on Pasture", "Manure Management", "Net Forest conversion", "On-farm energy use", "Rice Cultivation", "Savanna fires", "Synthetic Fertilizers")
+af_prepost <- c("Agrifood Systems Waste Disposal", "Fertilizers Manufacturing", "Food Household Consumption", "Food Packaging", "Food Processing", "Food Retail", "Food Transport", "Pesticides Manufacturing")
+## get selected data
+tmp_agg_nonAgg <- tmp_long %>% filter(Item %in% c(FAO_agrifood, FAO_agg, IPCC_agg, non_agrifood, af_lulc, af_farmgate, af_prepost))
+
 
 ## fix na values (data-specific)
-tmp_noNA <- tmp_agg %>% filter(!is.na(Total)) %>% tidyr::replace_na(list(N2O = 0, CH4 = 0, `F-gases` = 0))
+tmp_noNA <- tmp_agg_nonAgg %>% filter(!is.na(Total)) %>% tidyr::replace_na(list(N2O = 0, CH4 = 0, `F-gases` = 0))
 #anyNA(tmp_noNA)
 
 # add item groups
-tmp_grouped <- tmp_noNA %>% mutate(Group = case_when(Item %in% FAO_agrifood ~ "Agrifood systems", Item %in% FAO_agg ~ "FAO aggregates", Item %in% IPCC_agg ~ "IPCC aggregates", T ~ "Not agri-food")) %>% mutate(sector = case_when(Item %in% c("IPCC Agriculture", "LULUCF", non_agrifood) ~ "yes", T ~ "no"), agrifood = case_when(Item %in% FAO_agrifood ~ "yes", T ~ "no")) %>% mutate(Item = case_when(Item == "IPCC Agriculture" ~ "Agriculture", Item == "Emissions from crops" ~ "Crops", Item == "Emissions from livestock" ~ "Livestock", T ~ Item))
+tmp_grouped <- tmp_noNA %>% mutate(Group = case_when(Item %in% FAO_agrifood ~ "Agrifood systems", Item %in% FAO_agg ~ "FAO aggregates", Item %in% IPCC_agg ~ "IPCC aggregates", T ~ "Not agri-food")) %>% mutate(sector = case_when(Item %in% c("IPCC Agriculture", "LULUCF", non_agrifood) ~ "yes", T ~ "no"), agrifood = case_when(Item %in% af_lulc ~ "Land-use change", Item %in% af_farmgate ~ "Farm gate", Item %in% af_prepost ~ "Pre- and post-production", Item %in% FAO_agrifood ~ "yes", T ~ "no")) %>% mutate(Item = case_when(Item == "IPCC Agriculture" ~ "Agriculture", Item == "Emissions from crops" ~ "Crops", Item == "Emissions from livestock" ~ "Livestock", T ~ Item))
 
 tmp_wCO2 <- tmp_grouped %>% mutate(CO2 = Total - rowSums(across(c(N2O, CH4, `F-gases`)), na.rm=T))
 
