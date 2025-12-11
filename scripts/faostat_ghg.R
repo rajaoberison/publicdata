@@ -48,7 +48,7 @@ tmp_tCo2eq <- tmp_co2eq %>% select(`Area Code (M49)`, Item, Element, Y1992:paste
 tmp_long0 <- tmp_tCo2eq %>% tidyr::pivot_longer(Y1992:paste0("Y",maxYear), names_to = "Year", values_to = "tCO2eq") %>% mutate(Year = as.integer(gsub("Y", "", Year)))
 tmp_long <- tmp_long0 %>% tidyr::pivot_wider(names_from = Element, values_from = "tCO2eq", values_fill = NA) %>% rename(Total = `Emissions (CO2eq) (AR5)`, N2O = `Emissions (CO2eq) from N2O (AR5)`, CH4 = `Emissions (CO2eq) from CH4 (AR5)`, `F-gases` = `Emissions (CO2eq) from F-gases (AR5)`)
 # get only aggregate values
-FAO_agrifood <- c("Farm gate", "Land Use change", "Pre- and Post- Production")
+FAO_agrifood <- c("Farm gate", "Land Use change", "Pre- and post-production")
 FAO_agg <- c("Emissions on agricultural land", "Emissions from crops", "Emissions from livestock", "Agrifood systems")
 IPCC_agg <- c("IPCC Agriculture", "Agricultural Soils", "LULUCF", "AFOLU")
 non_agrifood <- c("Energy", "IPPU", "Waste", "International bunkers", "Other")
@@ -75,8 +75,8 @@ out_ebrdregion <- clean_data %>% group_by(`EBRD Region`, Item, Group, sector, ag
 out_data <- clean_data %>% bind_rows(out_ebrdregion) %>% bind_rows(out_unregion)
 out_data_long <- out_data %>% tidyr::pivot_longer(Total:`F-gases`, names_to = "gas", values_to = "tCO2eq")
 
-# # saving as csv
-# readr::write_excel_csv(out_data_long, paste0("../data/", "faostatghg_", thisYear, thisMonth, ".csv"))
+# saving as csv
+readr::write_excel_csv(out_data_long %>% filter(sector == "yes", gas == "Total") %>% select(ISO3, Area, Item, Year, tCO2eq), paste0("../data/", "faostatghg_charted.csv"))
 # readr::write_excel_csv(out_data_long %>% filter(sector == "yes"), paste0("../data/", "faostatghg_sector_", thisYear, thisMonth, ".csv"))
 
 ##split into multiple csv
@@ -97,6 +97,8 @@ for (iso3 in unique(out_data_long$ISO3)){
   
   readr::write_excel_csv(thisData, paste0("../data/faostat_ghg_by_country/", iso3, "_faostatghg.csv"))
 }
+
+
 
 
 

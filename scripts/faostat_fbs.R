@@ -38,7 +38,7 @@ tmp_fbs <- read.csv(file.path(tmp_folder, "FoodBalanceSheets_E_All_Data_NOFLAG.c
 ## production + imports - Δstocks = exports + food + food processing + feed + seed + tourist consumption + industrial use + loss + residual use
 balance_vars <- c("Production", "Import quantity", "Stock Variation", "Export quantity", "Food", "Processing", "Feed", "Seed", "Tourist consumption", "Other uses (non-food)", "Losses", "Residuals")
 ## per capita supply per day
-percap_supply <- c("Food supply (kcal/capita/day)", "Protein supply quantity (g/capita/day)", "Fat supply quantity (g/capita/day)")
+percap_supply <- c("Food supply (kcal/capita/day)", "Food supply quantity (kg/capita/yr)", "Protein supply quantity (g/capita/day)", "Fat supply quantity (g/capita/day)")
 keyVars <- c(balance_vars, percap_supply)
 tmp_keyVars <- tmp_fbs %>% filter(Element %in% keyVars)
 

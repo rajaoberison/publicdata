@@ -9,6 +9,7 @@
 #' Output format: ISO3, INFORM RISK, RISK CLASS, Rank, HAZARD & EXPOSURE, VULNERABILITY, LACK OF COPING CAPACITY
 #' @source: \url{https://github.com/rajaoberison/publicdata}
 library(dplyr)
+setwd(Sys.getenv("R_PUBLICDATA"))
 
 thisYear <- format(Sys.Date(), "%Y")
 thisMonth <- format(Sys.Date(), "%m")
@@ -28,5 +29,5 @@ tmp_data <- tmp_data[-1,]
 # final data
 out_data <- tmp_data %>% select(ISO3, `INFORM RISK`, `RISK CLASS`, Rank, `HAZARD & EXPOSURE`, VULNERABILITY, `LACK OF COPING CAPACITY`)
 # saving as csv
-readr::write_excel_csv(out_data, paste0("../data/", "informrisk_", thisYear, thisMonth, ".csv"))
+readr::write_excel_csv(out_data, paste0(Sys.getenv("R_PUBLICDATA"), "/data/", "informrisk_", thisYear, thisMonth, ".csv"))
 
