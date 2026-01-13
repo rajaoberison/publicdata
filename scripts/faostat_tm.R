@@ -53,7 +53,7 @@ tmp_partners <- tmp_keyCols %>% mutate(Total = rowSums(across(Y1992:paste0("Y",m
 
 ## country trade partners
 reporter <- iso3 %>% select(m49cd, ISO3, Area)
-provider <- iso3 %>% select(m49cd, Area) %>% rename(Partner = Area)
+provider <- iso3 %>% select(m49cd, ISO3, Area) %>% rename(ISOP = ISO3, Partner = Area)
 
 ## loop by country
 for (m49 in unique(tmp_partners$`Reporter Country Code (M49)`)){
@@ -66,15 +66,16 @@ for (m49 in unique(tmp_partners$`Reporter Country Code (M49)`)){
     mutate(cpc_code0 = substr(cpc_code1, 1, 2)) %>% 
     left_join(cpc_group0, by = "cpc_code0") %>% 
     mutate(Item = case_when(cpc_name1 %in% pull(filter(cpc_group1, between(as.integer(cpc_code1), 200, 300)), cpc_name1) ~ cpc_name0, cpc_name1 %in% pull(filter(cpc_group1, between(as.integer(cpc_code1), 30, 40)), cpc_name1) ~ cpc_name1, T ~ Item)) %>% 
-    mutate(cpc_name1 = case_when(cpc_name1 %in% pull(filter(cpc_group1, as.integer(cpc_code1) < 30), cpc_name1) ~ cpc_name1, T ~ Item)) %>% 
-    group_by(`Reporter Country Code (M49)`, `Partner Country Code (M49)`, Item, cpc_name1, Element, Unit, Year) %>% 
+    mutate(cpc_name1 = case_when(cpc_name1 %in% pull(filter(cpc_group1, as.integer(cpc_code1) < 30), cpc_name1) ~ cpc_name1, T ~ "Other groups")) %>% 
+    mutate(cpc_name1 = case_when(grepl("Forage products; fibre crops; plants used in", cpc_name1, fixed=T) ~ "Forage, fibers, and other crops (CPC code 019)", T ~ cpc_name1)) %>% 
+    group_by(`Reporter Country Code (M49)`, `Partner Country Code (M49)`, cpc_name1, Item, Element, Unit, Year) %>% 
     summarise(value = sum(value, na.rm=T), .groups = "drop")
   ## get top partners
   ## pct>5% 
-  tmp_top <- tmp_long %>% group_by(`Reporter Country Code (M49)`, Item, cpc_name1, Element, Unit, Year) %>% mutate(pct = value*100/sum(value, na.rm = T)) %>% ungroup() %>% filter(pct >= 5) %>% select(-pct)
+  tmp_top <- tmp_long %>% group_by(`Reporter Country Code (M49)`, cpc_name1, Item, Element, Unit, Year) %>% mutate(pct = value*100/sum(value, na.rm = T)) %>% ungroup() %>% filter(pct >= 5) %>% select(-pct)
   
   # clean data
-  out_data <- tmp_top %>% left_join(reporter, by = c("Reporter Country Code (M49)" = "m49cd")) %>% relocate(ISO3) %>% filter(!is.na(Area)) %>% left_join(provider, by = c("Partner Country Code (M49)" = "m49cd")) %>% filter(!is.na(Partner)) %>% select(ISO3, Area, Partner, cpc_name1, Item, Element, Unit, Year, value)
+  out_data <- tmp_top %>% left_join(reporter, by = c("Reporter Country Code (M49)" = "m49cd")) %>% relocate(ISO3) %>% filter(!is.na(Area)) %>% left_join(provider, by = c("Partner Country Code (M49)" = "m49cd")) %>% filter(!is.na(Partner)) %>% select(ISO3, Area, ISOP, Partner, cpc_name1, Item, Element, Unit, Year, value)
   
   # saving as csv
   readr::write_excel_csv(out_data, paste0("../data/faostat_tm_by_country/", unique(out_data$ISO3), "_faostattm.csv"))
