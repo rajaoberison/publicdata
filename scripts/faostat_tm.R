@@ -19,6 +19,7 @@ thisMonth <- format(Sys.Date(), "%m")
 
 ## CPC names
 CPCv21 <- readxl::read_xlsx("../CPC_Ver_2.1_Exp_Notes_Updated_3Apr2025.xlsx", sheet = 1)
+cpc_group0 <- CPCv21 %>% filter(nchar(`CPC Ver. 2.1 Code`) == 2) %>% rename(cpc_code0 = 1, cpc_name0 = 2) %>% select(cpc_code0, cpc_name0)
 cpc_group1 <- CPCv21 %>% filter(nchar(`CPC Ver. 2.1 Code`) == 3) %>% rename(cpc_code1 = 1, cpc_name1 = 2) %>% select(cpc_code1, cpc_name1)
 cpc_group2 <- CPCv21 %>% filter(nchar(`CPC Ver. 2.1 Code`) == 4) %>% rename(cpc_code2 = 1, cpc_name2 = 2) %>% mutate(cpc_code1 = substr(cpc_code2, 1, 3)) %>% select(cpc_code1, cpc_code2, cpc_name2) %>% left_join(cpc_group1, by = "cpc_code1")
 
@@ -45,56 +46,38 @@ tmp_cpcRev <- tmp_keyVars %>% mutate(CPCrev = gsub("'", "", `Item Code (CPC)`, f
 ## find max year
 maxYear <- names(tmp_cpcRev %>% select(starts_with("Y"))) %>% gsub("Y", "", .) %>% as.integer() %>% max(na.rm=T)
 ## get cols
-tmp_keyCols <- tmp_cpcRev %>% select(`Reporter Country Code (M49)`, `Partner Country Code (M49)`, Item, cpc_name1, Element, Unit, Y1992:paste0("Y",maxYear))
-# transpose year and element
-tmp0_long <- tmp_keyCols %>% tidyr::pivot_longer(Y1992:paste0("Y",maxYear), names_to = "Year", values_to = "value") %>% mutate(Year = as.integer(gsub("Y", "", Year)))
-# fix Item names
-## remove indigenous categories
-tmp_long <- tmp0_long %>% mutate(revItem = gsub("\\s*\\([^)]*\\)", "", Item)) %>% mutate(revItem = gsub(", fresh or chilled", "", revItem)) %>% mutate(revItem = gsub(", fresh", "", revItem)) %>% mutate(revItem = gsub(", chilled or frozen", "", revItem)) %>% mutate(revItem = gsub(", dry", "", revItem)) %>% mutate(revItem = gsub(", raw", "", revItem)) %>% mutate(revItem = gsub(", green", "", revItem)) %>% mutate(revItem = gsub(", in shell", "", revItem)) %>% mutate(revItem = trimws(revItem)) %>% group_by(`Reporter Country Code (M49)`, `Partner Country Code (M49)`, revItem, cpc_name1, Element, Unit, Year) %>% summarise(value = sum(value, na.rm = T)) %>% ungroup() %>% rename(Item = revItem)
+tmp_keyCols <- tmp_cpcRev %>% select(`Reporter Country Code (M49)`, `Partner Country Code (M49)`, Item, cpc_name1, cpc_code1, Element, Unit, Y1992:paste0("Y",maxYear))
 
-# clean data
+## remove non-partners
+tmp_partners <- tmp_keyCols %>% mutate(Total = rowSums(across(Y1992:paste0("Y",maxYear)), na.rm=T)) %>% filter(Total>0) %>% select(-Total)
+
+## country trade partners
 reporter <- iso3 %>% select(m49cd, ISO3, Area)
 provider <- iso3 %>% select(m49cd, Area) %>% rename(Partner = Area)
 
-out_data0 <- tmp_long %>% left_join(reporter, by = c("Reporter Country Code (M49)" = "m49cd")) %>% relocate(ISO3) %>% filter(!is.na(Area)) %>% left_join(provider, by = c("Partner Country Code (M49)" = "m49cd")) %>% filter(!is.na(Partner)) %>% select(ISO3, Area, Partner, cpc_name1, Item, Element, Unit, Year, value) %>% mutate(grouped = "no")
-## get grouped stats
-out_data_grouped <- out_data0 %>% group_by(ISO3, Area, Partner, cpc_name1, Element, Unit, Year) %>% summarise(value = sum(value, na.rm=T)) %>% ungroup() %>% mutate(Item = NA, grouped = "yes")
-
-## final data
-out_data <- bind_rows(out_data_grouped, out_data0)
-
-# # saving as csv
-# readr::write_excel_csv(out_data_grouped, paste0("../data/", "faostatqv_grouped_", thisYear, thisMonth, ".csv"))
-
-##split into multiple csv
-for (iso3 in unique(out_data_grouped$ISO3)){
-  thisData <- out_data %>% filter(ISO3 == iso3 | Area == "World")
-  thisUnReg <- thisData %>% filter(!is.na(`UN Region`)) %>% pull(`UN Region`) %>% unique()
-  thisEbrdReg <- thisData %>% filter(!is.na(`EBRD Region`)) %>% pull(`EBRD Region`) %>% unique()
+## loop by country
+for (m49 in unique(tmp_partners$`Reporter Country Code (M49)`)){
+  # transpose year and element
+  tmp0_long <- tmp_partners %>% filter(`Reporter Country Code (M49)` == m49) %>% tidyr::pivot_longer(Y1992:paste0("Y",maxYear), names_to = "Year", values_to = "value") %>% mutate(Year = as.integer(gsub("Y", "", Year)))
+  ## get only agriculture and food products
+  tmp1_long <- tmp0_long %>% filter(cpc_name1 %in% c(pull(filter(cpc_group1, as.integer(cpc_code1) < 50), cpc_name1), pull(filter(cpc_group1, between(as.integer(cpc_code1), 200, 300)), cpc_name1)))
+  ## group stats for non-primary products
+  tmp_long <- tmp1_long %>% 
+    mutate(cpc_code0 = substr(cpc_code1, 1, 2)) %>% 
+    left_join(cpc_group0, by = "cpc_code0") %>% 
+    mutate(Item = case_when(cpc_name1 %in% pull(filter(cpc_group1, between(as.integer(cpc_code1), 200, 300)), cpc_name1) ~ cpc_name0, cpc_name1 %in% pull(filter(cpc_group1, between(as.integer(cpc_code1), 30, 40)), cpc_name1) ~ cpc_name1, T ~ Item)) %>% 
+    mutate(cpc_name1 = case_when(cpc_name1 %in% pull(filter(cpc_group1, as.integer(cpc_code1) < 30), cpc_name1) ~ cpc_name1, T ~ Item)) %>% 
+    group_by(`Reporter Country Code (M49)`, `Partner Country Code (M49)`, Item, cpc_name1, Element, Unit, Year) %>% 
+    summarise(value = sum(value, na.rm=T), .groups = "drop")
+  ## get top partners
+  ## pct>5% 
+  tmp_top <- tmp_long %>% group_by(`Reporter Country Code (M49)`, Item, cpc_name1, Element, Unit, Year) %>% mutate(pct = value*100/sum(value, na.rm = T)) %>% ungroup() %>% filter(pct >= 5) %>% select(-pct)
   
-  if(length(thisUnReg) > 0){
-    thisUnRegAvg <- out_data %>% filter(is.na(Area), `UN Region` == thisUnReg)
-    thisData <- thisData %>% bind_rows(thisUnRegAvg)
-  }
+  # clean data
+  out_data <- tmp_top %>% left_join(reporter, by = c("Reporter Country Code (M49)" = "m49cd")) %>% relocate(ISO3) %>% filter(!is.na(Area)) %>% left_join(provider, by = c("Partner Country Code (M49)" = "m49cd")) %>% filter(!is.na(Partner)) %>% select(ISO3, Area, Partner, cpc_name1, Item, Element, Unit, Year, value)
   
-  if(length(thisEbrdReg) > 0){
-    thisEbrdRegAvg <- out_data %>% filter(is.na(Area), `EBRD Region` == thisEbrdReg)
-    thisData <- thisData %>% bind_rows(thisEbrdRegAvg)
-  }
-  
-  readr::write_excel_csv(thisData, paste0("../data/faostat_tm_by_country/", iso3, "_faostattm.csv"))
+  # saving as csv
+  readr::write_excel_csv(out_data, paste0("../data/faostat_tm_by_country/", unique(out_data$ISO3), "_faostattm.csv"))
 }
-
-
-
-
-### EBRD analysis
-ebrd_countries <- read.csv("../EBRD_countries.csv", check.names = F)
-# ebrdOp <- ebrd_countries %>% filter(OPERATION == 1)
-# ebrdRegions <- ebrd_countries %>% left_join(cty_code %>% select(`ISO-alpha3 Code`, `Country or Area`, `Sub-region Name`), by = c("ISO3"="ISO-alpha3 Code"))
-# readr::write_excel_csv(ebrdRegions, "../EBRD_countries.csv")
-
-# stats for the region
-ebrdQv <- out_data %>% filter(ISO3 %in% ebrd_countries$ISO3, Year %in% 2014:2023)
 
 
